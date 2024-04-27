@@ -1,0 +1,39 @@
+
+{
+	//https://www.trjyy.com/index.php/vod/type/id/2.html
+	"homeUrl": "https://www.trjyy.com/index.php/vod/type/id/{cateId}{catePg}.html",
+	"cateManual": {
+		"国产剧": "14",
+		"韩剧": "15",
+		"电视剧": "2",
+		"电影": "1",
+		"动漫": "4",
+		"综艺": "3"
+	}, 
+	"list":{
+		//"1": "https://www.trjyy.com/index.php/vod/type/id/2.html"
+		"1": "https://www.trjyy.com/index.php/vod/type/id/{cateId}.html",
+		//"url": "https://www.trjyy.com/index.php/vod/show/area/大陆/by/hits/class/剧情/id/14/lang/国语/year/2024.html", 
+		"url": "https://www.trjyy.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/lang/{lang}/year/{year}.html",		
+		//region include all list
+		"region":["<ul class=\"vodlist vodlist_wi", "</ul>"],
+ 		"vod_id": ["href=\"", "\"",0,0,3],
+		"vod_name": ["title=\"", "\""],
+		"vod_pic":["data-original=\"", "\""],
+		"vod_remarks":["<span class=\"pic_text text_right\">","</span>"]		
+	},
+	"detail":{
+		"url": "https://trjyy.com/{vid}",
+		"vod_director":["导演: ", "</p>", 0, 0, 3]
+	},
+	"playlist":{
+		"region":["player_list", "down_list"],
+		"vod_play_url": ["href=\"/", "\"",-1,0,3]
+	}, 
+	"search":{
+		"url": "https://trjyy.com/search.php?searchword={wd}", 
+		//"region":["搜索列表", "点击排行"],
+		"vod_id": ["data-href=\"", "\"", 0, 0, 1]
+	
+	}
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "明星",
+        "url": "http://winniec.asuscomm.com/iptv/js/明星.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "央视卫视",
+        "url": "https://live.fanmingming.com/tv/m3u/global.m3u&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "超级MV",
+        "url": "https://my9.ltd/tv/txt/mv.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+	{
+        "name": "多多影音",
+        "url": "https://agit.ai/leevi/duo/raw/branch/master/v.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+	{
+        "name": "俊于直播",
+        "url": "http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.caonm.net/api/mc/"
+    },
+	{
+        "name": "LMLMI TV",
+        "url": "https://github.com/lmlmi/gooo/raw/main/TV/live.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+	{
+        "name": "肥猫直播",
+        "url": "http://我不是.肥猫.love:63/TV/tvzb.txt&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"
+    },
+	{
+        "name": "道长直播",
+        "url": "http://111.67.196.181/zhibo.txt&&&https://z1.ax1x.com/2023/10/14/pipTgxg.jpg"
+    },
+	{
+        "name": "Ray0直播",
+        "url": "https://xhdwc.tk/tvlive.txt&&&https://s1.ax1x.com/2023/06/08/pCkdDKg.jpg"
+    },
+	{
+        "name": "月光直播",
+        "url": "http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0&&&https://s1.ax1x.com/2023/06/08/pCkdrrQ.png"
+    }
+]

@@ -5,6 +5,8 @@
 
 {"urls": [
 
+{"name":"🐯自定GHfav","url":"https://raw.githubusercontent.com/s14685/tv/main/fav.json"},
+{"name":"🐯自定GHtb","url":"https://raw.githubusercontent.com/s14685/tv/main/tb.json"},
 {"name":"🐯自定net","url":"http://williamc.ddns.net/iptv/net.json"},
 {"name":"🐯自定fav","url":"http://winniec.asuscomm.com/iptv/fav.json"},
 {"name":"🐯自定tb","url":"http://winniec.asuscomm.com/iptv/tb.json"},

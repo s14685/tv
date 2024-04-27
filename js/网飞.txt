@@ -1,0 +1,200 @@
+//网飞
+//https://www.wangfei.tv/vodshow/area/中国/by/hits/class/爱情/id/guochanju/lang/普通话/year/2024.html
+
+<div class="module-item">
+	<a href="/detail/113211.html" class="v-item">
+		<div class="v-item-main">
+			<div class="v-item-cover">
+				<img class="lazy lazyload" alt="与凤行" title="与凤行" referrerpolicy="no-referrer" 
+				src="https://vres.a357899.cn/vod1/vod/cover/20230509/16/37/20/b8d2f656e59be7f34827cf9e46475738.jpg" style="">
+				</div>
+				<div class="v-item-top">
+					<div class="v-item-top-left"></div>
+					<div class="v-item-top-right"></div>
+				</div>
+				<div class="v-item-bottom">
+					<span>
+                        第39集完结
+                    </span>
+				</div>
+			</div>
+			<div class="v-item-footer">
+				<div class="v-item-title-hidden v-item-title">𝐤𝐞𝐤𝐲𝐬.𝐜𝐨𝐦福利电影</div>
+				<div class="v-item-title">与凤行</div>
+			</div>
+		</a>
+	</div>
+	
+	//
+
+<div class="module-tab">
+	<label class="module-tab-name">
+		<span id="y-first-name" class="module-tab-value">新自建.5</span>
+		<i class="icon-arrow"></i>
+	</label>
+	<div class="module-tab-items">
+		<div class="module-tab-title">选择播放源
+			<span class="close-drop">
+				<i class="icon-close"></i>
+			</span>
+		</div>
+		<div class="module-tab-items-box hisSwiper" id="y-playList">
+			<div class="module-tab-item tab-item active" data-dropdown-value="新自建.5">
+				<span>新自建.5</span>
+				<small>6</small>
+			</div>
+			<div class="module-tab-item tab-item" data-dropdown-value="优酷视频">
+				<span>优酷视频</span>
+				<small>12</small>
+			</div>
+			<div class="module-tab-item tab-item" data-dropdown-value="非凡资源">
+				<span>非凡资源</span>
+				<small>12</small>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<video id="my-player_html5_api" class="vjs-tech" muted="muted" preload="true" tabindex="-1" role="application" autoplay="" src="blob:https://tvbox.im/86181d62-5bbb-4e30-a08e-e7672277615b">
+<source src="https://leshiyuncdn.36s.top/20240402/Wf2lxO1A/index.m3u8" type="application/x-mpegURL" label="線路1">
+<source src="https://m3u.haiwaikan.com/xm3u8/d98758d78c5853f71ec9a0da415660c378cabe25e779502a486f49fac1f3b3df9921f11e97d0da21.m3u8" type="application/x-mpegURL" label="線路2">
+<source src="https://v10.qqtvoss.com/202404/02/51eMrRB4dR3/video/index.m3u8" type="application/x-mpegURL" label="線路3">
+<source src="https://vip.kuaikan-cdn4.com/20240402/6Lx9kNSm/index.m3u8" type="application/x-mpegURL" label="線路4">
+<source src="https://vod6.bdzybf7.com/20240402/GesOa1Y1/index.m3u8" type="application/x-mpegURL" label="線路5">
+<source src="https://leshiyuncdn.36s.top/20240402/Wf2lxO1A/index.m3u8" type="application/x-mpegURL" label="線路6">
+<source src="https://v.cdnlz2.com/20240402/29286_8dc63b6e/index.m3u8" type="application/x-mpegURL" label="線路7">
+<source src="https://cdn.wlcdn99.com:777/686558de/index.m3u8" type="application/x-mpegURL" label="線路8">
+<source src="https://v.gsuus.com/play/xe7rEmGd/index.m3u8" type="application/x-mpegURL" label="線路9">
+<source src="https://s5.bfengbf.com/video/nanxun/第01集/index.m3u8" type="application/x-mpegURL" label="線路10">
+<source src="https://v10.youkuoss.com/202404/02/nzZ4sXUzxF2/video/index.m3u8" type="application/x-mpegURL" label="線路11">
+<source src="https://top.letvoss.com/202404/02/BBR2VR2fUr3/video/index.m3u8" type="application/x-mpegURL" label="線路12">
+<source src="https://sod12.xmyysw.com/20240402/BBR2VR2fUr3/index.m3u8" type="application/x-mpegURL" label="線路13">
+<source src="https://s10.fsvod1.com/20240402/T8woAMAT/index.m3u8" type="application/x-mpegURL" label="線路14">
+<source src="https://v10.dious.cc/20240402/jZSD6L69/index.m3u8" type="application/x-mpegURL" label="線路15">
+<source src="https://svipsvip.ffzy-online5.com/20240402/25578_0fb34c6e/index.m3u8" type="application/x-mpegURL" label="線路16">
+<source src="https://c3.monidai.com/20240402/Smsy090m/index.m3u8" type="application/x-mpegURL" label="線路17">
+<source src="https://play.hhuus.com/play/Xe0kwNGd/index.m3u8" type="application/x-mpegURL" label="線路18">
+																		</video>
+																		
+																		
+																		
+<div class="library-list">
+	<a class="library-item selected" href="/vodshow/id/guochanju.html">国产剧</a>
+	<a class="library-item" href="/vodshow/id/xianggangju.html">香港剧</a>
+	<a class="library-item" href="/vodshow/id/taiwanju.html">台湾剧</a>
+	<a class="library-item" href="/vodshow/id/oumeiju.html">欧美剧</a>
+	<a class="library-item" href="/vodshow/id/ribenju.html">日本剧</a>
+	<a class="library-item" href="/vodshow/id/hanguoju.html">韩国剧</a>
+	<a class="library-item" href="/vodshow/id/dongnanya.html">东南亚</a>
+	<a class="library-item" href="/vodshow/id/qitaju.html">其他剧</a>
+</div>
+
+<div class="module-item-douban">奈飞:6.0分</div>
+
+<div class="module-info-tag-link"><a title="6.0">6.0分</a></div>
+
+
+<div class="module-item">
+	<div class="module-item-cover">
+		<div class="module-item-pic">
+			<a href="https://www.naifei.io/voddetail/422650.html" title="与凤行"></a>
+			<img class="lazy lazyloaded" data-src="https://www.niandai.org/upload/vod/20240317-1/24b12b57108ca15b986af1ae4542d306.jpg" 
+			src="https://www.niandai.org/upload/vod/20240317-1/24b12b57108ca15b986af1ae4542d306.jpg" alt="与凤行">
+				<div class="loading"></div>
+			</div>
+		</div>
+		<div class="module-item-titlebox">
+			<a href="https://www.naifei.io/voddetail/422650.html" class="module-item-title" title="与凤行">与凤行</a>
+		</div>
+		<div class="module-item-text">第39集完结</div>
+	</div>
+
+<div class="module-tab-content">
+	<div class="module-tab-item tab-item selected" data-dropdown-value="LZ线路">
+		<span>LZ线路</span>
+		<small>39</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="GQ线路">
+		<span>GQ线路</span>
+		<small>39</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="SO线路">
+		<span>SO线路</span>
+		<small>42</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="FM线路">
+		<span>FM线路</span>
+		<small>39</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="iK线路">
+		<span>iK线路</span>
+		<small>40</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="LS线路">
+		<span>LS线路</span>
+		<small>40</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="FS线路">
+		<span>FS线路</span>
+		<small>39</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="SN线路">
+		<span>SN线路</span>
+		<small>39</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="BF线路">
+		<span>BF线路</span>
+		<small>39</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="KK线路">
+		<span>KK线路</span>
+		<small>39</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="WL线路">
+		<span>WL线路</span>
+		<small>40</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="UK线路">
+		<span>UK线路</span>
+		<small>48</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="SD线路">
+		<span>SD线路</span>
+		<small>39</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="WJ线路">
+		<span>WJ线路</span>
+		<small>39</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="TK线路">
+		<span>TK线路</span>
+		<small>39</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="HN线路">
+		<span>HN线路</span>
+		<small>42</small>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

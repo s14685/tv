@@ -1,0 +1,27 @@
+//电影牛 
+//https://www.dianyingnn.com/vodshow/guochanju-内地-hits---------2023.html
+//https://www.dianyingnn.com/vodshow/guochanju-内地-hits---------2023.html
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2">
+	<a class="fed-list-pics fed-lazy fed-part-2by3" href="/voddetail/345315.html" 
+	data-original="https://snzypic.com/upload/vod/20240418-1/37e44f5815ab7f642f21cbf1c88cddd7.jpg" style="display: block; background-image: 
+	url(&quot;https://snzypic.com/upload/vod/20240418-1/37e44f5815ab7f642f21cbf1c88cddd7.jpg&quot;);">
+		<span class="fed-list-play fed-hide-xs"></span>
+		<span class="fed-list-score fed-font-xii fed-back-green">电影牛评分4.0</span>
+		<span class="fed-list-remarks fed-font-xii fed-text-white fed-text-center">更新至10集</span>
+	</a>
+	<a class="fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone" href="/voddetail/345315.html">妙绝好姻缘</a>
+	<span class="fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block">刘思辰,王庭旭,都钊,岳冬峰,井璐,伊拉,吕林</span>
+</li>
+//

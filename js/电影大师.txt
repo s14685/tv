@@ -1,0 +1,103 @@
+//电影大师
+
+<div class="stui-vodlist__box">
+	<a class="stui-vodlist__thumb lazyload" href="/index.php/vod/detail/id/601574.html" title="人民的名义" 
+	data-original="https://pic1.imgyzzy.com/upload/vod/2022-03-24/164809643819.jpg" style="background-image: url(&quot;https://pic1.imgyzzy.com/upload/vod/2022-03-24/164809643819.jpg&quot;);">						
+		<span class="play hidden-xs"></span>	
+		<span class="pic-text1 text-right"><b>电视剧</b></span>
+		<span class="pic-text text-right"><b>全52集</b></span>
+	</a>									
+	<div class="stui-vodlist__detail">
+		<h4 class="title text-overflow"><a href="/index.php/vod/detail/id/601574.html" title="人民的名义">人民的名义</a></h4>
+		<p class="text text-overflow text-muted hidden-xs">陆毅,柯蓝,张丰毅,吴刚,许亚军,张志坚,胡静,张凯丽,高亚麟,白志迪,李建义,冯雷,李光复,赵子琪,丁海峰,张晞临,岳秀清,翟万臣,许文广,侯勇,黄品沅,王丽云,陶慧敏,徐光宇,黄俊鹏,李威,阚犇犇,唐菀,纪帅,李昕岳,黄薇,高英,赵龙豪,施大生,卞涛,何达,侯天来,沈晓海,郝光,孙宁,李学政,徐小恪,王海平,滕爱弦,方晓莉,李飞,于诚群,石强,王晞,何昕霖,欧阳培龙,刘若谷,杨嘉华,曹杨,张艺丹,李路,宗晶,赵雄,史政涵,王建兵,亚飞,贾米娜,张世民,潘兴源,赵文春,包云飞,陈果,马丹旎,张萍,胡世群</p>
+	</div>												
+</div>
+
+<div class="stui-content__detail">
+	<h1 class="title wdetail">我叫徐云龙之东山再起</h1>
+	<p class="data hidden-xs">类型：国产剧,剧情,短片,国产,内地剧,大陆剧,电视剧 / 地区：大陆 / 年份：2024</p>
+	<p class="data">状态：已完结</p>
+	<p class="data visible-xs">地区：大陆</p>
+	<p class="data visible-xs">语言：国语</p>
+	<p class="data visible-xs">年份：2024</p>
+	<p class="data">导演：
+		<a href="/index.php/vod/search/director/%E5%B9%B4%E5%89%91%E4%BC%A6.html" target="_blank">年剑伦</a>&nbsp;
+	</p>
+	<p class="data">主演：
+		<a href="/index.php/vod/search/actor/%E8%A2%81%E7%A6%8F%E7%A6%8F.html" target="_blank">袁福福</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E5%AD%99%E5%81%A5%E6%B7%87.html" target="_blank">孙健淇</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E7%8E%8B%E5%87%AF%E6%B2%90.html" target="_blank">王凯沐</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E8%AE%B8%E7%BF%94.html" target="_blank">许翔</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E5%AD%99%E6%A0%8E%E6%B6%B5.html" target="_blank">孙栎涵</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E8%B5%B5%E5%AE%89%E7%AC%AC.html" target="_blank">赵安第</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E5%88%98%E5%AE%B9%E6%A6%95.html" target="_blank">刘容榕</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E6%9D%8E%E6%9F%8F%E8%93%89.html" target="_blank">李柏蓉</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E8%8C%83%E8%BF%AA%E7%A6%B9.html" target="_blank">范迪禹</a>&nbsp;
+	</p>
+	<p class="data hidden-xs">更新：2024-04-11</p>
+	<p class="desc detail">
+		<span class="left">简介：</span>
+		<span class="detail-sketch">　　商业奇才徐云龙在集团内备受爱戴，引得集团家族继承者张峰忌恨不已———为了顺利接班大位，张峰利诱徐</span>
+		<span class="detail-content" style="display: none;">　　商业奇才徐云龙在集团内备受爱戴，引得集团家族继承者张峰忌恨不已———为了顺利接班大位，张峰利诱徐云龙爱妻背叛丈夫，与自己联手设局令对方身败名裂、受尽百般折磨后被抛“尸”江底…然而天道昭彰，徐云龙竟侥幸逃生，从此化名“吴二苟”，以面馆丐婿的身份白手起家；他一路商海开挂逆袭，誓要打败张峰，东山再起！</span>
+		<a class="detail-more" href="javascript:;">详情 
+			<i class="icon iconfont icon-moreunfold"></i>
+		</a>
+	</p>
+</div>
+
+//
+<ul class="nav nav-tabs  dpplay pull-right">
+	<li class="active">
+		<a href="#playlist5" data-toggle="tab">jy线路</a>
+	</li>
+	<li>
+		<a href="#playlist8" data-toggle="tab">hh线路</a>
+	</li>
+	<li>
+		<a href="#playlist12" data-toggle="tab">tp线路</a>
+	</li>
+	<li>
+		<a href="#playlist10" data-toggle="tab">ikun线路</a>
+	</li>
+	<li>
+		<a href="#playlist13" data-toggle="tab">yz线路</a>
+	</li>
+	<li>
+		<a href="#playlist9" data-toggle="tab">sb线路</a>
+	</li>
+	<li>
+		<a href="#playlist2" data-toggle="tab">sn线路</a>
+	</li>
+	<li>
+		<a href="#playlist3" data-toggle="tab">wj线路</a>
+	</li>
+	<li>
+		<a href="#playlist4" data-toggle="tab">49线路</a>
+	</li>
+	<li>
+		<a href="#playlist7" data-toggle="tab">hn线路</a>
+	</li>
+	<li>
+		<a href="#playlist1" data-toggle="tab">uk线路</a>
+	</li>
+	<li>
+		<a href="#playlist11" data-toggle="tab">sd线路</a>
+	</li>
+	<li>
+		<a href="#playlist6" data-toggle="tab">xl线路</a>
+	</li>
+</ul>
+//
+
+
+
+
+
+
+
+
+
+
+
+
+

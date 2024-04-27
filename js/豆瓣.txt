@@ -1,0 +1,284 @@
+
+//豆瓣
+<li>
+	<a href="https://www.douban.com/doubanapp/dispatch?uri=/tv/35564470" target="_blank">
+		<div class="drc-subject-card tv">
+			<div class="drc-cover drc-subject-card-cover">
+				<div class="drc-cover-container" style="padding-top: 140%; background: url(&quot;https://img1.doubanio.com/img/files/file-1611631887.png&quot;) center center / cover no-repeat; position: relative;">
+					<img class="drc-cover-pic" src="https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2905668771.jpg" alt="cover" style="position: absolute; width: 100%; height: 100%; inset: 0px; display: block; object-fit: cover;">
+					</div>
+				</div>
+				<div class="drc-subject-card-main">
+					<div class="drc-subject-info">
+						<div class="drc-subject-info-title">
+							<span class="drc-subject-info-title-text">与凤行</span>
+							<div class="drc-subject-info-subtitle">2024 / 中国大陆 / 剧情 爱情 奇幻 古装 / 邓科 / 赵丽颖 林更新</div>
+						</div>
+						<div class="drc-rating drc-subject-info-rating m no-rating">
+							<span class="drc-rating-stars drc-subject-info-rating-stars m" data-rating="0.0">
+								<span class="drc-rating-stars-item drc-rating-stars-item-gray m"></span>
+								<span class="drc-rating-stars-item drc-rating-stars-item-gray m"></span>
+								<span class="drc-rating-stars-item drc-rating-stars-item-gray m"></span>
+								<span class="drc-rating-stars-item drc-rating-stars-item-gray m"></span>
+								<span class="drc-rating-stars-item drc-rating-stars-item-gray m"></span>
+							</span>
+							<span class="drc-rating-num">暂无评分</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</a>
+	</li>
+	
+
+<div id="info">
+	<span>
+		<span class="pl">导演</span>: 
+		<span class="attrs">
+			<a href="/celebrity/1424517/" rel="v:directedBy">姚文逸</a> / 
+			<a href="/celebrity/1268472/" rel="v:directedBy">王天尉</a>
+		</span>
+	</span>
+	<br>
+		<span>
+			<span class="pl">编剧</span>: 
+			<span class="attrs">
+				<a href="/celebrity/1274763/">陈思诚</a>
+			</span>
+		</span>
+		<br>
+			<span class="actor">
+				<span class="pl">主演</span>: 
+				<span class="attrs">
+					<span>
+						<a href="/celebrity/1266497/" rel="v:starring">邱泽</a> / 
+					</span>
+					<span>
+						<a href="/celebrity/1351584/" rel="v:starring">尚语贤</a> / 
+					</span>
+					<span>
+						<a href="/celebrity/1275050/" rel="v:starring">杨谨华</a> / 
+					</span>
+					<span>
+						<a href="/celebrity/1033223/" rel="v:starring">钟镇涛</a> / 
+					</span>
+					<span>
+						<a href="/celebrity/1317315/" rel="v:starring">俞灏明</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1363975/" rel="v:starring">张艺上</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1027481/" rel="v:starring">熊黛林</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1162012/" rel="v:starring">翁虹</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1369977/" rel="v:starring">邓恩熙</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1352321/" rel="v:starring">荣梓杉</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1274388/" rel="v:starring">王宝强</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1336305/" rel="v:starring">刘昊然</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1274979/" rel="v:starring">肖央</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1257882/" rel="v:starring">张钧甯</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1004643/" rel="v:starring">托尼·贾</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1006852/" rel="v:starring">杜德伟</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1118269/" rel="v:starring">吕颂贤</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1122837/" rel="v:starring">连凯</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1327671/" rel="v:starring">马浴柯</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1275152/" rel="v:starring">周楚濋</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1323159/" rel="v:starring">傅隽</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1327277/" rel="v:starring">楼学贤</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1419821/" rel="v:starring">王乙</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1437181/" rel="v:starring">易天雄</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1415884/" rel="v:starring">鹤男</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1006142/" rel="v:starring">恬妞</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1506888/" rel="v:starring">徐东</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1407772/" rel="v:starring">孟芷旭</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1315541/" rel="v:starring">赵永洪</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1371769/" rel="v:starring">何昕霖</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1313488/" rel="v:starring">张世</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1456809/" rel="v:starring">李星瑶</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1365862/" rel="v:starring">闵健</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1366550/" rel="v:starring">王以纶</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1438661/" rel="v:starring">饶雪晶</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1425470/" rel="v:starring">张熙然</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1358762/" rel="v:starring">孙伊涵</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1043564/" rel="v:starring">唐文龙</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1392901/" rel="v:starring">蒋昀霖</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1367976/" rel="v:starring">岳辛</a> / 
+					</span>
+					<span style="display: none;">
+						<a href="/celebrity/1045571/" rel="v:starring">尹子维</a>
+					</span>
+					<a href="javascript:;" class="more-actor" title="更多主演">更多...</a>
+				</span>
+			</span>
+			<br>
+				<span class="pl">类型:</span>
+				<span property="v:genre">悬疑</span> / 
+				<span property="v:genre">犯罪</span>
+				<br>
+					<span class="pl">制片国家/地区:</span> 中国大陆
+					<br>
+						<span class="pl">语言:</span> 汉语普通话
+						<br>
+							<span class="pl">首播:</span>
+							<span property="v:initialReleaseDate" content="2024-02-29(中国大陆)">2024-02-29(中国大陆)</span>
+							<br>
+								<span class="pl">集数:</span> 16
+								<br>
+									<span class="pl">单集片长:</span> 45分钟
+									<br>
+										<span class="pl">又名:</span> 唐人街探案 第二季 / 唐人街探案网剧2 / 唐探2 / Detective Chinatown2
+										<br>
+											<span class="pl">IMDb:</span> tt22475188
+											<br>
+											</div>
+
+
+<div id="interest_sectl">
+	<div class="rating_wrap clearbox" rel="v:rating">
+		<div class="clearfix">
+			<div class="rating_logo ll">
+                豆瓣评分
+            </div>
+			<div class="output-btn-wrap rr" style="">
+				<img src="https://img2.doubanio.com/cuphead/movie-static/pics/reference.png">
+					<a class="download-output-image" href="#">引用</a>
+				</div>
+			</div>
+			<div class="rating_self clearfix" typeof="v:Rating">
+				<strong class="ll rating_num" property="v:average">6.2</strong>
+				<span property="v:best" content="10.0"></span>
+				<div class="rating_right ">
+					<div class="ll bigstar bigstar30"></div>
+					<div class="rating_sum">
+						<a href="comments" class="rating_people">
+							<span property="v:votes">56474</span>人评价
+                
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="ratings-on-weight">
+				<div class="item">
+					<span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+					<div class="power" style="width:13px"></div>
+					<span class="rating_per">9.4%</span>
+					<br>
+					</div>
+					<div class="item">
+						<span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+						<div class="power" style="width:28px"></div>
+						<span class="rating_per">20.3%</span>
+						<br>
+						</div>
+						<div class="item">
+							<span class="stars3 starstop" title="还行">
+            3星
+        </span>
+							<div class="power" style="width:64px"></div>
+							<span class="rating_per">46.0%</span>
+							<br>
+							</div>
+							<div class="item">
+								<span class="stars2 starstop" title="较差">
+            2星
+        </span>
+								<div class="power" style="width:27px"></div>
+								<span class="rating_per">19.6%</span>
+								<br>
+								</div>
+								<div class="item">
+									<span class="stars1 starstop" title="很差">
+            1星
+        </span>
+									<div class="power" style="width:6px"></div>
+									<span class="rating_per">4.8%</span>
+									<br>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

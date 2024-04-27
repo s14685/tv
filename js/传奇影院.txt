@@ -1,0 +1,13 @@
+//传奇影院
+
+<li class="col-md-12 text">
+	<span class="hidden-xs">主演：</span>
+	<a href="/search/%E8%B5%B5%E5%BF%97%E4%BC%9F.html" target="_blank">赵志伟</a>
+	<a href="/search/%E5%8D%A2%E6%B4%8B%E6%B4%8B.html" target="_blank">卢洋洋</a>
+	<a href="/mingxing/changbin/" target="_blank">常斌</a>
+	<a href="/search/%E5%80%AA%E7%BE%8E%E8%AF%97.html" target="_blank">倪美诗</a>
+	<a href="/mingxing/hubowen/" target="_blank">胡博文</a>
+	<a href="/mingxing/zhanglanyi/" target="_blank">张蓝艺</a>
+</li>
+
+

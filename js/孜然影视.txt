@@ -1,0 +1,186 @@
+//孜然影视
+//https://zrys1.top/index.php/vod/show/id/13/area/内地/by/hits/lang/国语/year/2024.html
+//[线路①>>非凡#线路②>>量子#线路③>>爱坤#线路④>>优质#线路⑤>>暴风#]
+
+量子lz>v.cdnlz2.com
+非凡ff>svipsvip.ffzy.online5.com
+快云ky>vip.kuaiyun4-cdn.com
+海外看hwk>m3u.haiwaikan.com
+乐视ls>leshiyuncdn.36s.top
+天空tk>v10.dious.cc
+卧龙wl>cdn.wlcdn99.com
+飞速fs>s10.fsvod1.com 
+优质yz>hdzy.play-cdn23.com
+优质yz>yzzy.play-cdn21.com
+优质yz>1080zyk.com
+爱坤ik>ikcdn01.ikzybf.com 
+闪电sd>v10.fentvoss.com v10.youkuoss.com 
+快看kk>vip.kuaikan-cdn4.com
+暴风bf>s5.bfengbf.com
+豪华hh>play.hhuus.com
+
+百度bd>vod6.bdzybf7.com
+光速gs>v.gsuus.com
+樱花yh>sod12.xmyysw.com
+八戒bj>c3.monidai.com
+速播sb>vod.subokk.com
+索尼sn>v11.sunpalaceshotel.com v10.qqtvoss.com
+U酷uk>ukzy.ukubf4.com 
+无尽wj>v8.kuaioss.com
+红牛hn>hnzy.bfvvs.com 
+新浪xl>bf.xluuss.com
+快车kc>vod2.pptvoss.com
+极速js>v.jisubf.com top.letvoss.com
+金鹰jy>hd.ijycnd.com
+虎牙hy>1080p.huyall.com
+最大zd>v4.mstopq.com
+奇虎qh>cdn1.qihubf.com
+49>vip4.49zyvideoplayurl.com
+淘片tp>sd8.taopianplay1.com
+鱼乐>y2.ylbf1.com
+v10.iqiyioss.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="module-tab-items-box hisSwiper" id="y-playList">
+	<div class="module-tab-item tab-item active" data-dropdown-value="线路①">
+		<span>线路①</span>
+		<small>28</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="线路②">
+		<span>线路②</span>
+		<small>28</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="线路③">
+		<span>线路③</span>
+		<small>28</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="奇艺">
+		<span>奇艺</span>
+		<small>28</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="芒果">
+		<span>芒果</span>
+		<small>28</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="线路④">
+		<span>线路④</span>
+		<small>28</small>
+	</div>
+	<div class="module-tab-item tab-item" data-dropdown-value="线路⑤">
+		<span>线路⑤</span>
+		<small>28</small>
+	</div>
+</div>
+
+//
+
+
+<div class="module-info-content">
+	<div class="module-info-items">
+		<div class="module-info-item module-info-introduction">
+			<div class="module-info-introduction-content">
+				<p>1978年，20岁的辽宁兴城人彭锦西被情敌秦升举报“投机倒把”入狱，失去了上大学的资格。彭锦西出狱后自产自销做起泳裤生意，女友罗虹不离不弃，他们克服重重困难喜结连理，彭锦西成为当地第一个“万元户”。1980年代初，政策放开，远亲贾为民等人效仿彭锦西建作坊做泳装，开始与他展开价格战，彭锦西夫妇见招拆招，既巩固了本地市场，又团结了同行，彭锦西领路让“兴城泳装”走向全国。上世纪90年代，彭锦西遭遇秦升复仇和市场整改的双面夹击，跌入低谷，他依旧乐观，凭借过人的智慧，几经沉浮找到突破口，建立正规工厂和自主品牌，成功突围。之后，彭锦西夫妇带领“兴城泳装”乘风踏浪，成为全球最大的泳装生产基地，世界上每4件泳装就有1件是兴城人生产出来的。</p>
+			</div>
+		</div>
+		<div class="module-info-item">
+			<span class="module-info-item-title">导演：</span>
+			<div class="module-info-item-content">
+				<a href="/index.php/vod/search/director/%E5%BC%A0%E6%80%9D%E9%BA%9F.html" target="_blank">张思麟</a>
+				<span class="slash">/</span>
+			</div>
+		</div>
+		<div class="module-info-item">
+			<span class="module-info-item-title">编剧：</span>
+			<div class="module-info-item-content">
+				<a href="/index.php/vod/search/writer/%E5%BE%90%E6%AD%A3%E8%B6%85.html" target="_blank">徐正超</a>
+				<span class="slash">/</span>
+			</div>
+		</div>
+		<div class="module-info-item">
+			<span class="module-info-item-title">主演：</span>
+			<div class="module-info-item-content">
+				<a href="/index.php/vod/search/actor/%E4%B9%94%E6%9D%89.html" target="_blank">乔杉</a>
+				<span class="slash">/</span>
+				<a href="/index.php/vod/search/actor/%E6%9D%A8%E5%AD%90%E5%A7%97.html" target="_blank">杨子姗</a>
+				<span class="slash">/</span>
+				<a href="/index.php/vod/search/actor/%E5%88%98%E4%BD%B3.html" target="_blank">刘佳</a>
+				<span class="slash">/</span>
+				<a href="/index.php/vod/search/actor/%E5%94%90%E9%89%B4%E5%86%9B.html" target="_blank">唐鉴军</a>
+				<span class="slash">/</span>
+				<a href="/index.php/vod/search/actor/%E4%BA%8E%E6%B4%8B.html" target="_blank">于洋</a>
+				<span class="slash">/</span>
+				<a href="/index.php/vod/search/actor/%E5%BC%A0%E7%91%9E%E6%B6%B5.html" target="_blank">张瑞涵</a>
+				<span class="slash">/</span>
+				<a href="/index.php/vod/search/actor/%E9%9F%A9%E4%BA%91%E4%BA%91.html" target="_blank">韩云云</a>
+				<span class="slash">/</span>
+				<a href="/index.php/vod/search/actor/%E5%86%AF%E6%BB%A1.html" target="_blank">冯满</a>
+				<span class="slash">/</span>
+				<a href="/index.php/vod/search/actor/%E5%88%98%E7%A7%8B%E5%AE%9E.html" target="_blank">刘秋实</a>
+				<span class="slash">/</span>
+				<a href="/index.php/vod/search/actor/%E8%B4%BE%E9%87%91%E9%87%91.html" target="_blank">贾金金</a>
+				<span class="slash">/</span>
+			</div>
+		</div>
+		<div class="module-info-item">
+			<span class="module-info-item-title">上映：</span>
+			<div class="module-info-item-content">2024-03-29(中国大陆)</div>
+		</div>
+		<div class="module-info-item">
+			<span class="module-info-item-title">片长：</span>
+			<div class="module-info-item-content">每集45分钟</div>
+		</div>
+		<div class="module-info-item">
+			<span class="module-info-item-title">更新：</span>
+			<div class="module-info-item-content">2024-04-14</div>
+		</div>
+		<div class="module-info-item">
+			<span class="module-info-item-title">集数：</span>
+			<div class="module-info-item-content">更新至第28集</div>
+		</div>
+		<div class="module-info-item" style="color:#007711">
+			<span class="module-info-item-title">豆瓣：</span>
+			<a href="https://search.douban.com/movie/subject_search?search_text=乘风踏浪" target="_blank" title="到豆瓣页面查看" rel="nofollow">
+				<font color="#007711">乘风踏浪</font>
+			</a>
+		</div>
+	</div>
+	<div class="module-info-footer">
+		<div class="module-info-play">
+			<a href="/index.php/vod/play/id/46499/sid/6/nid/1.html" class="main-btn" title="立刻播放乘风踏浪">
+				<i class="icon-play"></i>立即播放
+			</a>
+			<a href="javascript:void(0);" data-type="2" data-mid="1" data-id="46499" class="mac_ulog btn-large btn-collect">
+				<i class="icon-shoucang"></i>收藏
+			</a>
+		</div>
+	</div>
+</div>
+//
+
+<div class="module-items module-poster-items-base">
+<a href="/index.php/vod/detail/id/46624.html" title="难寻" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">已完结</div>
+		<div class="module-item-pic">
+			<img class="lazy lazyload" data-original="https://www.imgikzy.com/upload/vod/20240402-9/bb1e3eb816e7e718687fa41aa0beaa75.jpg" alt="难寻" 
+referrerpolicy="no-referrer" src="https://www.imgikzy.com/upload/vod/20240402-9/bb1e3eb816e7e718687fa41aa0beaa75.jpg" style="">
+			</div>
+		</div>
+		<div class="module-poster-item-info">
+			<div class="module-poster-item-title">难寻</div>
+		</div>
+	</a>
+
+//

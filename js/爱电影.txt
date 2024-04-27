@@ -1,0 +1,246 @@
+
+//爱电影
+//https://ivdy.com/vod/show/id/2/page/1/sortType/3/sortOrder/0/type/14/class/%E5%8F%A4%E8%A3%85/area/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86/year/2024
+<div class="content-card">
+	<div class="card-img">
+		<img alt="poster" loading="lazy" decoding="async" data-nimg="fill" sizes="100vw" srcset="https://ywxohs.com/upload/vod/20231223-4/bb80958551d51ddfaf4866dc1b022188.webp 640w, https://ywxohs.com/upload/vod/20231223-4/bb80958551d51ddfaf4866dc1b022188.webp 750w, https://ywxohs.com/upload/vod/20231223-4/bb80958551d51ddfaf4866dc1b022188.webp 828w, https://ywxohs.com/upload/vod/20231223-4/bb80958551d51ddfaf4866dc1b022188.webp 1080w, https://ywxohs.com/upload/vod/20231223-4/bb80958551d51ddfaf4866dc1b022188.webp 1200w, https://ywxohs.com/upload/vod/20231223-4/bb80958551d51ddfaf4866dc1b022188.webp 1920w, https://ywxohs.com/upload/vod/20231223-4/bb80958551d51ddfaf4866dc1b022188.webp 2048w, https://ywxohs.com/upload/vod/20231223-4/bb80958551d51ddfaf4866dc1b022188.webp 3840w" src="https://ywxohs.com/upload/vod/20231223-4/bb80958551d51ddfaf4866dc1b022188.webp" style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">;<div class="bottom">
+				<div>23集全</div>
+				<div class="info">
+					<div class="hot-num">
+						<svg fill="none" height="17" viewBox="0 0 16 17" width="16" xmlns="http://www.w3.org/2000/svg">
+							<path d="M6.34095 1.35864C6.08335 2.15996 5.38195 3.59989 3.47443 5.50957C0.183705 8.80812 -0.252398 14.1219 4.80374 16.7349C5.21885 16.9493 5.56535 16.8172 5.82575 16.5524C6.68676 15.6782 7.06056 14.3956 6.94856 12.7058C6.91706 12.2401 7.13056 12.1189 7.55336 12.4376C8.75247 13.3403 9.53508 14.7312 9.53508 16.2263C9.53508 16.7349 9.74438 17.0038 10.2323 16.9119C13.4565 16.3039 17.3856 11.8078 13.1513 5.22431C12.8979 4.88935 12.5234 4.88935 12.5297 5.34958C12.5367 5.91466 12.4702 6.47837 12.3309 7.02711C12.235 7.40837 11.8661 7.40292 11.7793 7.02711C11.2515 4.74025 9.78428 2.79652 7.37696 1.19252C6.72736 0.760205 6.49146 0.892964 6.34095 1.35932V1.35864Z" fill="white" fill-opacity="0.6"/>
+						</svg>7110</div>
+					<div class="score">9.2</div>
+				</div>
+			</div>
+			<div class="sc-jUElsq cobZUH"/>
+			<a class="hover-mask" href="/detail/59205">
+				<div class="mask-img"/>
+			</a>
+		</div>
+		<div class="card-info">
+			<a href="/detail/59205">
+				<div class="title">山海情</div>
+			</a>
+			<div class="role">主演：黄轩 , 张嘉益 , 闫妮 , 黄觉 , 姚晨</div>
+		</div>
+		<div class="intro">
+			<div class="intro-info">
+				<div class="intro-hot-num">23集全</div>
+				<div class="intro-score">9.2</div>
+			</div>
+			<a href="/detail/59205">
+				<div class="title">山海情</div>
+			</a>
+			<div class="describe">上世纪90年代，从宁夏贫瘠甲天下的西海固地区搬迁到玉泉营地区的移民们，从无到有地建设着他们的新家园，村干部马得福（黄轩 饰）操心着通电、灌溉用水等桩桩件件的问题，他足够努力，却不自信未来什么时候来。直...</div>
+			<div class="intro-bottom">
+				<div class="left">
+					<div class="fire-icon"/>7110</div>
+				<div class="right">
+					<div class="add-icon"/>添加影片</div>
+			</div>
+		</div>
+	</div>
+	
+//
+<div class="sc-gUUBNJ fHpCDF">
+	<div class="sc-hJxCvy drLJfn">
+		<img alt="" loading="lazy" decoding="async" data-nimg="fill" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Fywxohs.com%2Fupload%2Fmovie%2F20240305%2F26852901.webp&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fywxohs.com%2Fupload%2Fmovie%2F20240305%2F26852901.webp&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fywxohs.com%2Fupload%2Fmovie%2F20240305%2F26852901.webp&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fywxohs.com%2Fupload%2Fmovie%2F20240305%2F26852901.webp&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fywxohs.com%2Fupload%2Fmovie%2F20240305%2F26852901.webp&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fywxohs.com%2Fupload%2Fmovie%2F20240305%2F26852901.webp&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fywxohs.com%2Fupload%2Fmovie%2F20240305%2F26852901.webp&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fywxohs.com%2Fupload%2Fmovie%2F20240305%2F26852901.webp&amp;w=3840&amp;q=75 3840w" src="https://ivdy.com/_next/image?url=https%3A%2F%2Fywxohs.com%2Fupload%2Fmovie%2F20240305%2F26852901.webp&amp;w=3840&amp;q=75" style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
+			<div class="bottom one">
+				<div class="info">
+					<div class="hot-num">
+						<div class="fire-icon"/>9105</div>
+					<div class="score">7.8</div>
+				</div>
+			</div>
+			<div class="hover-mask">
+				<div class="mask-img"/>
+			</div>
+		</div>
+		<div class="sc-licbtr dGCWbc">
+			<div class="sc-cuWeec guxuYw">
+				<div class="title">宣武门</div>
+				<div class="tags">
+					<a class="tag" href="/vod/search/剧情">剧情</a>
+				</div>
+				<div class="director">
+					<div class="name">导演:</div>
+					<a href="/vod/search/王小康">王小康</a>
+				</div>
+				<div class="roles">
+					<div class="name">主演:</div>
+					<a href="/vod/search/任重">任重 </a>
+					<a href="/vod/search/童蕾"> 童蕾 </a>
+					<a href="/vod/search/王自健"> 王自健 </a>
+					<a href="/vod/search/张丰毅"> 张丰毅 </a>
+					<a href="/vod/search/斯琴高娃"> 斯琴高娃</a>
+				</div>
+			</div>
+			<div class="sc-fTA-DbV kXzmBC">
+				<div class="top">
+					<a href="/vod/play/88241/1/1">
+						<button class="play-btn btn" type="button">
+							<div class="bofang-icon icon"/>立即播放</button>
+					</a>
+					<button class="collect-btn btn " type="button">
+						<div class="shouc-icon icon"/>
+					</button>
+					<button class="add-btn btn" type="button">
+						<div class="add-icon icon"/>
+					</button>
+				</div>
+				<div class="bottom">
+					<div class="item">
+						<div class="item-top">
+							<div class="star"/>7.8</div>
+						<div class="item-bottom">9105人评分</div>
+					</div>
+					<div class="item">
+						<div class="item-top">汉语普通话</div>
+						<div class="item-bottom">语言</div>
+					</div>
+					<div class="item">
+						<div class="item-top">2024-03-05</div>
+						<div class="item-bottom">上映时间</div>
+					</div>
+					<div class="item">
+						<div class="item-top">40分钟</div>
+						<div class="item-bottom">片长</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<div class="wrapper_more_text"><label class="wrapper_more_btn" for="exp1" style="display: flex;"><div class="jiantou"></div></label>
+	北京老街玉雕艺人李天顺（任重饰）为保护一只寓意国运昌隆的翡翠石榴，在街坊们的鼎力协助下，与几个“朝代”的邪恶势力相抗争，经历了数不清的艰难曲折与灾难，甚至面临家破人亡。但他始终没有屈服后退。他相信邪不压正，相信国运昌隆那一天迟早会来。他用老街特有的坚韧与倔强，保护住了国宝，保护住了牛街的尊严。与此同时，无论京剧演员杨尚德（李进荣饰），李连璋（辛一饰）；拉骆驼的丁广源，卖烤肉的马德山，还是古董商人金兆吉，礼拜寺里的满文奎，尤其是一介女流黄禾香等。面对一场又一场的国难，皆不失为艺之德；为商之道；为人之根本。展现出了千年牛街特有的历史文化底蕴。从老街走出去的共产党员丁毓岚最终回到了老街，她为老街人带来对未来的期盼与希望；为黎明前的老街点燃了一盏明灯。
+	</div>
+
+
+//	
+<div type="2" class="sc-edoYQw bHkbfT">
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/1">01</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/2">02</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/3">03</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/4">04</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/5">05</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/6">06</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/7">07</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/8">08</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/9">09</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/10">10</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/11">11</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/12">12</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/13">13</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/14">14</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/15">15</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/16">16</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/17">17</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/18">18</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/19">19</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/20">20</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/21">21</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/22">22</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/23">23</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/24">24</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/25">25</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/26">26</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/27">27</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/28">28</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/29">29</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/30">30</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/31">31</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/32">32</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/33">33</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/34">34</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/35">35</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/36">36</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/37">37</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/38">38</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/39">39</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/40">40</a>
+	</div>
+	<div class=" listitem">
+		<a href="/vod/play/88241/sid/41">41</a>
+	</div>
+</div>

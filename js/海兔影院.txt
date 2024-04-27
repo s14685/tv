@@ -1,0 +1,235 @@
+//海兔影院
+
+//https://www.haitum.cc/dianshiju/dalu-2024-Shot
+//https://www.haituw.com/dianshiju/dalu-2024-Shot
+//[优质线路>>优质#量子线路>>量子#非凡线路>>非凡#金鹰线路>>金鹰#天空线路>>天空#飞速线路>>飞速#光速线路>>光速#淘片线路>>淘片#U酷线路>>U酷#ikun线路>>爱坤#无尽线路>>无尽#百度线路>>百度#]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="item">
+	<a href="/movie/201-355351.html" class="thumb" title="乡村爱情第十六季" target="_blank">
+		<span class="state">第39集</span>
+		<img src="https://www.movieidc.com/upload/resource/20240204/201_355351_thumb.jpg" _src="https://www.movieidc.com/upload/resource/20240204/201_355351_thumb.jpg" alt="乡村爱情第十六季" class="lazy-load-img show">
+			<div class="info-layer">
+				<p class="subject">乡村爱情第十六季</p>
+				<p class="tags ellipsis-one" title="国产剧">国产剧</p>
+				<p class="year ellipsis-one">2024</p>
+				<p class="area ellipsis-one">未知</p>
+				<p class="play">
+					<i class="fa fa-play"></i></p></div></a></li>
+//
+
+<ul class="nav navbar-nav swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
+	<li class="index swiper-slide swiper-slide-active">
+		<a href="/">首页</a>
+	</li>
+	<li class="dianying swiper-slide swiper-slide-next">
+		<a href="/dianying">电影
+			<i class="fa fa-caret-down"></i>
+		</a>
+		<ul class="list">
+			<li class="item">
+				<a href="/dianying/juqing">剧情</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/dongzuo">动作</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/xiju">喜剧</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/aiqing">爱情</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/kongbu">恐怖</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/kehuan">科幻</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/zhanzheng">战争</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/xuanyi">悬疑</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/jingsong">惊悚</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/fanzui">犯罪</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/maoxian">冒险</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/qihuan">奇幻</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/xibu">西部</a>
+			</li>
+			<li class="item">
+				<a href="/dianying/donghua">动画</a>
+			</li>
+		</ul>
+	</li>
+	<li class="active dianshiju swiper-slide">
+		<a href="/dianshiju">电视剧
+			<i class="fa fa-caret-down"></i>
+		</a>
+		<ul class="list">
+			<li class="item">
+				<a href="/dianshiju/dalu">大陆剧</a>
+			</li>
+			<li class="item">
+				<a href="/dianshiju/gangtai">港台剧</a>
+			</li>
+			<li class="item">
+				<a href="/dianshiju/rihan">日韩剧</a>
+			</li>
+			<li class="item">
+				<a href="/dianshiju/oumei">欧美剧</a>
+			</li>
+			<li class="item">
+				<a href="/dianshiju/taiju">泰剧</a>
+			</li>
+			<li class="item">
+				<a href="/dianshiju/qita">其他剧</a>
+			</li>
+		</ul>
+	</li>
+	<li class="zongyi swiper-slide">
+		<a href="/zongyi">综艺
+			<i class="fa fa-caret-down"></i>
+		</a>
+		<ul class="list">
+			<li class="item">
+				<a href="/zongyi/dalu">大陆综艺</a>
+			</li>
+			<li class="item">
+				<a href="/zongyi/taiwan">台湾综艺</a>
+			</li>
+			<li class="item no-show-about">
+				<a href="/zongyi/hanguo">韩国综艺</a>
+			</li>
+			<li class="item">
+				<a href="/zongyi/riben">日本综艺</a>
+			</li>
+			<li class="item">
+				<a href="/zongyi/meiguo">美国综艺</a>
+			</li>
+			<li class="item">
+				<a href="/zongyi/qita">其他综艺</a>
+			</li>
+		</ul>
+	</li>
+	<li class="dongman swiper-slide">
+		<a href="/dongman">动漫
+			<i class="fa fa-caret-down"></i>
+		</a>
+		<ul class="list">
+			<li class="item">
+				<a href="/dongman/guoman">国漫</a>
+			</li>
+			<li class="item">
+				<a href="/dongman/riman">日漫</a>
+			</li>
+			<li class="item">
+				<a href="/dongman/meiman">美漫</a>
+			</li>
+			<li class="item">
+				<a href="/dongman/qita">其他</a>
+			</li>
+		</ul>
+	</li>
+	<li class="jilupian swiper-slide">
+		<a href="/jilupian">纪录片
+			<i class="fa fa-caret-down"></i>
+		</a>
+		<ul class="list">
+			<li class="item">
+				<a href="/jilupian/bbc">BBC</a>
+			</li>
+			<li class="item">
+				<a href="/jilupian/jingsai">体育竞赛</a>
+			</li>
+			<li class="item">
+				<a href="/jilupian/qita">人文自然</a>
+			</li>
+		</ul>
+	</li>
+	<li class="weidianying swiper-slide">
+		<a href="/weidianying">微电影
+			<i class="fa fa-caret-down"></i>
+		</a>
+		<ul class="list">
+			<li class="item">
+				<a href="/weidianying/wangda">网大</a>
+			</li>
+			<li class="item">
+				<a href="/weidianying/duanpian">短片</a>
+			</li>
+			<li class="item">
+				<a href="/weidianying/yinyue">音乐</a>
+			</li>
+		</ul>
+	</li>
+	<li class="ranklist swiper-slide">
+		<a href="/ranklist/newhotmovie">排行榜
+			<i class="fa fa-caret-down"></i>
+		</a>
+		<ul class="list">
+			<li class="item">
+				<a href="/ranklist/newhotmovie">新热电影榜</a>
+			</li>
+			<li class="item">
+				<a href="/ranklist/newhottv">新热剧榜</a>
+			</li>
+			<li class="item">
+				<a href="/ranklist/newhotzy">新热综艺榜</a>
+			</li>
+			<li class="item">
+				<a href="/ranklist/newhotdm">新热动漫榜</a>
+			</li>
+			<li class="item">
+				<a href="/ranklist/hotdy">电影热榜</a>
+			</li>
+			<li class="item">
+				<a href="/ranklist/hotdsj">电视剧热榜</a>
+			</li>
+			<li class="item">
+				<a href="/ranklist/hotzy">综艺热榜</a>
+			</li>
+			<li class="item">
+				<a href="/ranklist/hotdm">动漫热榜</a>
+			</li>
+			<li class="item">
+				<a href="/ranklist/hotjlp">纪录片热榜</a>
+			</li>
+			<li class="item">
+				<a href="/ranklist/hotwdy">微电影热榜</a>
+			</li>
+		</ul>
+	</li>
+	<li class="special swiper-slide">
+		<a href="/special">专题</a>
+	</li>
+	<li class="dbm swiper-slide">
+		<a href="/dbm-dianying">豆瓣优片</a>
+	</li>
+	<li class="lyb swiper-slide">
+		<a href="/lyb">留言板</a>
+	</li>
+</ul>
+//

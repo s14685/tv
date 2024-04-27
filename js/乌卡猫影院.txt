@@ -1,0 +1,135 @@
+//乌卡猫影院 https://www.wukamao.com/vodshow/13--hits---------2024.html 
+//[线路1\[推荐\]>>豪华#线路2>>优质#]
+
+
+
+
+
+
+
+
+
+
+
+<div class="hl-plays-from hl-tabs swiper-wrapper clearfix">
+	<a class="hl-tabs-btn hl-slide-swiper active swiper-slide-active" href="javascript:void(0);" alt="线路1[推荐]">
+		<i class="iconfont hl-icon-shipin"></i>&nbsp;线路1[推荐]</a>
+	<a class="hl-tabs-btn hl-slide-swiper swiper-slide-next" href="javascript:void(0);" alt="线路2">
+		<i class="iconfont hl-icon-shipin"></i>&nbsp;线路2</a>
+</div>
+
+//
+<div class="hl-data-sm hl-full-alert hl-full-x100">
+	<div class="hl-full-head hl-hide-sm">
+		<a class="hl-close-full hl-text-muted" href="javascript:void(0)">
+			<i class="iconfont hl-icon-cuo"></i>
+		</a>
+	</div>
+	<h2 class="hl-full-title hl-hide-sm">影片信息</h2>
+	<div class="hl-full-box clearfix">
+		<div class="hl-item-pic hl-hide-sm">
+			<span class="hl-item-thumb hl-lazy" title="与凤行" data-original="https://hhmage.com/cover/999bb84ff9a5813ec209176cf121ac13.jpg">
+				<div class="hl-pic-tag"></div>
+			</span>
+		</div>
+		<ul class="clearfix">
+			<li class="hl-col-xs-12 hl-hide-sm">
+				<em class="hl-text-muted">片名：</em>
+				<span>与凤行</span>
+			</li>
+			<li class="hl-col-xs-12">
+				<em class="hl-text-muted">状态：</em>
+				<span class="hl-text-conch">先导片</span>
+			</li>
+			<li class="hl-col-xs-12">
+				<em class="hl-text-muted">主演：</em>
+				<a href="/vodsearch/-%E8%B5%B5%E4%B8%BD%E9%A2%96------------.html" target="_blank">赵丽颖</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E6%9E%97%E6%9B%B4%E6%96%B0------------.html" target="_blank">林更新</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E8%BE%9B%E4%BA%91%E6%9D%A5------------.html" target="_blank">辛云来</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E4%BD%95%E4%B8%8E------------.html" target="_blank">何与</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E6%9D%8E%E5%98%89%E7%90%A6------------.html" target="_blank">李嘉琦</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E6%9B%BE%E9%BB%8E------------.html" target="_blank">曾黎</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E5%AE%A3%E7%92%90------------.html" target="_blank">宣璐</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E5%88%98%E5%86%A0%E9%BA%9F------------.html" target="_blank">刘冠麟</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E9%82%B1%E5%BF%83%E5%BF%97------------.html" target="_blank">邱心志</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E9%BB%84%E6%BE%84%E6%BE%84------------.html" target="_blank">黄澄澄</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E5%BE%90%E6%B5%B7%E4%B9%94------------.html" target="_blank">徐海乔</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E8%91%A3%E6%B4%81------------.html" target="_blank">董洁</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E5%AE%8B%E5%AE%81%E5%B3%B0------------.html" target="_blank">宋宁峰</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E5%91%A8%E5%B3%BB%E7%BA%AC------------.html" target="_blank">周峻纬</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E7%8E%8B%E4%BC%8A%E7%91%B6------------.html" target="_blank">王伊瑶</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E9%AD%8F%E5%AD%90%E6%98%95------------.html" target="_blank">魏子昕</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E6%9D%8E%E5%AD%90%E5%B3%B0------------.html" target="_blank">李子峰</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E9%BB%84%E7%BE%BF------------.html" target="_blank">黄羿</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E8%83%A1%E4%B8%B9%E4%B8%B9------------.html" target="_blank">胡丹丹</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E5%91%A8%E5%B0%8F%E5%B7%9D------------.html" target="_blank">周小川</a>
+				<i>/</i>
+				<a href="/vodsearch/-%E9%99%88%E9%9C%87------------.html" target="_blank">陈震</a><i>/</i></li>
+			<li class="hl-col-xs-12">
+				<em class="hl-text-muted">导演：</em>
+				<a href="/vodsearch/-----%E9%82%93%E7%A7%91--------.html" target="_blank">邓科</a>
+				<i>/</i>
+			</li>
+			<li class="hl-col-xs-12 hl-col-sm-4">
+				<em class="hl-text-muted">年份：</em>2024
+			</li>
+			<li class="hl-col-xs-12 hl-col-sm-4">
+				<em class="hl-text-muted">地区：</em>中国大陆
+			</li>
+			<li class="hl-col-xs-12 hl-col-sm-4">
+				<em class="hl-text-muted">类型：</em>
+				<a href="/vodsearch/----%E5%86%85%E5%9C%B0---------.html" target="_blank">内地</a>
+				<i>/</i>
+			</li>
+			<li class="hl-col-xs-12 hl-col-sm-4">
+				<em class="hl-text-muted">时长：</em>内详
+			</li>
+			<li class="hl-col-xs-12 hl-col-sm-4">
+				<em class="hl-text-muted">上映：</em>未知
+			</li>
+			<li class="hl-col-xs-12 hl-col-sm-4">
+				<em class="hl-text-muted">语言：</em>汉语普通话
+			</li>
+			<li class="hl-col-xs-12">
+				<em class="hl-text-muted">更新：</em>2024-04-11 21:00
+			</li></ul></div><div>
+//
+
+<li class="hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2">
+	<a class="hl-item-thumb hl-lazy" href="/wuk1/177188.html" title="妙绝好姻缘" data-original="https://hhmage.com/cover/ecb3f65d596a82057ea3bc5e5ad267ce.jpg" 
+	style="background-image: url(&quot;https://hhmage.com/cover/ecb3f65d596a82057ea3bc5e5ad267ce.jpg&quot;);">
+		<div class="hl-pic-icon hl-hidden-xs">
+			<i class="iconfont hl-icon-bofang-fill"></i>
+		</div>
+		<div class="hl-pic-tag"></div>
+		<div class="hl-pic-text">
+			<span class="hl-lc-1 remarks">第04集</span>
+		</div>
+	</a>
+	<div class="hl-item-text">
+		<div class="hl-item-title hl-text-site hl-lc-1">
+			<a href="/wuk1/177188.html" title="妙绝好姻缘">妙绝好姻缘</a>
+		</div>
+		<div class="hl-item-sub hl-text-muted hl-lc-1">刘思辰/王庭旭/都钊/岳冬峰/井璐/伊拉/吕林/</div>
+	</div>
+</li>
+//

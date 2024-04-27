@@ -1,0 +1,217 @@
+//可可影视
+//https://www.keke1.app/show/2--中国大陆--2024-3-1.html
+https://vres.a357899.cn/vod1/vod/cover/20230509/16/37/20/b8d2f656e59be7f34827cf9e46475738.jpg
+https://vres.a357899.cn/vod1/vod/cover/20230509/16/37/20/b8d2f656e59be7f34827cf9e46475738.jpg
+
+<div class="module-item">
+    <a href="/detail/113211.html" class="v-item">
+        <div class="v-item-main">
+            <div class="v-item-cover">
+                <img class="lazy lazyload" alt="与凤行" title="与凤行" referrerpolicy="no-referrer" src="https://vres.a357899.cn/vod1/vod/cover/20230509/16/37/20/b8d2f656e59be7f34827cf9e46475738.jpg" style="">
+            </div>
+            <div class="v-item-top">
+                <div class="v-item-top-left">
+                                    </div>
+                <div class="v-item-top-right">
+                                    </div>
+            </div>
+            <div class="v-item-bottom">
+                                    <span>
+                        第39集完结
+                    </span>
+                            </div>
+        </div>
+        <div class="v-item-footer">
+            <div class="v-item-title-hidden v-item-title">𝐤𝐞𝐤𝐲𝐬.𝐜𝐨𝐦福利电影</div>
+            <div class="v-item-title">与凤行</div>
+        </div>
+    </a>
+</div>
+
+
+<div class="detail-title">
+                    <strong>与凤行</strong>
+                </div>
+
+<div class="detail-desc">
+                                        <p>
+                        身为魔界衔珠而生的碧苍王，沈璃的一生是璀璨而夺目的，但在她千岁诞辰之际，政治联姻的魔爪劈头盖脸的挠过来。九十九重天上的帝君，一纸天书颁下，着碧苍王与帝君第三十三孙拂容君定亲。拂容君早年便因花心而闻名天外，她堂堂魔界一霸，一杆银枪平四海战八荒，岂能嫁给那种花心草包!这婚必须逃!沈璃不想，这一跑还真碰上了那个不属于三界五行的男子。那男子，当真...奇葩!
+                    </p>
+                                    </div>
+
+<div class="detail-tags fs-margin-top fs-margin-bottom">
+                    <a href="/show/2----2024--.html" class="detail-tags-item">2024</a>
+                                            <a href="/show/2--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86----.html" class="detail-tags-item">中国大陆</a>
+                                                                <a href="/show/2-%E5%86%85%E5%9C%B0%E5%89%A7-----.html" class="detail-tags-item">内地剧</a>
+                                            <a href="/show/2-%E5%89%A7%E6%83%85-----.html" class="detail-tags-item">剧情</a>
+                                            <a href="/show/2-%E5%8F%A4%E8%A3%85-----.html" class="detail-tags-item">古装</a>
+                                            <a href="/show/2-%E5%9B%BD%E4%BA%A7%E5%89%A7-----.html" class="detail-tags-item">国产剧</a>
+                                            <a href="/show/2-%E5%A4%A7%E9%99%86%E5%89%A7-----.html" class="detail-tags-item">大陆剧</a>
+                                            <a href="/show/2-%E5%A5%87%E5%B9%BB-----.html" class="detail-tags-item">奇幻</a>
+                                            <a href="/show/2-%E7%88%B1%E6%83%85-----.html" class="detail-tags-item">爱情</a>
+                                    </div>
+
+
+<div class="source-box">
+                        <div class="swiper source-swiper swiper-initialized swiper-horizontal swiper-free-mode swiper-backface-hidden" id="detail-source-swiper">
+                            <div class="swiper-wrapper" id="swiper-wrapper-cabbd1096352d6b105" aria-live="polite">
+                                                                    <div class="swiper-slide source-swiper-slide source-swiper-slide-active swiper-slide-active" role="group" aria-label="1 / 10">
+                                        <a href="javascript:void(0)" class="source-item">
+                                            <span class="source-item-label">FF线路</span>
+                                            <i class="source-item-dot"></i>
+                                            <i class="source-item-num">33</i>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide source-swiper-slide swiper-slide-next" role="group" aria-label="2 / 10">
+                                        <a href="javascript:void(0)" class="source-item">
+                                            <span class="source-item-label">超清</span>
+                                            <i class="source-item-dot"></i>
+                                            <i class="source-item-num">39</i>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide source-swiper-slide" role="group" aria-label="3 / 10">
+                                        <a href="javascript:void(0)" class="source-item">
+                                            <span class="source-item-label">超清-备用</span>
+                                            <i class="source-item-dot"></i>
+                                            <i class="source-item-num">39</i>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide source-swiper-slide" role="group" aria-label="4 / 10">
+                                        <a href="javascript:void(0)" class="source-item">
+                                            <span class="source-item-label">蓝光8</span>
+                                            <i class="source-item-dot"></i>
+                                            <i class="source-item-num">40</i>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide source-swiper-slide" role="group" aria-label="5 / 10">
+                                        <a href="javascript:void(0)" class="source-item">
+                                            <span class="source-item-label">HN线路</span>
+                                            <i class="source-item-dot"></i>
+                                            <i class="source-item-num">42</i>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide source-swiper-slide" role="group" aria-label="6 / 10">
+                                        <a href="javascript:void(0)" class="source-item">
+                                            <span class="source-item-label">蓝光2</span>
+                                            <i class="source-item-dot"></i>
+                                            <i class="source-item-num">39</i>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide source-swiper-slide" role="group" aria-label="7 / 10">
+                                        <a href="javascript:void(0)" class="source-item">
+                                            <span class="source-item-label">蓝光9</span>
+                                            <i class="source-item-dot"></i>
+                                            <i class="source-item-num">42</i>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide source-swiper-slide" role="group" aria-label="8 / 10">
+                                        <a href="javascript:void(0)" class="source-item">
+                                            <span class="source-item-label">蓝光7</span>
+                                            <i class="source-item-dot"></i>
+                                            <i class="source-item-num">42</i>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide source-swiper-slide" role="group" aria-label="9 / 10">
+                                        <a href="javascript:void(0)" class="source-item">
+                                            <span class="source-item-label">LZ线路</span>
+                                            <i class="source-item-dot"></i>
+                                            <i class="source-item-num">39</i>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide source-swiper-slide" role="group" aria-label="10 / 10">
+                                        <a href="javascript:void(0)" class="source-item">
+                                            <span class="source-item-label">XL线路</span>
+                                            <i class="source-item-dot"></i>
+                                            <i class="source-item-num">42</i>
+                                        </a>
+                                    </div>
+                                                            </div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    </div>
+					
+					
+<div class="detail-control">
+                        <div class="left">
+                                                        <a href="/play/113211-4-626464.html">
+                                <button class="primary-btn primary-btn-size-normal play-btn">
+                                    立即播放
+                                </button>
+                            </a>
+                            <button class="favorite-btn" title="收藏影片" data-id="113211">
+                                <i class="isax isax-star"></i>
+                                <span>收藏</span>
+                            </button>
+                            <!-- <button class="favorite-btn favorite-btn-active">
+                            <i class="isax isax-star"></i>
+                        </button> -->
+                            <div class="scan-btn-box" title="扫码使用手机观看">
+                                <button class="scan-btn" id="scan-btn">
+                                    <i class="isax isax-scan"></i>
+                                    <span>分享</span>
+                                </button>
+                                <div class="scan-popup" id="scan-popup" style="display: none;">
+                                    <div class="qrcode" id="qrcode" title="https://www.keke1.app/detail/113211.html">
+                                    <canvas width="120" height="120" style="display: none;"></canvas><img src="data:image/png;base64,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" style="display: block;"></div>
+                                    <script type="text/javascript">
+                                        var qrcode = new QRCode("qrcode", {
+                                            text: window.location.href,
+                                            width: 120,
+                                            height: 120,
+                                            colorDark: "#000000",
+                                            colorLight: "#ffffff",
+                                            correctLevel: QRCode.CorrectLevel.H,
+                                        });
+
+                                        $("#scan-popup").hide();
+                                        $("#scan-btn").on("click", function () {
+                                            $("#scan-popup").toggle();
+                                        })
+                                    </script>
+                                    <div class="scan-popup-label">扫一扫使用手机观看</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="right">
+                            <p>找国内外最新电影，请上可可影视，你想看的都有：kekedy.tv</p>
+                        </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

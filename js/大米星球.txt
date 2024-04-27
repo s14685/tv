@@ -1,0 +1,191 @@
+//大米星球
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="module-info-main">
+	<div class="module-info-heading">
+		<h1>与凤行</h1><div class="module-info-tag">
+			<div class="module-info-tag-link">
+				<a title="2024" href="/vodshow/21-----------2024.html">2024</a>
+			</div>
+			<div class="module-info-tag-link">
+				<a title="中国大陆" href="/vodshow/21-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86----------.html">中国大陆</a>
+			</div>
+			<div class="module-info-tag-link">
+				<a href="/vodshow/21---%E5%89%A7%E6%83%85--------.html">剧情</a>
+				<span class="slash">/</span>
+				<a href="/vodshow/21---%E5%9B%BD%E4%BA%A7--------.html">国产</a>
+				<span class="slash">/</span>
+				<a href="/vodshow/21---%E6%83%85--------.html">情</a>
+				<span class="slash">/</span>
+				<a href="/vodshow/21---%E7%88%B1%E6%83%85--------.html">爱情</a>
+				<span class="slash">/</span>
+				<a href="/vodshow/21---%E5%A5%87%E5%B9%BB--------.html">奇幻</a>
+				<span class="slash">/</span>
+				<a href="/vodshow/21---%E5%8F%A4%E8%A3%85--------.html">古装</a>
+				<span class="slash">/</span>
+				<a href="/vodshow/21---%E5%86%85%E5%9C%B0--------.html">内地</a>
+				<span class="slash">/</span>
+				<a href="/vodshow/21---%E5%A4%A7%E9%99%86--------.html">大陆</a>
+				<span class="slash">/</span></div></div><div class="module-mobile-play">
+			<a href="/vodplay/110181-7-1.html" class="main-btn" title="立刻播放与凤行">
+				<i class="icon-play"></i>立即播放
+			</a>
+			<a href="javascript:void(0);" data-type="2" data-mid="1" data-id="110181" class="mac_ulog btn-large btn-collect">
+				<i class="icon-shoucang"></i>收藏
+			</a>
+		</div>
+	</div>
+	<div class="module-info-content">
+		<div class="module-info-items">
+			<div class="module-info-item module-info-introduction">
+				<div class="module-info-introduction-content show-desc" style="line-height: 20px;">
+					<p>灵界碧苍王沈璃（赵丽颖 饰）为掌握自己的命运，在逃婚过程中意外遇到在人间游历的神行止（林更新 饰），两人在一起除恶扬善、探索真相的过程中互生情愫。上古最后一位神行止，担负着守护天外天的重任，以保卫天下和平，万物归序。两个同样肩负重任的人，在爱情与责任之间进行着艰难的抉择。沈璃为守护子民，奋勇地与恶势力做斗争，不惜战亡东海以全大义。行止在沈璃身上领悟了责任的意义，最终勇敢地肩负起自己的使命，以牺牲小我来守护世间和平。两人都在这一过程中重新领悟了爱情、责任与生命的真谛。</p>
+				</div>
+			</div>
+			<div style="margin-top: -15px;display: flex;margin-bottom: 10px;align-items: center;justify-content: center;font-size: 12px;color: #f96b19;" class="is_mb open-more-desc">
+				<span style="font-size: 14px;margin-right:5px;">展开内容</span>
+				<i class="icon-arrow"></i>
+			</div>
+			<div style="margin-top: -15px;display: none;margin-bottom: 10px;align-items: center;justify-content: center;font-size: 12px;color: #f96b19;" class="is_mb close-more-desc">
+				<span style="font-size: 14px;margin-right:5px;">收起内容</span>
+				<i class="icon-top"></i>
+			</div>
+			<div class="module-info-item">
+				<span class="module-info-item-title">导演：</span>
+				<div class="module-info-item-content">
+					<a href="/vodsearch/-----%E9%82%93%E7%A7%91--------.html" target="_blank">邓科</a>
+					<span class="slash">/</span>
+				</div>
+			</div>
+			<div class="module-info-item">
+				<span class="module-info-item-title">编剧：</span>
+				<div class="module-info-item-content">
+					<a href="/vodsearch/-------------/writer/%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99.html" target="_blank">九鹭非香</a>
+					<span class="slash">/</span>
+				</div>
+			</div>
+			<div class="module-info-item">
+				<span class="module-info-item-title">主演：</span><div class="module-info-item-content">
+					<a href="/vodsearch/-%E8%B5%B5%E4%B8%BD%E9%A2%96------------.html" target="_blank">赵丽颖</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E6%9E%97%E6%9B%B4%E6%96%B0------------.html" target="_blank">林更新</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E8%BE%9B%E4%BA%91%E6%9D%A5------------.html" target="_blank">辛云来</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E4%BD%95%E4%B8%8E------------.html" target="_blank">何与</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E6%9D%8E%E5%98%89%E7%90%A6------------.html" target="_blank">李嘉琦</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E6%9B%BE%E9%BB%8E------------.html" target="_blank">曾黎</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E5%AE%A3%E7%92%90------------.html" target="_blank">宣璐</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E5%88%98%E5%86%A0%E9%BA%9F------------.html" target="_blank">刘冠麟</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E9%82%B1%E5%BF%83%E5%BF%97------------.html" target="_blank">邱心志</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E9%BB%84%E6%BE%84%E6%BE%84------------.html" target="_blank">黄澄澄</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E5%BE%90%E6%B5%B7%E4%B9%94------------.html" target="_blank">徐海乔</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E8%91%A3%E6%B4%81------------.html" target="_blank">董洁</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E5%AE%8B%E5%AE%81%E5%B3%B0------------.html" target="_blank">宋宁峰</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E5%91%A8%E5%B3%BB%E7%BA%AC------------.html" target="_blank">周峻纬</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E7%8E%8B%E4%BC%8A%E7%91%B6------------.html" target="_blank">王伊瑶</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E9%AD%8F%E5%AD%90%E6%98%95------------.html" target="_blank">魏子昕</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E6%9D%8E%E5%AD%90%E5%B3%B0------------.html" target="_blank">李子峰</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E9%BB%84%E7%BE%BF------------.html" target="_blank">黄羿</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E8%83%A1%E4%B8%B9%E4%B8%B9------------.html" target="_blank">胡丹丹</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E5%91%A8%E5%B0%8F%E5%B7%9D------------.html" target="_blank">周小川</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/-%E9%99%88%E9%9C%87------------.html" target="_blank">陈震</a>
+					<span class="slash">/</span></div></div>
+			<div class="module-info-item">
+				<span class="module-info-item-title">更新：</span>
+				<div class="module-info-item-content">2024-04-13</div>
+			</div>
+			<div class="module-info-item">
+				<span class="module-info-item-title">备注：</span><div class="module-info-item-content">第39集完结                        </div></div>
+			<div class="module-info-item" style="color:#007711;font-size:16px;font-weight:bold;">
+				<span class="module-info-item-title">豆瓣：</span>
+				<a href="https://search.douban.com/movie/subject_search?search_text=与凤行" target="_blank" title="到豆瓣页面查看" rel="nofollow">
+					<font color="#007711">0.0分</font>
+				</a>
+			</div>
+		</div>
+		<div class="module-info-footer">
+			<div class="module-info-play">
+				<a href="/vodplay/110181-7-1.html" class="main-btn" title="立刻播放与凤行">
+					<i class="icon-play"></i>立即播放 
+				</a>
+				<a href="javascript:void(0);" onclick="getQr('110181')" style="position: relative;" class="btn-large btn-collect btn-share">
+					<i class="icon-qrcode"></i>
+					<span>分享</span>
+				</a>
+				<a href="javascript:void(0);" data-type="2" data-mid="1" data-id="110181" class="mac_ulog btn-large btn-collect">
+					<i class="icon-shoucang"></i>收藏
+				</a>
+			</div>
+		</div>
+		<div id="desc_qrcode_main" style="position: absolute;padding: 10px;bottom: 70px;margin-left: 150px;background-color: #ffffff!important;z-index:999999;box-shadow: 0 0 10px 0 rgb(130 205 232);border-radius: 10px;display:none;">
+			<div class="qrcode-box" style="background-color: #ffffff;">
+				<span id="desc_qrcode" class="img-responsive">
+					<img id="desc_qrcode_img" style="display: inline-block;width:120px;" src="">
+					</span>
+				</div>
+				<div style="display: flex;align-items: center;justify-content: center;margin-top: -5px;">
+					<span style="font-size: 12px;color: gray;">扫一扫使用手机观看</span>
+				</div>
+			</div>
+			<div class="notice-box">
+				<div class="notice-icon"></div>
+				<div class="notice-cont">
+                        各位小主，请记住我们的发布页域名: 
+					<a href="https://www.damiq.online">www.damiq.online</a>
+				</div>
+			</div>
+		</div>
+	</div>
+//
+<a href="/voddetail/110181.html" title="与凤行" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第39集完结</div>
+		<div class="module-item-douban">豆瓣:0.0分</div>
+		<div class="module-item-pic">
+			<img class="lazy lazyload" data-original="https://f746f90.sdljwomen.com/storage/images/2022/12/966/a7996a552b325fca997a5c4b2e5c935a.jpg" 
+			alt="与凤行" referrerpolicy="no-referrer" src="https://f746f90.sdljwomen.com/storage/images/2022/12/966/a7996a552b325fca997a5c4b2e5c935a.jpg" style="display: block;">
+			</div></div><div class="module-poster-item-info">
+			<div class="module-poster-item-title">与凤行</div>
+		</div>
+	</a>
+
+
+
+//

@@ -1,0 +1,185 @@
+//八戒影院 
+//https://www.bajietv.com/guocanju/index___2024__hits.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="nav nav-tabs hidden-xs" id="playTab">
+	<li class="active  hidden-xs">
+		<a class="gico ffm3u8" href="#con_playlist_1" data-toggle="tab">非凡</a>
+	</li>
+	<li class=" hidden-xs">
+		<a class="gico lzm3u8" href="#con_playlist_2" data-toggle="tab">量子</a>
+	</li>
+	<li class=" hidden-xs">
+		<a class="gico 1080zyk" href="#con_playlist_3" data-toggle="tab">优质</a>
+	</li>
+	<div class="play-bug">
+		<a rel="nofollow" href="/gb/169706.html" target="_blank">
+			<i class="iconfont"></i>不能播放，报错
+		</a>
+	</div>
+</ul>
+//
+
+<div class="details-info p-0" id="zanpian-score" data-id="169706" data-sid="1">
+	<div id="rating" class="hidden-xs">
+		<span class="ratingtxt">给影片评分：</span>
+		<ul class="rating">
+			<li class="one current" title="很差" val="1">很差</li>
+			<li class="two current" title="较差" val="2">较差</li>
+			<li class="three current" title="还行" val="3">还行</li>
+			<li class="four" title="推荐" val="4">推荐</li>
+			<li class="five" title="力荐" val="5">力荐</li>
+		</ul>
+		<span id="ratewords">还行</span>
+	</div>
+	<h1 class="text-overflow">南来北往</h1>
+	<ul class="info clearfix">
+		<li class="col-md-12 text hidden-xs">
+			<span>别名：</span>三棵树
+		</li>
+		<li class="col-md-6 col-sm-6 col-xs-12 text hidden-xs">
+			<span>状态：</span>全39集
+		</li>
+		<li class="col-md-12 text">
+			<span class="hidden-xs">类型：</span>
+		</li>
+		<li class="col-md-12 text">
+			<span class="hidden-xs">主演：</span>
+			<a href="/mingxing/baijingting/" target="_blank">白敬亭</a>
+			<a href="/mingxing/dingyongdai/" target="_blank">丁勇岱</a>
+			<a href="/mingxing/jinchen/" target="_blank">金晨</a>
+			<a href="/mingxing/zuoxiaoqing/" target="_blank">左小青</a>
+			<a href="/mingxing/liujun/" target="_blank">刘钧</a>
+			<a href="/mingxing/jiangyan/" target="_blank">姜妍</a>
+			<a href="/mingxing/liuguanlin/" target="_blank">刘冠麟</a>
+			<a href="/mingxing/huke/" target="_blank">胡可</a>
+		</li>
+		<li class="col-xs-12 text hidden-sm hidden-md hidden-lg">
+			<span class="hidden-xs">年代：</span>2024 / 大陆 / 郑晓龙,刘璋牧
+		</li>
+		<li class="col-md-6 col-sm-6 col-xs-12 text hidden-xs">
+			<span>导演：</span>
+			<a href="/mingxing/zhengxiaolong/" target="_blank">郑晓龙</a>
+			<a href="/search/%E5%88%98%E7%92%8B%E7%89%A7.html" target="_blank">刘璋牧</a>
+		</li>
+		<li class="col-md-6 col-sm-6 col-xs-4 text hidden-xs">
+			<span>国家/地区：</span>大陆
+		</li>
+		<li class="col-md-6 col-sm-6 col-xs-12  text">
+			<span class="hidden-xs">集数：</span>每集45分钟
+
+		</li>
+		<li class="col-md-6 col-sm-6 col-xs-6 text hidden-xs">
+			<span>语言/字幕：</span>国语
+		</li>
+		<li class="col-md-6 col-sm-6 col-xs-6 text hidden-xs">
+			<span>年代：</span>2024
+		</li>
+		<li class="col-md-6 col-sm-6 col-xs-12 text hidden-xs">
+			<span>更新时间：</span>2024-02-26 16:00:46
+		</li>
+		<li class="col-md-6 col-sm-12 col-xs-6 text hidden-sm hidden-xs">
+			<span>影视/评论：</span>
+			<a rel="nofollow" href="#zanpian-cm">当前有
+				<em id="commnum">0</em>条评论，
+				<i class="iconfont"></i>
+			</a>
+		</li>
+		<li class="col-md-12 col-sm-12 col-xs-12 pb-0">
+			<span class="hidden-xs">详细介绍：</span>
+			<span class="details-content-default">　　1978年，大连开往三棵树的列车上，年轻乘警汪新第…</span>
+			<span class="details-content-all collapse">　　1978年，大连开往三棵树的列车上，年轻乘警汪新第一次执勤就在抓捕行动中负伤，却因祸得福结识了铁路公安老刑警马魁，二人结为师徒，并肩战斗在铁路公安第一线。在这条铁路线上，40年间，他们经历了蒸汽机车、电力机车、动车高铁时代，见证了祖国的伟大成就和人民生活的巨大变化。汪新、马魁为代表的一线铁路公安干警，反扒、打拐、缉毒、巡线、守护、打击盗抢骗、扫黑除恶，几十年如一日破大案、解决小案、给旅客送温暖、共和谐。为了保卫人民生命财产安全，铁路公安干警甚至牺牲了宝贵的生命。列车上来来往往的旅客，带着各个时期不同的印记，展示了人情冷暖、人生百态。新老两代干警也在自己的人生经历中得到了境界的升华，忠诚警魂、薪火相传。</span>
+			<a class="hidden-xs" href="javascript:;" data-toggle="collapse" data-target=".details-content-all" data-default=".details-content-default" data-html="收起">详情</a>
+		</li>
+	</ul>
+</div>
+//
+
+<li class="col-md-2 col-sm-3 col-xs-4">
+	<a class="video-pic loading" data-original="https://pic1.imgyzzy.com/upload/vod/2024-02-06/17071904901.jpg" href="/guocanju/nanlaibeiwang/" title="南来北往" style="background-image: url(&quot;https://pic1.imgyzzy.com/upload/vod/2024-02-06/17071904901.jpg&quot;);">
+		<span class="player"></span>
+		<span class="score">4.0</span><span class="note text-bg-r">全39集</span>
+	</a><div class="title">	<h5 class="text-overflow">
+			<a href="/guocanju/nanlaibeiwang/" title="南来北往">南来北往</a>
+		</h5>
+	</div>
+	<div class="subtitle text-muted text-overflow hidden-xs">白敬亭,丁勇岱,金晨,左小青,刘钧,姜妍,刘冠麟,胡可,倪大红,李乃文,任正斌,张瑞涵,唐旭,杨昆,王劲松,房子斌,檀健次,吴樾,宁理,甘婷婷,王鹤润,潘斌龙</div>
+</li>
+//
+
+
+<ul class="clearfix">
+	<li class="text">
+		<span class="text-muted">按分类</span>
+	</li>
+	<li>
+		<a href="/guocanju/index_____.html" title="全部" data="id-2">全部</a></li><li>
+		<a class="active" href="/guocanju/" title="国产剧" data="id-17">国产剧</a></li><li>
+		<a href="/xianggangju/" title="香港剧" data="id-18">香港剧</a></li><li>
+		<a href="/oumeiju/" title="欧美剧" data="id-19">欧美剧</a></li><li>
+		<a href="/ribenju/" title="日本剧" data="id-20">日本剧</a></li><li>
+		<a href="/haiwaiju/" title="海外剧" data="id-21">海外剧</a></li><li>
+		<a href="/taiwanju/" title="台湾剧" data="id-22">台湾剧</a></li><li>
+		<a href="/hanguoju/" title="韩国剧" data="id-23">韩国剧</a></li><li>
+		<a href="/taiguoju/" title="泰国剧" data="id-24">泰国剧</a></li><li>
+		<a href="/qihuanpian/" title="奇幻片" data="id-66">奇幻片</a></li><li>
+		<a href="/fanzuipian/" title="犯罪片" data="id-67">犯罪片</a></li><li>
+		<a href="/xuanyipian/" title="悬疑片" data="id-68">悬疑片</a></li>/ul>
+
+//
+
+
+<ul class="nav navbar-nav navbar-left">
+	<li id="nav-index">
+		<a href="/">首页</a>
+	</li>
+	<li id="nav-dianshiju" class="active">
+		<a href="/dianshiju/">电视剧</a>
+	</li>
+	<li id="nav-dianshiju" class="">
+		<a href="/dianying/">电影</a>
+	</li>
+	<li id="nav-dianshiju" class="">
+		<a href="/dongman/">动漫</a>
+	</li>
+	<li id="nav-dianshiju" class="">
+		<a href="/zongyi/">综艺</a>
+	</li>
+	<li id="nav-dianshiju" class="">
+		<a href="/story/">剧情</a>
+	</li>
+	<li id="nav-dianshiju" class="">
+		<a href="/actor/">演员</a>
+	</li>
+	<li id="nav-dianshiju" class="">
+		<a href="/rolelist/">角色</a>
+	</li>
+	<li id="nav-dianshiju" class="">
+		<a href="/top.html">榜单</a>
+	</li>
+	<li id="nav-dianshiju" class="">
+		<a href="/new.html">最新</a>
+	</li>
+	<li class="dropdown hidden-xs">
+		<a class="more" id="dropdownMenu1" data-toggle="dropdown">更多
+			<i class="icon iconfont"></i>
+		</a>
+		<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+			<li role="presentation">
+				<a role="menuitem" tabindex="-1" href="/sitemap.html" title="网站地图">网站地图</a>
+			</li>
+		</ul>
+	</li>
+</ul>
+//

@@ -1,0 +1,212 @@
+//二次萌
+
+
+
+
+
+
+
+
+
+
+量子lz>v.cdnlz2.com
+非凡ff>svipsvip.ffzy.online5.com
+快云ky>vip.kuaiyun4-cdn.com
+海外看hwk>m3u.haiwaikan.com
+天空tk>v10.dious.cc
+乐视ls>leshiyuncdn.36s.top
+卧龙wl>cdn.wlcdn99.com
+飞速fs>s10.fsvod1.com 
+优质yz>hdzy.play-cdn23.com
+优质yz>yzzy.play-cdn21.com
+优质yz>1080zyk.com
+爱坤ik>ikcdn01.ikzybf.com 
+闪电sd>v10.fentvoss.com v10.youkuoss.com 
+快看kk>vip.kuaikan-cdn4.com
+暴风bf>s5.bfengbf.com
+豪华hh>play.hhuus.com
+
+索尼sn>v11.sunpalaceshotel.com v10.qqtvoss.com
+百度bd>vod6.bdzybf7.com
+光速gs>v.gsuus.com
+樱花yh>sod12.xmyysw.com
+八戒bj>c3.monidai.com
+速播sb>vod.subokk.com
+U酷uk>ukzy.ukubf4.com 
+无尽wj>v8.kuaioss.com
+红牛hn>hnzy.bfvvs.com 
+新浪xl>bf.xluuss.com
+快车kc>vod2.pptvoss.com
+极速js>v.jisubf.com
+金鹰jy>hd.ijycnd.com
+虎牙hy>1080p.huyall.com
+最大zd>v4.mstopq.com
+奇虎qh>cdn1.qihubf.com
+49>vip4.49zyvideoplayurl.com
+淘片tp>sd8.taopianplay1.com
+鱼乐>y2.ylbf1.com
+??>top.letvoss.com
+CK>www.ldxmcloud.com
+
+
+
+
+ ~[高清源·备>>非凡#蓝光源·备>>快看#速播源·备>>暴风#高清源>>量子#蓝光源>>索尼#速播源>>乐视#海外源>>海外#爱奇艺源>>奇艺#芒果源>>芒果#]
+
+<a class="hl-tabs-btn hl-slide-swiper active swiper-slide-active" href="javascript:void(0);" alt="高清源"><i class="iconfont hl-icon-shipin"></i>&nbsp;高清源</a>
+
+
+<li class="hl-col-xs-4 hl-col-sm-2"><a href="/vod/play/id/73665/sid/1/nid/1/">第01集</a></li>
+
+ 
+<div class="hl-plays-wrap hl-tabs-swiper swiper-container-initialized swiper-container-horizontal swiper-container-free-mode">
+	<div class="hl-plays-from hl-tabs swiper-wrapper clearfix" style="transform: translate3d(0px, 0px, 0px);">
+		<a class="hl-tabs-btn hl-slide-swiper active swiper-slide-active" href="javascript:void(0);" alt="高清源">
+			<i class="iconfont hl-icon-shipin"></i>&nbsp;高清源
+		</a>
+		<a class="hl-tabs-btn hl-slide-swiper swiper-slide-next" href="javascript:void(0);" alt="蓝光源">
+			<i class="iconfont hl-icon-shipin"></i>&nbsp;蓝光源
+		</a>
+		<a class="hl-tabs-btn hl-slide-swiper" href="javascript:void(0);" alt="速播源">
+			<i class="iconfont hl-icon-shipin"></i>&nbsp;速播源
+		</a>
+		<a class="hl-tabs-btn hl-slide-swiper" href="javascript:void(0);" alt="海外源">
+			<i class="iconfont hl-icon-shipin"></i>&nbsp;海外源
+		</a>
+		<a class="hl-tabs-btn hl-slide-swiper" href="javascript:void(0);" alt="爱奇艺源">
+			<i class="iconfont hl-icon-shipin"></i>&nbsp;爱奇艺源
+		</a>
+		<a class="hl-tabs-btn hl-slide-swiper" href="javascript:void(0);" alt="芒果源">
+			<i class="iconfont hl-icon-shipin"></i>&nbsp;芒果源
+		</a>
+		<a class="hl-tabs-btn hl-slide-swiper" href="javascript:void(0);" alt="高清源·备">
+			<i class="iconfont hl-icon-shipin"></i>&nbsp;高清源·备
+		</a>
+		<a class="hl-tabs-btn hl-slide-swiper" href="javascript:void(0);" alt="蓝光源·备">
+			<i class="iconfont hl-icon-shipin"></i>&nbsp;蓝光源·备
+		</a>
+		<a class="hl-tabs-btn hl-slide-swiper" href="javascript:void(0);" alt="速播源·备">
+			<i class="iconfont hl-icon-shipin"></i>&nbsp;速播源·备
+		</a>
+	</div>
+	<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+</div>
+
+
+//
+
+<div class="hl-dc-content">
+	<div class="hl-dc-headwrap">
+		<h2 class="hl-dc-title hl-data-menu">乘风踏浪</h2>
+	</div>
+	<div class="hl-vod-data hl-full-items">
+		<div class="hl-data-sm hl-full-alert hl-full-x100">
+			<div class="hl-full-head hl-hide-sm">
+				<a class="hl-close-full hl-text-muted" href="javascript:void(0)">
+					<i class="iconfont hl-icon-cuo"></i>
+				</a>
+			</div>
+			<h2 class="hl-full-title hl-hide-sm">影片信息</h2>
+			<div class="hl-full-box clearfix">
+				<div class="hl-item-pic hl-hide-sm">
+					<span class="hl-item-thumb hl-lazy" title="乘风踏浪" data-original="https://img.lzzyimg.com/upload/vod/20240329-1/f5578d51c0a19c4c588f75d663028d31.jpg">
+						<div class="hl-pic-tag"></div>
+					</span>
+				</div>
+				<ul class="clearfix">
+					<li class="hl-col-xs-12 hl-hide-sm">
+						<em class="hl-text-muted">片名：</em>
+						<span>乘风踏浪</span>
+					</li>
+					<li class="hl-col-xs-12">
+						<em class="hl-text-muted">状态：</em>
+						<span class="hl-text-conch">更新至第27集</span>
+					</li>
+					<li class="hl-col-xs-12">
+						<em class="hl-text-muted">主演：</em>
+						<a href="/vod/search/actor/%E4%B9%94%E6%9D%89/" target="_blank" data-no-instant="true">乔杉</a>
+						<i>/</i>
+						<a href="/vod/search/actor/%E6%9D%A8%E5%AD%90%E5%A7%97/" target="_blank" data-no-instant="true">杨子姗</a>
+						<i>/</i>
+						<a href="/vod/search/actor/%E5%88%98%E4%BD%B3/" target="_blank" data-no-instant="true">刘佳</a>
+						<i>/</i>
+						<a href="/vod/search/actor/%E5%94%90%E9%89%B4%E5%86%9B/" target="_blank" data-no-instant="true">唐鉴军</a>
+						<i>/</i>
+						<a href="/vod/search/actor/%E4%BA%8E%E6%B4%8B/" target="_blank" data-no-instant="true">于洋</a>
+						<i>/</i>
+						<a href="/vod/search/actor/%E5%BC%A0%E7%91%9E%E6%B6%B5/" target="_blank" data-no-instant="true">张瑞涵</a>
+						<i>/</i>
+						<a href="/vod/search/actor/%E9%9F%A9%E4%BA%91%E4%BA%91/" target="_blank" data-no-instant="true">韩云云</a>
+						<i>/</i>
+						<a href="/vod/search/actor/%E5%86%AF%E6%BB%A1/" target="_blank" data-no-instant="true">冯满</a>
+						<i>/</i>
+						<a href="/vod/search/actor/%E5%88%98%E7%A7%8B%E5%AE%9E/" target="_blank" data-no-instant="true">刘秋实</a>
+						<i>/</i>
+						<a href="/vod/search/actor/%E8%B4%BE%E9%87%91%E9%87%91/" target="_blank" data-no-instant="true">贾金金</a>
+						<i>/</i>
+					</li>
+					<li class="hl-col-xs-12">
+						<em class="hl-text-muted">导演：</em>
+						<a href="/vod/search/director/%E5%BC%A0%E6%80%9D%E9%BA%9F/" target="_blank" data-no-instant="true">张思麟</a>
+						<i>/</i>
+					</li>
+					<li class="hl-col-xs-12 hl-col-sm-4">
+						<em class="hl-text-muted">年份：</em>2024
+					</li>
+					<li class="hl-col-xs-12 hl-col-sm-4">
+						<em class="hl-text-muted">地区：</em>大陆
+					</li>
+					<li class="hl-col-xs-12 hl-col-sm-4">
+						<em class="hl-text-muted">类型：</em>
+						<a href="/vod/search/class/%E5%9B%BD%E4%BA%A7/" target="_blank" data-no-instant="true">国产</a>
+						<i>/</i>
+					</li>
+					<li class="hl-col-xs-12 hl-col-sm-4">
+						<em class="hl-text-muted">时长：</em>内详
+					</li>
+					<li class="hl-col-xs-12 hl-col-sm-4">
+						<em class="hl-text-muted">上映：</em>未知
+					</li>
+					<li class="hl-col-xs-12 hl-col-sm-4">
+						<em class="hl-text-muted">语言：</em>国语
+					</li>
+					<li class="hl-col-xs-12">
+						<em class="hl-text-muted">更新：</em>2024-04-13 19:15
+					</li>
+					<li class="hl-col-xs-12 blurb">
+						<em class="hl-text-muted">简介：</em>　　1978年，20岁的辽宁兴城人彭锦西被情敌秦升举报“投机倒把”入狱，失去了上大学的资格。彭锦西出狱后自产自销做起泳裤生意，女友罗虹不离不弃，他们克服重重困难喜结连理，
+						彭锦西成为当地第一个“万元户”。1980年代初，政策放开，远亲贾为民等人效仿彭锦西建作坊做泳装，开始与他展开价格战，彭锦西夫妇见招拆招，既巩固了本地市场，又团结了同行，彭锦西领路让“兴城泳装”走向全国。上世纪90年代，
+						彭锦西遭遇秦升复仇和市场整改的双面夹击，跌入低谷，他依旧乐观，凭借过人的智慧，几经沉浮找到突破口，建立正规工厂和自主品牌，成功突围。之后，彭锦西夫妇带领“兴城泳装”乘风踏浪，
+						成为全球最大的泳装生产基地，世界上每4件泳装就有1件是兴城人生产出来的【爱，是生命中最珍贵的礼物。】
+					</li>
+				</ul>
+				<script type="text/javascript">let vdal = document.querySelectorAll("a[target]"); vdal.forEach((box, index) => { box.setAttribute('data-no-instant', 'true'); });</script>
+			</div>
+		</div>
+
+		
+//
+
+
+<li class="hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2">
+	<a class="hl-item-thumb hl-lazy" href="/vod/detail/id/73631/" title="掌柜哥哥你走开" data-original="https://img.lzzyimg.com/upload/vod/20240329-1/f88d1973733f2479395e4e249a20b11a.jpg" 
+	style="background-image: url(&quot;https://img.lzzyimg.com/upload/vod/20240329-1/f88d1973733f2479395e4e249a20b11a.jpg&quot;);">
+		<div class="hl-pic-icon hl-hidden-xs">
+			<i class="iconfont hl-icon-bofang-fill"></i>
+		</div>
+		<div class="hl-pic-tag"></div>
+		<div class="hl-pic-text">
+			<span class="hl-lc-1 remarks">全24集</span>
+		</div>
+	</a>
+	<div class="hl-item-text">
+		<div class="hl-item-title hl-text-site hl-lc-1">
+			<a href="/vod/detail/id/73631/" title="掌柜哥哥你走开">掌柜哥哥你走开</a>
+		</div>
+		<div class="hl-item-sub hl-text-muted hl-lc-1">梁森/朱林雨/侯立/马芯妤/</div>
+	</div>
+</li>
+
+
+
+//

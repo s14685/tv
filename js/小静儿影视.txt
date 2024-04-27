@@ -1,0 +1,49 @@
+//小静儿影视 
+// https://xiaojinger.cc/vodshow/13.html
+// 频道 电影 连续剧 动漫 综艺 
+//分类 全部 国产剧 港台剧 韩国剧 日本剧 欧美剧 泰国剧 其他剧 
+//类型 全部 古装 战争 青春偶像 喜剧 家庭 犯罪 动作 奇幻 剧情 历史 经典 乡村 情景 商战 网剧 其他 
+//地区 全部 内地 韩国 香港 台湾 日本 美国 泰国 英国 新加坡 其他 
+//年份 全部 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 
+//语言 全部 国语 英语 粤语 闽南语 韩语 日语 其它 
+//版本 全部 高清版 剧场版 抢先版 OVA TV 影院版 
+//资源 全部 正片 预告片 花絮 
+//字母 全部 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 0-9 
+//按最新 按最热 按评分
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="public-list-box public-pic-b">
+	<div class="public-list-div public-list-bj">
+		<a class="public-list-exp" href="/voddetail/107779.html">
+			<img class="lazy lazy1 gen-movie-img mask-b entered loaded" alt="步步倾心" referrerpolicy="no-referrer" src="https://img.lzzyimg.com/upload/vod/20240328-1/0ba0c303da7c28a1bf948232d917d071.jpg" 
+			data-src="https://img.lzzyimg.com/upload/vod/20240328-1/0ba0c303da7c28a1bf948232d917d071.jpg" data-ll-status="loaded">
+				<span class="public-list-prb hide ft2">更新至第22集</span>
+				<span class="public-bg"></span>
+				<span class="public-play">
+					<i class="fa"></i>
+				</span>
+			</a>
+		</div>
+		<div class="public-list-button">
+			<a class="time-title hide ft4" href="/voddetail/107779.html">步步倾心</a>
+			<div class="public-list-subtitle cor5 hide ft2">赵志伟,卢洋洋,常斌,倪美诗,胡博文,张蓝艺</div>
+		</div>
+	</div>
+	
+
+//

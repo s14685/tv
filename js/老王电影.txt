@@ -1,0 +1,325 @@
+
+//老王电影
+//https://www.laowang.co/vodshow/hanju-韩国-hits-古装-韩语-------2024.html
+
+<ul class="nav-menu-items">
+					<li class="nav-menu-item ">
+						<a href="/" title="老王电影 - 在线观看最新电影|最新美剧|最新短剧首页">
+						<i class="icon-home nav-menu-item-name-white"></i> <span class="nav-menu-item-name">首页</span></a>
+					</li>
+										<li class="nav-menu-item  ">
+						<a href="/vodtype/movie.html" title="电影">
+						                                      <i class="icon-cate-dy nav-menu-item-name-white"></i>
+                                 
+						    <span class="nav-menu-item-name">电影</span></a>
+					</li>
+										<li class="nav-menu-item  selected">
+						<a href="/vodtype/tv.html" title="电视剧">
+						                                    <i class="icon-cate-ds nav-menu-item-name-white"></i>
+                                 
+						    <span class="nav-menu-item-name">电视剧</span></a>
+					</li>
+										<li class="nav-menu-item  ">
+						<a href="/vodtype/tvshow.html" title="综艺">
+						                                    <i class="icon-cate-zy nav-menu-item-name-white"></i>
+                                 
+						    <span class="nav-menu-item-name">综艺</span></a>
+					</li>
+										<li class="nav-menu-item  ">
+						<a href="/vodtype/animation.html" title="动漫">
+						                                    <i class="icon-cate-dm nav-menu-item-name-white"></i>
+                                  
+						    <span class="nav-menu-item-name">动漫</span></a>
+					</li>
+										<li class="nav-menu-item  ">
+						<a href="/vodtype/duanju.html" title="短剧">
+						                                    <i class="iconfont icon-douyin nav-menu-item-name-white"></i>
+                                  
+						    <span class="nav-menu-item-name">短剧</span></a>
+					</li>
+										<li class="nav-menu-item">
+					<a target="_blank" href="/gbook.html" class="nav-link">
+					  <i class="iconfont icon-zidingyiquyu nav-menu-item-name-white"></i> 
+					   <span class="nav-menu-item-name"> 留言</span>
+					 </a>
+				</li>
+					
+					<li class="nav-menu-item  domain plus">
+						<a href="javascript:;" title="老王电影 - 在线观看最新电影|最新美剧|最新短剧最新域名">
+						 <i class="icon-domain nav-menu-item-name-white"></i>  
+						    <span class="nav-menu-item-name">网址</span><em>+</em></a>
+					</li>
+					 					 
+				</ul>
+//
+<div class="library-list">
+	<a class="library-item " href="/vodshow/dalu-----------.html">国产剧</a>
+	<a class="library-item " href="/vodshow/meiju-----------.html">美剧</a>
+	<a class="library-item " href="/vodshow/hanju-----------.html">韩剧</a>
+	<a class="library-item " href="/vodshow/gangtaiju-----------.html">港台剧</a>
+	<a class="library-item " href="/vodshow/riju-----------.html">日剧</a>
+	<a class="library-item " href="/vodshow/qitaju-----------.html">其他剧</a>
+</div>
+
+//
+<div class="module-item">
+	<div class="module-item-cover">
+		<div class="module-item-pic">
+			<a href="/voddetail/300732.html" title="辐射第一季">
+				<i class="icon-play"></i>
+			</a>
+			<img class="lazy lazyloaded" data-src="/upload/vod/20240411-1/be7d6801b5acda6e874a48023b900872.jpg" 
+			src="/upload/vod/20240411-1/be7d6801b5acda6e874a48023b900872.jpg" 
+			onerror="javascript:this.src='/upload/mxcms/20231219-1/5c62d061d3a5621af7261c0e5262bcdd.png'" alt="辐射第一季">
+				<div class="loading"></div>
+			</div>
+			<div class="module-item-caption">
+				<span>2024</span>
+				<span class="video-class">美剧</span>
+				<span>美国</span>
+			</div>
+			<!--热播标题的左侧额外的推荐电影名称：视频推荐 5-->
+			<div class="module-item-ru">
+				<span class="tuijian">推荐</span>
+			</div>
+			<div class="module-item-content">
+				<div class="module-item-style video-name">
+					<a href="/voddetail/300732.html" title="辐射第一季">辐射第一季</a>
+				</div>
+				<div class="module-item-style video-tag">
+					<a href="/vodsearch/-%E8%89%BE%E6%8B%89%C2%B7%E7%8F%80%E5%86%85%E5%B0%94------------.html" target="_blank">艾拉·珀内尔</a>&nbsp;
+					<a href="/vodsearch/-%E5%87%AF%E5%B0%94%C2%B7%E9%BA%A6%E5%85%8B%E6%8B%89%E5%85%8B%E4%BC%A6------------.html" target="_blank">凯尔·麦克拉克伦</a>&nbsp;
+					<a href="/vodsearch/-%E6%B2%83%E5%B0%94%E9%A1%BF%C2%B7%E6%88%88%E9%87%91%E6%96%AF------------.html" target="_blank">沃尔顿·戈金斯</a>&nbsp;
+					<a href="/vodsearch/-%E5%B8%8C%E5%88%A9%E4%BA%9A%C2%B7%E9%97%A8%E5%BE%B7%E6%96%AF-%E7%90%BC%E6%96%AF------------.html" target="_blank">希利亚·门德斯-琼斯</a>&nbsp;
+					<a href="/vodsearch/-%E9%98%BF%E4%BC%A6%C2%B7%E8%8E%AB%E6%BB%95------------.html" target="_blank">阿伦·莫滕</a>&nbsp;
+					<a href="/vodsearch/-%E8%8E%AB%E4%BC%8A%E5%A1%9E%E6%96%AF%C2%B7%E9%98%BF%E9%87%8C%E4%BA%9A%E6%96%AF------------.html" target="_blank">莫伊塞斯·阿里亚斯</a>&nbsp;
+					<a href="/vodsearch/-%E7%BA%A6%E7%BF%B0%E5%B0%BC%C2%B7%E5%BD%AD%E4%BC%AF%E9%A1%BF------------.html" target="_blank">约翰尼·彭伯顿</a>&nbsp;
+					<a href="/vodsearch/-Aixa+Kendrick------------.html" target="_blank">Aixa Kendrick</a>&nbsp;
+					<a href="/vodsearch/-Leer+Leary------------.html" target="_blank">Leer Leary</a>&nbsp;
+					<a href="/vodsearch/-Dave+Register------------.html" target="_blank">Dave Register</a>&nbsp;
+					<a href="/vodsearch/-Rodrigo+Luzzi------------.html" target="_blank">Rodrigo Luzzi</a>&nbsp;
+					<a href="/vodsearch/-Annabel+O%26%23039%3BHagan------------.html" target="_blank">Annabel O'Hagan</a>&nbsp;
+					<a href="/vodsearch/-Justin+Clarke------------.html" target="_blank">Justin Clarke</a>&nbsp;
+					<a href="/vodsearch/-%E9%9B%AA%E6%A2%A8%C2%B7%E9%81%93%E6%AF%94%E4%BB%80------------.html" target="_blank">雪梨·道比什</a>&nbsp;
+					<a href="/vodsearch/-Harry+Sutton+Jr.------------.html" target="_blank">Harry Sutton Jr.</a>&nbsp;
+					<a href="/vodsearch/-Christopher+Parker------------.html" target="_blank">Christopher Parker</a>&nbsp;
+					<a href="/vodsearch/-Daniel+J.+Martin------------.html" target="_blank">Daniel J. Martin</a>&nbsp;
+					<a href="/vodsearch/-Michele+Danna------------.html" target="_blank">Michele Danna</a>&nbsp;
+					<a href="/vodsearch/-Maria+Del+Mar+Gonzalez------------.html" target="_blank">Maria Del Mar Gonzalez</a>&nbsp;
+					<a href="/vodsearch/-%E6%88%B4%E5%B0%94%C2%B7%E8%BF%AA%E5%A5%87------------.html" target="_blank">戴尔·迪奇</a>&nbsp;						
+				</div>
+				<div class="module-item-style video-text">　　该剧改编自同名游戏，讲述了在一个艺术、科技和文化风格为1950年代的复古未来主义的架空世界，一场核战争在2077年10月23日爆发后所带来的后末日废土世界的故事。</div>
+			</div>
+		</div>
+		<div class="module-item-titlebox">
+			<a href="/voddetail/300732.html" class="module-item-title" title="辐射第一季">辐射第一季</a>
+		</div>
+		<div class="module-item-text">全8集</div>
+	</div>
+
+//
+<div class="video-info">
+	<div class="video-info-header">
+		<h1 class="page-title">双面千金洛莞莞</h1>
+		<h2 class="video-subtitle" title="又名：shuangmianqianjinluowanwan">shuangmianqianjinluowanwan</h2>
+		<div class="scroll-box">
+			<div class="video-info-aux scroll-content">
+				<a href="/vodtype/tv.html" title="电视剧" class="tag-link">
+					<span class="video-tag-icon">
+						<i class="icon-cate-ds"></i>
+                            电视剧						     
+					</span>
+				</a>
+				<div class="tag-link">
+					<span class="slash">/</span>
+					<a href="/vodshow/13---%E5%86%85%E5%9C%B0--------.html">内地</a>
+					<span class="slash">/</span>
+					<a href="/vodshow/13---%E7%9F%AD%E5%89%A7--------.html">短剧</a>
+					<span class="slash">/</span>
+					<a href="/vodshow/13---%E5%9B%BD%E4%BA%A7--------.html">国产</a>
+					<span class="slash">/</span>
+					<a href="/vodshow/13---%E7%88%B1%E6%83%85--------.html">爱情</a>
+					<span class="slash">/</span>
+					<a href="/vodshow/13---%E5%8F%A4%E8%A3%85--------.html">古装</a>
+					<span class="slash">/</span>
+				</div>
+				<a class="tag-link" href="/vodshow/13-----------2024.html">2024	</a>
+				<a class="tag-link" href="/vodshow/13-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86----------.html">中国大陆	</a>
+			</div>
+		</div>
+		<a href="/vodplay/297143-1-1.html" class="btn-important btn-large shadow-drop video-info-play" title="立刻播放双面千金洛莞莞">
+			<i class="icon-play"></i>
+			<strong>立即播放</strong>
+		</a>
+		<a href="javascript:void(0);" data-type="2" data-mid="1" data-id="297143" class="mac_ulog btn-large btn-collect video-info-play">
+			<i class="iconfont  icon-shoucang"></i>收藏
+		</a>
+	</div>
+	<div class="video-info-main">
+		<div class="video-info-items">
+			<span class="video-info-itemtitle">导演：</span>
+			<div class="video-info-item video-info-actor">
+				<span class="slash">/</span>
+				<a href="/vodsearch/-----%E5%8D%81%E6%9C%88%E6%97%B6--------.html" target="_blank">十月时</a>
+				<span class="slash">/</span>
+			</div>
+		</div>
+		<div class="video-info-items">
+			<span class="video-info-itemtitle">主演：</span>
+			<div class="video-info-item video-info-actor">
+				<span class="slash">/</span>
+				<a href="/vodsearch/-%E9%BB%91%E6%B3%BD------------.html" target="_blank">黑泽</a>
+				<span class="slash">/</span>
+				<a href="/vodsearch/-%E5%90%B4%E6%80%9D%E9%9B%A8------------.html" target="_blank">吴思雨</a>
+				<span class="slash">/</span>
+				<a href="/vodsearch/-%E6%9D%8E%E7%B4%AB%E4%B8%80------------.html" target="_blank">李紫一</a>
+				<span class="slash">/</span>
+				<a href="/vodsearch/-%E7%8E%8B%E7%85%9C%E9%9C%96------------.html" target="_blank">王煜霖</a>
+				<span class="slash">/</span>
+			</div>
+		</div>
+		<div class="video-info-items">
+			<span class="video-info-itemtitle">上映：</span>
+			<div class="video-info-item">未知</div>
+		</div>
+		<div class="video-info-items">
+			<span class="video-info-itemtitle">更新：</span>
+			<div class="video-info-item">2024-04-11 11:15:32，最后更新于
+					刚刚</div>
+		</div>
+		<div class="video-info-items">
+			<span class="video-info-itemtitle">  集数：</span>
+			<div class="video-info-item">第14集</div>
+		</div>
+		<div class="video-info-items">
+			<span class="video-info-itemtitle">评分：</span>
+			<div class="video-info-item">
+				<font color="#007711">0.0分</font>
+			</div>
+		</div>
+		<div class="video-info-items">
+			<span class="video-info-itemtitle">评价：</span>
+			<span class="text-muted" style="margin-right: 10px;">
+				<a href="https://search.douban.com/movie/subject_search?search_text=双面千金洛莞莞" target="_blank" title="到豆瓣页面查看《双面千金洛莞莞》" rel="nofollow">
+					<img src="https://img3.doubanio.com/favicon.ico" style="width:15px; height:15px">
+					</a>
+				</span>
+				<span class="text-muted" style="margin-right: 10px;">
+					<a href="https://www.douyin.com/search/双面千金洛莞莞" target="_blank" title="到抖音页面查看《双面千金洛莞莞》" rel="nofollow">
+						<img src="https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin/search/public/favicon.ico" style="width:15px; height:15px">
+						</a>
+					</span>
+					<span class="text-muted" style="margin-right: 10px;">
+						<a href="https://www.kuaishou.com/search/video?searchKey=双面千金洛莞莞" target="_blank" title="到快手页面查看《双面千金洛莞莞》" rel="nofollow">
+							<img src="https://static.yximgs.com/udata/pkg/WEB-LIVE/kwai_icon.8f6787d8.ico" style="width:15px; height:15px">
+							</a>
+						</span>
+						<span class="text-muted" style="margin-right: 10px;">
+							<a href="https://www.ixigua.com/search/双面千金洛莞莞" target="_blank" title="到西瓜视频页面查看《双面千金洛莞莞》" rel="nofollow">
+								<img src="https://sf1-cdn-tos.douyinstatic.com/obj/eden-cn/lpqpflo/ixigua_favicon.ico" style="width:15px; height:15px">
+								</a>
+							</span>
+							<span class="text-muted" style="margin-right: 10px;">
+								<a href="https://s.weibo.com/weibo?q=双面千金洛莞莞" target="_blank" title="到微博页面查看《双面千金洛莞莞》" rel="nofollow">
+									<img src="https://weibo.com/favicon.ico" style="width:15px; height:15px">
+									</a>
+								</span>
+								<span class="text-muted" style="margin-right: 10px;">
+									<a href="https://www.toutiao.com/search?keyword=双面千金洛莞莞" target="_blank" title="到头条页面查看《双面千金洛莞莞》" rel="nofollow">
+										<img src="https://so.toutiao.com/favicon.ico" style="width:15px; height:15px">
+										</a>
+									</span>
+									<span class="text-muted" style="margin-right: 10px;">
+										<a href="https://www.baidu.com/s?wd=双面千金洛莞莞" target="_blank" title="到百度页面查看《双面千金洛莞莞》" rel="nofollow">
+											<img src="https://www.baidu.com/favicon.ico" style="width:15px; height:15px">
+											</a>
+										</span>
+									</div>
+									<div class="video-info-items">
+										<span class="video-info-itemtitle">TAG：</span>
+										<div class="video-info-item">
+											<a href="/vodsearch/------------%E5%8F%8C%E9%9D%A2%E5%8D%83%E9%87%91%E6%B4%9B%E8%8E%9E%E8%8E%9E-.html" target="_blank">双面千金洛莞莞</a>&nbsp;
+											<a href="/vodsearch/------------%E9%AA%97%E5%A9%9A-.html" target="_blank">骗婚</a>&nbsp;
+											<a href="/vodsearch/------------%E5%87%B6%E6%A1%88-.html" target="_blank">凶案</a>&nbsp;
+											<a href="/vodsearch/------------%E6%B4%9B%E8%8E%9E%E8%8E%9E-.html" target="_blank">洛莞莞</a>&nbsp;
+											<a href="/vodsearch/------------%E9%AC%BC%E9%9D%A2-.html" target="_blank">鬼面</a>&nbsp;
+											<a href="/vodsearch/------------%E5%A4%A7%E5%A9%9A-.html" target="_blank">大婚</a>&nbsp;
+											<a href="/vodsearch/------------%E5%8F%8C%E9%9D%A2-.html" target="_blank">双面</a>&nbsp;
+										</div>
+									</div>
+									<div class="video-info-items">
+										<span class="video-info-itemtitle">剧情：</span>
+										<div class="video-info-item video-info-content vod_content">
+											<span>尚书千金与丞相之子大婚当晚双双卷入鬼面新娘凶案，等待两人再次相见，一个是有杀人嫌疑的骗婚组织老大，一个却是捉拿凶手的大理寺少卿。</span>
+											<a href="javaScript:;" class="shrink" style="display: none;">收起</a>
+										</div>
+									</div>
+								</div>
+								<div class="video-info-footer display">
+									<div class="video-info-share">
+										<button class="share-btn" data-clipboard-text="laowang.co/voddetail/297143.html 我正在老王电影 - 在线观看最新电影|最新美剧|最新短剧观看《双面千金洛莞莞》，推荐给你一起看！">好影片，与好朋友一起分享
+											<i class="icon-happy"></i>
+										</button>
+									</div>
+									<a href="/vodplay/297143-1-1.html" class="btn-important btn-large shadow-drop" title="立刻播放双面千金洛莞莞">
+										<i class="icon-play"></i>
+										<strong>立即播放</strong>
+									</a>
+									<a href="javascript:void(0);" data-type="2" data-mid="1" data-id="297143" class="mac_ulog  btn-large btn-collect">
+										<i class="iconfont  icon-shoucang"></i>收藏
+									</a>
+								</div>
+							</div>
+
+//
+<div class="module-tab-items">
+	<div class="module-tab-title">播放节点列表
+		<span class="close-drop">
+			<i class="icon-close-o"></i>
+		</span>
+	</div>
+	<div class="module-tab-content">
+		<div class="module-tab-item tab-item selected" data-dropdown-value="线路1">
+			<span>线路1</span>
+			<small>14</small>
+		</div>
+		<div class="module-tab-item tab-item" data-dropdown-value="线路2">
+			<span>线路2</span>
+			<small>14</small>
+		</div>
+		<div class="module-tab-item tab-item" data-dropdown-value="线路3">
+			<span>线路3</span>
+			<small>14</small>
+		</div>
+		<div class="module-tab-item tab-item" data-dropdown-value="线路4">
+			<span>线路4</span>
+			<small>14</small>
+		</div>
+		<div class="module-tab-item tab-item" data-dropdown-value="线路5">
+			<span>线路5</span>
+			<small>14</small>
+		</div>
+		<div class="module-tab-item tab-item" data-dropdown-value="线路6">
+			<span>线路6</span>
+			<small>14</small>
+		</div>
+		<div class="module-tab-item tab-item" data-dropdown-value="线路7">
+			<span>线路7</span>
+			<small>13</small>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

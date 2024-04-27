@@ -1,0 +1,212 @@
+//爱壹帆
+
+<div class="module-item">
+	<div class="module-item-cover">
+		<div class="module-item-pic">
+			<a href="/index.php/vod/detail/id/37982.html" title="你也有今天">
+				<i class="icon-play"></i>
+			</a>
+			<img class="lazy lazyloaded" data-src="https://img.haiwaikan.com/ximgs/4d0b6847a5920b1c3a58fd9b512778b775d58e94ec948868181d44ee8ae28483ad0d5912db765e094b6e8ec07b0c6e92.jpg" 
+			src="https://img.haiwaikan.com/ximgs/4d0b6847a5920b1c3a58fd9b512778b775d58e94ec948868181d44ee8ae28483ad0d5912db765e094b6e8ec07b0c6e92.jpg" onerror="javascript:this.src='/'" alt="你也有今天">
+				<div class="loading"></div>
+			</div>
+			<div class="module-item-caption">
+				<span>2024</span>
+				<span class="video-class">国产剧</span>
+				<span>大陆</span>
+			</div>
+			<div class="module-item-ru">
+				<span class="">热播</span>
+			</div>
+			<div class="module-item-content">
+				<div class="module-item-style video-name">
+					<a href="/index.php/vod/detail/id/37982.html" title="你也有今天">你也有今天</a>
+				</div>
+				<div class="module-item-style video-tag">
+					<a href="/index.php/vod/search/actor/%E9%99%88%E6%98%9F%E6%97%AD.html" target="_blank">陈星旭</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E7%AB%A0%E8%8B%A5%E6%A5%A0.html" target="_blank">章若楠</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E9%99%88%E5%B0%8F%E7%BA%AD.html" target="_blank">陈小纭</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E6%9D%8E%E4%BF%8A%E8%B4%A4.html" target="_blank">李俊贤</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E5%90%88%E6%96%87%E4%BF%8A.html" target="_blank">合文俊</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E6%9D%8E%E6%AE%BF%E5%B0%8A.html" target="_blank">李殿尊</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E9%99%88%E6%98%8A%E8%93%9D.html" target="_blank">陈昊蓝</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E8%B0%A2%E5%B8%85.html" target="_blank">谢帅</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E8%8C%83%E5%B8%85%E7%90%A6.html" target="_blank">范帅琦</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E5%8F%B6%E7%AD%B1%E7%8E%AE.html" target="_blank">叶筱玮</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E5%B2%B3%E8%B7%83%E5%88%A9.html" target="_blank">岳跃利</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E7%BF%81%E8%99%B9.html" target="_blank">翁虹</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E8%93%9D%E5%9F%8E.html" target="_blank">蓝城</a>&nbsp;
+					<a href="/index.php/vod/search/actor/%E5%88%98%E6%B4%81.html" target="_blank">刘洁</a>&nbsp;
+				</div>
+				<div class="module-item-style video-text">怀揣着律师梦想的纯真少女成瑶（章若楠饰），被一个最顶级的律师事务所录取，于是她决定搬到离公司近一些的地方住可以更好的工作。没想到房东一房两租，成瑶跟另一个租客发生争吵。结果那个人竟然是成瑶律所的老板钱</div>
+			</div>
+		</div>
+		<div class="module-item-titlebox">
+			<a href="/index.php/vod/detail/id/37982.html" class="module-item-title" title="你也有今天">你也有今天</a>
+		</div>
+		<div class="module-item-text">36集全</div>
+	</div>
+
+
+<div class="video-info-main">
+	<div class="video-info-items">
+		<span class="video-info-itemtitle">导演：</span>
+		<div class="video-info-item video-info-actor">
+			<span class="slash">/</span>
+			<a href="/index.php/vod/search/director/%E4%B8%81%E6%94%BE.html" target="_blank">丁放</a>
+			<span class="slash">/</span>
+		</div>
+	</div>
+	<div class="video-info-items">
+		<span class="video-info-itemtitle">主演：</span>
+		<div class="video-info-item video-info-actor">
+			<span class="slash">/</span>
+			<a href="/index.php/vod/search/actor/%E5%AD%9F%E7%92%90.html" target="_blank">孟璐</a>
+			<span class="slash">/</span>
+			<a href="/index.php/vod/search/actor/%E9%99%88%E5%9C%A3%E4%BA%A8.html" target="_blank">陈圣亨</a>
+			<span class="slash">/</span>
+			<a href="/index.php/vod/search/actor/%E5%91%A8%E5%AE%87%E9%B9%8F.html" target="_blank">周宇鹏</a>
+			<span class="slash">/</span>
+			<a href="/index.php/vod/search/actor/%E6%9D%8E%E6%9F%8F%E8%93%89.html" target="_blank">李柏蓉</a>
+			<span class="slash">/</span>
+			<a href="/index.php/vod/search/actor/%E8%B1%A1%E9%9F%B5%E6%B4%81.html" target="_blank">象韵洁</a>
+			<span class="slash">/</span>
+			<a href="/index.php/vod/search/actor/%E4%BD%95%E7%BB%8D%E5%AE%8F.html" target="_blank">何绍宏</a>
+			<span class="slash">/</span>
+			<a href="/index.php/vod/search/actor/%E7%8E%8B%E4%BA%BA%E5%8F%AF.html" target="_blank">王人可</a>
+			<span class="slash">/</span>
+		</div>
+	</div>
+	<div class="video-info-items">
+		<span class="video-info-itemtitle">上映：</span>
+		<div class="video-info-item">未知</div>
+	</div>
+	<div class="video-info-items">
+		<span class="video-info-itemtitle">更新：</span>
+		<div class="video-info-item">2024-03-19 14:45:03，最后更新于22天前</div>
+	</div>
+	<div class="video-info-items">
+		<span class="video-info-itemtitle">集数：</span>
+		<div class="video-info-item">24集全</div>
+	</div>
+	<div class="video-info-items">
+		<span class="video-info-itemtitle">评分：</span>
+		<div class="video-info-item">
+			<font color="#007711">0.0分</font>
+		</div>
+	</div>
+	<div class="video-info-items">
+		<span class="video-info-itemtitle">TAG：</span>
+		<div class="video-info-item">未知</div>
+	</div>
+	<div class="video-info-items">
+		<span class="video-info-itemtitle">剧情：</span>
+		<div class="video-info-item video-info-content vod_content">
+			<span>甜美女孩萱祎（孟璐饰）撞破男友于大浪出轨现场，失恋后阴差阳错之下成为当红男偶像龙一（陈圣亨饰）的小助理，帮助龙一踏上转型实力派演员的道路，与他一路相随，陪他度过各种难关，最终帮助龙一实现转型梦想，也收获了一份真挚的爱情。</span>
+			<a href="javaScript:;" class="shrink" style="display: none;">收起</a>
+		</div>
+	</div>
+</div>
+
+//
+<div class="module-list module-player-list tab-list sort-list selected" id="glist-1">
+	<div class="module-tab module-sorttab">
+		<input type="hidden" name="tab-sort" id="tab-sort" class="module-tab-input">
+			<label class="module-tab-name">
+				<i class="icon-sort"></i>选集
+			</label>
+			<div class="module-tab-items">
+				<div class="module-tab-title">选集
+					<span class="close-drop">
+						<i class="icon-close-o"></i>
+					</span>
+					<a class="desc sort-button" href="javascript:void(0);" to="#sort-item-1">
+						<i class="icon-sort"></i>排序
+					</a>
+				</div>
+				<div class="module-tab-content">
+					<div class="module-blocklist">
+						<div class="sort-item" id="sort-item-1">
+							<a href="/index.php/vod/play/id/38807/sid/1/nid/1.html" title="播放炸鸡块奇遇记1">
+								<span>1</span>
+							</a>
+							<a href="/index.php/vod/play/id/38807/sid/1/nid/2.html" title="播放炸鸡块奇遇记2">
+								<span>2</span>
+							</a>
+							<a href="/index.php/vod/play/id/38807/sid/1/nid/3.html" title="播放炸鸡块奇遇记3">
+								<span>3</span>
+							</a>
+							<a href="/index.php/vod/play/id/38807/sid/1/nid/4.html" title="播放炸鸡块奇遇记4">
+								<span>4</span>
+							</a>
+							<a href="/index.php/vod/play/id/38807/sid/1/nid/5.html" title="播放炸鸡块奇遇记5">
+								<span>5</span>
+							</a>
+							<a href="/index.php/vod/play/id/38807/sid/1/nid/6.html" title="播放炸鸡块奇遇记6">
+								<span>6</span>
+							</a>
+							<a href="/index.php/vod/play/id/38807/sid/1/nid/7.html" title="播放炸鸡块奇遇记7">
+								<span>7</span>
+							</a>
+							<a href="/index.php/vod/play/id/38807/sid/1/nid/8.html" title="播放炸鸡块奇遇记8">
+								<span>8</span>
+							</a>
+							<a href="/index.php/vod/play/id/38807/sid/1/nid/9.html" title="播放炸鸡块奇遇记9">
+								<span>9</span>
+								<em style="background:#FF008C;color:#FFFFFF">最新</em>
+							</a>
+							<a href="/index.php/vod/play/id/38807/sid/1/nid/10.html" title="播放炸鸡块奇遇记10">
+								<span>10</span>
+								<em style="background:#FF008C;color:#FFFFFF">最新</em>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="shortcuts-mobile-overlay"></div>
+		<div class="module-blocklist scroll-box scroll-box-y">
+			<div class="scroll-content">
+				<a href="/index.php/vod/play/id/38807/sid/1/nid/1.html" title="播放炸鸡块奇遇记1">
+					<span>1</span>
+				</a>
+				<a href="/index.php/vod/play/id/38807/sid/1/nid/2.html" title="播放炸鸡块奇遇记2">
+					<span>2</span>
+				</a>
+				<a href="/index.php/vod/play/id/38807/sid/1/nid/3.html" title="播放炸鸡块奇遇记3">
+					<span>3</span>
+				</a>
+				<a href="/index.php/vod/play/id/38807/sid/1/nid/4.html" title="播放炸鸡块奇遇记4">
+					<span>4</span>
+				</a>
+				<a href="/index.php/vod/play/id/38807/sid/1/nid/5.html" title="播放炸鸡块奇遇记5">
+					<span>5</span>
+				</a>
+				<a href="/index.php/vod/play/id/38807/sid/1/nid/6.html" title="播放炸鸡块奇遇记6">
+					<span>6</span>
+				</a>
+				<a href="/index.php/vod/play/id/38807/sid/1/nid/7.html" title="播放炸鸡块奇遇记7">
+					<span>7</span>
+				</a>
+				<a href="/index.php/vod/play/id/38807/sid/1/nid/8.html" title="播放炸鸡块奇遇记8">
+					<span>8</span>
+				</a>
+				<a href="/index.php/vod/play/id/38807/sid/1/nid/9.html" title="播放炸鸡块奇遇记9">
+					<span>9</span>
+					<em style="background:#FF008C;color:#FFFFFF">最新</em>
+				</a>
+				<a href="/index.php/vod/play/id/38807/sid/1/nid/10.html" title="播放炸鸡块奇遇记10">
+					<span>10</span>
+					<em style="background:#FF008C;color:#FFFFFF">最新</em>
+				</a>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+

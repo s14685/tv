@@ -1,0 +1,47 @@
+//打工人影院 
+//https://dagongren1.com/show-dianshiju--hits---------2024.html [非凡资源>>#量子资源>>#高清资源>>#天空资源>>#无尽资源>>#油库资源>>#闪电资源>>#红牛资源>>#新浪资源>>#]
+
+
+
+
+
+
+
+
+<ul class="title_nav">
+<li class="tab-play" title="非凡资源"><label for="play_5" role="button"><span id="my"><i class="iconfont"></i>&nbsp;非凡资源</span>
+</label></li><li class="tab-play" title="量子资源"><label for="play_9" role="button"><span id="my"><i class="iconfont"></i>&nbsp;量子资源</span>
+</label></li><li class="tab-play" title="高清资源"><label for="play_2" role="button"><span id="my"><i class="iconfont"></i>&nbsp;高清资源</span>
+</label></li><li class="tab-play" title="无尽资源"><label for="play_1" role="button"><span id="my"><i class="iconfont"></i>&nbsp;无尽资源</span>
+</label></li><li class="tab-play" title="天空资源"><label for="play_6" role="button"><span id="my"><i class="iconfont"></i>&nbsp;天空资源</span>
+</label></li><li class="tab-play" title="油库资源"><label for="play_8" role="button"><span id="my"><i class="iconfont"></i>&nbsp;油库资源</span>
+</label></li><li class="tab-play" title="闪电资源"><label for="play_4" role="button"><span id="my"><i class="iconfont"></i>&nbsp;闪电资源</span>
+</label></li><li class="tab-play" title="红牛资源"><label for="play_7" role="button"><span id="my"><i class="iconfont"></i>&nbsp;红牛资源</span>
+</label></li><li class="tab-play" title="新浪资源"><label for="play_3" role="button"><span id="my"><i class="iconfont"></i>&nbsp;新浪资源</span>
+</label></li></ul>
+
+//
+
+<div class="cblock">
+	<p class="data ms_p margin_0">
+		<span class="text_muted hidden_xs">类型：</span>
+		<a href="/search-----%E5%89%A7%E6%83%85---------.html" target="_blank">剧情</a>&nbsp;
+		<a href="/search--------------.html" target="_blank"></a>&nbsp; 
+		<span class="split_line"></span>
+		<span class="text_muted hidden_xs">地区：</span>
+		<a href="/search---%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86-----------.html" target="_blank">中国大陆</a>&nbsp; 
+		<span class="split_line"></span>
+		<span class="text_muted hidden_xs">年份：</span>
+		<a href="/search--------------2024.html" target="_blank">2024</a>&nbsp; 
+	</p>
+</div>
+//
+
+<li class="vodlist_item">
+<a class="vodlist_thumb lazyload" href="/play/123154-1-1.html" title="手术直播间" data-original="/upload/vod/20240406-1/e9aaa39c700b8b424285751412ce6fd1.jpg" style="background-image: url(&quot;/upload/vod/20240406-1/e9aaa39c700b8b424285751412ce6fd1.jpg&quot;);">
+<span class="play hidden_xs"></span>
+</a>
+<div class="vodlist_titbox">
+<p class="vodlist_title"><a href="/play/123154-1-1.html" title="手术直播间">手术直播间</a></p>
+<p class="vodlist_sub">更新至第23集</p></div></li>
+//

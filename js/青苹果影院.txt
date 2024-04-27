@@ -1,0 +1,154 @@
+//青苹果影院
+//https://www.mov8.cc/index.php/vod/show/by/hits/id/13/year/2024.html
+
+
+//
+
+
+
+
+
+
+
+https://www.mov8.cc/index.php/vod/play/id/168601/sid/2/nid/1.html
+https://www.mov8.cc/index.php/vod/play/id/168180/sid/3/nid/1.html
+
+
+
+<div class="stui-pannel-box b playlist mb">
+	<div class="stui-pannel_hd">
+		<div class="stui-pannel__head bottom-line active clearfix">
+			<span class="more text-muted pull-right">无需安装任何插件</span>
+			<h3 class="title">高清线路</h3>
+		</div>
+	</div>
+	<div class="stui-pannel_bd col-pd clearfix">
+		<ul class="stui-content__playlist clearfix column8">
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/1.html">第01集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/2.html">第02集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/3.html">第03集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/4.html">第04集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/5.html">第05集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/6.html">第06集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/7.html">第07集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/8.html">第08集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/9.html">第09集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/10.html">第10集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/11.html">第11集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/12.html">第12集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/13.html">第13集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/14.html">第14集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/15.html">第15集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/16.html">第16集</a>
+			</li>
+			<li>
+				<a href="/index.php/vod/play/id/168180/sid/3/nid/17.html">第17集</a>
+			</li>
+		</ul>
+	</div>
+</div>
+
+//
+<div class="stui-content__detail">
+	<h1 class="title">手术直播间</h1>
+	<p class="data">
+		<span class="text-muted">主演：</span>
+		<a href="/index.php/vod/search/actor/%E5%BC%A0%E5%BD%AC%E5%BD%AC.html" target="_blank">张彬彬</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E4%BB%A3%E6%97%AD.html" target="_blank">代旭</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E5%88%98%E6%95%8F%E6%B6%9B.html" target="_blank">刘敏涛</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E6%9D%A8%E9%9B%A8%E6%BD%BC.html" target="_blank">杨雨潼</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E8%A2%81%E5%A7%97%E5%A7%97.html" target="_blank">袁姗姗</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E8%B5%B5%E5%BF%97%E4%BC%9F.html" target="_blank">赵志伟</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E5%88%98%E5%86%A0%E6%88%90.html" target="_blank">刘冠成</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E5%AE%89%E6%B2%BA.html" target="_blank">安沺</a>&nbsp;
+	</p>
+	<p class="data">
+		<span class="text-muted">导演：</span>
+		<a href="/index.php/vod/search/director/%E8%A3%98%E4%BB%B2%E7%BB%B4.html" target="_blank">裘仲维</a>&nbsp;
+	</p>
+	<p class="data">
+		<span class="text-muted">类型：</span>剧情,内地剧,内地
+		<span class="split-line"></span>
+		<span class="text-muted hidden-xs">地区：</span>中国大陆
+		<span class="split-line"></span>
+		<span class="text-muted hidden-xs">年份：</span>2024
+	</p>
+	<p class="data">
+		<span class="text-muted">时间：</span>2024-04-13 10:04:07
+	</p>
+	<p class="desc detail hidden-xs">
+		<span class="left text-muted">简介：</span>
+		<span class="detail-sketch">天才医生郑仁（张彬彬 饰）因要查探十八年前“冤案”的真相来到海城医院，与急诊科“咸鱼”主任苏云（代旭 饰）组成了一对“欢喜冤家”，在相互扶持间攻克了一个又一个疑难病症，开启了一段“爽、燃、酷、嗨”的医</span>
+		<span class="detail-content" style="display: none;">天才医生郑仁（张彬彬 饰）因要查探十八年前“冤案”的真相来到海城医院，与急诊科“咸鱼”主任苏云（代旭 饰）组成了一对“欢喜冤家”，在相互扶持间攻克了一个又一个疑难病症，
+		开启了一段“爽、燃、酷、嗨”的医学之旅。在此期间，郑仁不仅揭开了当年事件的“残酷真相”，也同时与苏云、林渊、谢伊人等人组成了“连体分离术”攻坚小组，秉持着自己心中那一份白衣天使的初心，在反复的模拟训练和坚定不移的医学精神指引下，实现了拯救生命、治愈病患、温暖人心的医生理想。</span>
+		<a class="detail-more" href="javascript:;">详情
+			<i class="icon iconfont icon-moreunfold"></i>
+		</a>
+	</p>
+	<div class="play-btn clearfix">
+		<div class="share bdsharebuttonbox hidden-sm hidden-xs pull-right bdshare-button-style0-24" data-bd-bind="1713022436138">
+			<span class="bds_shere"></span>
+			<a class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+			<a class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+			<a class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+			<a class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+			<a class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a>
+			<a class="bds_bdhome" data-cmd="bdhome" title="分享到百度新首页"></a>
+			<a class="bds_tqf" data-cmd="tqf" title="分享到腾讯朋友"></a>
+			<a class="bds_youdao" data-cmd="youdao" title="分享到有道云笔记"></a>
+			<a class="bds_more" data-cmd="more" title="更多"></a>
+		</div>
+		<a class="btn btn-primary" href="/index.php/vod/play/id/168180/sid/1/nid/1.html">立即播放</a>
+		<a href="javascript:void(0);" class="mac_ulog btn btn-default" data-type="2" data-mid="1" data-id="168180">收藏</a>
+	</div>
+</div>
+//
+
+<li class="col-md-5 col-sm-4 col-xs-3">
+	<div class="stui-vodlist__box">
+		<a class="stui-vodlist__thumb lazyload" href="/index.php/vod/detail/id/169129.html" title="三少爷的剑 何中华版" 
+		data-original="https://image.jinyingimage.com/cover/bc438e29c3a8918daa0dc2ed43fef728.jpg" style="background-image: url(&quot;https://image.jinyingimage.com/cover/bc438e29c3a8918daa0dc2ed43fef728.jpg&quot;);">
+			<span class="play hidden-xs"></span>
+			<span class="pic-text text-right">第34集完结</span>
+		</a>
+		<div class="stui-vodlist__detail">
+			<h4 class="title text-overflow">
+				<a href="/index.php/vod/detail/id/169129.html" title="三少爷的剑 何中华版">三少爷的剑 何中华版</a>
+			</h4>
+			<p class="text text-overflow text-muted hidden-xs">何中华,俞飞鸿,陈龙,陈继铭,张伊函,霍思燕,刘莉莉,杨若兮,石小满,岳跃利,戴春荣,陈莹,张静初,赵毅</p>
+		</div>
+	</div>
+</li>
+//
+

@@ -1,0 +1,421 @@
+//剧圈圈在线
+//https://www.jqqzx.cc/vodshow/by/hits/id/guochanju/year/2024.html
+
+<div class="module-item-box">
+						 				    <a href="/vodshow/id/2.html">全部</a>
+				          				             <a class="active" href="/vodshow/id/guochanju.html" title="国产剧">国产剧</a>
+				            
+				            					             <a href="/vodshow/id/gangtaiju.html" title="港台剧">港台剧</a>
+				            
+				            					             <a href="/vodshow/id/rihanju.html" title="日韩剧">日韩剧</a>
+				            
+				            					             <a href="/vodshow/id/oumeiju.html" title="欧美剧">欧美剧</a>
+				            
+				            					             <a href="/vodshow/id/taiguoju.html" title="泰国剧">泰国剧</a>
+				            
+				            								</div>
+															
+
+<div class="module-items module-poster-items-base ">
+									<a href="/vod/66283.html" title="与凤行" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全39集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" 
+		data-original="https://0img.hitv.com/preview/sp_images/2024/02/08/202402081437124052230.jpg" alt="与凤行" referrerpolicy="no-referrer" 
+		src="https://0img.hitv.com/preview/sp_images/2024/02/08/202402081437124052230.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">与凤行</div>
+	</div>
+</a>
+
+		        				<a href="/vod/66392.html" title="追风者" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">38集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905832521.jpg" alt="追风者" referrerpolicy="no-referrer" src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2905832521.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">追风者</div>
+	</div>
+</a>
+		        				<a href="/vod/26.html" title="花间令" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全剧集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2905719646.jpg" alt="花间令" referrerpolicy="no-referrer" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2905719646.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">花间令</div>
+	</div>
+</a>
+		        				<a href="/vod/127.html" title="烈焰" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">40集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905310770.jpg" alt="烈焰" referrerpolicy="no-referrer" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905310770.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">烈焰</div>
+	</div>
+</a>
+		        				<a href="/vod/66543.html" title="惜花芷" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至18集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="http://m.ykimg.com/050E00006604DFA813EBC61B92E077DB" alt="惜花芷" referrerpolicy="no-referrer" src="http://m.ykimg.com/050E00006604DFA813EBC61B92E077DB" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">惜花芷</div>
+	</div>
+</a>
+		        				<a href="/vod/66498.html" title="乘风踏浪" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至22集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898355850.jpg" alt="乘风踏浪" referrerpolicy="no-referrer" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898355850.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">乘风踏浪</div>
+	</div>
+</a>
+		        				<a href="/vod/66276.html" title="欢乐颂5" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">34集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905569442.jpg" alt="欢乐颂5" referrerpolicy="no-referrer" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905569442.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">欢乐颂5</div>
+	</div>
+</a>
+		        				<a href="/vod/66382.html" title="执笔" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全24集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905916323.jpg" alt="执笔" referrerpolicy="no-referrer" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905916323.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">执笔</div>
+	</div>
+</a>
+		        				<a href="/vod/558.html" title="唐人街探案2" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">16集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2905063416.jpg" alt="唐人街探案2" referrerpolicy="no-referrer" src="https://edu-image.nosdn.127.net/BDB1574081D27EF41EE3709D06D68E0F.jpg"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">唐人街探案2</div>
+	</div>
+</a>
+		        				<a href="/vod/66497.html" title="今天的她们" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全24集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2882734695.jpg" alt="今天的她们" referrerpolicy="no-referrer" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2882734695.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">今天的她们</div>
+	</div>
+</a>
+		        				<a href="/vod/113.html" title="小日子" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">26集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905438272.jpg" alt="小日子" referrerpolicy="no-referrer" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905438272.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">小日子</div>
+	</div>
+</a>
+		        				<a href="/vod/66399.html" title="猜猜我是谁" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至22集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905791477.jpg" alt="猜猜我是谁" referrerpolicy="no-referrer" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905791477.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">猜猜我是谁</div>
+	</div>
+</a>
+		        				<a href="/vod/111.html" title="江河之上" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全34集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905808249.jpg" alt="江河之上" referrerpolicy="no-referrer" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905808249.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">江河之上</div>
+	</div>
+</a>
+		        				<a href="/vod/66547.html" title="又见逍遥" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至17集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906325465.jpg" alt="又见逍遥" referrerpolicy="no-referrer" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2906325465.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">又见逍遥</div>
+	</div>
+</a>
+		        				<a href="/vod/1452.html" title="大唐狄公案" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">32集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2904152406.jpg" alt="大唐狄公案" referrerpolicy="no-referrer" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2904152406.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">大唐狄公案</div>
+	</div>
+</a>
+		        				<a href="/vod/29.html" title="别对我动心" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全24集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="http://m.ykimg.com/0584000065CC3A4A13EBC61B5637AA75" alt="别对我动心" referrerpolicy="no-referrer" src="http://m.ykimg.com/0584000065CC3A4A13EBC61B5637AA75" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">别对我动心</div>
+	</div>
+</a>
+		        				<a href="/vod/623.html" title="猎冰" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2904667720.jpg" alt="猎冰" referrerpolicy="no-referrer" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2904667720.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">猎冰</div>
+	</div>
+</a>
+		        				<a href="/vod/1166.html" title="乡村爱情16" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">40集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903579862.jpg" alt="乡村爱情16" referrerpolicy="no-referrer" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2903579862.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">乡村爱情16</div>
+	</div>
+</a>
+		        				<a href="/vod/1305.html" title="南来北往" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至39集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832344.jpg" alt="南来北往" referrerpolicy="no-referrer" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832344.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">南来北往</div>
+	</div>
+</a>
+		        				<a href="/vod/2514.html" title="致命游戏" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">78集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2904014876.jpg" alt="致命游戏" referrerpolicy="no-referrer" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2904014876.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">致命游戏</div>
+	</div>
+</a>
+		        				<a href="/vod/66473.html" title="步步倾心" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至18集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.image8899.net/upload/vod/20240328-1/22100b48df69ddbc99acca86c4354956.jpg" alt="步步倾心" referrerpolicy="no-referrer" src="https://img.image8899.net/upload/vod/20240328-1/22100b48df69ddbc99acca86c4354956.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">步步倾心</div>
+	</div>
+</a>
+		        				<a href="/vod/66609.html" title="欢喜一家人之家族荣耀" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至04集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://2img.hitv.com/preview/sp_images/2024/03/19/202403191430118716816.jpg" alt="欢喜一家人之家族荣耀" referrerpolicy="no-referrer" src="https://2img.hitv.com/preview/sp_images/2024/03/19/202403191430118716816.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">欢喜一家人之家族荣耀</div>
+	</div>
+</a>
+		        				<a href="/vod/66548.html" title="难寻" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至12集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.image8899.net/upload/vod/20240402-1/1b8bc670f8c016d9a860357f1f382483.jpg" alt="难寻" referrerpolicy="no-referrer" src="https://img.image8899.net/upload/vod/20240402-1/1b8bc670f8c016d9a860357f1f382483.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">难寻</div>
+	</div>
+</a>
+		        				<a href="/vod/2576.html" title="你也有今天" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全36集+付费番外</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896546115.jpg" alt="你也有今天" referrerpolicy="no-referrer" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896546115.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">你也有今天</div>
+	</div>
+</a>
+		        				<a href="/vod/66603.html" title="手术直播间" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至10集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.image8899.net/upload/vod/20240406-1/d5f04bee838ef4aeb96f90360025323f.jpg" alt="手术直播间" referrerpolicy="no-referrer" src="https://img.image8899.net/upload/vod/20240406-1/d5f04bee838ef4aeb96f90360025323f.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">手术直播间</div>
+	</div>
+</a>
+		        				<a href="/vod/66608.html" title="逆天奇案2" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至1集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://m.ykimg.com/050E000065EADB157B50C0200A7B2EB3" alt="逆天奇案2" referrerpolicy="no-referrer" src="https://m.ykimg.com/050E000065EADB157B50C0200A7B2EB3" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">逆天奇案2</div>
+	</div>
+</a>
+		        				<a href="/vod/198.html" title="创想季" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全38集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561009668.jpg" alt="创想季" referrerpolicy="no-referrer" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561009668.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">创想季</div>
+	</div>
+</a>
+		        				<a href="/vod/1499.html" title="欢乐家长群" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">40集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2903998835.jpg" alt="欢乐家长群" referrerpolicy="no-referrer" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2903998835.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">欢乐家长群</div>
+	</div>
+</a>
+		        				<a href="/vod/1706.html" title="在暴雪时分" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">30集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2903683065.jpg" alt="在暴雪时分" referrerpolicy="no-referrer" src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2903683065.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">在暴雪时分</div>
+	</div>
+</a>
+		        				<a href="/vod/110.html" title="谢谢你温暖我" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至24集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905251187.jpg" alt="谢谢你温暖我" referrerpolicy="no-referrer" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905251187.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">谢谢你温暖我</div>
+	</div>
+</a>
+		        				<a href="/vod/97.html" title="飞驰人生热爱篇" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全28集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="http://m.ykimg.com/0584000065D563B513EB661CBAE6A6E5" alt="飞驰人生热爱篇" referrerpolicy="no-referrer" src="http://m.ykimg.com/0584000065D563B513EB661CBAE6A6E5" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">飞驰人生热爱篇</div>
+	</div>
+</a>
+		        				<a href="/vod/57.html" title="皎月流火" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全24集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905565748.jpg" alt="皎月流火" referrerpolicy="no-referrer" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905565748.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">皎月流火</div>
+	</div>
+</a>
+		        				<a href="/vod/2582.html" title="大江大河之岁月如歌" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">33集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2902867531.jpg" alt="大江大河之岁月如歌" referrerpolicy="no-referrer" src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2902867531.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">大江大河之岁月如歌</div>
+	</div>
+</a>
+		        				<a href="/vod/654.html" title="大理寺少卿游" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">36集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904661592.jpg" alt="大理寺少卿游" referrerpolicy="no-referrer" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904661592.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">大理寺少卿游</div>
+	</div>
+</a>
+		        				<a href="/vod/66540.html" title="爱在天摇地动时" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至18集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.image8899.net/upload/vod/20240402-1/abae5fcc643cd62c17a3353116bc5fcc.jpg" alt="爱在天摇地动时" referrerpolicy="no-referrer" src="https://img.image8899.net/upload/vod/20240402-1/abae5fcc643cd62c17a3353116bc5fcc.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">爱在天摇地动时</div>
+	</div>
+</a>
+		        				<a href="/vod/28.html" title="欢乐英雄" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全51集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2530374273.jpg" alt="欢乐英雄" referrerpolicy="no-referrer" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2530374273.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">欢乐英雄</div>
+	</div>
+</a>
+		        				<a href="/vod/44.html" title="师傅" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至24集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905091698.jpg" alt="师傅" referrerpolicy="no-referrer" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905091698.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">师傅</div>
+	</div>
+</a>
+		        				<a href="/vod/96.html" title="宣武门" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">41集全</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509065978.jpg" alt="宣武门" referrerpolicy="no-referrer" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509065978.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">宣武门</div>
+	</div>
+</a>
+		        				<a href="/vod/143.html" title="光之城的战斗联盟" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全24集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://pic.wujinpp.com/upload/vod/20240313-1/b1c53b6472da5e3c73f85fd31ac3f0a4.jpg" alt="光之城的战斗联盟" referrerpolicy="no-referrer" src="https://pic.wujinpp.com/upload/vod/20240313-1/b1c53b6472da5e3c73f85fd31ac3f0a4.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">光之城的战斗联盟</div>
+	</div>
+</a>
+		        				<a href="/vod/66538.html" title="川流" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至17集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.image8899.net/upload/vod/20240402-1/81781b401260f92afa9d8a8b91db05c8.jpg" alt="川流" referrerpolicy="no-referrer" src="https://img.image8899.net/upload/vod/20240402-1/81781b401260f92afa9d8a8b91db05c8.jpg" style=""></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">川流</div>
+	</div>
+</a>
+		         	
+					</div>
+					
+
+
+<div class="module-tab-items-box hisSwiper" id="y-playList">
+								    	  
+                                    <div class="module-tab-item tab-item active" data-dropdown-value="专线"><span>专线</span><small>54</small></div>
+                                   	  
+                                    <div class="module-tab-item tab-item" data-dropdown-value="独家线路"><span>独家线路</span><small>40</small></div>
+                                   	  
+                                    <div class="module-tab-item tab-item" data-dropdown-value="KK线路"><span>KK线路</span><small>40</small></div>
+                                   	  
+                                    <div class="module-tab-item tab-item" data-dropdown-value="BF线路"><span>BF线路</span><small>40</small></div>
+                                   	  
+                                    <div class="module-tab-item tab-item" data-dropdown-value="FF线路"><span>FF线路</span><small>40</small></div>
+                                   	  
+                                    <div class="module-tab-item tab-item" data-dropdown-value="LZ线路"><span>LZ线路</span><small>40</small></div>
+                                   	  
+                                    <div class="module-tab-item tab-item" data-dropdown-value="YZ线路"><span>YZ线路</span><small>40</small></div>
+                                   	  
+                                    <div class="module-tab-item tab-item" data-dropdown-value="LS线路"><span>LS线路</span><small>20</small></div>
+                                   		
+									</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

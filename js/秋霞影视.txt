@@ -1,0 +1,514 @@
+秋霞影视
+
+<ul class="clearfix">
+	<li class="text">
+		<span class="text-muted">按分类</span>
+	</li>
+	<li>
+		<a href="/guocanju/index_____.html" title="全部" data="id-2">全部</a>
+	</li>
+	<li>
+		<a class="active" href="/guocanju/" title="国产剧" data="id-17">国产剧</a>
+	</li>
+	<li>
+		<a href="/xianggangju/" title="香港剧" data="id-18">香港剧</a>
+	</li>
+	<li>
+		<a href="/oumeiju/" title="欧美剧" data="id-19">欧美剧</a>
+	</li>
+	<li>
+		<a href="/ribenju/" title="日本剧" data="id-20">日本剧</a>
+	</li>
+	<li>
+		<a href="/haiwaiju/" title="海外剧" data="id-21">海外剧</a>
+	</li>
+	<li>
+		<a href="/taiwanju/" title="台湾剧" data="id-22">台湾剧</a>
+	</li>
+	<li>
+		<a href="/hanguoju/" title="韩国剧" data="id-23">韩国剧</a>
+	</li>
+	<li>
+		<a href="/taiguoju/" title="泰国剧" data="id-24">泰国剧</a>
+	</li>
+	<li>
+		<a href="/qihuanpian/" title="奇幻片" data="id-66">奇幻片</a>
+	</li>
+	<li>
+		<a href="/fanzuipian/" title="犯罪片" data="id-67">犯罪片</a>
+	</li>
+	<li>
+		<a href="/xuanyipian/" title="悬疑片" data="id-68">悬疑片</a>
+	</li>
+</ul>
+
+<!-- filter -->
+<ul class="clearfix">
+	<li class="text">
+		<span class="text-muted">按分类</span>
+	</li>
+	<li>
+		<a href="/guocanju/index_____.html" title="全部" data="id-2">全部</a>
+	</li>
+	<li>
+		<a class="active" href="/guocanju/" title="国产剧" data="id-17">国产剧</a>
+	</li>
+	<li>
+		<a href="/xianggangju/" title="香港剧" data="id-18">香港剧</a>
+	</li>
+	<li>
+		<a href="/oumeiju/" title="欧美剧" data="id-19">欧美剧</a>
+	</li>
+	<li>
+		<a href="/ribenju/" title="日本剧" data="id-20">日本剧</a>
+	</li>
+	<li>
+		<a href="/haiwaiju/" title="海外剧" data="id-21">海外剧</a>
+	</li>
+	<li>
+		<a href="/taiwanju/" title="台湾剧" data="id-22">台湾剧</a>
+	</li>
+	<li>
+		<a href="/hanguoju/" title="韩国剧" data="id-23">韩国剧</a>
+	</li>
+	<li>
+		<a href="/taiguoju/" title="泰国剧" data="id-24">泰国剧</a>
+	</li>
+	<li>
+		<a href="/qihuanpian/" title="奇幻片" data="id-66">奇幻片</a>
+	</li>
+	<li>
+		<a href="/fanzuipian/" title="犯罪片" data="id-67">犯罪片</a>
+	</li>
+	<li>
+		<a href="/xuanyipian/" title="悬疑片" data="id-68">悬疑片</a>
+	</li>
+</ul>
+<!-- play source -->
+<ul class="nav nav-tabs hidden-xs" id="playTab">
+	<li class="active  hidden-xs">
+		<a class="gico sdm3u8" href="#con_playlist_1" data-toggle="tab">闪电</a>
+	</li>
+	<li class=" hidden-xs">
+		<a class="gico snm3u8" href="#con_playlist_2" data-toggle="tab">索尼</a>
+	</li>
+	<li class=" hidden-xs">
+		<a class="gico hnm3u8" href="#con_playlist_3" data-toggle="tab">红牛</a>
+	</li>
+	<li class=" hidden-xs">
+		<a class="gico wjm3u8" href="#con_playlist_4" data-toggle="tab">无尽</a>
+	</li>
+	<div class="play-bug">
+		<a rel="nofollow" href="/gb/194492.html" target="_blank">
+			<i class="iconfont"></i>不能播放，报错</a>
+	</div>
+</ul>
+<!-- thumbnail -->
+<a class="video-pic loading" data-original="https://pic1.zykpic.com/upload/vod/2023-04-28/202304281682689371.jpg" href="/guocanju/zhongshengzhixifuaochengpo/" title="重生之媳妇熬成婆" style="background-image: url(&quot;https://pic1.zykpic.com/upload/vod/2023-04-28/202304281682689371.jpg&quot;);">
+	<span class="player"/>
+	<span class="score">8.0</span>
+	<span class="note text-bg-r">更新至61集</span>
+</a>
+<!-- play list -->
+<div class="details-play-title">
+	<div class="playlist">
+		<ul class="clearfix fade in active" id="con_playlist_1" style="height: auto;">
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-28.html">第28集<span class="new"/>
+				</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-27.html">第27集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-26.html">第26集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-25.html">第25集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-24.html">第24集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-23.html">第23集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-22.html">第22集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-21.html">第21集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-20.html">第20集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-19.html">第19集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-18.html">第18集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-17.html">第17集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-16.html">第16集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-15.html">第15集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-14.html">第14集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-13.html">第13集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-12.html">第12集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-11.html">第11集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-10.html">第10集</a>
+			</li>
+			<li class="more open">
+				<a target="_self" href="javascript:void(0)">更多剧集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/4-9.html">第09集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/4-8.html">第08集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/4-7.html">第07集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/4-6.html">第06集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/4-5.html">第05集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-4.html">第04集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-3.html">第03集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-2.html">第02集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/4-1.html">第01集</a>
+			</li>
+		</ul>
+		<ul class="clearfix fade " id="con_playlist_2" style="height: auto;">
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-28.html">第28集<span class="new"/>
+				</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-27.html">第27集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-26.html">第26集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-25.html">第25集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-24.html">第24集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-23.html">第23集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-22.html">第22集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-21.html">第21集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-20.html">第20集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-19.html">第19集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-18.html">第18集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-17.html">第17集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-16.html">第16集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-15.html">第15集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-14.html">第14集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-13.html">第13集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-12.html">第12集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-11.html">第11集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-10.html">第10集</a>
+			</li>
+			<li class="more open">
+				<a target="_self" href="javascript:void(0)">更多剧集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/3-9.html">第09集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/3-8.html">第08集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/3-7.html">第07集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/3-6.html">第06集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/3-5.html">第05集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-4.html">第04集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-3.html">第03集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-2.html">第02集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/3-1.html">第01集</a>
+			</li>
+		</ul>
+		<ul class="clearfix fade " id="con_playlist_3" style="height: auto;">
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-41.html">第39集完结<span class="new"/>
+				</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-40.html">第38集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-39.html">第37集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-38.html">第36集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-37.html">第35集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-36.html">第35集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-35.html">第34集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-34.html">第33集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-33.html">第32集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-32.html">第31集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-31.html">第30集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-30.html">第29集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-29.html">第28集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-28.html">第27集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-27.html">第26集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-26.html">第25集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-25.html">第24集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-24.html">第23集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-23.html">第22集</a>
+			</li>
+			<li class="more open">
+				<a target="_self" href="javascript:void(0)">更多剧集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-22.html">第21集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-21.html">第20集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-20.html">第19集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-19.html">第18集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-18.html">第17集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-17.html">第16集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-16.html">第15集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-15.html">第14集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-14.html">第13集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-13.html">第12集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-12.html">第11集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-11.html">第10集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-10.html">第09集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-9.html">第08集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-8.html">第07集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-7.html">第06集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-6.html">第05集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/2-5.html">第04集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-4.html">第03集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-3.html">第02集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-2.html">第01集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/2-1.html">先导片</a>
+			</li>
+		</ul>
+		<ul class="clearfix fade " id="con_playlist_4" style="height: auto;">
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-28.html">第28集<span class="new"/>
+				</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-27.html">第27集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-26.html">第26集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-25.html">第25集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-24.html">第24集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-23.html">第23集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-22.html">第22集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-21.html">第21集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-20.html">第20集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-19.html">第19集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-18.html">第18集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-17.html">第17集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-16.html">第16集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-15.html">第15集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-14.html">第14集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-13.html">第13集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-12.html">第12集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-11.html">第11集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-10.html">第10集</a>
+			</li>
+			<li class="more open">
+				<a target="_self" href="javascript:void(0)">更多剧集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/1-9.html">第09集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/1-8.html">第08集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/1-7.html">第07集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/1-6.html">第06集</a>
+			</li>
+			<li class="hided">
+				<a target="_blank" href="/guocanju/yufengxing/1-5.html">第05集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-4.html">第04集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-3.html">第03集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-2.html">第02集</a>
+			</li>
+			<li>
+				<a target="_blank" href="/guocanju/yufengxing/1-1.html">第01集</a>
+			</li>
+		</ul>
+	</div>

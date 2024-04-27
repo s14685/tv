@@ -1,0 +1,1 @@
+{"key": "csp_xBPQ_测试","name": "️测试(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}"},

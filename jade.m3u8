@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="HK-无线",logo="https://epg.112114.xyz/logo/tvb.png",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HK-无线",logo="https://epg.112114.xyz/logo/tvb.png",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+#EXTINF:-1 group-title="HK-无线",logo="https://epg.112114.xyz/logo/tvb.png",翡翠台
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/71040

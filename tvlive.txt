@@ -1,0 +1,22 @@
+[
+
+
+
+{"name":"📡直播","url":"http://winniec.asuscomm.com/iptv/live.m3u8&&&https://epg.112114.xyz/logo/tvb.png"},
+{"name":"📡HK-无线","url":"http://winniec.asuscomm.com/iptv/jade.m3u8&&&https://epg.112114.xyz/logo/tvb.png"},
+{"name":"📡小苹果","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb/xpg.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"},
+{"name":"📡饭太硬","url":"http://git.1473.cn/zyj/zz/raw/main/fty.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"},
+{"name":"📡CCTV8K","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb/8K.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"},
+{"name":"📡本地","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb/live.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"},
+{"name":"📡熊猫","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb/mtv.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"},
+{"name":"📡多多","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb/dd.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"},
+{"name":"📡星河","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb/xhtv.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"},
+{"name":"📡巧记","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb/qjtv.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"},
+{"name":"📡一起看","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb/yiqi.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"},
+{"name":"📡吾爱","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb/wuai.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"},
+{"name":"📡玉玉","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb/dy.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"},
+{"name":"📡儿童","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb/xh.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"},
+{"name":"📡小马","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb/he.txt&&&https://cdn-icons-png.freepik.com/512/5538/5538522.png"}
+
+
+]

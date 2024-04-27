@@ -1,0 +1,138 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="都市傳說",logo="http://winniec.asuscomm.com/images/国产动漫.png", 都市傳說
+https://www.youtube.com/watch?v=HPUt8Z1E4KI&list=PLMUs_BF93V5aqfoGAI5Jh05yscmKegN0V
+#EXTINF:-1 group-title="HK-香港國際",logo="https://epg.112114.xyz/logo/CCTV16.png", 香港國際財經台
+https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+#EXTINF:-1 group-title="HK-有线",有线新闻
+http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 group-title="HK-无线",logo="https://epg.112114.xyz/logo/tvb.png",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HK-无线",logo="https://epg.112114.xyz/logo/tvb.png",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+#EXTINF:-1 group-title="HK-无线",logo="https://epg.112114.xyz/logo/tvb.png",翡翠台
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/71040
+#EXTINF:-1 group-title="HK-凤凰",凤凰中文
+http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+#EXTINF:-1 group-title="HK-凤凰",凤凰中文
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
+#EXTINF:-1 group-title="HK-凤凰",凤凰资讯
+http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+#EXTINF:-1 group-title="HK-凤凰",凤凰资讯
+http://210.210.155.37/qwr9ew/s/s21/01.m3u8
+#EXTINF:-1 group-title="HK-凤凰",凤凰资讯
+http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+#EXTINF:-1 group-title="HK-凤凰",凤凰资讯
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 group-title="HK-凤凰",凤凰电影
+http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+#EXTINF:-1 group-title="HK-凤凰",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="HK-凤凰",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="HK-凤凰",凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="HK-凤凰",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="HK-凤凰",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="HK-凤凰",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="HK-VIU",VIU6
+http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
+#EXTINF:-1 group-title="HK-VIU",VIU6
+http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+#EXTINF:-1 group-title="HK-RTHK",RTHK31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+#EXTINF:-1 group-title="HK-RTHK",RTHK31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 group-title="HK-RTHK",RTHK32
+http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="HK-RTHK",RTHK32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+#EXTINF:-1 group-title="HK-RTHK",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="HK-RTHK",RTHK31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 group-title="HK-RTHK",RTHK32
+http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+#EXTINF:-1 group-title="HK-RTHK",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="HK-RTHK",RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 group-title="HK-HOY",HOY TV
+http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+#EXTINF:-1 group-title="HK-HOY",HOY TV
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="HK-HOY",HOY TV
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="HK-HOY",HOY TV
+https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+#EXTINF:-1 group-title="HK-HOY",HOY TV
+https://uc6.i-cable.com/live_freedirect/opentvhd001.live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-2.png" group-title="常看",汕头-经济
+http://kk.cici-bbw.link:18888/rtp/239.21.0.102:3748
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/fenghuangzixun.png" group-title="常看",凤凰资讯台
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-4.png" group-title="常看",CCTV-4 中文国际
+http://kk.cici-bbw.link:18888/rtp/239.20.0.16:3340 
+#EXTINF:-1 tvg-id="140" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/TVB.png" group-title="常看",翡翠台
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-综合
+http://kk.cici-bbw.link:18888/rtp/239.21.0.145:3924
+#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-民生
+http://kk.cici-bbw.link:18888/rtp/239.21.0.146:3928
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-1.png" group-title="央视",CCTV-1 综合
+http://kk.cici-bbw.link:18888/rtp/239.10.0.114:1025
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-13.png" group-title="央视",CCTV-13 新闻
+http://kk.cici-bbw.link:18888/rtp/239.21.0.88:3692
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-2.png" group-title="央视",CCTV-2 财经
+http://kk.cici-bbw.link:18888/rtp/239.10.0.207:1025
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-3.png" group-title="央视",CCTV-3 综艺
+http://kk.cici-bbw.link:18888/rtp/239.20.0.28:3292
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-5.png" group-title="央视",CCTV-5 体育
+http://kk.cici-bbw.link:18888/rtp/239.10.0.102:1025
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-6.png" group-title="央视",CCTV-6 电影
+http://kk.cici-bbw.link:18888/rtp/239.20.0.29:3288
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-7.png" group-title="央视",CCTV-7 国防军事
+http://kk.cici-bbw.link:18888/rtp/239.10.0.208:1025
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-8.png" group-title="央视",CCTV-8 电视剧
+http://kk.cici-bbw.link:18888/rtp/239.20.0.31:3280
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-9.png" group-title="央视",CCTV-9 纪录
+http://kk.cici-bbw.link:18888/rtp/239.10.0.209:1025
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-10.png" group-title="央视",CCTV-10 科教
+http://kk.cici-bbw.link:18888/rtp/239.20.0.200:2198
+#EXTINF:-1 tvg-id="15" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/sjdl.png" group-title="地方",世界地理
+http://kk.cici-bbw.link:18888/rtp/239.11.0.63:1025
+#EXTINF:-1 tvg-id="143" tvg-name="国家地理" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/gjdl.png" group-title="外文",国家地理
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-1.png" group-title="地方",汕头-综合
+http://kk.cici-bbw.link:18888/rtp/239.21.0.101:3744
+#EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-3.png" group-title="地方",汕头-文体
+http://kk.cici-bbw.link:18888/rtp/239.21.0.103:3752
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://kk.cici-bbw.link:18888/rtp/239.20.0.173:2144
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+http://kk.cici-bbw.link:18888/rtp/239.20.0.122:2042
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://kk.cici-bbw.link:18888/rtp/239.20.0.169:2136
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://kk.cici-bbw.link:18888/rtp/239.20.0.105:2008
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://kk.cici-bbw.link:18888/rtp/239.20.0.170:2138
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视超清
+http://kk.cici-bbw.link:18888/rtp/239.20.0.99:3004
+#EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="" group-title="地方",揭阳-综合
+http://kk.cici-bbw.link:18888/rtp/239.21.0.91:3704
+#EXTINF:-1 tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="" group-title="地方",揭阳-公共
+http://kk.cici-bbw.link:18888/rtp/239.21.0.92:3708
+#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="地方",广东新闻
+http://kk.cici-bbw.link:18888/rtp/239.21.0.93:3712
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
+http://kk.cici-bbw.link:18888/rtp/239.21.0.84:3676
+#EXTINF:-1 tvg-id="61" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-5.png" group-title="央视",CCTV-5+
+http://kk.cici-bbw.link:18888/rtp/239.10.0.213:1025
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/dwqws.png" group-title="卫视",大湾区卫视高清
+http://kk.cici-bbw.link:18888/rtp/239.11.0.78:1025

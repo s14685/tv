@@ -1,0 +1,150 @@
+🛰️常用,#genre#
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+
+📡香港,#genre#
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
+翡翠台,http://113.117.74.45:8081/hls/67/index.m3u8
+明珠台,http://50.7.238.114:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+无线新闻台,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+无线新闻台,https://i.125011.xyz/tvb.php?id=0&hq
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
+无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2
+无线财经体育资讯台,https://i.125011.xyz/tvb.php?id=2&hq
+无线财经体育资讯台,https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
+RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+HOY TV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+HOY TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰中文,http://111.20.40.170/PLTV/88888893/224/3221226547/index.m3u8
+凤凰中文,http://113.117.74.19:8081/hls/36/index.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
+凤凰资讯,http://113.117.74.19:8081/hls/37/index.m3u8
+凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
+VIU TV,http://r.jdshipin.com/vSJvl
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线财经体育资讯台,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
+无线财经体育资讯台,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+
+
+📡无线,#genre#
+翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
+翡翠台,http://113.117.74.45:8081/hls/67/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
+翡翠台,http://23.237.10.66:16106
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+明珠台,http://50.7.238.114:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
+明珠台,https://live.astradamy.com/tvbpearl/index.m3u8
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻台,https://i.125011.xyz/tvb.php?id=0&hq
+无线新闻台,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+无线新闻台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+无线新闻台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+无线财经台,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+无线财经台,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
+无线财经台,http://live.cooltv.top/tv/tvb.php?id=2
+无线财经台,https://i.125011.xyz/tvb.php?id=2&hq
+无线财经台,https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
+无线财经台,https://cdn.hklive.tv/xxxx/85/index.m3u8
+无线财经台,https://tvp22.sky4k.top/index2.php
+无线J2台,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+
+📡VIU,#genre#
+VIU6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
+VIU6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+VIU6,http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
+VIU6,https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8
+VIU6,http://61.238.6.49:8000/bysid/96
+VIU6,https://cdn.hklive.tv/xxxx/96/index.m3u8
+VIU6,https://live.astradamy.com/viutv6/index.m3u8
+ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8
+ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
+
+📡RTHK,#genre#
+RTHK31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
+RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+RTHK32,http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+RTHK33,https://live.astradamy.com/hk33/index.m3u8
+
+
+📡有线,#genre#
+有线,http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
+有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+香港國際財經台,https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+香港國際財經台,https://live.astradamy.com/hk76/index.m3u8
+
+HOY TV:
+HOY TV,https://pull-f5-spe.ixigua.com/yeslivetv.com/934973832-202925490/index.m3u8
+HOY TV,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+HOY TV,https://cdn.hklive.tv/xxxx/77/index.m3u8
+HOY TV,https://d3lbtdzocyu3ke.cloudfront.net/out/v1/214e9e20c822494ea5bc1f1428833428/index.m3u8
+HOY TV,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+HOY TV,https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+HOY TV,https://uc6.i-cable.com/live_freedirect/opentvhd001.live/playlist.m3u8
+
+📡凤凰,#genre#
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文,http://183.250.157.35:8880/tsfile/live/1000_1.m3u8
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰中文,http://111.20.40.170/PLTV/88888893/224/3221226547/index.m3u8
+凤凰中文,http://113.117.74.19:8081/hls/36/index.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
+凤凰资讯,http://113.117.74.19:8081/hls/37/index.m3u8
+凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
+
+
+
+
+
+
+
+

@@ -1,0 +1,120 @@
+//http://winniec.asuscomm.com/iptv/sh.json
+//http://williamc.ddns.net/iptv/sh.json
+{
+  "storeHouse": [
+  
+  	    {
+            "sourceName": "👿祥子应用仓",
+            "sourceUrl": "http://xzweb.top/cs/影视接口/jk.txt"
+        },
+        {
+            "sourceName": "🌏网络应用仓一",
+            "sourceUrl": "http://xzweb.top/cs/影视接口/wljk.json"
+        },
+        {
+            "sourceName": "🌏网络应用仓二",
+            "sourceUrl": "http://xzweb.top/cs/影视接口/jk2.txt"
+        },
+		
+    {
+      "sourceName": "01影用仓库",
+      "sourceUrl": "https://atomgit.com/xghvrf/Xvbjffc/raw/master/Xboxb.json"
+    },
+    {
+      "sourceName": "02心动",
+      "sourceUrl": "http://rihou.vip:666"
+    },
+    {
+      "sourceName": "03欧歌",
+      "sourceUrl": "http://tv.nxog.top/"
+    },
+    {
+      "sourceName": "04天微",
+      "sourceUrl": "https://tvkj.top/DC.txt"
+    },
+    {
+      "sourceName": "05星辰",
+      "sourceUrl": "http://8.210.232.168/dc1.json"
+    },
+    {
+      "sourceName": "06砂锅",
+      "sourceUrl": "https://atomgit.com/66dashun/xiazheng/raw/master/d.json"
+    },
+    {
+      "sourceName": "07蚂蚁",
+      "sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"
+    },
+    {
+      "sourceName": "08壹梦",
+      "sourceUrl": "http://qrh.yimkj.cn/壹梦多仓.json"
+    },
+    {
+      "sourceName": "09蜂蜜",
+      "sourceUrl": "http://fmys.top/online.json"
+    },
+    {
+      "sourceName": "10云星日记",
+      "sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
+    },
+    {
+      "sourceName": "11朱师傅",
+      "sourceUrl": "https://d.kstore.space/download/5303/zhushifu/002.txt"
+    },
+    {
+      "sourceName": "12小鱼干",
+      "sourceUrl": "https://atomgit.com/smdy/xyg/raw/master/小鱼干单仓.json"
+    },
+    {
+      "sourceName": "13月光大佬",
+      "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/d.txt"
+    },
+    {
+      "sourceName": "14月光优选",
+      "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"
+    },
+    {
+      "sourceName": "15月光宝盒",
+      "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/c.txt"
+    },
+    {
+      "sourceName": "16Master",
+      "sourceUrl": "http://winniec.asuscomm.com/iptv/dcmaster.json"
+    },
+    {
+      "sourceName": "17DC300",
+      "sourceUrl": "http://winniec.asuscomm.com/iptv/dc300.json"
+    },
+    {
+      "sourceName": "18DC",
+      "sourceUrl": "http://winniec.asuscomm.com/iptv/dc.json"
+    },
+    {
+      "sourceName": "🌹🌹➊天天白嫖仓🌹🌹",
+      "sourceUrl": "https://agit.ai/1058263215/TVBox/raw/branch/master/TTBaiPiaoXianLuHuiZong.json"
+    },
+    {
+      "sourceName": "🐮🐮➋大佬牛逼仓🐮🐮",
+      "sourceUrl": "https://agit.ai/1058263215/TVBox/raw/branch/master/NBDC.json"
+    },
+    {
+      "sourceName": "🦊🦊➌大佬自建仓🦊🦊",
+      "sourceUrl": "https://agit.ai/1058263215/TVBox/raw/branch/master/ZJ-DXL.json"
+    },
+    {
+      "sourceName": "🐷🐷➍大佬备用仓🐷🐷",
+      "sourceUrl": "https://agit.ai/1058263215/TVBox/raw/branch/master/DC.json"
+    },
+    {
+      "sourceName": "🐽🐽➎福利普通仓🐽🐽",
+      "sourceUrl": "https://agit.ai/1058263215/TVBox/raw/branch/master/FL-ZJ-DXL.json"
+    },
+    {
+      "sourceName": "🥰🥰➏福利精品仓🥰🥰",
+      "sourceUrl": "https://agit.ai/1058263215/TVBox/raw/branch/master/huahua2.json"
+    },
+    {
+      "sourceName": "💖💖➐福利测试仓💖💖",
+      "sourceUrl": "https://agit.ai/1058263215/TVBox/raw/branch/master/huahua1.json"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+//http://winniec.asuscomm.com/iptv/dc/dc.json
+//http://williamc.ddns.net/iptv/dc/dc.json
+{"urls":[
+{"name":"🐯自定tb","url":"http://winniec.asuscomm.com/iptv/tb.json"},
+{"name":"🐯自定fav","url":"http://winniec.asuscomm.com/iptv/fav.json"},
+
+//https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TVBox/main/5iClub.TV
+{"url":"http://www.饭太硬.top/tv","name":"🍙饭太硬.TOP"},
+{"url":"http://xhww.fun/小米/DEMO.json","name":"🦸‍♀️XIAOMI.小暴脾气.FUN"},
+{"url":"https://weixine.net/ysc.json","name":"🚚运输车(跑马灯).NET"},
+{"url":"http://肥猫.live","name":"🐈肥猫.LIVE"},
+{"url":"https://100km.top/0","name":"🔞纯一骚零.TOP"},
+{"url":"https://tvbox.cainisi.cf","name":"🥑菜妮丝 XBPQ.CF"},
+{"url":"http://meowtv.cn/tv","name":"📺喵影视.TV"},
+{"url":"http://cdn.qiaoji8.com/tvbox.json","name":"🏓巧技.COM"},
+{"url":"https://www.rjjjh.com/xzbgg.json","name":"👨‍💻小張不咕咕.COM"},
+{"url":"https://url.5iclub.cloudns.org/frjbox.json","name":"❦缝纫机Box"},
+{"url":"https://www.cwss.xyz/wj.json","name":"🈚️无界.GIT"},
+{"url":"https://tvbox.aoki.fun/M","name":"🪵青木.FUN"},
+{"url":"https://tvbox.meitufu.com/TVBox/tv.json","name":"☀️太阳视听.COM"},
+{"url":"https://anaer.github.io/Meow/meow.json","name":"🐱喵呜.GIT"},
+
+{"name":"🐯自定🐯","url":"http://winniec.asuscomm.com/iptv/fav.json"}
+]}

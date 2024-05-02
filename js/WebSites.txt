@@ -62,6 +62,8 @@ https://www.9day.cc/index.php/vod/show/id/2.html?wd=肖战
 https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 
 
+//神马电影网 https://www.shenmaysk.com/vodshow/guochanju--hits---------2024.html
+
 //乌卡猫影院 https://www.wukamao.com/vodshow/13--hits---------2024.html //[线路1\[推荐\]>>豪华#线路2>>优质#]
 //7喜影院~https://7xi.tv/vodshow/13-----------.html
 //爱奈菲~https://tv-ainaifei.com/vod/show/id/13/
@@ -111,6 +113,17 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 //~二次萌影视 https://www.ecmys.com/vod/detail/id/73778/ 高清源>>量子#蓝光源>>索尼#速播源>>乐视#海外源>>海外#腾讯源>>腾讯#爱奇艺源>>奇艺#高清源·备>>非凡#蓝光源·备>>快看#速播源·备>>暴风#
 //~新视觉影院6080 https://www.80yy3.com/vplay/157983-8-1.html 蓝光专享1>>#夸克4K>>#蓝光专享2>>SEVEN#高清线路②>>量子#超清线路①>>乐视#高清线路③>>非凡#高清线路④>>1080P#高清线路⑤>>索尼
 //~真不卡影院 https://bkyb.net/vodshow/13--hits------2---2024.html 不卡云>>量子#高速云>>非凡#W云>>高速#S云>>标清#
+
+    {"key": "商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar": "https://raw.liucn.cc/box/libs/jar/app.jar"},
+     {"key": "直播转点播","name": "📺︎┃电视┃点播","playerType":1,"type": 3,"api": "https://raw.liucn.cc/box/libs/tv/zb.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.liucn.cc/box/libs/tv/zb.json"},
+    {"key": "虎牙直播js","name": "🐯┃虎牙┃直播","playerType":1,"type": 3,"api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext": "https://raw.liucn.cc/box/libs/js/虎牙直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
+    {"key": "csp_XYQBiu_斗鱼","name": "🐟┃斗鱼┃直播","playerType":1,"type": 3,"api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext": "https://raw.liucn.cc/box/libs/js/斗鱼直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
+    {"key": "csp_Ikanbot","name": "💋┃爱看┃Bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "[排序:lz线路,kuaik]","jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar"},
+    {"key":"csp_nkvod","name":"💢┃耐看┃电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/nkvod.json"},
+    {"key": "XYQH_JOJO","name": "🍁┃久久┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext": "https://raw.liucn.cc/box/libs/xyq/jojo.json"},
+    {"key": "csp_XYQHiker_VSYY","name": "🎦┃VS┃影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext": "https://raw.liucn.cc/box/libs/xyq/VS影院.json"},
+    {"key": "csp_XYQ素白白","name": "⛈┃素白白┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext": "https://raw.liucn.cc/box/libs/xyq/素白白.json"},
+    {"key": "csp_XYQ电影牛","name": "🍖┃电影牛┃影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext": "https://raw.liucn.cc/box/libs/xyq/电影牛.json"},
 
 
 <source src="https://leshiyuncdn.36s.top/20240402/Wf2lxO1A/index.m3u8" type="application/x-mpegURL" label="線路1">

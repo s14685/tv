@@ -5,16 +5,7 @@
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
 凡人修仙传,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
-
 斗破苍穹年番,#genre#
-shall we talk,http://em.21dtv.com/songs/60004942.mkv
-斗罗大陆,#genre#
-shall we talk,http://em.21dtv.com/songs/60004942.mkv
-大主宰年番,#genre#
-shall we talk,http://em.21dtv.com/songs/60004942.mkv
-神印王座,#genre#
-shall we talk,http://em.21dtv.com/songs/60004942.mkv
-诛仙,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
 仙逆,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
@@ -22,17 +13,29 @@ shall we talk,http://em.21dtv.com/songs/60004942.mkv
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
 遮天,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
-炼气十万年,#genre#
+大主宰年番,#genre#
+shall we talk,http://em.21dtv.com/songs/60004942.mkv
+神印王座,#genre#
+shall we talk,http://em.21dtv.com/songs/60004942.mkv
+诛仙,#genre#
+shall we talk,http://em.21dtv.com/songs/60004942.mkv
+冰火魔厨,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
 百炼成神,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
 师兄啊师兄,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
-逆天邪神,#genre#
+炼气十万年,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
-冰火魔厨,#genre#
+小兵传奇,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
+
+
 一念永恒,#genre#
+shall we talk,http://em.21dtv.com/songs/60004942.mkv
+斗罗大陆,#genre#
+shall we talk,http://em.21dtv.com/songs/60004942.mkv
+逆天邪神,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
 少年歌行 海外仙山篇,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv

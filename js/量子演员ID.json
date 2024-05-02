@@ -1,46 +1,100 @@
-//✅
-//https://sc1080.top/index.php/vod/show/by/hits/id/2/year/2024.html
-//https://sc1080.top/index.php/vod/search.html?wd={wd}
-//https://sc1080.top/index.php/vod/show/id/2/?wd=肖战
-//https://tv-ainaifei.com/vod/search/?wd=赵丽颖
+//量子资源网.json http://www.lzizy.com/ 
+//https://www.lzizy9.com/index.php/actor/show/area/内地/by/time/id/35/sex/女.html
+//https://www.lzizy8.com/index.php/vod/type/id/13.html
+//http://lzizy.net/
+//量子资源（备用网址): Lzizy1.com 至 Lzizy8.com M3U8视频解析：https://lziplayer.com/?url=
+//https://www.lzizy8.com//api.php/provide/actor/?ac=detail
 
-{
-  "作者": "荷城茶秀",
-  "站名": "酷云明星",
-  "主页url": "https://sc1080.top/",
-  
-  "数组": "module-item-pic\">&&module-item\">",
-  "标题": "title=\"&&\"",
-  "副标题": "module-item-text\"&&</div>",
-  "图片": "data-src=\"&&\"",
-  "链接": "href=\"&&\"",
-  
-  "简介": "🌸+集数：</span><div class=\"video-info-item\">&&</div>+🌸+剧情：</span>&&</span>",
-  "导演": "导演：&&</div>",
-  "主演": "主演：&&</div>",
-  "影片状态": "集数：</span><div class=\"video-info-item\">&&</div>",
-  "影片类型": "</a><div class=\"tag-link\">&&</div>",
-  
-  "搜索url": "/index.php/vod/search.html?wd={wd}",
-  "搜索数组": "lazy lazyload\"&&<h3>[不包含:肥猫不肥#神秘的哥哥]",
-  "搜索标题": "alt=\"&&\"",
-  "搜索副标题": "title=*>&&</a>",
-  "搜索图片": "data-src=\"&&\"",
-  "搜索链接": "href=\"&&\"",
-  
-  "线路数组": "data-dropdown-value=&&</div>[不包含:APP专线][替换:</span><small>>>⚡️ #高峰卡>> #优>> #圣城影视sc1080.top>> #Seven>>SEVEN#爱奇艺>>奇艺#夸克专线2>>FYNB#蓝光C>>彩虹#夸克专线1>>OK#独家蓝光>>独家#蓝光M>>MyTV#蓝光P>>白嫖#蓝光S>>SLNB#蓝光MP4>>MP4#极速云>>极速#",
-  "线路标题": "🌸+<span>&&</small>[排序:SEVEN>白嫖>独家>乐视>量子>非凡>快云>资源>优质>极速>快看>索尼>独家>专线>奇艺>蓝光]",
-  
-  "播放数组": "sort-item\"&&</div>",
-  "播放列表": "<a&&</a>",
-  "播放标题": "<span>&&</span>",
-  //"分类url": "https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;xk",
-  //"分类": "电影$1#电视剧$2#综艺$3#动漫$4#记录片$5#4K片库$20",
-  
-           //https://sc1080.top/index.php/vod/show/id/2/?wd=肖战
-  "分类url": "https://sc1080.top/index.php/vod/show/id/2/page/{catePg}/year/{year}/?wd={cateId}",
-  "分类":"🌸女星$赵丽颖#🌸男星$王一博#🌸韩星$宋慧乔#⚡️赵丽颖$赵丽颖#杨紫$杨紫#李沁$李沁#张天爱$张天爱#杨幂$杨幂#⚡️肖战$肖战#王一博$王一博#黄晓明$黄晓明#",
-  
+      // "actor_id": 45444,
+      // "actor_name": "赵丽颖",
+      // "type_id": 41,
+      // "type_name": "演员",
+      // "actor_en": "zhaoliying",
+      // "actor_area": "内地",
+      // "actor_time": "2018-09-05 20:48:40",
+      // "actor_alias": "",
+      // "actor_sex": "女",
+      // "actor_pic": "//imgwx3.2345.com/dianyingimg/star/img/d/0/388/photo_192x262.jpg"
+	  
+	// <div class="people">
+    // <div class="left"><img src="//imgwx3.2345.com/dianyingimg/star/img/d/0/388/photo_192x262.jpg"></div>
+    // <div class="right">
+      // <h1><p>赵丽颖</p></h1>
+      // <p>星座：天秤座</p>
+      // <p>血型：A型</p>
+      // <p>职业：演员</p>	
+      // <p>身高：163cm</p>
+      // <p>地区：内地</p>
+      // <p>生日：1987年10月16</p>
+      // <p>人气：58866</p>	 
+      // <p>简介：赵丽颖电影,赵丽颖电视剧,赵丽颖影视全集...  </p>
+    // </div>
+    // <div class="clear"></div>
+    // </div>
+	  
+// actor_id
+// actor_sex
+// actor_area
+// actor_height
+// actor_weight
+// actor_birthday
+// actor_blood
+// actor_starsign
+// actor_works
+// actor_hits
+// actor_content
+// actor_pic
+
+    {
+    "主页url":"https://lzizy8.com/",
+    "站名":"量子演员",
+    "首页":"电视剧",
+    "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "强制解析":"0",
+    "图片代理":"0",
+
+    //"二次截取":"\"list\"*[&&]",
+    //"数组":"{&&\"vod_content\"",
+	"数组":"\"list\"*[&&]",
+    "图片":"https:+actor_pic\"*\"&&\"",
+    "标题":"actor_name\"*\"&&\"+🌸+actor_id\":&&,",
+    //"链接":"https://lzizy8.com//api.php/provide/actor/?ac=detail&wd=+actor_name\"*\"&&\"",
+    "链接":"https://www.lzizy8.com/index.php/actor/detail/id/+actor_id\"*\"&&\"+.html",
+    "副标题":"actor_birthday\"*\"&&\"+🌸+actor_works\"*\"&&\"",
+    //"副标题":"https:+actor_pic\"*\"&&\"",
+
+    "搜索模式":"1",
+    "搜索url":"https://lzizy8.com//api.php/provide/actor/?ac=detail&wd={wd}",
+    //"搜索数组二次截取":"\"list\"*[&&]",
+    //"搜索数组":"{&&}",
+	"搜索数组":"\"list\"*[&&]",
+    "搜索图片":"https:+actor_pic\"*\"&&\"",
+    "搜索标题":"actor_name\"*\"&&\"+🌸+actor_birthday\"*\"&&\"",
+    "搜索链接":"https://www.lzizy8.com/index.php/actor/detail/id/+actor_id\"*\"&&\"+.html",
+
+    "影片类型":"星座：&&</p>+🌸+血型：&&</p>",
+    "影片年代":"星座：&&</p>",
+    "影片地区":"地区：&&</p>",
+    "导演":"职业：&&</p>",
+    "主演":"身高：&&</p>+🌸+生日：&&</p>+🌸+人气：&&</p>",
+    "简介":"🌸+简介：&&</p>",
+
+    "线路数组":"<h2 class=\"title\"&&/h2>",
+    "线路标题":"🌸+>&&<",
+
+    //"播放数组":"panel-hd\">&&</ul>",
+    //"播放列表":"<a&&</em></span></div>",
+    //"播放标题":"title=\"&&\"",
+    //"播放链接":"http://em.21dtv.com/songs/60004942.mkv",
+    //"跳转播放链接":"\"url\"*\"&&\"",
+	
+    //https://lzizy8.com/api.php/provide/actor/?ac=detail&pg=1&wd=赵丽颖
+    "分类url":"https://lzizy8.com//api.php/provide/actor/?ac=detail&page={catePg}&wd={cateId}",
+    //"分类":"演员$赵丽颖#赵丽颖$赵丽颖#",
+    //"分类":"国产剧$13#韩国剧$15#国产动漫$29#电影$1#电视剧$2#综艺$3#动漫$4#体育$36#电影解说$35",
+    "分类":"🌸女星$赵丽颖#🌸男星$王一博#🌸韩星$宋慧乔#⚡️赵丽颖$赵丽颖#杨紫$杨紫#李沁$李沁#张天爱$张天爱#杨幂$杨幂#⚡️肖战$肖战#王一博$王一博#黄晓明$黄晓明#",
+
+
   "筛选": {
 	  
 "赵丽颖":[

@@ -1,0 +1,424 @@
+//量子演员//https://www.lzizy7.com//api.php/provide/actor/?ac=detail{"code":1,"msg":"数据列表","page":1,"pagecount":222,"limit":"20","total":4436,
+
+// actor_id
+// actor_sex
+// actor_area
+// actor_height
+// actor_weight
+// actor_birthday
+// actor_blood
+// actor_starsign
+// actor_works
+// actor_hits
+// actor_content
+// actor_pic
+//
+
+	// <div class="people">
+    // <div class="left"><img src="//imgwx3.2345.com/dianyingimg/star/img/d/0/388/photo_192x262.jpg"></div>
+    // <div class="right">
+      // <h1><p>赵丽颖</p></h1>
+      // <p>星座：天秤座</p>
+      // <p>血型：A型</p>
+      // <p>职业：演员</p>	
+      // <p>身高：163cm</p>
+      // <p>地区：内地</p>
+      // <p>生日：1987年10月16</p>
+      // <p>人气：58866</p>	 
+      // <p>简介：赵丽颖电影,赵丽颖电视剧,赵丽颖影视全集...  </p>
+    // </div>
+    // <div class="clear"></div>
+    // </div>
+
+
+//
+<div class="module-item-pic">
+<a href="/index.php/vod/detail/id/76860.html" title="追风者">
+	<i class="icon-play"></i>
+</a>
+<img class="lazy lazyloaded" data-src="https://img.lzzyimg.com/upload/vod/20240321-1/fef36b528272b051daa7647ddd0eaab8.jpg" src="https://img.lzzyimg.com/upload/vod/20240321-1/fef36b528272b051daa7647ddd0eaab8.jpg" alt="追风者">
+<div class="loading"></div>
+</div>
+//
+<div class="video-info-main" style="padding:0;">
+	<div class="video-info-items"><span class="video-info-itemtitle">性别：</span>
+		<div class="video-info-item">
+		女						</div>
+	</div>
+	<div class="video-info-items"><span class="video-info-itemtitle">身高：</span>
+		<div class="video-info-item">
+		166cm						</div>
+	</div>
+	<div class="video-info-items"><span class="video-info-itemtitle">血型：</span>
+		<div class="video-info-item">A型</div>
+	</div>
+		<div class="video-info-items"><span class="video-info-itemtitle">职业：</span>
+		<div class="video-info-item">演员</div>
+	</div>
+		<div class="video-info-items"><span class="video-info-itemtitle">体重：</span>
+		<div class="video-info-item">42kg</div>
+	</div>
+	<div class="video-info-items"><span class="video-info-itemtitle">地区：</span>
+		<div class="video-info-item">内地</div>
+	</div>
+		<div class="video-info-items"><span class="video-info-itemtitle">毕业：</span>
+		<div class="video-info-item">上海戏剧学院附属戏曲学校</div>
+	</div>
+		<div class="video-info-items"><span class="video-info-itemtitle">作品：</span>
+		<div class="video-info-item">《建党伟业》《守望的天空》《花开半夏》《千金归来》《璀璨人生》《极品新娘》</div>
+	</div>
+	<div class="video-info-items"><span class="video-info-itemtitle">简介：</span>
+		<div class="video-info-item">李沁电影,李沁电视剧,李沁影视全集</div>
+	</div>
+</div>
+
+//
+
+//
+{
+  "code": 1,
+  "msg": "数据列表",
+  "page": 1,
+  "pagecount": 222,
+  "limit": "20",
+  "total": 4436,
+  "list": [
+    {
+      // "actor_id": 45444,
+      // "actor_name": "赵丽颖",
+      // "type_id": 41,
+      // "type_name": "演员",
+      // "actor_en": "zhaoliying",
+      // "actor_area": "内地",
+      // "actor_time": "2018-09-05 20:48:40",
+      // "actor_alias": "",
+      // "actor_sex": "女",
+      // "actor_pic": "//imgwx3.2345.com/dianyingimg/star/img/d/0/388/photo_192x262.jpg"
+    },
+    {
+      "actor_id": 45443,
+      "actor_name": "吴京",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "wujing",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:39",
+      "actor_alias": "",
+      "actor_sex": "男",
+      "actor_pic": "//imgwx4.2345.com/dypcimg/star/img/2/0/204/photo_192x262.jpg?1509950263"
+    },
+    {
+      "actor_id": 45442,
+      "actor_name": "杨幂",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "yangmi",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:38",
+      "actor_alias": "蜜蜂,",
+      "actor_sex": "女",
+      "actor_pic": "//imgwx3.2345.com/dypcimg/star/img/c/0/16/photo_192x262.jpg?1477534221"
+    },
+    {
+      "actor_id": 45441,
+      "actor_name": "杨紫",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "yangzi",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:38",
+      "actor_alias": "",
+      "actor_sex": "女",
+      "actor_pic": "//imgwx3.2345.com/dypcimg/star/img/f/0/335/photo_192x262.jpg?1509947665"
+    },
+    {
+      "actor_id": 45440,
+      "actor_name": "郑爽",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "zhengshuang",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:37",
+      "actor_alias": "",
+      "actor_sex": "女",
+      "actor_pic": "//imgwx3.2345.com/dianyingimg/star/img/c/0/13/photo_192x262.jpg"
+    },
+    {
+      "actor_id": 45439,
+      "actor_name": "关晓彤",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "guanxiaotong",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:37",
+      "actor_alias": "",
+      "actor_sex": "女",
+      "actor_pic": "//imgwx3.2345.com/dypcimg/star/img/a/8/24330/photo_192x262.jpg?1509946884"
+    },
+    {
+      "actor_id": 45438,
+      "actor_name": "鹿晗",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "luhan",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:36",
+      "actor_alias": "鹿饭,",
+      "actor_sex": "男",
+      "actor_pic": "//imgwx5.2345.com/dianyingimg/star/img/3/8/26242/photo_192x262.jpg?1442471602"
+    },
+    {
+      "actor_id": 45437,
+      "actor_name": "黄渤",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "huangbo",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:35",
+      "actor_alias": "",
+      "actor_sex": "男",
+      "actor_pic": "//imgwx3.2345.com/dianyingimg/star/img/4/0/821/photo_192x262.jpg"
+    },
+    {
+      "actor_id": 45436,
+      "actor_name": "罗晋",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "luojin",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:35",
+      "actor_alias": "萝卜,",
+      "actor_sex": "男",
+      "actor_pic": "//imgwx3.2345.com/dypcimg/star/img/d/0/1806/photo_192x262.jpg?1505374685"
+    },
+    {
+      "actor_id": 45435,
+      "actor_name": "范冰冰",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "fanbingbing",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:33",
+      "actor_alias": "",
+      "actor_sex": "女",
+      "actor_pic": "//imgwx5.2345.com/dianyingimg/star/img/3/0/23/photo_192x262.jpg"
+    },
+    {
+      "actor_id": 45434,
+      "actor_name": "何炅",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "hegui",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:32",
+      "actor_alias": "",
+      "actor_sex": "男",
+      "actor_pic": "//imgwx2.2345.com/dypcimg/star/img/f/0/76/photo_192x262.jpg?1509954497"
+    },
+    {
+      "actor_id": 45433,
+      "actor_name": "唐嫣",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "tangyan",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:32",
+      "actor_alias": "",
+      "actor_sex": "女",
+      "actor_pic": "//imgwx4.2345.com/dianyingimg/star/img/c/0/50/photo_192x262.jpg"
+    },
+    {
+      "actor_id": 45432,
+      "actor_name": "王宝强",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "wangbaoqiang",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:32",
+      "actor_alias": "",
+      "actor_sex": "男",
+      "actor_pic": "//imgwx2.2345.com/dianyingimg/star/img/6/0/275/photo_192x262.jpg"
+    },
+    {
+      "actor_id": 45431,
+      "actor_name": "徐海乔",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "xuhaiqiao",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:32",
+      "actor_alias": "",
+      "actor_sex": "男",
+      "actor_pic": "//imgwx5.2345.com/dianyingimg/star/img/7/4/12595/photo_192x262.jpg"
+    },
+    {
+      "actor_id": 45430,
+      "actor_name": "聂远",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "nieyuan",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:31",
+      "actor_alias": "",
+      "actor_sex": "男",
+      "actor_pic": "//imgwx3.2345.com/dianyingimg/star/img/4/0/417/photo_192x262.jpg"
+    },
+    {
+      "actor_id": 45429,
+      "actor_name": "杨烁",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "yangshuo",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:31",
+      "actor_alias": "",
+      "actor_sex": "男",
+      "actor_pic": "//imgwx3.2345.com/dianyingimg/star/img/8/0/1586/photo_192x262.jpg"
+    },
+    {
+      "actor_id": 45428,
+      "actor_name": "秦岚",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "qinlan",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:31",
+      "actor_alias": "",
+      "actor_sex": "女",
+      "actor_pic": "//imgwx4.2345.com/dianyingimg/star/img/e/0/281/photo_192x262.jpg"
+    },
+    {
+      "actor_id": 45427,
+      "actor_name": "谢娜",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "xiena",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:30",
+      "actor_alias": "",
+      "actor_sex": "女",
+      "actor_pic": "//imgwx4.2345.com/dypcimg/star/img/0/0/27/photo_192x262.jpg?1510304073"
+    },
+    {
+      "actor_id": 45426,
+      "actor_name": "李小璐",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "lixiaolu",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:30",
+      "actor_alias": "",
+      "actor_sex": "女",
+      "actor_pic": "//imgwx5.2345.com/dypcimg/star/img/2/0/77/photo_192x262.jpg?1509954909"
+    },
+    {
+      "actor_id": 45425,
+      "actor_name": "李沁",
+      "type_id": 41,
+      "type_name": "演员",
+      "actor_en": "liqin",
+      "actor_area": "内地",
+      "actor_time": "2018-09-05 20:48:30",
+      "actor_alias": "沁影,",
+      "actor_sex": "女",
+      "actor_pic": "//imgwx5.2345.com/dypcimg/star/img/e/0/831/photo_192x262.jpg?1510306449"
+    }
+  ],
+  "class": [
+    {
+      "type_id": 41,
+      "type_pid": 0,
+      "type_name": "演员"
+    }
+  ]
+}
+
+//
+{
+  "actor_id": 45444,
+  "type_id": 41,
+  "type_id_1": 0,
+  "actor_name": "赵丽颖",
+  "actor_en": "zhaoliying",
+  "actor_alias": "",
+  "actor_status": 1,
+  "actor_lock": 0,
+  "actor_letter": "Z",
+  "actor_sex": "女",
+  "actor_color": "",
+  "actor_pic": "//imgwx3.2345.com/dianyingimg/star/img/d/0/388/photo_192x262.jpg",
+  "actor_blurb": "赵丽颖电影,赵丽颖电视剧,赵丽颖影视全集",
+  "actor_remarks": "演员",
+  "actor_area": "内地",
+  "actor_height": "163cm",
+  "actor_weight": "42kg",
+  "actor_birthday": "1987年10月16",
+  "actor_birtharea": "河北廊坊",
+  "actor_blood": "A型",
+  "actor_starsign": "天秤座",
+  "actor_school": "",
+  "actor_works": "《陆贞传奇》《杉杉来了》《花千骨》",
+  "actor_tag": "",
+  "actor_class": "",
+  "actor_level": 0,
+  "actor_time": "2018-09-05 20:48:40",
+  "actor_time_add": 1536151720,
+  "actor_time_hits": 0,
+  "actor_time_make": 0,
+  "actor_hits": 344,
+  "actor_hits_day": 507,
+  "actor_hits_week": 47,
+  "actor_hits_month": 909,
+  "actor_score": "0.0",
+  "actor_score_all": 0,
+  "actor_score_num": 0,
+  "actor_up": 689,
+  "actor_down": 298,
+  "actor_tpl": "",
+  "actor_jumpurl": "",
+  "actor_content": "\n\n\n\n 中文名</span>\n 赵丽颖</li>身高</span>163cm</li>体重</span>42kg</li>\n 国籍</span>\n 中华人民共和国</li>\n 民族</span>\n 汉族</li>\n 星座</span>\n 天秤座</li>\n 血型</span>\n A型</li>\n 出生日期</span>\n 1987年10月16日</li>\n 出生地</span>\n 河北廊坊</li>\n 职业</span>\n 演员</em></li>\n 经纪公司</span>\n 海润传媒赵丽颖工作室</li>\n 代表作品</span>\n </em>陆贞传奇</em></em></em>杉杉来了</em></em></em>花千骨</em></em></li> </ul>\n\n\n </i>主要成就</span>\n </i>\n </dt>\n\n\n 2006年雅虎搜星冯小刚组冠军\n2013乐视影视盛典最受欢迎女演员\n2014第十届金鹰电视艺术节金鹰女神\n2014国剧盛典年度内地最具人气女演员\n2015年福布斯中国名人榜综合排名第43名\n </div>\n </dd>\n\n </i>早年经历</span>\n </i>\n </dt>\n\n\n 2006年5月，在雅虎网、浙江卫视、华谊兄弟联合主办的雅虎搜星比赛中，赵丽颖凭借良好表现以及投票网友的支持，最终获得冯小刚组冠军，因而出演冯小刚执导的千万广告《跪族篇》\n\n2010年，在《佳期如梦》中一改往日的玉女形象，挑战性格叛逆、迷恋朋克的90后女孩ANN，剧中与邱泽饰演的男主角阮正东上演暗恋戏码。同时赵丽颖日渐熟稔的演技得到了导演李少红的青睐，在新版《红楼梦》中饰演小“邢岫烟”一角。\n\n2011年，与徐峥、于波、雷恪生等合作主演的宫廷喜剧《大内低手》开播，赵丽颖首次触电喜剧题材。随后赵丽颖签约海润影视集团，并在2011年的琼瑶新剧《新还珠格格》中饰演了晴格格一角从而受到关注。\n\n2013年5月5日，赵丽颖主演的电视剧《陆贞传奇》登录湖南卫视《金鹰独播剧场》，并以破三的收视率占据同时段卫视台收视榜首，让她成为当下人气小花旦，古装扮相令观众印象深刻。7月13日，根据经典越剧电影《追鱼》改编的电视剧《追鱼传奇》登录湖南卫视第一周播剧场，剧中赵丽颖饰演了机灵可爱的女主角鲤鱼精红绫。8月13日，电影《宫锁沉香》上映，赵丽颖颠覆以往的甜美形象，出演反派角色琉璃。\n\n2013年11月20日，土豆网联合深圳卫视举办“青春的选择”2013年度盛典，赵丽颖顺利斩获内地最受欢迎女演员大奖。并在第四届乐视盛典中荣获内地最受欢迎女演员奖以及第四届国剧盛典中荣获最受观众喜爱新人女演员奖。\n </div>\n </dd>\n\n </i>演艺经历</span>\n </i>\n </dt>\n\n\n 2006年5月，在雅虎网、浙江卫视、华谊兄弟联合主办的雅虎搜星比2010年，在《佳期如梦》中一改往日的玉女形象，挑战性格叛逆、迷恋朋克的90后女孩ANN，剧中与邱泽饰演的男主角阮正东上演暗恋戏码。同时赵丽颖日渐熟稔的演技得到了导演李少红的青睐，在新版《红楼梦》中饰演小“邢岫烟”一角。2011年，与徐峥、于波、雷恪生等合作主演的宫廷喜剧《大内低手》开播，赵丽颖首次触电喜剧题材。随后赵丽颖签约海润影视集团，并在2011年的琼瑶新剧《新还珠格格》中饰演了晴格格一角从而受到关注。2013年5月5日，赵丽颖主演的电视剧《陆贞传奇》登录湖南卫视《金鹰独播剧场》，并以破三的收视率占据同时段卫视台收视榜首，让她成为当下人气小花旦，古装扮相令观众印象深刻。7月13日，根据经典越剧电影《追鱼》改编的电视剧《追鱼传奇》登录湖南卫视第一周播剧场，剧中赵丽颖饰演了机灵可爱的女主角鲤鱼精红绫。8月13日，电影《宫锁沉香》上映，赵丽颖颠覆以往的甜美形象，出演反派角色琉璃。2013年11月20日，土豆网联合深圳卫视举办“青春的选择”2013年度盛典，赵丽颖顺利斩获内地最受欢迎女演员大奖。并在第四届乐视盛典中荣获内地最受欢迎女演员奖以及第四届国剧盛典中荣获最受观众喜爱新人女演员奖。2014年，开年即有根据席绢小说《交错时光的爱恋》和《戏点鸳鸯》改编的电视剧《错点鸳鸯·戏点鸳鸯》在东南卫视上星播出，剧中赵丽颖一人分饰两角，分别饰演善良的懦弱小姐苏幻儿和机灵勇敢的丫鬟杨意柳。3月17日，赵丽颖第一次出演现代戏女主角的电视剧《妻子的秘密》在湖南卫视黄金档播出，剧中赵丽颖饰演了性格隐忍、善良贤惠的妻子江百合。2014年7月8日，根据网络热门小说《杉杉来吃》改编的电视剧《杉杉来了》在江苏卫视幸福剧场首播并引起热议，随后又在山东卫视、东南卫视轮番上映，12月3日，东方卫视制作的杉杉来了8集浓缩精简版在黄金时间播出。12月3日在湖南卫视钻石独播剧场《神雕侠侣》中客串饰演穆念慈一角。12月26日，播出的《奔跑吧兄弟》赵丽颖与孙杨﹑陈建州一起以特别嘉宾的身份出席。2015年1月1日，安徽卫视主办的国剧盛典颁奖中获得2014年度内地最具人气女演员奖项。同时主演的电视剧《花千骨》于6月9日起在湖南卫视钻石独播剧场播出。2015年7月14日，拍摄年代剧《胭脂》。7月17日，由赵丽颖、郑恺领衔，洋溢着青春正能量职场故事的电视剧《加油吧实习生》，登陆江苏卫视幸福剧场。2015年9月22日《蜀山战纪》爱奇艺先于卫视首播。赵丽颖在剧中饰演魔宗大魔头绿袍尊者的女儿玉无心，一个睿智聪颖又带点邪气的魔女，是丁隐的恋人。10月02日电影《极限挑战》开拍，赵丽颖担任唯一女主角。\n </div>\n </dd>\n </dl>\n ",
+  "type_name": "演员"
+}
+
+
+"list":[{
+
+"actor_id":45444,"type_id":41,"type_id_1":0,"actor_name":"赵丽颖","actor_en":"zhaoliying","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"Z","actor_sex":"女","actor_color":"","actor_pic":"\/\/imgwx3.2345.com\/dianyingimg\/star\/img\/d\/0\/388\/photo_192x262.jpg","actor_blurb":"赵丽颖电影,赵丽颖电视剧,赵丽颖影视全集","actor_remarks":"演员","actor_area":"内地","actor_height":"163cm","actor_weight":"42kg","actor_birthday":"1987年10月16","actor_birtharea":"河北廊坊","actor_blood":"A型","actor_starsign":"天秤座","actor_school":"","actor_works":"《陆贞传奇》《杉杉来了》《花千骨》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:40","actor_time_add":1536151720,"actor_time_hits":0,"actor_time_make":0,"actor_hits":344,"actor_hits_day":507,"actor_hits_week":47,"actor_hits_month":909,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":689,"actor_down":298,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 赵丽颖<\/li>身高<\/span>163cm<\/li>体重<\/span>42kg<\/li>\n 国籍<\/span>\n 中华人民共和国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 天秤座<\/li>\n 血型<\/span>\n A型<\/li>\n 出生日期<\/span>\n 1987年10月16日<\/li>\n 出生地<\/span>\n 河北廊坊<\/li>\n 职业<\/span>\n 演员<\/em><\/li>\n 经纪公司<\/span>\n 海润传媒赵丽颖工作室<\/li>\n 代表作品<\/span>\n <\/em>陆贞传奇<\/em><\/em><\/em>杉杉来了<\/em><\/em><\/em>花千骨<\/em><\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 2006年雅虎搜星冯小刚组冠军\n2013乐视影视盛典最受欢迎女演员\n2014第十届金鹰电视艺术节金鹰女神\n2014国剧盛典年度内地最具人气女演员\n2015年福布斯中国名人榜综合排名第43名\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 2006年5月，在雅虎网、浙江卫视、华谊兄弟联合主办的雅虎搜星比赛中，赵丽颖凭借良好表现以及投票网友的支持，最终获得冯小刚组冠军，因而出演冯小刚执导的千万广告《跪族篇》\n\n2010年，在《佳期如梦》中一改往日的玉女形象，挑战性格叛逆、迷恋朋克的90后女孩ANN，剧中与邱泽饰演的男主角阮正东上演暗恋戏码。同时赵丽颖日渐熟稔的演技得到了导演李少红的青睐，在新版《红楼梦》中饰演小“邢岫烟”一角。\n\n2011年，与徐峥、于波、雷恪生等合作主演的宫廷喜剧《大内低手》开播，赵丽颖首次触电喜剧题材。随后赵丽颖签约海润影视集团，并在2011年的琼瑶新剧《新还珠格格》中饰演了晴格格一角从而受到关注。\n\n2013年5月5日，赵丽颖主演的电视剧《陆贞传奇》登录湖南卫视《金鹰独播剧场》，并以破三的收视率占据同时段卫视台收视榜首，让她成为当下人气小花旦，古装扮相令观众印象深刻。7月13日，根据经典越剧电影《追鱼》改编的电视剧《追鱼传奇》登录湖南卫视第一周播剧场，剧中赵丽颖饰演了机灵可爱的女主角鲤鱼精红绫。8月13日，电影《宫锁沉香》上映，赵丽颖颠覆以往的甜美形象，出演反派角色琉璃。\n\n2013年11月20日，土豆网联合深圳卫视举办“青春的选择”2013年度盛典，赵丽颖顺利斩获内地最受欢迎女演员大奖。并在第四届乐视盛典中荣获内地最受欢迎女演员奖以及第四届国剧盛典中荣获最受观众喜爱新人女演员奖。\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 2006年5月，在雅虎网、浙江卫视、华谊兄弟联合主办的雅虎搜星比2010年，在《佳期如梦》中一改往日的玉女形象，挑战性格叛逆、迷恋朋克的90后女孩ANN，剧中与邱泽饰演的男主角阮正东上演暗恋戏码。同时赵丽颖日渐熟稔的演技得到了导演李少红的青睐，在新版《红楼梦》中饰演小“邢岫烟”一角。2011年，与徐峥、于波、雷恪生等合作主演的宫廷喜剧《大内低手》开播，赵丽颖首次触电喜剧题材。随后赵丽颖签约海润影视集团，并在2011年的琼瑶新剧《新还珠格格》中饰演了晴格格一角从而受到关注。2013年5月5日，赵丽颖主演的电视剧《陆贞传奇》登录湖南卫视《金鹰独播剧场》，并以破三的收视率占据同时段卫视台收视榜首，让她成为当下人气小花旦，古装扮相令观众印象深刻。7月13日，根据经典越剧电影《追鱼》改编的电视剧《追鱼传奇》登录湖南卫视第一周播剧场，剧中赵丽颖饰演了机灵可爱的女主角鲤鱼精红绫。8月13日，电影《宫锁沉香》上映，赵丽颖颠覆以往的甜美形象，出演反派角色琉璃。2013年11月20日，土豆网联合深圳卫视举办“青春的选择”2013年度盛典，赵丽颖顺利斩获内地最受欢迎女演员大奖。并在第四届乐视盛典中荣获内地最受欢迎女演员奖以及第四届国剧盛典中荣获最受观众喜爱新人女演员奖。2014年，开年即有根据席绢小说《交错时光的爱恋》和《戏点鸳鸯》改编的电视剧《错点鸳鸯·戏点鸳鸯》在东南卫视上星播出，剧中赵丽颖一人分饰两角，分别饰演善良的懦弱小姐苏幻儿和机灵勇敢的丫鬟杨意柳。3月17日，赵丽颖第一次出演现代戏女主角的电视剧《妻子的秘密》在湖南卫视黄金档播出，剧中赵丽颖饰演了性格隐忍、善良贤惠的妻子江百合。2014年7月8日，根据网络热门小说《杉杉来吃》改编的电视剧《杉杉来了》在江苏卫视幸福剧场首播并引起热议，随后又在山东卫视、东南卫视轮番上映，12月3日，东方卫视制作的杉杉来了8集浓缩精简版在黄金时间播出。12月3日在湖南卫视钻石独播剧场《神雕侠侣》中客串饰演穆念慈一角。12月26日，播出的《奔跑吧兄弟》赵丽颖与孙杨﹑陈建州一起以特别嘉宾的身份出席。2015年1月1日，安徽卫视主办的国剧盛典颁奖中获得2014年度内地最具人气女演员奖项。同时主演的电视剧《花千骨》于6月9日起在湖南卫视钻石独播剧场播出。2015年7月14日，拍摄年代剧《胭脂》。7月17日，由赵丽颖、郑恺领衔，洋溢着青春正能量职场故事的电视剧《加油吧实习生》，登陆江苏卫视幸福剧场。2015年9月22日《蜀山战纪》爱奇艺先于卫视首播。赵丽颖在剧中饰演魔宗大魔头绿袍尊者的女儿玉无心，一个睿智聪颖又带点邪气的魔女，是丁隐的恋人。10月02日电影《极限挑战》开拍，赵丽颖担任唯一女主角。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45443,"type_id":41,"type_id_1":0,"actor_name":"吴京","actor_en":"wujing","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"W","actor_sex":"男","actor_color":"","actor_pic":"\/\/imgwx4.2345.com\/dypcimg\/star\/img\/2\/0\/204\/photo_192x262.jpg?1509950263","actor_blurb":"吴京电影,吴京电视剧,吴京影视全集","actor_remarks":"演员导演","actor_area":"内地","actor_height":"175cm","actor_weight":"75kg","actor_birthday":"1974年4月3日","actor_birtharea":"北京","actor_blood":"","actor_starsign":"白羊座","actor_school":"北京体育大学","actor_works":"《战狼》《狼牙》《杀破狼2》《男儿本色》《少林武王》《小李飞刀》《太极宗师》《我是特种兵2》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:39","actor_time_add":1536151719,"actor_time_hits":0,"actor_time_make":0,"actor_hits":808,"actor_hits_day":61,"actor_hits_week":430,"actor_hits_month":466,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":862,"actor_down":851,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 吴京<\/li>身高<\/span>175cm<\/li>体重<\/span>75kg<\/li>\n 国籍<\/span>\n 中国<\/li>\n 民族<\/span>\n 满族<\/li>\n 星座<\/span>\n 白羊座<\/li>\n 出生日期<\/span>\n 1974年4月3日<\/li>\n 出生地<\/span>\n 北京<\/li>\n 职业<\/span>\n 演员<\/em>导演<\/em><\/li>\n 毕业院校<\/span>\n 北京体育大学<\/li>\n 经纪公司<\/span>\n 音华娱乐<\/li>\n 代表作品<\/span>\n 战狼<\/em>狼牙<\/em>杀破狼2<\/em>男儿本色<\/em>少林武王<\/em>小李飞刀<\/em>太极宗师<\/em>我是特种兵2<\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 1986年全国武术比赛拳枪刀冠军\n搜狐时尚盛典年度时尚男明星奖\n2013年搜狐时尚盛典年度时尚男明星奖\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45442,"type_id":41,"type_id_1":0,"actor_name":"杨幂","actor_en":"yangmi","actor_alias":"蜜蜂,","actor_status":1,"actor_lock":0,"actor_letter":"Y","actor_sex":"女","actor_color":"","actor_pic":"\/\/imgwx3.2345.com\/dypcimg\/star\/img\/c\/0\/16\/photo_192x262.jpg?1477534221","actor_blurb":"杨幂电影,杨幂电视剧,杨幂影视全集","actor_remarks":"演员歌手制片人","actor_area":"内地","actor_height":"168cm","actor_weight":"45kg","actor_birthday":"1986年9月12日","actor_birtharea":"北京市宣武区","actor_blood":"B型","actor_starsign":"处女座","actor_school":"北京电影学院","actor_works":"《仙剑奇侠传三》《神雕侠侣》《宫》《孤岛惊魂》《小时代》《我是证人》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:38","actor_time_add":1536151718,"actor_time_hits":0,"actor_time_make":0,"actor_hits":126,"actor_hits_day":221,"actor_hits_week":311,"actor_hits_month":653,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":89,"actor_down":975,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 杨幂<\/li>\n 粉丝名<\/span>\n 蜜蜂<\/em><\/li>身高<\/span>168cm<\/li>体重<\/span>45kg<\/li>\n 国籍<\/span>\n 中国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 处女座<\/li>\n 血型<\/span>\n B型<\/li>\n 出生日期<\/span>\n 1986年9月12日<\/li>\n 出生地<\/span>\n 北京市宣武区<\/li>\n 职业<\/span>\n 演员<\/em>歌手<\/em>制片人<\/em><\/li>\n 毕业院校<\/span>\n 北京电影学院<\/li>\n 经纪公司<\/span>\n 嘉行杨幂工作室<\/li>\n 代表作品<\/span>\n <\/em>仙剑奇侠传三<\/em><\/em>神雕侠侣<\/em><\/em>宫<\/em><\/em>孤岛惊魂<\/em><\/em>小时代<\/em><\/em>我是证人<\/em><\/em><\/li> <\/ul>\n\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 杨幂出生于北京市宣武区（已并入新的北京市西城区)，父亲杨晓林是民警 ，母亲杨春玲已经不工作了\n因为一家三口都姓杨，也就是“杨”的3次方（数学中乘方的结果叫做幂），所以给她起名杨幂。杨幂是地道的北京南城胡同小妞，小时候家就住在牛街附近，擅长打乒乓球、打羽毛球、游泳、滑冰。杨幂小时候比较顽皮，别人家的小孩子们学钢琴、学跳舞、学书法，可她却学什么东西都静不下心来。当时中国儿童电影制片厂召开儿童影视表演培训班，杨幂父母抱着参与试试的心态带着杨幂去报名，结果年龄不足的杨幂却被招生老师破格录取。杨幂毕业于北京宣武实验小学（已不存在），她在上小学的时候学习成绩比较好，从一年级到三年级是班里的班长。小时候很厉害的杨幂在邻居、朋友之间获得了“小厉害”的外号，喜欢玩游戏的她很叛逆。上初中时，还有“整治”欺负女生的男同学的经历。\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 童年时期\n\n首次“触电”始于4岁，当时她正参加小演员培训班，刚好陈家林导演的《唐明皇》剧组来挑演员，4岁的杨幂幸运地被挑上了，出演《唐明皇》里的咸宜公主。该剧获得了第11届“金鹰奖”优秀长篇连续剧奖及第13届“飞天奖”长篇特等奖。后来，5岁的杨幂又在香港电影《武状元苏乞儿》中饰演苏灿（周星驰饰演）的女儿。\n\n1992年，她与六小龄童合作主演的《猴娃》曾获得第十四届“飞天奖”少儿电视连续剧二等奖，只有6岁的杨幂也给当时《猴娃》的制片人李小婉留下了深刻的印象。\n\n1993年，杨幂在李丹阳的《穿军装的川妹子》MV中饰演小李丹阳，该作品荣获1993年首届中国音乐电视大赛金奖。\n\n1996年，杨幂又与何晴、李亚鹏合作，在电影《歌手》中饰演小夏表妹的角色。\n\n荣信达时期\n\n16岁，杨幂就签约了李小婉、李少红共同创办的北京荣信达影视艺术有限公司。2003年9月，杨幂接拍了自己长大后的首部电视剧《红粉世家》。\n\n2004年6月，还在北京市第十四中学读高二的她在李少红的引荐下出演张纪中版《神雕侠侣》中的郭襄一角。\n\n2005年，杨幂在央视大戏《王昭君》的选角中，击败范冰冰、李冰冰、高圆圆等国内一线演员，出演女主角王昭君。之后，杨幂又参演了多部作品——《聊斋志异之小倩》中的聂小倩、电影《门》中的文馨、《笑着活下去》中的程小诺。\n\n2008年7月7日，杨幂加盟新版《红楼梦》剧组，饰演“晴雯”一角。8月中旬，《仙剑奇侠传三》开拍在即，唐雪见人选成为剧组最大的难题。《仙剑奇侠传三》剧组与新《红楼梦》剧组再三商议后，最终成功“借”到了杨幂。在拍摄这两部电视剧的同时杨幂还跨拍电视剧《暗香》。2009年4月，在由百万民众参与，近百名娱乐记者联合票选的“80后新生代娱乐大明星”评选中，杨幂与黄圣依、王珞丹和刘亦菲获封内地新“四小花旦”称号。\n\n2009年，杨幂又在《美人心计》中饰演了绝色杀手莫雪鸢，网友赞她为“最感人丫鬟”。\n\n\n美亚娱乐时期\n\n2010年，杨幂与荣信达公司的合约到期后，签约了香港美亚娱乐。杨幂又接拍了多部电视剧：《十二生肖传奇》、《洪武大案》、《京城四少》、《我们同是一家人》以及《宫》；同时还在电影《孤岛惊魂》和《人鱼帝国》中出演角色。\n\n2011年，在2011福布斯中国名人榜中，杨幂凭借电视剧《宫》一剧成名，首次上榜，排名第92位。杨幂还凭借《宫》入围第17届上海电视节“白玉兰奖”最佳女演员；以及2011年被正式纳入白玉兰”颁奖环节的“最具人气女演员”奖，并最终成为此奖项登台领奖的第一人。由杨幂演唱的《宫》主题曲《爱的供养》也在网上广泛流传。6月25日，在第四届中国网络影响力颁布盛典中，杨幂入选“中国网络影响力2010年十大影视演员”；由她主演的电视剧《宫锁心玉》荣获“中国网络影响力2010年度电视剧”称号，该片同时荣获“年度最具收视度电视剧”称号并入选“中国网络影响力2010年十大电视剧”。7月8日，《孤岛惊魂》联合万达院线全国59家影院启动了大规模午夜首映，创造了国产惊悚片的最高票房纪录（此前纪录为《午夜心跳》的3200万元人民币）。9月12日，杨幂在香港签约少城时代，并加盟环球音乐，正式进军歌坛。\n\n2012年，，杨幂工作室成立。1月4日，杨幂的首张个人专辑《亲幂关系Close to Me》正式发行。3月6日，青春偶像剧《中国女孩》在北京举行启动仪式，杨幂首度担任制作人，该剧由杨幂工作室、明道工作室共同承制，美国美天发展集团、华纳兄弟公司联合监制。5月30日，由杨幂代言的网络游戏《天下3》发布了游戏互动电影《玄海迷踪》，杨幂在电影中饰演海神龙邪。7月25日，杨幂自导自演的首部微电影作品《交换旅行》于优酷网首发。9月9日，在第九届中国金鹰电视艺术节暨第26届中国电视金鹰奖颁奖典礼上，杨幂以366092票获得第九届金鹰电视艺术节“最具人气女演员奖”。\n\n欢瑞世纪时期\n\n2013年3月31日，欢瑞世纪宣布与杨幂、明道、唐嫣、刘恺威等，以艺人工作室的形式签约，并公布了首批以工作室形式签约的艺人。在欢瑞世纪启动的“大制片计划”中，杨幂宣布正筹拍根据同名武侠小说改编的电视剧《诛仙》。\n\n2013年6月27日《小时代》首映，票房报收约7300万元，创下中国2D电影首日票房纪录。9月，杨幂受邀出演由邓超自导自演的电影作品《分手大师》，担任女主角。\n\n2014年6月27日《分手大师》公映，杨幂饰演的北漂女叶小春。2014年7月17日《小时代3》首映，票房1.1亿元（含点映场及零点首映），排片占比44%；电视和网络方面，《古剑奇谭》《微时代》均领跑收视率和点击量。\n\n开办公司时期\n\n\n2014年3月27日，杨幂与两位经纪人赵若尧、曾嘉共同出资300万成立了海宁嘉行天下影视文化有限公司，并于同年签约了一批艺人（有媒体称其为“幂军团”）。\n\n2014年10月17日，欢瑞杨幂工作室更名为嘉行杨幂工作室。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45441,"type_id":41,"type_id_1":0,"actor_name":"杨紫","actor_en":"yangzi","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"Y","actor_sex":"女","actor_color":"","actor_pic":"\/\/imgwx3.2345.com\/dypcimg\/star\/img\/f\/0\/335\/photo_192x262.jpg?1509947665","actor_blurb":"杨紫电影,杨紫电视剧,杨紫影视全集","actor_remarks":"演员歌手","actor_area":"内地","actor_height":"167cm","actor_weight":"","actor_birthday":"1992年11月6日","actor_birtharea":"北京市房山区","actor_blood":"A型","actor_starsign":"天蝎座","actor_school":"北京电影学院","actor_works":"《家有儿女》《幸福来敲门》《战长沙》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:38","actor_time_add":1536151718,"actor_time_hits":0,"actor_time_make":0,"actor_hits":976,"actor_hits_day":228,"actor_hits_week":972,"actor_hits_month":560,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":876,"actor_down":548,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 杨紫<\/li>身高<\/span>167cm<\/li>\n 国籍<\/span>\n 中国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 天蝎座<\/li>\n 血型<\/span>\n A型<\/li>\n 出生日期<\/span>\n 1992年11月6日<\/li>\n 出生地<\/span>\n 北京市房山区<\/li>\n 职业<\/span>\n 演员<\/em>歌手<\/em><\/li>\n 毕业院校<\/span>\n 北京电影学院<\/li>\n 代表作品<\/span>\n 家有儿女<\/em>幸福来敲门<\/em>战长沙<\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 第14届金凤凰电影奖最佳新人奖\n全国表演金奖\n电影《女生日记》金鸡特别奖\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 1999年参演第一部电视剧中《如此出山》的周琼，正式进入娱乐圈；2002年参演古装历史情感剧《孝庄秘史》中的小宛如并客串《大宅门》中的卖苹果的女孩。2003年主演首部电影《女生日记》并入围童牛奖最佳小演员；2004年，参演《家有儿女》中的“夏雪”一角而受到观众关注，同年参演时装侦探剧《家庭档案》；2005年，继续参演《家有儿女2》中的夏雪。2008年，发行首张个人国语专辑《家有小雪》并给动画片《淘气包马小跳》配音,凭借该作品获得第十三届华表奖最嫩甜心奖。2009年，参演青春励志喜剧《女孩冲冲冲》中的女一号孙权，同年参演《青春舞台》等电视剧；2010年7月18日，杨紫在自己的博客中发表博文，同大家分享收到北影录取通知书的喜悦并于2010年9月4日前往学校报道，正式成为一名北京电影学院2010级表演系新生。2011年2月，参演与蒋雯丽、孙淳主演的家庭情感剧《幸福来敲门》中的半熟女“宋征”，正式摆脱童星身份。2012年5月参演现代家庭剧《心术》中的张晓蕾。8月23日，主演的惊悚电影《守株人》上映，杨紫凭借该电影获得金凤凰电影奖最佳新人奖；2013年8月，参演琼瑶剧《花非花雾非雾》中的白梦华；2014年3月，主演抗战剧《战长沙》中的胡湘湘，不仅与霍建华搭档演情侣和夫妻，甚至还将经历怀孕的痛苦，同时杨紫也希望观众能通过这部戏认识长大了的自己，不想永远定格在“夏雪”。5月23日，杨紫在网上晒出大学毕业照。同年08月出演红色年代传奇剧《大秧歌》女一号吴若云。8月1日，杨紫主演电影《时间都去哪了》在京举办杀青发布会。2015年1月，主演的现代军旅剧《天生要完美》在央视八套播出。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45440,"type_id":41,"type_id_1":0,"actor_name":"郑爽","actor_en":"zhengshuang","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"Z","actor_sex":"女","actor_color":"","actor_pic":"\/\/imgwx3.2345.com\/dianyingimg\/star\/img\/c\/0\/13\/photo_192x262.jpg","actor_blurb":"郑爽电影,郑爽电视剧,郑爽影视全集","actor_remarks":"演员","actor_area":"内地","actor_height":"170cm","actor_weight":"44kg","actor_birthday":"1991年8月22日","actor_birtharea":"辽宁沈阳大东区","actor_blood":"A型","actor_starsign":"狮子座","actor_school":"北京电影学院","actor_works":"《一起来看流星雨》《画壁》《古剑奇谭》《相爱穿梭千年》《寂寞空庭春欲晚》《微微一笑很倾城》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:37","actor_time_add":1536151717,"actor_time_hits":0,"actor_time_make":0,"actor_hits":473,"actor_hits_day":796,"actor_hits_week":599,"actor_hits_month":149,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":293,"actor_down":988,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 郑爽<\/li>身高<\/span>170cm<\/li>体重<\/span>44kg<\/li>\n 国籍<\/span>\n 中华人民共和国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 狮子座<\/li>\n 血型<\/span>\n A型<\/li>\n 出生日期<\/span>\n 1991年8月22日<\/li>\n 出生地<\/span>\n 辽宁沈阳大东区<\/li>\n 职业<\/span>\n 演员<\/em><\/li>\n 毕业院校<\/span>\n 北京电影学院<\/li>\n 经纪公司<\/span>\n 天娱传媒有限公司<\/li>\n 代表作品<\/span>\n 一起来看流星雨<\/em>画壁<\/em>古剑奇谭<\/em>相爱穿梭千年<\/em>寂寞空庭春欲晚<\/em>微微一笑很倾城<\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 第31届香港电影金像奖最佳新演员提名\n第25届中国电视金鹰奖人气女演员提名\n第13届华鼎奖全国观众最喜爱的影视明星奖\n2011年度香港电影导演会新晋演员金奖\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 郑爽，1991年8月22日出生在沈阳一个普通家庭里，母亲是普通职员，父亲做生意。郑爽从小到大都很乖，比较老实，是乖乖女。在妈妈眼中，郑爽应该成为一个高贵、端庄的淑女。郑爽第一次登台表演是4岁。妈妈为了培养女儿的艺术修养，5岁送她去参加钢琴、长笛、舞蹈兴趣班，接着就陆陆续续开始在电视台演出、比赛。童年时代的小爽恨不得把时间掰成两半——小学连连跳级，文化艺术两手抓，12岁起一个人远在成都学艺。2007年，还没满16岁的郑爽，被妈妈拉到了北影表演系的考场：“我妈也没想我一定要考上，只是说来见识见识。”这一见识的结果是，郑爽被中戏、北影、上戏表演系同时录取。后来，郑爽在父母的支持下，报考了北京电影学院，入学那年仅16岁，是北京电影学院07级表演系本科班最小的学生。\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 1997年，曾入选沈阳市电影小明星。2005年，沈阳市舞蹈比赛中获金奖。2007年，考入北京电影学院。2008年，获得北京电影学院2007-2008年度优秀学员评选优秀学生三等奖学金；参与年度作品《我与江姐》饰演“小爽”并获最佳指导奖；北影第二学年度学期片段汇报，参与作品《家》饰演“瑞钰”；参与北京电影学院2008形体大赛；参与湖南卫视与搜狐网联合举办的“杉菜一号”选拔赛。2009年2月，因在校园偶像剧《一起来看流星雨》饰演“楚雨荨”而走红。该剧8月播出，以平均收视率1.9%、最高收视率3%、收视份额7.73%的成绩从开播到结束一直占据同时段电视剧收视第一的位置。2010年2月，参演续集《一起又看流星雨》，该剧在8月播出再次刷新了第一部的收视记录，并凭借此剧入围第25届中国电视金鹰节电视剧最佳女演员，成为本届最年轻的候选人；7月，参演香港导演陈嘉上的魔幻电影《画壁》，饰演仙女“牡丹”，并凭借该片获得2012年香港电影导演会“年度新演员金奖”和第31届香港电影金像奖“最佳新人”的提名；11月，参演新锐导演傅华阳的动作电影《无极限之危情速递》以俏丽短发造型出镜饰演“小安“。2011年2月，参演由长城影视和湖南卫视联合摄制的古装大戏《武则天秘史》饰“太平公主”；4月，参演由天娱传媒、深圳世纪映画传媒、东汉文化传播打造的宫廷偶像剧《凰图腾》 饰双女主角“宁彩蝶”；7月，参演由长城影视传媒集团打造的史诗剧《太平公主秘史》首次分饰两角—“太平公主”和“安公主”；8月，代言广州九美子出席见面会；12月29日客串浪漫商战悬疑剧《童话二分之一》。2012年8月，参演新美学概念时尚剧《胜女的时代》再次分饰两角饰演双生姐妹花—“穆小妍”和“方亦菲”。2013年3月，出席广州九美子新品发布会；5月，客串由欢瑞世纪影视传媒股份有限公司出品的电视剧新《少年四大名捕》；7月在仙侠魔幻电视剧《古剑奇谭》中饰“小狐狸襄铃”，并获得第13届电视华鼎奖“全国观众最喜欢的影视演员”；12月，参演由浙江天光地影影视制作有限公司出品的古装剧《美人私房菜》饰厨娘“宋玉蝶”。2014年4月，主演由桐华监制的民国小清新悬疑虐恋电视剧《抓住彩虹的男人》；6月底，客串《天天有喜2之人间有爱》饰演白雪岛主；8月，客串网络剧《极品女士第三季》并主演由古典名著《三侠五义》改编的电视连续剧《五鼠闹东京》饰演女侠“丁月华”；11月，加盟热血军校电视剧《偏偏喜欢你》特别出演神秘人物“萧晗”；11月28日，穿越浪漫爱情周播剧《相爱穿梭千年》开机，饰演现代不得志的女演员“林湘湘”。2015年，登上Vogue2月刊正刊内页，成为第一位登上美国时尚杂志《Vogue》杂志美丽秘诀栏目的90后女星；2015年4月1日，参加录制湖南卫视首档明星姐弟自助远行真人秀节目《花儿与少年第二季》，成为该节目中的“五妹”，担当起第一任导游的责任；4月主演由匪我思存同名小说改编的清宫电视剧《寂寞空庭春欲晚》，饰演卫琳琅；7月13日确认出演由顾漫同名小说改编电视剧《微微一笑很倾城》饰演女主角贝微微，该剧于8月份开机。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45439,"type_id":41,"type_id_1":0,"actor_name":"关晓彤","actor_en":"guanxiaotong","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"G","actor_sex":"女","actor_color":"","actor_pic":"\/\/imgwx3.2345.com\/dypcimg\/star\/img\/a\/8\/24330\/photo_192x262.jpg?1509946884","actor_blurb":"关晓彤电影,关晓彤电视剧,关晓彤影视全集","actor_remarks":"演员","actor_area":"内地","actor_height":"174cm","actor_weight":"45kg","actor_birthday":"1997年9月17日","actor_birtharea":"北京","actor_blood":"O型","actor_starsign":"处女座","actor_school":"北京师大附中","actor_works":"《暖》《戈壁母亲》《电影往事》《刺陵》《妻子的谎言》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:37","actor_time_add":1536151717,"actor_time_hits":0,"actor_time_make":0,"actor_hits":476,"actor_hits_day":444,"actor_hits_week":854,"actor_hits_month":295,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":616,"actor_down":256,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 关晓彤<\/li>身高<\/span>174cm<\/li>体重<\/span>45kg<\/li>\n 国籍<\/span>\n 中华人民共和国<\/li>\n 民族<\/span>\n 满族<\/li>\n 星座<\/span>\n 处女座<\/li>\n 血型<\/span>\n O型<\/li>\n 出生日期<\/span>\n 1997年9月17日<\/li>\n 出生地<\/span>\n 北京<\/li>\n 职业<\/span>\n 演员<\/em><\/li>\n 毕业院校<\/span>\n 北京师大附中<\/li>\n 代表作品<\/span>\n <\/em>暖<\/em><\/em>戈壁母亲<\/em><\/em>电影往事<\/em><\/em>刺陵<\/em><\/em>妻子的谎言<\/em><\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 关晓彤获观众喜爱的新人女演员奖\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 2001年，关晓彤与郭晓冬合作出演《暖》中的丫。2003年，关晓彤在《惊心动魄》中饰演双双。同年在《电影往事》中饰演江玲玲， 导演是小江，与夏雨合作。2005年，关晓彤在《太阳》中饰演小袁亮，2005年在《情满山乡》中饰演秦芳，2005年在《红山雨》中饰演小孙女。2005年12月15日，陈凯歌导演的电影《无极》公映，关晓彤在电影中饰演小倾城，同年在《回家》中饰演芬芬。2006年在《惟有承诺留我心》中饰演小韩雪婷。2007年在张琦导演的《救我》中饰演小雪。2008年在《小田进城》中饰演小田，由刘苗苗导演，与刘亚津合作。2008年出演《心灵承诺》。2009年在电影《刺陵》中饰演小蓝婷。同年在《春雷绽放》中饰演农小梅。2010年01月29日，由关晓彤和陈小艺、高曙光主演的《突然心动》在北京电视台影视频道首播。2010年12月22日，冯小刚导演的电影《非诚勿扰2》公映，关晓彤在电影中饰演川川，孙红雷的女儿。2011年在《致命闪玩》饰演初中女生，导演咸旭初，合作演员，方力申、张馨予。2011年出演《春天的拉花》。2012年6月28日，关晓彤出演的《画皮2》公映。2012年7月28日，关晓彤、郝瀚、刘恒宇、卓依琴、安亚欧等主演20集电视剧《101次告白》开机，《流星花园》编剧毛训容再次出山，为剧本把关。该剧以校园生活为背景，将展示来自豪门、中产、白领、蓝领等不同阶层家庭五味杂陈的生活，于2012年9月中旬开播。2013年6月9日，关晓彤出演的《富山春居图》公映，饰演肖悦悦。2014年2月16日，关晓彤与王志文、李小冉等主演2015年参演宁瀛转型之作《浪漫天降》。剧中“国民闺女”关晓彤化身俏丽空姐，与“五料影帝”夏雨在电影里上演了一场暖壕追爱的浪漫大作战。2015年参演由华视佰艺（北京）国际文化传媒有限公司根据作家赵文宇的同名网络小说改编的电影《向天真的女生投降》，该电影于3月28日在厦门开机，将由最受观众喜爱的“国民闺女”关晓彤和新生代偶像主演，关晓彤的父亲作为该片导演，为了给戏中关晓彤选婿也操碎了心，几经挑选最后看中了网络人气美男子姜潮。2015年出演周小兵执导的大型年代励志情感电视剧《我们的纯真年代》。本剧由左小青、郭晓东领衔主演，张少华、杜源、王雨、刘雨鑫、吴冕、艾丽娅、李建义等老中青三代实力派演员联合出演。关晓彤在剧中饰演女主角尤玲之女苦瓜，由于身世秘密，性格叛逆，惹祸不断，最终在亲人的关怀中逐渐成长。2015年2月由关晓彤、白敬亭领衔主演的国内首部魔幻爱情攻略新媒体电影《我的公主来自外星之魔法触恋》在北京召开了新闻发布会。2015年在《妻子的谎言》中饰演董事长儿子的表演老师陈璞玉。夏雨、关晓彤领衔主演的爱情喜剧《浪漫天降》正式宣布10月23日公映。2015年出演国内首部主题公园全景偶像剧《嬉戏魔法乐园》，饰演安洁西公主。2015年在陆贞传奇姊妹篇《班淑传奇》中饰演班淑的学生，该剧由徐惠康、朱锐斌执导，张巍编剧，景甜、张哲瀚、李佳航、李晟、付辛博、李心艾等主演的历史古装剧，该剧讲述了东汉三班家族的下一代班淑的传奇故事。2015年在《我的老婆大人是八零后》中饰演visa，该剧由刘进执导，李小冉、杜淳、于明加、张鲁一、张嘉译、王维维、王唯伊领衔主演。9月17日，关晓彤个人首支单曲《安洁西公主》首发。2016年加盟都市情感大剧《好先生》，将和孙红雷、张艺兴演对手戏。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45438,"type_id":41,"type_id_1":0,"actor_name":"鹿晗","actor_en":"luhan","actor_alias":"鹿饭,","actor_status":1,"actor_lock":0,"actor_letter":"L","actor_sex":"男","actor_color":"","actor_pic":"\/\/imgwx5.2345.com\/dianyingimg\/star\/img\/3\/8\/26242\/photo_192x262.jpg?1442471602","actor_blurb":"鹿晗电影,鹿晗电视剧,鹿晗影视全集","actor_remarks":"演员歌手","actor_area":"内地","actor_height":"178cm","actor_weight":"60kg","actor_birthday":"1990年4月20日","actor_birtharea":"北京市海淀区","actor_blood":"O型","actor_starsign":"白羊座","actor_school":"韩国首尔综合艺术大学","actor_works":"《电影》《重返20岁》《；歌曲》《Reloaded》《我们的明天》《甜蜜蜜》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:36","actor_time_add":1536151716,"actor_time_hits":0,"actor_time_make":0,"actor_hits":170,"actor_hits_day":375,"actor_hits_week":340,"actor_hits_month":34,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":708,"actor_down":345,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 鹿晗<\/li>\n 粉丝名<\/span>\n 鹿饭<\/em><\/li>身高<\/span>178cm<\/li>体重<\/span>60kg<\/li>\n 国籍<\/span>\n 中华人民共和国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 白羊座<\/li>\n 血型<\/span>\n O型<\/li>\n 出生日期<\/span>\n 1990年4月20日<\/li>\n 出生地<\/span>\n 北京市海淀区<\/li>\n 职业<\/span>\n 演员<\/em>歌手<\/em><\/li>\n 毕业院校<\/span>\n 韩国首尔综合艺术大学<\/li>\n 经纪公司<\/span>\n 鹿晗工作室<\/li>\n 代表作品<\/span>\n 电影<\/em>重返20岁<\/em>；歌曲<\/em>Reloaded<\/em><\/em>我们的明天<\/em><\/em><\/em>甜蜜蜜<\/em><\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 2014年8月个人微博创吉尼斯世界记录\n第22届北京大学生电影节 最受欢迎男演员奖\n第五届北京国际电影节 年度新人奖\n2014年2015爱奇艺之夜盛典 亚洲人气偶像\n2014年百度MOMENTS盛典 年度最具价值男明星\n\n2014年土豆青春的选择年度盛典 年度风云人物\n2015年微博之夜微博 king\n2015年微博之夜微博 年度男神\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n<\/div><\/div><\/div>1990年4月20日，鹿晗出生于北京市海淀区。小学就读北京市育英学校（1996级），初中就读北京市师达中学（2002级），高中就读北京海淀外国语实验学校（2005级）。<\/div>2008年，鹿晗赴韩国留学，在延世大学韩国语学堂学习韩语，并通过了韩语等级考试。2009年考入首尔综合艺术大学实用音乐艺术系。在此留学期间，在明洞逛街时被SM公司星探发掘。<\/div>2010年，鹿晗通过S.M. Casting System成为旗下练习生，经过一年半密集训练，2011年12月27日，SM官网、官方微博公开鹿晗预告照、视频，正式出道。<\/div>\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45437,"type_id":41,"type_id_1":0,"actor_name":"黄渤","actor_en":"huangbo","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"H","actor_sex":"男","actor_color":"","actor_pic":"\/\/imgwx3.2345.com\/dianyingimg\/star\/img\/4\/0\/821\/photo_192x262.jpg","actor_blurb":"黄渤电影,黄渤电视剧,黄渤影视全集","actor_remarks":"演员歌手","actor_area":"内地","actor_height":"172cm","actor_weight":"","actor_birthday":"1974年8月26日","actor_birtharea":"山东青岛","actor_blood":"O型","actor_starsign":"处女座","actor_school":"北京电影学院表演系配音专业","actor_works":"《疯狂的赛车》《斗牛》《心花路放》《亲爱的》《泰囧》《杀生》《厨子戏子痞子》《无人区》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:35","actor_time_add":1536151715,"actor_time_hits":0,"actor_time_make":0,"actor_hits":685,"actor_hits_day":251,"actor_hits_week":423,"actor_hits_month":707,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":717,"actor_down":803,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 黄渤<\/li>身高<\/span>172cm<\/li>\n 国籍<\/span>\n 中国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 处女座<\/li>\n 血型<\/span>\n O型<\/li>\n 出生日期<\/span>\n 1974年8月26日<\/li>\n 出生地<\/span>\n 山东青岛<\/li>\n 职业<\/span>\n 演员<\/em>歌手<\/em><\/li>\n 毕业院校<\/span>\n 北京电影学院表演系配音专业<\/li>\n 经纪公司<\/span>\n 黄渤工作室<\/li>\n 代表作品<\/span>\n <\/em>疯狂的赛车<\/em><\/em>斗牛<\/em><\/em>心花路放<\/em><\/em>亲爱的<\/em><\/em>泰囧<\/em><\/em>杀生<\/em><\/em>厨子戏子痞子<\/em><\/em>无人区<\/em><\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 台湾电影金马奖最佳男主角\n北京大学生电影节最佳男主角\n中国电影导演协会年度男演员\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 黄渤，甘肃临洮人 ，出生在甘肃的一个知识分子家庭，4岁跟随父母迁往山东青岛。1993年，高中时代的黄渤就走进歌厅成了第一批在歌厅驻唱的歌手。组了一个组合叫“蓝色风沙”，在全国各地演出，并做了7年的舞蹈教练。\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 2000年，出演管虎执导的电视电影《上车，走吧》，这是他的第一部影视作品，获得2001年度金鸡奖“最佳电视电影奖”，这一次刺激与鼓励，黄渤报考了北京电影学院。2001至2002年，他参演电视剧《大脚马皇后》《黑洞》《红楼丫头》等，饰演的角色多为小角色，在电视《黑洞》的最长台词只有12个字。因为是青岛人，黄渤在剧中常常一口扎实的山东话。2006年，参演宁浩电影《疯狂的石头》，电影获得包括台湾电影金马奖“最佳原创剧本奖“在内的多个电影大奖，黄渤凭借满口青岛话的“黑皮”而走红。2008年，再次参演宁浩的喜剧电影《疯狂的赛车》。2009年，参演管虎执导的电影《斗牛》，他展现了“牛二”从不羁到最终妥协，整个无奈的过程转折。夺得第46届台湾电影金马奖和第17届北京大学生电影节“最佳男主角”奖、第1届金榕树大奖最佳演员奖。2011年，出演电视《民兵葛二蛋》，该剧讲述了侠肝义胆、敢作敢为的农民葛二蛋在历练中成长成为优秀抗日民兵，再从民兵成为合格八路军战士的故事，黄渤饰演“葛二蛋”具有土鳖智勇的特点。2012年4月，参演悬疑喜剧电影《杀生》，获得第20届北京大学生电影节最佳男演员奖和第4届中国电影导演协会年度男演员奖；12月，在徐峥自编自导自演的电影处女作《人再囧途之泰囧》中出演反派“歪脖子”高博，影片上映5天票房突破3亿，刷新华语片首周票房纪录，上映一个月票房达到12亿，最终票房12.66亿，成为中国电影市场华语片票房冠军。2013年2月，参演周星驰电影《西游·降魔篇》，电影以12.46亿元票房为2013年内地电影全年票房冠军；与林志玲合作《101次求婚》，饰演一个随时随地“准备求婚”的大龄男青年；3月，与刘烨、张涵予“零片酬”出演《厨子·戏子·痞子》，饰演“赖痞子”；12月，出演电影《无人区》，黄渤在片中饰演一个总是遭遇尴尬的悍匪，首次以光头造型出现，为了有贴近人物的真实感觉，黄渤在新疆进行了两个月的“体验生活训练”，还去屠宰场练“杀气”。四部作品累积票房19.1亿元，成为2013年的演员票房冠军，2013年被媒体称为“黄渤年”。2014年9月26日，主演陈可辛打拐电影《亲爱的》。9月30日，黄渤与宁浩、徐峥合作的《心花路放》上映6天票房超过6亿，刷新了华语电影首周票房以及国庆档的票房记录。2014年12月28日，黄渤主演的《锋刃》在央视一套首播。2015年6月，黄渤和孙红雷、黄磊、王迅、罗志祥、张艺兴加盟东方卫视励志综艺真人秀《极限挑战》节目。黄渤黄渤厨子戏子痞子电影剧照黄渤\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45436,"type_id":41,"type_id_1":0,"actor_name":"罗晋","actor_en":"luojin","actor_alias":"萝卜,","actor_status":1,"actor_lock":0,"actor_letter":"L","actor_sex":"男","actor_color":"","actor_pic":"\/\/imgwx3.2345.com\/dypcimg\/star\/img\/d\/0\/1806\/photo_192x262.jpg?1505374685","actor_blurb":"罗晋电影,罗晋电视剧,罗晋影视全集","actor_remarks":"演员","actor_area":"内地","actor_height":"181cm","actor_weight":"68kg","actor_birthday":"1981年11月30","actor_birtharea":"江西省宜春市铜鼓县","actor_blood":"O型","actor_starsign":"射手座","actor_school":"北京电影学院","actor_works":"《克拉恋人》《十送红军》《我和我的传奇奶奶》《X女特工》《乱世佳人》《穆桂英挂帅》《美人心计》《三国》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:35","actor_time_add":1536151715,"actor_time_hits":0,"actor_time_make":0,"actor_hits":646,"actor_hits_day":166,"actor_hits_week":200,"actor_hits_month":600,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":546,"actor_down":791,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 罗晋<\/li>\n 粉丝名<\/span>\n 萝卜<\/em><\/li>身高<\/span>181cm<\/li>体重<\/span>68kg<\/li>\n 国籍<\/span>\n 中国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 射手座<\/li>\n 血型<\/span>\n O型<\/li>\n 出生日期<\/span>\n 1981年11月30日<\/li>\n 出生地<\/span>\n 江西省宜春市铜鼓县<\/li>\n 职业<\/span>\n 演员<\/em><\/li>\n 毕业院校<\/span>\n 北京电影学院<\/li>\n 经纪公司<\/span>\n 罗晋工作室<\/li>\n 代表作品<\/span>\n 克拉恋人<\/em>十送红军<\/em>我和我的传奇奶奶<\/em>X女特工<\/em>乱世佳人<\/em>穆桂英挂帅<\/em>美人心计<\/em>三国<\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 2007温哥华电影节龙虎奖提名、2010戛纳电影节主竞赛单元\n2012中国扶贫基金会公益之星\n2013安徽卫视亚洲偶像盛典年度最具人气男演员\n2013安徽卫视国剧盛典内地人气男演员\n2014第五届大学生电视节最受大学生喜爱电视剧男演员\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 2003年在《售楼处的故事》中客串饰演农民阿立，这是罗晋第一部电视剧。2007年参演的首部电影《金碧辉煌》入围鹿特丹电影节和釜山电影节等国际电影节。2008年主演的电影《美错》入围戛纳国际电影节主竞赛单元。2009年参演高希希拍摄的名著翻拍剧《三国》，罗晋饰演汉献帝刘协。2010年由林心如、陈键锋、杨幂、何晟铭、王丽坤、罗晋等主演的古装情感心计斗争剧《美人心计》于3月15日在上海电视台电视剧频道首播，获得了9.69的最高收视率，罗晋饰演痴情皇帝刘盈，凭借该剧获得安徽卫视亚洲偶像盛典最佳新人奖，一度被称为“帝王专业户”。2011年罗晋参演了于正编剧的作品《藏心术》（又名：《被遗弃的秘密》）、《王的女人》两部电视剧。2012年，罗晋在《穆桂英挂帅》饰演杨宗保；《乱世佳人》中饰演王重阳，2013年初在《X女特工》中饰演外表冷峻却内心柔情的特工精英干将贺俊峰，并凭借该剧获得安徽卫视亚洲偶像盛典年度最具人气男演员奖，随后客串出演都市情感剧《断奶》。2014年罗晋在《错放你的手》（又名《返航》）、《枪侠》、《我和我的传奇奶奶》、《幸福36计》、《爸爸父亲爹》、《狭路》等剧中担任男主角；在毛卫宁导演的电视剧《十送红军》中临危受命压轴出演第十位红军“高福星”。年底参与拍摄都市励志偶像剧《克拉恋人》，饰演堪称“妇女之友”的妇产科医生“雷奕明”，颠覆以往“痴情男”的形象变身情场高手。2015年罗晋加盟古装神话巨制《封神》，饰演男一号杨戬，他再次突破以往情深不寿的主角形象，饰演刚毅而执着的救世英雄。2015年7月3日，罗晋主演的《爸爸父亲爹》在浙江卫视、贵州卫视播出。2015年7月22日《克拉恋人》在浙江卫视、安徽卫视播出。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45435,"type_id":41,"type_id_1":0,"actor_name":"范冰冰","actor_en":"fanbingbing","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"F","actor_sex":"女","actor_color":"","actor_pic":"\/\/imgwx5.2345.com\/dianyingimg\/star\/img\/3\/0\/23\/photo_192x262.jpg","actor_blurb":"范冰冰电影,范冰冰电视剧,范冰冰影视全集","actor_remarks":"演员歌手制片人","actor_area":"内地","actor_height":"168cm","actor_weight":"56kg","actor_birthday":"1981年9月16日","actor_birtharea":"山东青岛","actor_blood":"B型","actor_starsign":"处女座","actor_school":"上海师范大学谢晋影视艺术学院","actor_works":"《观音山》《二次曝光》《一夜惊喜》《苹果》《手机》《大唐芙蓉园》《金大班》《武媚娘传奇》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:33","actor_time_add":1536151713,"actor_time_hits":0,"actor_time_make":0,"actor_hits":135,"actor_hits_day":37,"actor_hits_week":679,"actor_hits_month":566,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":394,"actor_down":136,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 范冰冰<\/li>身高<\/span>168cm<\/li>体重<\/span>56kg<\/li>\n 国籍<\/span>\n 中华人民共和国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 处女座<\/li>\n 血型<\/span>\n B型<\/li>\n 出生日期<\/span>\n 1981年9月16日<\/li>\n 出生地<\/span>\n 山东青岛<\/li>\n 职业<\/span>\n 演员<\/em>歌手<\/em>制片人<\/em><\/li>\n 毕业院校<\/span>\n 上海师范大学谢晋影视艺术学院<\/li>\n 经纪公司<\/span>\n 范冰冰工作室<\/li>\n 代表作品<\/span>\n 观音山<\/em>二次曝光<\/em>一夜惊喜<\/em>苹果<\/em>手机<\/em>大唐芙蓉园<\/em>金大班<\/em>武媚娘传奇<\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 东京国际电影节最佳女演员\n欧亚国际电影节最佳女演员\n大众电影百花奖最佳女主角\n台湾电影金马奖最佳女配角\n华鼎奖中国电影最佳女主角\n\n中国电影华表奖最佳新演员\n北京大学生电影节最佳女主角\n东京国际电影节评委会成员\n戛纳国际电影节最佳女演员提名\n戛纳国际电影节最佳红毯着装奖\n伦敦国际华语电影节最佳原创电影歌曲\n华语电影传媒大奖最受欢迎女演员\n好莱坞报道年度最佳国际艺人奖\n中国电影表演艺术学会金凤凰奖\n伦敦国际华语电影节最具海外影响力演员\n蝉联三届福布斯中国名人榜第1名等\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 1981年（辛酉年）9月16日，范冰冰出生于山东青岛，后跟随父母定居山东烟台。父亲范涛（山东青岛人），母亲张传美（山东烟台人），弟弟范丞丞（2000年出生）。母亲曾经是舞蹈演员，父亲曾经是海军航空兵文工团的歌手。范冰冰从小就在父母的指导下学习长笛和钢琴，她对于音乐有特别浓厚的兴趣。家里家教严，不过她却性格豁达，喜欢抱打不平。1996年范冰冰入读谢晋恒通明星艺术学校，同年出演邵兵、刘雪华主演的电视剧《女强人》。1997年出演电视剧《导游小姐》。范冰冰幼儿时\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 1996年参与拍摄刘雪华与邵兵主演的《女强人》。1997年-1998年出演电视剧《还珠格格》、《还珠格格2》；因为剧中饰演的金锁一角而被观众所熟知。2000年签入华谊经纪公司。1999年-2002年范冰冰一共出演了《青春出动》、《小李飞刀》、《秦始皇》、《中关村风云》、《少年包青天2》《尘埃落定》等十七部电视剧，以及《河东狮吼》等三部电影。2003年在由梁羽生小说改编的电视剧《萍踪侠影》中饰演女主角云蕾。同年在冯小刚执导的贺岁档电影《手机》中饰演女主角武月。2004年凭借电影《手机》获得第27届大众电影百花奖最佳女主角奖，同时《手机》也获得大众电影百花奖最佳故事片奖。9月，出演根据古龙小说改编的古装剧《小鱼儿与花无缺》，饰演女主角铁心兰。同年出演《大唐芙蓉园》中的杨玉环等五部电视剧，以及电影《千机变2》和《情癫大圣》。2005年发行首张个人专辑《刚刚开始》，这张处女大碟由圈内多位知名音乐人联袂制作，包含了多种风格迥异的音乐元素。同年主演由张之亮执导的古装片《墨攻》，饰演女主角逸悦。2006年出演电视剧《封神榜之凤鸣岐山》，饰演女主角苏妲己。之后接连拍摄《苹果》、《导火线》、《心中有鬼》等六部电影。2007年2月，主演的电影《苹果》入围第57届柏林国际电影节主竞赛单元，导演李玉，女主演范冰冰，男主演佟大为共同出席本届电影节。6月，范冰冰与华谊约满，自组工作室，投资拍摄民国剧《胭脂雪》，并首次担当制片人，同时饰演女主角文玉禾。10月，凭借电影《苹果》获得第四届欧亚国际电影节最佳女演员奖。同年出演《合约情人》、《精舞门》、《新宿事件》等五部电影。同年凭借电影《心中有鬼》获得第44届台湾电影金马奖最佳女配角。2008年主演爱情喜剧片《非常完美》，饰演王菁菁。8月，主演由何平自编自导的剧情片《麦田》，饰演年轻美貌的骊。11月4日，被任命为陕西西安“西部电影集团艺创中心演员剧团副团长”。12月，主演科幻爱情片《未来警察》。2009年1月，范冰冰工作室投拍第二部电视剧《金大班》，范冰冰饰演女主角金兆丽。10月，与李玉二度合作，饰演电影《观音山》中的女主角南风。6月，在柳云龙首部执导的谍战电影《东风雨》中饰演女主角欢颜，这也是她首次出演女间谍的角色。11月，主演由王小帅执导的家庭剧情片《日照重庆》，饰演女医生竹青。同年出演港片《十月围城》，《新少林寺》以及法国电影《stretch》。2010年1月，纽约时代广场户外大屏幕上开始播放中国国家形象片，范冰冰身着“青花瓷”元素礼服登场，与周迅、章子怡、杨丽萍、张梓琳等一道演绎“中国式美丽代表”（ChineseBeauty）。4月，主演陈凯歌执导的古装电影《赵氏孤儿》，饰演庄姬。5月，主演的电影《日照重庆》入围第63届戛纳国际电影节竞赛单元，范冰冰与导演王小帅以及众演员共同出席电影节。同年凭借《观音山》荣获第23届东京国际电影节最佳女主角，该片还荣获东京国际电影节最佳艺术贡献奖。之后在建党90周年献礼片《建党伟业》中饰演隆裕太后。10月，在韩国导演姜帝圭执导的战争片《登陆之日》中饰演中国女狙击手。2011年凭借《观音山》获得第十八届北京大学生电影节最佳女主角奖。与李玉三度合作，饰演电影《二次曝光》中的女主角宋其，并且在第九届华鼎上凭借此片中获得最佳女主角奖。相继登上《VOGUE服饰与美容》、《ELLE世界时装之苑》、《时尚芭莎》、《嘉人》、《时尚COSMO》、《智族GQ》、《时尚先生Esquire》等封面，完成一年内五大女刊+两大男刊封面满贯，以及登上《大都市Numéro》。8月，由《环球时报》推出的中国第一份国际视角的榜单，以“寻找全球范围的中国力量”为主题，调研与评价最受全球关注的中国企业、人物和城市，范冰冰与韩美林、吕嘉、郎朗、张艺谋成功入选“最受全球关注文化人物”前五强。10月，担任第24届东京国际电影节评委。2012年5月3日，《福布斯》杂志公布2012福布斯中国名人榜，范冰冰位居榜中女性名人第一位，也是内地名人排名第一。同年，路易威登（LouisVuitton）正式邀请范冰冰成为中国品牌大使，及LV Alma系列手袋的首位亚洲代言人。9月29日，主演的电影《二次曝光》在国庆档上映，票房过亿。10月，主演由金依萌执导的爱情喜剧《一夜惊喜》。12月，受徐峥邀请参演喜剧电影《人再囧途之泰囧》。2013年4月，酩悦香槟(Moet&Chandon)宣布范冰冰成为酩悦香槟270年以来第一位亚洲代言人。在第66届戛纳电影节上，萧邦(Chopard)宣布范冰冰担任该产品的全球品牌代言人。4月24日，《福布斯》杂志公布了2013福布斯中国名人榜的榜单。范冰冰位居2013福布斯中国名人榜第一位。5月19日，范冰冰出席了《好莱坞报道》（“The Hollywood Reporter”）在戛纳举行的“年度最佳国际艺人”颁奖酒会，同时荣获“年度最佳国际艺人”奖，《好莱坞报道》将这个首次设立的奖项颁予了范冰冰，以肯定她在国际舞台上取得的成就。8月主演的爱情喜剧《一夜惊喜》上映，并取得了1.7亿的票房成绩。同年在爱情史诗电影《王朝的女人·杨贵妃》中饰演杨贵妃。2014年，范冰冰蝉联2014福布斯中国名人榜第一位。5月23日，布莱恩·辛格导演、休·杰克曼、詹姆斯·麦卡沃伊、迈克尔·法斯宾德主演的电影《X战警：逆转未来》全球同步上映，范冰冰在其中饰演“闪烁女Blink”一角。并且随着《X战警：逆转未来》在全球的热映，范冰冰在国际上的影响力再进一步，她在权威电影网站IMDB(全球互联网中最大的电影资料库)的排名也迅速飙升到第19位，成为华人明星中的第一名。5月，全球知名玩具制造商美泰公司旗下芭比娃娃携手范冰冰于中国上海首度推出名人系列之“范冰冰”珍藏版，自芭比推出特别款娃娃以来，范冰冰成为首位入驻芭比全球名人堂的中国明星。范冰冰出镜路易·威登（LouisVuitton）2014春夏成衣广告，与法国演员CatherineDeneuve、美国导演SofiaCoppola、巴西超模GiseleBündchen、法国超模CarolinedeMaigret、英国超模EdieCampbell共同拍摄广告，范冰冰也成为该品牌全球硬广中的首位亚洲女星。7月31日，领衔主演3D武侠电影《白发魔女传之明月天国》上映，最终票房近四亿元人民币。8月，在2014年《Vogue》中国版创刊九周年之际，范冰冰成为中国内地首位登上《Vogue》中国版“金九”封面的明星，并引起国外媒体的关注。8月中旬，从2013年底开机以来，经过八个多月的辛苦拍摄，投资三亿的古装剧《武媚娘传奇》终于杀青，该剧首播后大结局全国网收视率破5，打破省级卫视黄金档记录，首轮播出后，成为第一部网络播放量过百亿的电视剧。2015年担任CCTV1《出彩中国人》评委。2015年3月1日，范冰冰上《新闻联播》 现身30秒。同时还担任《出彩中国人》（第二季）评委。3月，范冰冰作为第一集嘉宾加盟《奔跑吧兄弟》。主演的电影《万物生长》定档4月24日上映。2015年3月9日 ，范冰冰加盟《奔跑吧兄弟2》 ，现身成都Cosplay雅典娜。同年郭敬明通过微博发布信息，称范冰冰出演他的新作《爵迹》。2015年8月21日，范冰冰在《福布斯》公布的2015全球最高薪女星排行榜中，以年收入2100万美元（约1.3亿人民币），排名第四，是唯一进榜的亚洲女星。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45434,"type_id":41,"type_id_1":0,"actor_name":"何炅","actor_en":"hegui","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"H","actor_sex":"男","actor_color":"","actor_pic":"\/\/imgwx2.2345.com\/dypcimg\/star\/img\/f\/0\/76\/photo_192x262.jpg?1509954497","actor_blurb":"何炅电影,何炅电视剧,何炅影视全集","actor_remarks":"主持人教师演员作家歌手","actor_area":"内地","actor_height":"172cm","actor_weight":"50kg","actor_birthday":"1974年4月28日","actor_birtharea":"湖南省长沙市雨花区","actor_blood":"A型","actor_starsign":"金牛座","actor_school":"北京外国语大学","actor_works":"《歌曲》《栀子花开》《电视剧》《正德演义》《综艺节目》《快乐大本营》《话剧》《暗恋桃花源》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:32","actor_time_add":1536151712,"actor_time_hits":0,"actor_time_make":0,"actor_hits":322,"actor_hits_day":223,"actor_hits_week":304,"actor_hits_month":853,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":885,"actor_down":80,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 何炅<\/li>身高<\/span>172cm<\/li>体重<\/span>50kg<\/li>\n 国籍<\/span>\n 中国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 金牛座<\/li>\n 血型<\/span>\n A型<\/li>\n 出生日期<\/span>\n 1974年4月28日<\/li>\n 出生地<\/span>\n 湖南省长沙市雨花区<\/li>\n 职业<\/span>\n 主持人<\/em>教师<\/em>演员<\/em>作家<\/em>歌手<\/em><\/li>\n 毕业院校<\/span>\n 北京外国语大学<\/li>\n 代表作品<\/span>\n 歌曲<\/em>栀子花开<\/em><\/em><\/em>电视剧<\/em>正德演义<\/em><\/em><\/em>综艺节目<\/em>快乐大本营<\/em><\/em>话剧<\/em>暗恋桃花源<\/em><\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 第二十二、二十五届中国电视金鹰奖优秀主持人奖\n“中国儿童慈善之星”\n湖南卫视最佳主持人奖\n《新周刊》最佳娱乐秀主持人\n2009亚洲电视节获最佳娱乐秀主持人提名\n\n《新周刊》2013中国电视榜15周年荣誉大奖\n\n最受大学生喜爱电视节目男主持人\n\n最具网络影响力主持人\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 1974年4月出生于湖南省长沙市雨花区；何炅1980年9月长沙市长塘里小学（至1986年7月小学毕业）；1986年9月进入湖南师范大学附属中学读书1992年7月高中毕业；1992年9月保送入读北京外国语大学阿拉伯语系学习；1997年7月大学毕业留任北京外国语大学阿拉伯语系教师；1998年3月主持湖南卫视大型综艺节目《快乐大本营》至今。\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 1997年中央电视台再次改版《大风车》，主持人为了角色化，都要改名，刘纯燕自己给自己起了个名字叫“金龟子”，何炅为了找个名字与其相配，绞尽脑汁日思夜想，取了100多个名字，连“大衣柜”、“电灯泡”、“樟脑丸”等都用上了，最后定名“毛毛虫”。1997年9月主持滚石唱片制作全国发行流行音乐节目《非常流行》。1998年3月主持湖南卫视大型综艺节目《快乐大本营》，不再担任《大风车》节目主持人。1999年2月主持湖南卫视1999年新春联欢晚会；3月主持北京人民广播电台97.4兆赫流行音乐节目《音乐晚餐》；5月主持湖南卫视特别节目《我们不会忘记》；7月主持《情系三湘》98赈灾文艺晚会；9月主持湖南卫视娱乐节目《快乐新战线》，同月参加广西南宁99国际民歌节演出。2001年2月主持湖南卫视春节联欢晚会；3月主持北京电台87.6兆赫信息娱乐节目《诺基亚信息最前线》和北京电台87.6兆赫音乐节目《音乐晚餐》以及第一届中国音乐风云榜颁奖盛典；4月主持全国播出网络电视综艺节目《亲密接触》；6月主持电视音乐节目《音乐最前沿》；11月主持第二届中国电视金鹰节暨中国电视金鹰奖颁奖典礼。2002年1月担任东风卫视《亚洲娱乐中心》春节特别节目嘉宾主持；2月主持湖南卫视春节联欢晚会；3月主持第二届中国音乐风云榜颁奖盛典；9月主持中国湖南国际旅游节大型文艺晚会；11月主持东风卫视全国播出美食信息节目《天下食神》以及凤凰卫视及各台播出新形态综艺电视节目《综艺新势力》；12月主持第三届中国金鹰电视艺术节电视新秀大赛。2003年2月主持湖南电视台春节联欢晚会；3月主持全国播出信息节目《今日惊奇》以及第三届音乐风云榜颁奖盛典；5月主持湖南电视台抗击“非典”特别节目；9月主持第四届中国电视金鹰艺术节电视新秀大赛；10月主持北京电台103.9兆赫信息娱乐节目《星空乐园》；11月主持中国芷江首届国际和平文化节开幕式；12月主持中央电视台美国迪斯尼公司合作节目《宝贝厨房》。2004年1月主持湖南电视台春节联欢晚会；2月主持全国娱乐节目主持人大奖赛总决赛；3月主持中央电视台国际妇女节晚会；4月主持第四届百事《音乐风云榜》以及湖南经济电视台音乐节目《明星学院》；5月主持湖南电视台谈话节目《背后的故事》；9月主持中国金鹰电视艺术节新秀大赛以及中国金鹰电视艺术节闭幕式。2005年1月主持湖南电视台春节联欢晚会；4月主持第五届百事音乐风云榜；12月担任张艺谋导演的《千里走单骑》电影首映的主持。2006年1月主持吉林电视台娱乐节目《超级乐8点》；5月主持第六届百事《音乐风云榜》；10月主持第六届金鹰艺术节闭幕式即颁奖晚会；12月主持中国人民广播电台Music Radio音乐之声《音乐晚点名》。2007年夏主持湖南卫视第一届仁和闪亮《快乐男声》；1月主持湖南卫视季播节目《名声大震》；3月主持湖南卫视娱乐节目《勇往直前》；主持华娱卫视《动感职场新偶像》；8月主持湖南卫视大型舞蹈比赛节目《舞动奇迹》。2008年1月主持湖南卫视娱乐综艺节目《快乐2008》；8月主持湖南卫视礼仪综艺节目《天天向上》（前3期,为节目宣传）；8月主持中国第七界金鹰节电视艺术节闭幕晚会；12月31日在深圳世界之窗主持oppo手机跨年演唱会。2009年1月19日主持湖南卫视《春节联欢晚会》2014年10月25日，第五届中国大学生电视节颁奖礼上，何炅与李湘分获年度大学生最受欢迎电视节目男、女主持人奖，这是两人作为主持人首度同台领奖。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45433,"type_id":41,"type_id_1":0,"actor_name":"唐嫣","actor_en":"tangyan","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"T","actor_sex":"女","actor_color":"","actor_pic":"\/\/imgwx4.2345.com\/dianyingimg\/star\/img\/c\/0\/50\/photo_192x262.jpg","actor_blurb":"唐嫣电影,唐嫣电视剧,唐嫣影视全集","actor_remarks":"演员","actor_area":"内地","actor_height":"171cm","actor_weight":"48kg","actor_birthday":"1983年12月6日","actor_birtharea":"上海市黄浦区","actor_blood":"O型","actor_starsign":"射手座","actor_school":"中央戏剧学院","actor_works":"《何以笙箫默》《仙剑奇侠传三》《夏家三千金》《X女特工》《金玉良缘》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:32","actor_time_add":1536151712,"actor_time_hits":0,"actor_time_make":0,"actor_hits":162,"actor_hits_day":316,"actor_hits_week":252,"actor_hits_month":155,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":89,"actor_down":548,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 唐嫣<\/li>身高<\/span>171cm<\/li>体重<\/span>48kg<\/li>\n 国籍<\/span>\n 中华人民共和国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 射手座<\/li>\n 血型<\/span>\n O型<\/li>\n 出生日期<\/span>\n 1983年12月6日<\/li>\n 出生地<\/span>\n 上海市黄浦区<\/li>\n 职业<\/span>\n 演员<\/em><\/li>\n 毕业院校<\/span>\n 中央戏剧学院<\/li>\n 经纪公司<\/span>\n 唐嫣工作室<\/li>\n 代表作品<\/span>\n <\/em>何以笙箫默<\/em><\/em>仙剑奇侠传三<\/em><\/em>夏家三千金<\/em><\/em>X女特工<\/em><\/em>金玉良缘<\/em><\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 2015福布斯中国名人榜第20名\n中国大学生电视节最受欢迎女演员\n国剧盛典最具商业价值女演员\n华鼎奖当代题材电视剧最佳女演员\n伦敦国际华语电影节最佳女配角\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 1983年12月6日，唐嫣出生于上海市南市区（2000年并入黄浦区），父亲唐宏威是一名行政职员，母亲李桐晏是一名外企白领。2001年11月3日，18岁的唐嫣在第三届舒蕾世纪星选美比赛全国电视总决赛中荣获冠军，并获得“健康之星”单项奖。唐嫣念中戏的时候是公认的中戏校花。2004年，唐嫣被导演张艺谋选中，成为“奥运宝贝”之一，8月29日赴雅典参加雅典奥运会闭幕式“中国8分钟”，代表中国站在世界的舞台上。唐嫣与其他十三名中国女孩一样，经过多次筛选，从上千名的中戏、北影、民族大学学艺术的学生中被选出来，穿着由设计师叶锦添改良的中国传统风格的服装，用二胡、琵琶等传统的乐器演奏了中国名曲《茉莉花》。\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 2007年，凭借爱情电影《离别也是爱》获得“北京大学生电影节”最佳电视电影女演员提名以及“上海电视节”最佳电视电影女主角提名。其后签约橙天娱乐，出演《神枪手与智多星》、《棒子老虎鸡》、《风云2》等香港电影。此外，唐嫣在任贤齐的《诛仙》系列歌曲MV中饰演女主角“陆雪琪”。2008年，主演电视剧《生于80后》，唐嫣在剧中出演坚强、直面生活挑战的女主角“安雯”，饰演张一山的继母。同年参演大型仙侠剧《仙剑奇侠传三》，唐嫣成功演绎了从第一世16岁纯真少女到第三世历经沧桑的痴情女子“紫萱”，因此人气上升。2009年，参演周杰伦执导科幻电视剧《熊猫人》，唐嫣担任李俐亚这个角色是一名美女主厨。“熊猫人”宇豪更是与周杰伦不约而同的看好了唐嫣的音乐潜质，专门为唐嫣创作了一首《爱情引力》，作为插曲收录在《熊猫人》中。之后又主演电视剧《闪婚》，唐嫣饰演任性的富家千金”韩金贝“；6月出演电视剧《梦想光荣1942》，出演思想进步的地主女儿“赵冬梅”一角。2010年，在都市剧《夏家三千金》饰演“夏天美”一角，该剧于次年年初播出，是安徽卫视年度收视冠军，唐嫣因此跻身当红小花旦行列。随着2010年南非世界杯的日益临近，“足球宝贝”唐嫣为阿根廷国家队助威，并拍摄了一组写真，唐嫣在粉丝世界杯上位列四强，唐嫣以三千六百三十四万五千八百七十七票荣获亚军。2011年，接连在职场剧《广告风云》、《无懈可击之高手如林》、偶像剧《爱情睡醒了》以及魔幻剧《轩辕剑》担任女主角，分别饰演公司职员的”阮心丽“、网络拍客”汤七七“、单纯善良的盒饭妹”刘小贝“、敢爱敢恨的魔女”独孤宁珂“。参演音乐爱情微电影《保留》，片中演绎角色”糖糖“。同年，凭借《夏家三千金》获得影视风云榜新势力盛典“最受欢迎电视剧女演员” ，国剧盛典“2011年度网络最受欢迎女演员”等奖项。同时，唐嫣也先后成为旁氏护肤品、花王乐而雅、百奇饼干以及网页游戏《盗墓笔记》等产品的形象代言人。2012年，在民国女性传奇大戏《乱世佳人》中饰演历经坎坷成为一代佳人的”张莲心“；之后又在动作剧《X女特工》，饰演身手矫健、怀揣正义梦想的鬼马”钟离“；5月份接拍由作家张小娴的成名作《面包树上的女人》改编的同名电视剧，饰演爱情至上的作家”程韵“；11月参演《格子间女人》，变身职场女强人”谭斌“，因此还剪掉了自己多年长发。离开橙天娱乐后，唐嫣同年7月份成立“唐嫣工作室”，11月唐嫣工作室首部作品、其首次担任制作人以末日爱情为主题的30分钟微电影《逐爱之旅》上线，唐嫣饰演插画师”李惠“一角。12年底，唐嫣发行了个人首张新年EP+写真集《糖心》，其中包括《乱世佳人》插曲《用一生回忆》和翻唱了《恭喜恭喜》以及一系列粉色俏皮写真。2013年，古装轻喜剧《金玉良缘》开机，唐嫣剧中饰演古灵精怪的江湖女子”玉麒麟“，她凭借此剧获得中国大学生电视节最受欢迎女演员奖。8月受王晶导演邀请特别出演《风云天地》。9月出席纽约时装周。11月加盟电视剧《千金女贼》，演绎女主角”蒋心“从街头杂耍卖艺的丫头到上海黑帮夫人再到首富大户千金历程。客串大学同学秦丽制片的都市情感剧《爸爸快长大》。2014年，出演民国传奇电视剧《活色生香》，在剧中饰演制香高手”乐颜“一角。5月4日发布的“2014年福布斯中国名人榜”中，唐嫣排名第73位。6月在顾漫原著言情小说《何以笙箫默》改编的同名电视剧中饰演女主角“赵默笙”。参演微电影《寻找棉，寻找真实的自己》。代言3D网游《吞噬苍穹》，一人分饰两角，并献唱主题曲《众里寻他》并拍摄MV。10月出演改编自同名人气小说网络季播剧《盗墓笔记》，饰演角色”阿宁“。年底参演陆川导演的3D奇幻冒险电影《九层妖塔》。2015年，出演时装爱情喜剧《克拉恋人》，饰演主人公“米朵”。寒假期间，唐嫣主演的都市情感电视剧《何以笙箫默》以及民国传奇电视剧《千金女贼》、《活色生香》陆续登陆一线黄金档，收视率均位列全国同时段冠军和前三甲，网络播放量也轮番登顶，其中《何以笙箫默》总网络播放量超过82亿成为现代剧第一，《千金女贼》以超过54亿的网络播放量刷新民国剧网络播放量纪录，此外，参演《盗墓笔记》以超过26亿网络播放量创网络剧新高。4月23日亮相第五届北京国际电影节闭幕式红毯并担任颁奖嘉宾，这也预示着唐嫣开始全面进军大荧幕，接连拍摄根据同名小说改编的中国首部科幻电影《三体》、女性创业励志电影《青春合伙人》以及《大话西游3》和中韩合拍片《赏金猎人》等影片。5月11日公布的2015福布斯中国名人榜中，唐嫣由2014年的第73名上升至第20名，商业价值显著提升，相继成为通灵珠宝、黛安芬旗下Sloggi内衣、手游无双剑姬、糖糖大世界、曙光之战以及拉芳等品牌形象代言人。5月29日，第六届中国大学生电视节启动仪式在京举行，唐嫣受邀担任本届电视节的推广大使。8月9日举行的第17届华鼎奖中国电视剧满意度颁奖盛典中，唐嫣凭借《金玉良缘》、《活色生香》、《何以笙箫默》三部热播剧入围四个不同类型的最佳女主角奖项，一人独揽古装剧、近代剧、当代剧以及百强电视剧四个最佳女主角的提名，最终获得中国当代电视剧最佳女演员。《克拉恋人》在暑假期间播出，再次引起热议。9月受Coach邀请出席2016纽约春夏时装周，并为品牌拍摄短片。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45432,"type_id":41,"type_id_1":0,"actor_name":"王宝强","actor_en":"wangbaoqiang","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"W","actor_sex":"男","actor_color":"","actor_pic":"\/\/imgwx2.2345.com\/dianyingimg\/star\/img\/6\/0\/275\/photo_192x262.jpg","actor_blurb":"王宝强电影,王宝强电视剧,王宝强影视全集","actor_remarks":"演员","actor_area":"内地","actor_height":"170cm","actor_weight":"54kg","actor_birthday":"1984年5月29日","actor_birtharea":"河北省邢台市南和县","actor_blood":"AB型","actor_starsign":"双子座","actor_school":"","actor_works":"《道士下山》《人在囧途》《天下无贼》《人再囧途之泰囧》《士兵突击》《Hello!树先生》《一个人的武林》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:32","actor_time_add":1536151712,"actor_time_hits":0,"actor_time_make":0,"actor_hits":437,"actor_hits_day":171,"actor_hits_week":148,"actor_hits_month":568,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":81,"actor_down":236,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 王宝强<\/li>身高<\/span>170cm<\/li>体重<\/span>54kg<\/li>\n 国籍<\/span>\n 中国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 双子座<\/li>\n 血型<\/span>\n AB型<\/li>\n 出生日期<\/span>\n 1984年5月29日<\/li>\n 出生地<\/span>\n 河北省邢台市南和县<\/li>\n 职业<\/span>\n 演员<\/em><\/li>\n 经纪公司<\/span>\n 王宝强工作室<\/li>\n 代表作品<\/span>\n 道士下山<\/em>人在囧途<\/em>天下无贼<\/em>人再囧途之泰囧<\/em>士兵突击<\/em>Hello!树先生<\/em>一个人的武林<\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 海参崴国际电影节最佳男演员\n亚洲电影大奖最佳男演员\n纽约中国电影节最佳男演员\n曼谷国际电影节最佳男演员\n台湾电影金马奖最佳新人奖\n\n北京大学生电影节最受欢迎男演员\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 王宝强，1984年5月29日出生在河北省邢台市在一个贫寒的家庭里，在童年时期不被别人关注，在母亲的记忆中，王宝强的衣服都是他哥哥姐姐穿剩下的。王宝强因为看了李连杰的《少林寺》，才萌发了想要演电影的想法。6岁开始习武，8岁至14岁在河南嵩山少林寺做俗家弟子，在少林寺里，入门最初3年是基本功练习。冬季在凌晨5时起床跑步，夏季则提早至4时。周一和周二是素质训练，从少林寺跑到登封市区，再返回来，几乎相当于一个半程马拉松。早上做完基本训练，下午还得学习文化课，晚上再将当天的训练内容复习一次。在少林寺的6年中，王宝强只在过年的时候回过家。\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 20岁时，来到北京闯天下，在各个剧组当武行做群众演员，2003年被导演李扬挑中，主演独立电影《盲井》，这部电影改变了王宝强在演艺圈的生涯，让他从一个武行变成金马奖最佳新人、获得了法国第五届杜威尔电影节“最佳男主演奖”、第四十届台湾电影金马奖“最佳新人奖”以及第二届曼谷国际电影节“最佳男演员奖”。2004年参演冯小刚贺岁剧《天下无贼》，因其朴实的个性和独特的幸运而获得关注。2006年主演30集电视连续剧《士兵突击》，成功地塑造了许三多这个角色，其自然的表演才能在这部剧集中得到展现，并凭借电视剧《士兵突击》主人公许三多形象登上百度LOGO。2007年，王宝强入选由网友投票选出的“2007年80后十大影响力人物”。2008年，发行首张EP《有钱没钱回家过年》，5月份发行单曲《出门靠朋友》，12月推出单曲《势不可挡》，同年登陆央视春晚领唱《农民工之歌》。2008年6月，推出自己的首部自传《向前进—一个青春时代的奋斗史》，9月参加主演《我的兄弟叫顺溜》扮演狙击手顺溜，11月25日主演由顾长卫执导的公益广告。2009年，担任浙江低收入农户青少年关爱行动形象大使并拍摄公益广告，8月与华谊群星参加《大爱谊家》双年会歌曲秀，演唱歌曲《做有意义的事》。2010年2月，出演了战争系列电视连续剧《为了新中国前进》，饰演英雄形象的董存瑞，凭借《士兵突击》、《集结号》、《我的兄弟叫顺溜》走红，成功塑造神枪手顺溜一角，据央视索福瑞统计，6月19日《顺溜》开播当天第一集的收视率是5.407%，6月20日的第三集达到了8.281%，6月21日的第五集更是达到了8.327%。五集的平均收视率达6.534%。4月主演了电影《人在囧途》，影片中，王宝强饰演一个普通的打工一族和徐峥是一对在旅途上偶遇的“囧兄弟”，王宝强不再是以往“被忽悠”、“被骗”的形象，而是变“坏”折腾起老板徐峥。2011年，主演了功夫电影《蔡李佛拳》饰演一个从小在美国长大热爱武术的青年陈国成，其主演的电影《hello！树先生》在第九届俄罗斯海参崴国际电影节获得最佳男演员奖。2012年，王宝强参演了《追凶》中的变态杀手，10月19日王宝强和华谊合约到期后也不再续约，离开单飞并成立了自己的独立工作室Stong Baby Studio，加入了当老板的行列，同年与徐峥、黄渤的喜剧电影《人再囧途之泰囧》刷新了国产电影票房和观影人次纪录，成为中国电影市场新的华语片票房冠军。2013年5月17日，王宝强和娇妻马蓉的六周年结婚纪念日，5月18日王宝强和中国导演贾樟柯导演的电影《天注定》主创人员共同出席第66届戛纳电影节，现场王宝强对妻子马蓉单膝下跪。2014年，出演陈凯歌电影《道士下山》。10月31日，其主演的动作电影《一个人的武林》公映。2015年3月，王宝强确认退出第二季《奔跑吧兄弟》。7月3日，其主演的陈凯歌武侠电影《道士下山》即将上映。2015年9月，王宝强被《爸爸去哪儿》第三季正式邀请，重第五站到第六站。主演的中国首部科幻喜剧电影《不可思异》进军贺岁档。9月17日，王宝强主演的《我是机器人》登陆江苏卫视。12-31日，主演的“急智喜剧”《唐人街探案》片方宣布影片将于12月31日全国跨年公映。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45431,"type_id":41,"type_id_1":0,"actor_name":"徐海乔","actor_en":"xuhaiqiao","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"X","actor_sex":"男","actor_color":"","actor_pic":"\/\/imgwx5.2345.com\/dianyingimg\/star\/img\/7\/4\/12595\/photo_192x262.jpg","actor_blurb":"徐海乔电影,徐海乔电视剧,徐海乔影视全集","actor_remarks":"演员","actor_area":"内地","actor_height":"180cm","actor_weight":"65kg","actor_birthday":"1983年4月17日","actor_birtharea":"山东济南","actor_blood":"O型","actor_starsign":"白羊座","actor_school":"上海戏剧学院表演系03级本科班","actor_works":"《蓬莱八仙》《大学生士兵的故事》《娘心计》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:32","actor_time_add":1536151712,"actor_time_hits":0,"actor_time_make":0,"actor_hits":146,"actor_hits_day":429,"actor_hits_week":485,"actor_hits_month":434,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":218,"actor_down":531,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 徐海乔<\/li>身高<\/span>180cm<\/li>体重<\/span>65kg<\/li>\n 国籍<\/span>\n 中国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 白羊座<\/li>\n 血型<\/span>\n O型<\/li>\n 出生日期<\/span>\n 1983年4月17日<\/li>\n 出生地<\/span>\n 山东济南<\/li>\n 职业<\/span>\n 演员<\/em><\/li>\n 毕业院校<\/span>\n 上海戏剧学院表演系03级本科班<\/li>\n 经纪公司<\/span>\n 北京荣信达影视艺术有限公司<\/li>\n 代表作品<\/span>\n <\/em>蓬莱八仙<\/em><\/em>大学生士兵的故事<\/em><\/em><\/em>娘心计<\/em><\/em><\/li> <\/ul>\n\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 2007年徐海乔参加了北京台的选秀节目“红楼梦中人并获得了山东赛区冠军晋级全国总决赛以及宝玉组全国三强；同年出演首部电视剧《所谓婚姻》和首部电影《暮色》。2008年被李少红导演选中，出演《红楼梦》”中的柳湘莲一角并并签入荣信达影视公司，从此开始了演艺生涯。2010年主演神话剧《春光灿烂猪九妹》和民国剧《娘心计》，分别饰演沙悟净和贺润生；同年参演革命题材电影《建党伟业》，饰演历史人物瞿秋白。2011年参演尚敬导演的《大学生士兵的故事》和高希希导演的《血战长空》两部电视剧，其中《大学生士兵的故事》获得第28届飞天奖的二等奖。2013年徐海乔首次担当男一号的惊悚电影《古镇凶灵之巫咒缠身》于暑期档上映，最终取得了千万票房，同年参演《芙蓉诀》、《蓬莱八仙》等古装电视剧。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45430,"type_id":41,"type_id_1":0,"actor_name":"聂远","actor_en":"nieyuan","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"N","actor_sex":"男","actor_color":"","actor_pic":"\/\/imgwx3.2345.com\/dianyingimg\/star\/img\/4\/0\/417\/photo_192x262.jpg","actor_blurb":"聂远电影,聂远电视剧,聂远影视全集","actor_remarks":"演员","actor_area":"内地","actor_height":"177cm","actor_weight":"65kg","actor_birthday":"1978年3月17日","actor_birtharea":"贵州省黔东南苗族侗族自治州镇远县","actor_blood":"O型","actor_starsign":"双鱼座","actor_school":"上海戏剧学院表演系","actor_works":"《隋唐英雄传》《天下粮仓》《西游记》《革命人永远是年轻》《雪山飞狐》《贞观长歌等》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:31","actor_time_add":1536151711,"actor_time_hits":0,"actor_time_make":0,"actor_hits":809,"actor_hits_day":537,"actor_hits_week":690,"actor_hits_month":732,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":76,"actor_down":205,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 聂远<\/li>身高<\/span>177cm<\/li>体重<\/span>65kg<\/li>\n 国籍<\/span>\n 中国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 双鱼座<\/li>\n 血型<\/span>\n O型<\/li>\n 出生日期<\/span>\n 1978年3月17日<\/li>\n 出生地<\/span>\n 贵州省黔东南苗族侗族自治州镇远县<\/li>\n 职业<\/span>\n 演员<\/em><\/li>\n 毕业院校<\/span>\n 上海戏剧学院表演系<\/li>\n 经纪公司<\/span>\n 博纳影业集团<\/li>\n 代表作品<\/span>\n 隋唐英雄传<\/em>天下粮仓<\/em>西游记<\/em>革命人永远是年轻<\/em>雪山飞狐<\/em>贞观长歌等<\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 大众电视十佳演员奖\n电影表演艺术学会金凤凰学会奖\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 1993年，聂远毕业于贵州镇远一中。1996年毕业于贵州艺术学校(现贵州大学艺术学院）舞蹈科，毕业后本可以进入专业歌舞团，但他觉得男性舞蹈演员的艺术生命太短，正巧那时广州军区在贵州特招，少年聂远觉得军人是每一个男人的梦想，但不久之后，就发现不适合自己。百般尝试过后，聂远决定报考表演院校，为了让普通话过关，他跟着贵州艺术学院的播音班上了半年课。1996年，聂远顺利考入上海戏剧学院表演系。\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 2000年，聂远从上海戏剧学院表演系毕业，同年，与黄奕合作拍摄了《上错花轿嫁对郎》。 2001年，聂远参演吴子牛执导的电视《天下粮仓》，饰演的少年乾隆皇帝。2003年，参演电视剧《倩女幽魂》饰演七夜，参演电视剧《隋唐英雄传》饰演罗成。2004年，聂远一连主演《汗血宝马》、《京城四少》、《大汉巾帼》、《贞观长歌》、《壮志凌云包青天》等多部古装剧，被媒体评为“中国新四小生”，并凭借《汗血宝马》获得第五届“大众电视双十佳”“十佳演员奖”。2006年，他再次出演古装剧，在王晶版《雪山飞狐》里饰演大侠胡斐，并演唱片尾曲《传说》。同年主演根据石钟山同名小说改编的电视剧《男人的天堂》，饰演智勇双全的钟山。2007年，参演根据石钟山同名原著改编的电视剧《天下兄弟》，饰演双胞胎哥哥刘栋。之后与梁咏琪联袂主演电影《女人本色》，饰演成在信的上司兼情人程必聪。同年主演电视剧《戴着面具跳舞》，剧中聂远扮演一位潇洒、儒雅的外科整形医生。2008年，参演都市情感爱情电视剧《和爱一起飞》，同年主演电视剧《京东三枝花》，饰演一位皮影艺术家。2009年，参演军事题材电视剧《历史的进程》，饰演祁春秋。2010年，聂远在热播剧《三国》中扮演赵云。同年拍摄电视剧《革命人永远是年轻》，该剧讲述的是由聂远饰演的陈志，从一个小伙计一步步成长为一名共产党员的故事。2011年，出演建党90周年革命史诗剧《革命人永远是年轻》，饰演陈志。 同年参演四部电影：在《关云长》里饰演韩福、在《建党伟业》里饰演陈其美，以及张艺谋导演的《金陵十三钗》，和陆川导演的《王的盛宴》，并凭借关云长提名第三届澳门国际电影节“最佳男配角”。2012年，聂远在张纪中版《西游记》中饰演唐僧，在聂远的演绎之下，唐僧的眼神中多了几分沧桑与坚毅，是一个真正的苦行僧，凭借《西游记》聂远获得大学生电视节“最受欢迎男演员”奖。2013年，聂远主演中美韩三国联合制作的3D盗墓电影《玄武迷踪之连环斗》，并参演电视版《龙门飞甲》，饰演赵怀安。主演电影《啊朋友还钱》，片中他饰演一个喜剧色彩颇浓的角色—“躲债大师”岳大军，看似高富帅，实则是好色伪土豪。2014年加盟国内首部诺兰式主义结构影片《钞票飞》，与黄圣依领衔主演。　　\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45429,"type_id":41,"type_id_1":0,"actor_name":"杨烁","actor_en":"yangshuo","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"Y","actor_sex":"男","actor_color":"","actor_pic":"\/\/imgwx3.2345.com\/dianyingimg\/star\/img\/8\/0\/1586\/photo_192x262.jpg","actor_blurb":"杨烁电影,杨烁电视剧,杨烁影视全集","actor_remarks":"演员","actor_area":"内地","actor_height":"184cm","actor_weight":"75kg","actor_birthday":"1983年1月1日","actor_birtharea":"黑龙江省伊春市","actor_blood":"","actor_starsign":"摩羯座","actor_school":"中央戏剧学院02级表演本科班","actor_works":"《生死线》《刀客家族的女人》《神犬奇兵》《蚁族的奋斗》《云之锦》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:31","actor_time_add":1536151711,"actor_time_hits":0,"actor_time_make":0,"actor_hits":306,"actor_hits_day":755,"actor_hits_week":632,"actor_hits_month":967,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":632,"actor_down":423,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 杨烁<\/li>身高<\/span>184cm<\/li>体重<\/span>75kg<\/li>\n 国籍<\/span>\n 中国<\/li>\n 民族<\/span>\n 回族<\/li>\n 星座<\/span>\n 摩羯座<\/li>\n 出生日期<\/span>\n 1983年1月1日<\/li>\n 出生地<\/span>\n 黑龙江省伊春市<\/li>\n 职业<\/span>\n 演员<\/em><\/li>\n 毕业院校<\/span>\n 中央戏剧学院02级表演本科班<\/li>\n 代表作品<\/span>\n 生死线<\/em>刀客家族的女人<\/em>神犬奇兵<\/em>蚁族的奋斗<\/em>云之锦<\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 2010搜狐春季娱乐盛典最佳新人\n2010《综艺》年度电视形象奖\n2013年中国最具影响力品牌盛典最受媒体关注明星奖\n2014第十届全国电视制片业十佳演员奖\n2015第17届华鼎奖近代电视剧最佳男演员奖\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 1983年出生于黑龙江的杨烁从小便喜爱文艺，2002年杨烁考进中央戏剧学院表演本科班。毕业后不久接到了很多影视剧的邀约。\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 2004年，在中日首部合拍的电视剧《爱在左，情在右》中，杨烁与日本女星、高崎电影节影后田中丽奈饰演一对情侣。2007年，在励志情感剧《幸福的眼泪》中，杨烁饰演一名海边长大的渔村少年石磊。2008年，在杨阳导演的电视剧《天地民心》中饰演保胜；同年在兰晓龙编剧、孔笙导演的抗日题材电视剧《生死线》中饰演主角之一四道风。2009年与郭晓东合作电视剧《成长》，饰演罗天阳。2010年，在热播剧《我是特种兵》第一部中饰演毒枭马云飞，同年与任程伟合作电视剧《徽骆驼》，饰演赵金龙；与叶璇合作主演电视剧《尖刀战士》，饰演陈挺一角；与张佳宁合作主演电视剧《蚁族的奋斗》，饰演努力进取的赵荣生；2010年末2011年初，主演陈家林导演的电视剧《洪流》，饰演公今寿；同年主演电视剧《遍地狼烟》，饰演神枪手牧良逢。参演宁浩导演的电影《黄金大劫案》，饰演黑老大；主演张瑜导演的纯爱电影《云之锦》于2012年8月公映，影片中杨烁饰演帖木儿、徐运行、乌头三个角色。2012年主演黄健中导演的电视剧《暗花》，饰演江昱城；同年与秦岚合作在电视剧《滚滚红尘》中饰演有情有义有担当的巡捕黄龙；与张檬合作主演电视剧《穷追不舍》，饰演果敢睿智的钟铁汉；与佟丽娅合作电视剧《刀客家族的女人》，饰演饰演智慧勇敢又大气的硬汉余化龙，该剧于2014年全国热播，赢得收视口碑双丰收。2013年，在电视剧《决战燕子门》中饰演燕子李三；同年主演电视剧《冒牌英雄》，饰演刘邦子；与钟汉良、王力可共同出演抗战传奇剧《勇士之城》，饰演痴情的青年才俊刘世铭；同年主演军旅电视剧《神犬奇兵》，该剧于2014年7月7日登陆湖南卫视，赢得收视口碑双丰收。2013年末，主演李京导演的电视剧《绝路逢生》，一人分饰査福鼎和余二斗两角；2014年3月与罗晋合作主演花箐导演的战争史诗大剧《狭路》，饰演恶魔中校林午阳。7月特别出演古装仙侠玄幻电视剧《花千骨》，饰演檀梵上仙。9月与曾泳醍合作主演都市励志情感剧《美梦成真》，饰演奋斗青年林立树。11月与林申、张佳宁合作主演公安题材大剧《江城警事》，饰演刑警队长王欣伟。2014年12月到2015年3月与佟丽娅合作主演古装大戏《爱无痕》，饰演两江节度使唐孝诚；2015年4月与胡军合作主演谍战大戏《潜伏在黎明之前》，饰演男一号双重间谍战守安。同期，与张檬合作主演阿里影业出品的超级网剧《隐秘动机》，饰演情报组组长韩午阳，该剧于6月23日播出。7月，与张俪合作主演金牌导演王小康的都市情感大剧《大话红娘》，饰演妇科男医生高文博。2015年8月9日在上海世博中心举行的第17届华鼎奖中国电视剧满意度颁奖盛典，杨烁获得中国近代电视剧最佳男演员。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45428,"type_id":41,"type_id_1":0,"actor_name":"秦岚","actor_en":"qinlan","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"Q","actor_sex":"女","actor_color":"","actor_pic":"\/\/imgwx4.2345.com\/dianyingimg\/star\/img\/e\/0\/281\/photo_192x262.jpg","actor_blurb":"秦岚电影,秦岚电视剧,秦岚影视全集","actor_remarks":"演员歌手平面模特","actor_area":"内地","actor_height":"165cm","actor_weight":"46kg","actor_birthday":"1981年7月17日","actor_birtharea":"辽宁省沈阳市沈河区","actor_blood":"B型","actor_starsign":"巨蟹座","actor_school":"沈阳工业大学会计学系","actor_works":"《还珠格格3》《又见一帘幽梦》《南京！南京！》《大唐女将樊梨花》《楚汉传奇》《非缘勿扰》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:31","actor_time_add":1536151711,"actor_time_hits":0,"actor_time_make":0,"actor_hits":414,"actor_hits_day":768,"actor_hits_week":987,"actor_hits_month":486,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":25,"actor_down":301,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 秦岚<\/li>身高<\/span>165cm<\/li>体重<\/span>46kg<\/li>\n 国籍<\/span>\n 中国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 巨蟹座<\/li>\n 血型<\/span>\n B型<\/li>\n 出生日期<\/span>\n 1981年7月17日<\/li>\n 出生地<\/span>\n 辽宁省沈阳市沈河区<\/li>\n 职业<\/span>\n 演员<\/em>歌手<\/em>平面模特<\/em><\/li>\n 毕业院校<\/span>\n 沈阳工业大学会计学系<\/li>\n 代表作品<\/span>\n 还珠格格3<\/em>又见一帘幽梦<\/em>南京！南京！<\/em>大唐女将樊梨花<\/em>楚汉传奇<\/em>非缘勿扰<\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 第二届星光大典“内地年度最受欢迎女演员”\n\n第三届英国万像国际华语电影节“最具潜力女演员奖”\n\n第五届星光大典“年度风尚女艺人”\n\n第七届亚洲电影节“最佳女配角”提名\n\n第七届中国金鹰电视艺术节“最佳女演员奖”提名\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 秦岚是个地地道道的东北姑娘，看似柔弱的她拥有着东北人典型的直率性格。 小时候在她心目中，像妈妈那样做个女强人是她那时的梦想。因为她母亲从最早的会计，慢慢地做自己的事业做得还挺好。这给她很深的影响，母亲告诫她“女人不管大小只有靠自己的双手来打拼出一番天地才有安全感，坚决不能靠着某一个人来过日子，要独立走自己的路……”。1999年考大学时，一直想成为女强人的她，按照母亲之命报考了会计专业，结果如愿以偿地开始了新的学习生活；半年后，秦岚和同学无意中在电视上看到一条信息——全国“首艺杯”推新人大赛正在报名。好友求其陪同去考试，她碍于情面勉强同意了，报名后她才发现自己居然什么都不会。当时她朗诵了一个绕口令《八百标兵奔北坡》，表演的是广告模特步。“那时每天练到凌晨两三点，脚上都练出泡，而且还不能让爸妈知道。从初赛到总决赛，最终夺得了大赛模特组全国十佳金奖。”未满20岁的她为追求自己心中的梦想，背井离乡来到北京，成为“北漂”一族。\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 2002年，参演《还珠格格3》，饰演陈知画一角；参演《铁血莲花》，饰演沈水莲一角。2003年，参演的《还珠格格3》播出，饰演江南名媛陈知画。在筹拍《还珠格格3》时，琼瑶无意中发现这个纯净的女孩。于是，就有了剧中那个温柔多情的“知画格格”，秦岚也因此成名。2003年，参演《龙票》，饰演剧中女主润玉，与黄晓明饰演的子俊对戏；参演《我和僵尸有个约会3》，饰演岳银瓶一角；参演《风云2》，饰演于楚楚一角。2004年，参演《护花奇缘》，饰演官青青一角；参演《中华英雄》，饰演木修罗一角。8月20日，秦岚接拍的第一部电影《邓小平1928》公映，饰演张锡瑗一角。2005年，参演《我家不打烊》，饰演蔡田(陈小春饰)的女友“喵喵”一角；参演《芙蓉花开》，一人分饰蓝晓薇、蓝芙蓉两角；参演《第一茶庄》，饰演采茶女沈玉琦。2006年，参演《又见一帘幽梦》，饰演汪绿萍一角；参演电视剧《绣娘兰馨》，剧中饰演兰馨。11月3日，秦岚搭档蓝正龙主演的电影《十日天堂》公映，饰演秦南一角。2007年6月30日，参演的《又见一帘幽梦》播出，饰演汪绿萍，秦岚凭借剧中的精彩演绎，再次给观众留下深刻的印象；参演《伤城之恋》，饰演颜飞(霍建华饰)的爱人“周雨晴”一角。2008年，秦岚参与并担任主演电视剧《黑三角》、《深宅》。2009年，参演《红色电波》，饰演辛晴一角；参演《真情错爱》，饰演跟三个男人错爱一生的纺织女工“叶瑾”；4月22日，参演的电影《南京！南京！》公映，饰演唐周氏一角。2010年，参演《大唐女将樊梨花》，片中饰演樊梨花；11月参演电影《建党伟业》，片中她将扮演女子师范大学学生代表，女作家苏雪林年轻的时候，也就是导演添加的神秘角色。10月5日，秦岚搭档李晨、方中信主演的电影《庐山恋2010》公映，饰演耿菲儿一角。2011年4月8日秦岚参演的电影《隐婚男女》公映，饰演如小果。9月秦岚出任Holiday Inn形象大使，出演了首部微电影作品《假日故事》悬念四部曲。2012年6月参与微电影《爱璀璨》并担任主演，片中扮演了一位酷帅又不失妩媚的女子。7月17日参演电影《母语》公映，秦岚首度挑战“代孕妈妈”这一敏感角色，在第三届英国万像国际华语电影节秦岚凭借在片中的出色表演获得了最具潜力奖；11月29日主演电影《王的盛宴》公映，片中饰演老年吕雉一角。12月28日开播电视剧《楚汉传奇》，秦岚扮演“吕雉”。2013年3月正式推出首张个人EP《一肩之隔》。7月1日，秦岚和苏有朋首次合作主演《非缘勿扰》开播。9月18日电视剧《滚滚红尘》开播，剧中秦岚饰演角色顾海棠。下半年参演电视剧《填四川》片中饰演角色宁徒，拍戏过程中秦岚除了要会说四川话之外，还要练习喝白酒、吃辣椒。2014年2月，秦岚正式与丹麦鞋履品牌ECCO签约，担任该品牌2014年度形象代言人。4月13日，主演音乐偶像剧《唱战记》开播，秦岚在剧中饰演“洛颜”，与演员王耀庆、黄义达、谢彬彬合作出演。12月3日，参演电视剧《新神雕侠侣》开播，饰演独孤求败的爱人“荷香”，剧中因卧蚕(眼轮)被后期特效师修掉而闹变脸乌龙。10月参演电影《别有动机》，饰演角色叶霜，合作演员林家栋、高圣远、任达华、刘威，电影将于2015年全国上映。2015年3月4日，在中央电视台元宵晚会四大美人舞蹈节目《国色天香》中饰演“西施”。2015年6月21日，电影《睡在我上铺的兄弟》举行主创见面会，女一号秦岚正式对外曝光。2015年7月14日，由黄岳泰执导，秦岚、林家栋、高圣远、任达华、刘威等主演的犯罪推理动作电影《别有动机》宣布定档9月17日全国公映。2015年8月20日，电视剧《咱们相爱吧》在京举行开机仪式，秦岚在该剧中饰演蔡春妮一角。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45427,"type_id":41,"type_id_1":0,"actor_name":"谢娜","actor_en":"xiena","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"X","actor_sex":"女","actor_color":"","actor_pic":"\/\/imgwx4.2345.com\/dypcimg\/star\/img\/0\/0\/27\/photo_192x262.jpg?1510304073","actor_blurb":"谢娜电影,谢娜电视剧,谢娜影视全集","actor_remarks":"主持人歌手演员作家","actor_area":"内地","actor_height":"165cm","actor_weight":"50kg","actor_birthday":"1981年5月6日","actor_birtharea":"四川省德阳市中江县","actor_blood":"","actor_starsign":"金牛座","actor_school":"四川电影电视学院","actor_works":"《快乐大本营》《菠萝菠萝蜜》《娜写年华》《十三角关系》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:30","actor_time_add":1536151710,"actor_time_hits":0,"actor_time_make":0,"actor_hits":649,"actor_hits_day":505,"actor_hits_week":871,"actor_hits_month":299,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":966,"actor_down":27,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 谢娜<\/li>身高<\/span>165cm<\/li>体重<\/span>50kg<\/li>\n 国籍<\/span>\n 中华人民共和国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 金牛座<\/li>\n 出生日期<\/span>\n 1981年5月6日<\/li>\n 出生地<\/span>\n 四川省德阳市中江县<\/li>\n 职业<\/span>\n 主持人<\/em>歌手<\/em>演员<\/em>作家<\/em><\/li>\n 毕业院校<\/span>\n 四川电影电视学院<\/li>\n 代表作品<\/span>\n 快乐大本营<\/em>菠萝菠萝蜜<\/em>娜写年华<\/em>十三角关系<\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 中国最具网络影响力的十大主持人\n中国电视金鹰奖优秀主持人奖\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 1981年5月6日谢娜出生在四川省德阳市中江县一个文艺家庭，母亲曾是中江县曲艺团的舞蹈演员。1995年，参加全国第二届影视表演推新人大赛，表演了《蝴蝶梦》，因其普通话不标准，在初赛就被淘汰。1996年出演黄鹤翔《九妹》MV。1997年报考了四川师范大学。1998年毕业于四川师范大学电影电视学院（今四川电影电视学院）表演系，同年，已经在川师大表演系学习过了的她再次参赛（全国第五届影视表演推新人大赛），获得了影视表演十佳金奖（即冠军）。谢娜早期照片谢娜童照\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 1996年出演第一部电影《青年刘伯承》，饰演刘伯承女儿；1998年，出演《少年英雄方世玉》中小丫环小丽。1999年10月和张卫健一同上湖南卫视的《快乐大本营》，而后《快乐大本营》需要一个女主持人，主持人何炅推荐了谢娜。2000年，与刘烨一起出演《幸福街》,此后维持了长达5年的爱恋，于2005年底正式分手。2002年加入《快乐大本营》与何炅、李维嘉搭档主持，2005年07月又离开；2005年10月再度回归加入快乐家族。2006年，湖南卫视领导决定尊重民意，以观众投票的方式从现有主持人何炅、李维嘉与谢娜三人中选出一人继续主持，谢娜再度离开《快乐大本营》。2003年与何炅一起参演田有良导演话贺岁喜剧《想吃麻花现给你拧》。2006年参演了戏剧导演赖声川的《暗恋桃花源》，在剧中担任女主角。2007年，与李承铉拍摄了电影《娜娜的玫瑰战争》，同时担任该片监制，因为一直没有找到合适的上映日期拖了三年之久，于2010年正式上映。2009年演艺事业越来越火，同年由香港导演李国立执导《射雕英雄传》上映，谢娜在剧中扮演的华筝公主。2010年与快乐家族共同发行了专辑《快乐你懂的》和《绽放的微笑》。2012年再次与导演赖声川合作，参演话剧《十三角关系》，在剧中饰演知名电台主持人“花姐”。7月12日晚，谢娜与何炅搭档主持《百变大咖秀》，首期的百变大咖秀，谢娜模仿了天后王菲，之后相继模仿了甄嬛、济公、包青天、白娘子、贾宝玉等人物。2013年与快乐家族、杜汶泽联袂出演电影《快乐到家》，上映首日票房突破千万。同年，参演了由王晶导演执导的电影《笑功震武林》，并于3月8日上映。10月20日，“2013中国大学生电视节”中，经过6个月的网络投票，谢娜在众多优秀主持人中脱颖而出，荣获“最受中国大学生喜爱的女主持人奖”。这也是2010年首届大学生电视节举办以来，谢娜首度获此殊荣。11月15日，参演了爱情喜剧电影《我的男男男男朋友》，在片中担任女主角——谢雯婷。2014年谢娜携手萧敬腾、江疏影、大鹏主演喜剧电影《大宅男》，在电影中饰演“辣妹子”川美。　　　\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45426,"type_id":41,"type_id_1":0,"actor_name":"李小璐","actor_en":"lixiaolu","actor_alias":"","actor_status":1,"actor_lock":0,"actor_letter":"L","actor_sex":"女","actor_color":"","actor_pic":"\/\/imgwx5.2345.com\/dypcimg\/star\/img\/2\/0\/77\/photo_192x262.jpg?1509954909","actor_blurb":"李小璐电影,李小璐电视剧,李小璐影视全集","actor_remarks":"歌手演员","actor_area":"内地","actor_height":"164cm","actor_weight":"","actor_birthday":"1981年9月30日","actor_birtharea":"中国北京","actor_blood":"O型","actor_starsign":"天秤座","actor_school":"北京美国英语语言学院","actor_works":"《天浴》《都是天使惹的祸》《奋斗》《唐宫美人天下》《金太狼的幸福生活》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:30","actor_time_add":1536151710,"actor_time_hits":0,"actor_time_make":0,"actor_hits":57,"actor_hits_day":321,"actor_hits_week":545,"actor_hits_month":189,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":707,"actor_down":106,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 李小璐<\/li>身高<\/span>164cm<\/li>\n 国籍<\/span>\n 中国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 天秤座<\/li>\n 血型<\/span>\n O型<\/li>\n 出生日期<\/span>\n 1981年9月30日<\/li>\n 出生地<\/span>\n 中国北京<\/li>\n 职业<\/span>\n 歌手<\/em>演员<\/em><\/li>\n 毕业院校<\/span>\n 北京美国英语语言学院<\/li>\n 经纪公司<\/span>\n 李小璐工作室<\/li>\n 代表作品<\/span>\n <\/em>天浴<\/em><\/em>都是天使惹的祸<\/em><\/em>奋斗<\/em><\/em>唐宫美人天下<\/em><\/em>金太狼的幸福生活<\/em><\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 第35届台湾电影金马奖最佳女主角获奖\n法国多维尔亚洲电影节最佳女主角获奖\n罗马尼亚布加勒斯特电影节最佳女主角获奖\n2008年釜山国际电影节新星奖\n第8届华鼎奖最佳女主角获奖\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 1986年，李小璐和朱时茂合作了《我只流三次泪》，并相继在《孔子》、《小岛》、等十几部影视中出镜。1998年，17岁的李小璐凭借和陈冲合作的《天浴》一片获得金马奖最佳女主角奖。1999年，她又因在该片中的出色演出获得法国水城首届亚洲电影节最佳女演员奖。2000年，李小璐在《都是天使惹的祸》中扮演俏皮的小护士，与任泉扮演的酷医生上演了一段段调皮传奇。2001年，李小璐出演的以爱情为主旋律的现代青春偶像剧《天空下的缘分》播出。2002年2月，电视剧《少年张三丰》首播，李小璐在剧中饰演角色明道红。2003年11月，李小璐出演的《大江东去》播出。2004年2月，李小璐出演的《十三格格》和古装武侠连续剧《绝世双骄》播出。2005年3月，李小璐出演的《赤子乘龙》播出，她在剧中饰演“龙公主”。4月，李小璐出演的《爱比恨多一点》播出，李小璐在剧中出演一位活泼可爱、善良重情而又身世离奇的年轻女孩婴子。5月，她发行自己的首张专辑《我的淘气天使》。11月，李小璐出演的《风吹云动星不动》播出，饰演为爱痴狂的胡德林。12月，李小璐出演的武侠片《八大豪侠》播出。2006年11月，李小璐出演的《刻骨铭心的爱》播出，李小璐扮演一位扮演被荆浩暗恋的未婚妈妈。2007年6月，李小璐出演的《奋斗》和《来电奇缘》播出。8月，李小璐出演的《天堂口》上映，她在影片中饰演感情单一，痴情的妓女素珍。10月，李小璐与好莱坞科幻电影《异能》剧组签约，与保罗·麦库甘、达科塔·法宁合作，饰演可以读取别人脑中思维的超能力女子。2008年6月22日，李小璐出席第11届上海国际电影节，并为其拍摄写真。12月，她发行了自己的首张EP《东方美》。2009年4月，李小璐出演由香港导演张坚庭执导的爱情喜剧片《七天爱上你》。7月，李小璐出演的《夜店》上映。12月，她签约北大星光。2011年7月，李小璐出演的家庭生活戏《当婆婆遇上妈》播出。10月，李小璐出演的古装宫斗剧《唐宫美人天下》播出。2012年4月，李小璐出演的家庭情感电影剧《AA制生活》播出。5月，李小璐出演的《金太狼的幸福生活》播出。2013年12月19日，李小璐出演的《私人定制》上映。2014年5月7日，李小璐与贾乃亮联袂出演的《产科男医生》登陆东方卫视，江苏卫视，深圳卫视晚间黄金时段首播。2015年，李小璐参演袁英明执导的《重生丽人》，在剧中饰演一个被富豪老爸下放到基层、自力更生的富二代。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"},{
+
+"actor_id":45425,"type_id":41,"type_id_1":0,"actor_name":"李沁","actor_en":"liqin","actor_alias":"沁影,","actor_status":1,"actor_lock":0,"actor_letter":"L","actor_sex":"女","actor_color":"","actor_pic":"\/\/imgwx5.2345.com\/dypcimg\/star\/img\/e\/0\/831\/photo_192x262.jpg?1510306449","actor_blurb":"李沁电影,李沁电视剧,李沁影视全集","actor_remarks":"演员","actor_area":"内地","actor_height":"166cm","actor_weight":"42kg","actor_birthday":"1990年9月27日","actor_birtharea":"江苏省苏州市昆山市","actor_blood":"A型","actor_starsign":"天秤座","actor_school":"上海戏剧学院附属戏曲学校","actor_works":"《建党伟业》《守望的天空》《花开半夏》《千金归来》《璀璨人生》《极品新娘》","actor_tag":"","actor_class":"","actor_level":0,"actor_time":"2018-09-05 20:48:30","actor_time_add":1536151710,"actor_time_hits":0,"actor_time_make":0,"actor_hits":803,"actor_hits_day":348,"actor_hits_week":38,"actor_hits_month":882,"actor_score":"0.0","actor_score_all":0,"actor_score_num":0,"actor_up":468,"actor_down":253,"actor_tpl":"","actor_jumpurl":"","actor_content":"\n\n\n\n 中文名<\/span>\n 李沁<\/li>\n 粉丝名<\/span>\n 沁影<\/em><\/li>身高<\/span>166cm<\/li>体重<\/span>42kg<\/li>\n 国籍<\/span>\n 中华人民共和国<\/li>\n 民族<\/span>\n 汉族<\/li>\n 星座<\/span>\n 天秤座<\/li>\n 血型<\/span>\n A型<\/li>\n 出生日期<\/span>\n 1990年9月27日<\/li>\n 出生地<\/span>\n 江苏省苏州市昆山市<\/li>\n 职业<\/span>\n 演员<\/em><\/li>\n 毕业院校<\/span>\n 上海戏剧学院附属戏曲学校<\/li>\n 经纪公司<\/span>\n 北京荣信达影视艺术公司<\/li>\n 代表作品<\/span>\n <\/em>建党伟业<\/em><\/em>守望的天空<\/em><\/em>花开半夏<\/em><\/em>千金归来<\/em><\/em>璀璨人生<\/em><\/em>极品新娘<\/em><\/em><\/li> <\/ul>\n\n\n <\/i>主要成就<\/span>\n <\/i>\n <\/dt>\n\n\n 2010年入围第31届大众电影百花奖最佳新人奖\n <\/div>\n <\/dd>\n\n <\/i>早年经历<\/span>\n <\/i>\n <\/dt>\n\n\n 2001年，11岁的她加入江苏省昆山市巴城镇石牌中心小学开办的戏曲兴趣班接受戏曲基本功培训。2002年，正值李沁12岁，为了能够继续留在学校学习戏曲，她向妈妈保证不会耽误自己的学业。2003年，参加“苏外之夜”戏曲专场晚会的演出，在锡剧《沙家浜》中李沁饰演阿庆嫂、越剧《梁祝·十八相送》李沁饰演祝英台、昆剧《牡丹亭·游园》李沁饰演杜丽娘。并凭借昆曲《牡丹亭·游园》，获得第七届中国少儿戏曲小梅花荟萃活动金花奖。2004年李沁考入了上海戏校，学习昆曲。\n <\/div>\n <\/dd>\n\n <\/i>演艺经历<\/span>\n <\/i>\n <\/dt>\n\n\n 2010年，《新版红楼梦》正式与观众见面，12月参加在广州举办的“南方影视盛典2010年度颁奖礼”，李沁不仅拿下“金南方年度最受媒体关注奖”，更凭借在剧中对少年宝钗的出色演绎荣获“金南方年度最佳新人奖”。2010年凭借《建党伟业》中的“杨开慧”一角，入围第31届大众电影百花奖最佳新人奖。2011年2月3日，李沁参演了由星美（北京）影业有限公司出品的古装喜剧电影《神奇侠侣》，李沁在剧中饰演“蓝凤凰”。5月13日主演由北京东方飞云国际影视公司投资制作的数字电影《落难神偷》，影片中饰演一位地下工作的革命者，与林申成功塑造了一对“欢喜冤家”。5月16日与谷智鑫主演电视剧《中国1921》，剧中李沁扮演“杨开慧”，23日携同主创团队做客新浪直播间，与观众们一起分享该剧的台前幕后的故事，2012年《中国1921》荣获第26届中国电视金鹰奖最佳电视剧奖。2011年10月8日由李沁、张超等主演的电视剧《将军日记》在央视一套首播，在剧中李沁变身图书管理员，饰演参加工作的女大学生“小李”。2012年，在电视剧《守望的天空》中担任女一号，饰演“葡萄”，2013该剧荣获第九届中美电影节优秀中国电视剧“金天使奖”大奖。2013年8月27日，李沁在都市情感励志剧《璀璨人生》中饰演“余非”。10月30日在现代都市女性励志复仇剧《千金归来》中饰演复仇千金“沈长清”。根据作家九夜茴小说改编于2011年拍摄的电视剧《花开半夏》，李沁在剧中饰演“如画”。2014年，携手金世佳主演古装偶像轻喜剧《极品新娘》，剧中李沁变身古装，演绎一个性格活泼开朗的女子，与金世佳共同演绎“娇妻憨夫”欢喜情侣。3月，李沁与实力男星韩栋首次合作，出演电视剧《情满雪阳花》。“2014年国剧盛典” 李沁斩获最具潜力女演员奖。2014年11月17日，李沁主演的电视剧《幸福归来》开机，李沁演绎“千金扛鼎之作”。李沁和吴卓羲携手上演 ，剧中李沁短发示人特显率真气质。2015年，李沁参演青春爱情电影《致青春2：原来你还在这里》与吴亦凡、刘亦菲合作，饰演孟雪一角。同年，参演《白鹿原》，饰演“田小娥”。\n <\/div>\n <\/dd>\n <\/dl>\n ","type_name":"演员"}]}//

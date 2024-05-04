@@ -12,7 +12,8 @@
 //优质资源主域名:api.1080zyku.com hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk15.com M3U8视频解析：https://vip.zykbf.com/?url=
 //https://api.1080zyku.com/inc/apijson.php?ac=detail&t=12
 //https://api.1080zyku.com/?m=vod-detail-id-54842.html
-
+//https://yzzy.tv/inc/apijson.php?ac=detail&t=12pg=1&limit=20
+//https://yzzy.tv/?m=vod-detail-id-54842.html
 {
     "主页url":"https://yzzy.tv/",
     "站名":"优质资源",
@@ -27,12 +28,13 @@
     "标题":"vod_name\"*\"&&\"+🌸+\"vod_year\":\"&&\"",
     "链接":"https://yzzy.tv/?m=vod-detail-id-+\"vod_id\":\"&&\",+.html",
     //"副标题":"vod_remarks\":\"&&\"", //vod_year, vod_id, vod_duration vod_score
-    "副标题":"vod_remark\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+vod_hits\":&&,",
+    //"副标题":"vod_remark\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+vod_hits\":&&,",
     //"副标题":"🌸+\"vod_id\":\"&&\"",
+    "副标题":"vod_remark\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+vod_actor\":\"&&\"",
 
     "搜索模式":"1",
     //"搜索url":"https://api.1080zyku.com/inc/apijson.php?ac=search&wd=春色寄情人",
-    "搜索url":"https://api.1080zyku.com/inc/apijson.php?ac=detail&wd={wd}",
+    "搜索url":"https://yzzy.tv/inc/apijson.php?ac=detail&wd={wd}",
     "搜索数组二次截取":"\"list\"*[&&]",
     "搜索数组":"{&&\"vod_content\"",
     "搜索图片":"vod_pic\"*\"&&\"",
@@ -56,9 +58,9 @@
     "播放标题":"checked=\"\" />&&$", //[不包含:播放#复制全部]
 
     //"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-	"分类":"国产动漫$66#国产剧$12#韩剧$14#电视剧$12#动漫$66#电影$5#综艺$62#福利$19#倫理片$61#短剧$83#",
+	"分类":"国产剧$12#韩剧$14#国产动漫$66#电视剧$12#动漫$66#电影$5#综艺$62#福利$19#倫理片$61#短剧$83#",
     //"分类url":"http://api.1080zyku.com/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20",
-    "分类url":"https://api.1080zyku.com/inc/apijson.php?ac=detail&t={cateId}&pg={catePg}&limit=20",
+    "分类url":"https://yzzy.tv/inc/apijson.php?ac=detail&t={cateId}&pg={catePg}&limit=20",
             //https://api.1080zyku.com/inc/apijson.php?ac=detail&t=12
 
     "筛选":{

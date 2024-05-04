@@ -55,7 +55,8 @@
     "链接":"https://tiankongzy.com/vod/detail/id/+\"vod_id\":&&,+\/",
 	//https://tiankongzy.com/api.php/provide/vod/?ac=detail&ids=124161
 	//https://tiankongzy.com/vod/detail/id/124257/
-    "副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_score\":\"&&\"",
+    //"副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_score\":\"&&\"",
+    "副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+vod_actor\":\"&&\"",
     
 	"搜索模式":"1",
     //"搜索url":"https://tiankongzy.com/api.php/provide/vod/?ac=search&wd=春色寄情人",
@@ -82,7 +83,7 @@
     "播放列表":"<a&&</a>",
     "播放标题":">&&</a>",
     
-	"分类":"国产动漫$31#国产剧$22#韩剧$23#电视剧$3#动漫$24#电影$1#综艺$25#纪录片$2#短剧$44#体育$42#",
+	"分类":"国产剧$22#韩剧$23#国产动漫$31#电视剧$3#动漫$24#电影$1#综艺$25#纪录片$2#短剧$44#体育$42#",
     //"分类url":"http://ffzy5.tv/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20",
     "分类url":"https://tiankongzy.com/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20",
 	//https://tiankongzy.com/api.php/provide/vod/?ac=list&t=3&pg=1

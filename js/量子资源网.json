@@ -29,7 +29,8 @@
     "链接":"https://lzizy9.com/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
     //"副标题":"vod_remarks\"*\"&&\"+🌸+vod_durtion\"*\"&&\"",
     //"副标题":"vod_remarks\"*\"&&\"+🌸+vod_id\":&&,",
-    "副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+vod_hits\":&&,",
+    //"副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+vod_actor\":\"&&\"",
+    "副标题":"vod_remarks\":\"&&\"+🌸+\"vod_actor\":\"&&\"", //vod_area vod_score vod_hits vod_actor
 
     "搜索模式":"1",
     "搜索url":"https://lzizy9.com/index.php/vod/search.html?wd={wd}",
@@ -43,6 +44,7 @@
     "影片类型":"/class/*>&&</a>",
     "影片年代":"/year/*>&&</a>",
     "影片地区":"/area/*>&&</a>",
+	//"影片状态":"集数：&&</div>",
     "导演":"导演：&&</a>",
     "主演":"主演：</span>&&</div>",
     "简介":"🌸+vod_content\">&&<a",
@@ -50,7 +52,8 @@
     "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #]",
     "线路标题":"🌸+<span>&&</small>",
 	
-    "播放数组":"module-blocklist\">&&</div>",
+    //"播放二次截取": "autoplay&amp;&amp;;&lt;/script&gt;",
+	"播放数组":"module-blocklist\">&&</div>",
     "播放列表":"<a&&</a>",
     "播放标题":"<span>&&</span>[不包含:复制]",
     //"播放链接":"href=\"&&\"",

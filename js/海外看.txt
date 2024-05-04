@@ -1,0 +1,123 @@
+// <a class="library-item" href="/vodshow/33 国产</a>
+// <a class="library-item" href="/vodshow/32 韩国</a>
+// <a class="library-item" href="/vodshow/30 欧美</a>
+// <a class="library-item" href="/vodshow/31 日本</a>
+// <a class="library-item" href="/vodshow/34 泰国</a>
+// <a class="library-item" href="/vodshow/35 香港</a>
+// <a class="library-item" href="/vodshow/36 台湾</a>
+// <a class="library-item" href="/vodshow/37 新马</a>
+// <a class="library-item" href="/vodshow/38 其他</a>
+
+//
+// <a class="library-item" href="/vodshow/50-----------/">国产</a>
+// <a class="library-item" href="/vodshow/47-----------/">欧美</a>
+// <a class="library-item" href="/vodshow/48-----------/">日本</a>
+// <a class="library-item" href="/vodshow/49-----------/">韩国</a>
+// <a class="library-item" href="/vodshow/51-----------/">新马泰</a>
+// <a class="library-item" href="/vodshow/52-----------/">港台</a>
+// <a class="library-item" href="/vodshow/53-----------/">其他</a>
+
+//
+// <a class="library-item" href="/vodshow/21-----------/">惊悚</a>
+// <a class="library-item" href="/vodshow/55-----------/">纪录</a>
+// <a class="library-item" href="/vodshow/29-----------/">网络</a>
+// <a class="library-item" href="/vodshow/28-----------/">经典</a>
+// <a class="library-item" href="/vodshow/27-----------/">科幻</a>
+// <a class="library-item" href="/vodshow/26-----------/">犯罪</a>
+// <a class="library-item" href="/vodshow/25-----------/">爱情</a>
+// <a class="library-item" href="/vodshow/24-----------/">灾难</a>
+// <a class="library-item" href="/vodshow/23-----------/">歌舞</a>
+// <a class="library-item" href="/vodshow/22-----------/">战争</a>
+// <a class="library-item" href="/vodshow/20-----------/">悬疑</a>
+// <a class="library-item" href="/vodshow/56-----------/">剧情</a>
+// <a class="library-item" href="/vodshow/6-----------/">冒险</a>
+// <a class="library-item" href="/vodshow/7-----------/">动作</a>
+// <a class="library-item" href="/vodshow/8-----------/">动画</a>
+// <a class="library-item" href="/vodshow/9-----------/">同性</a>
+// <a class="library-item" href="/vodshow/10-----------/">喜剧</a>
+// <a class="library-item" href="/vodshow/11-----------/">奇幻</a>
+// <a class="library-item" href="/vodshow/12-----------/">恐怖</a>
+	
+//
+// <a class="library-item" href="/vodshow/39-----------/">欧美</a>
+// <a class="library-item" href="/vodshow/40-----------/">日本</a>
+// <a class="library-item" href="/vodshow/41-----------/">韩国</a>
+// <a class="library-item" href="/vodshow/42-----------/">国产</a>
+// <a class="library-item" href="/vodshow/43-----------/">新马泰</a>
+// <a class="library-item" href="/vodshow/44-----------/">港台</a>
+// <a class="library-item" href="/vodshow/45-----------/">其他</a>
+// <a class="library-item" href="/vodshow/54-----------/">体育</a>
+	
+//
+
+<div class="video-info-main">
+	<div class="video-info-items">
+		<span class="video-info-itemtitle">导演：</span>
+		<div class="video-info-item video-info-actor">
+			<span class="slash">/</span>
+			<a href="/vodsearch/-----%E5%BC%A0%E5%8D%9A%E6%98%B1--------/" target="_blank">张博昱</a>
+			<span class="slash">/</span>
+		</div>
+	</div>
+	<div class="video-info-items">
+		<span class="video-info-itemtitle">主演：</span>
+		<div class="video-info-item video-info-actor">
+			<span class="slash">/</span>
+			<a href="/vodsearch/-%E8%83%A1%E4%B8%80%E5%A4%A9------------/" target="_blank">胡一天</a>
+			<span class="slash">/</span>
+			<a href="/vodsearch/-%E6%A2%81%E6%B4%81------------/" target="_blank">梁洁</a>
+			<span class="slash">/</span>
+			<a href="/vodsearch/-%E4%BB%A3%E6%97%AD------------/" target="_blank">代旭</a>
+			<span class="slash">/</span>
+			<a href="/vodsearch/-%E5%88%98%E7%95%85------------/" target="_blank">刘畅</a>
+			<span class="slash">/</span>
+			<a href="/vodsearch/-%E5%AD%99%E5%98%89%E7%81%B5------------/" target="_blank">孙嘉灵</a>
+			<span class="slash">/</span>
+			<a href="/vodsearch/-%E5%90%B4%E8%8A%8A%E7%9B%88------------/" target="_blank">吴芊盈</a>
+			<span class="slash">/</span>
+			<a href="/vodsearch/-%E6%9D%8E%E6%AE%BF%E5%B0%8A------------/" target="_blank">李殿尊</a>
+			<span class="slash">/</span>
+			<a href="/vodsearch/-%E5%BC%A0%E7%91%B6------------/" target="_blank">张瑶</a>
+			<span class="slash">/</span>
+		</div>
+	</div>
+	<div class="video-info-items" itemscope="" itemprop="director" itemtype="http://schema.org/Person">
+		<span class="video-info-itemtitle">年代：</span>
+		<div class="video-info-item video-info-actor">
+			<a href="/vodsearch/-------------2024/" target="_blank">2024</a>&nbsp;
+		</div>
+	</div>
+	<div class="video-info-items">
+		<span class="video-info-itemtitle">集数：</span>
+		<div class="video-info-item">更新至6集</div>
+	</div>
+	<div class="video-info-items">
+		<span class="video-info-itemtitle">剧情：</span>
+		<div class="video-info-item video-info-content">
+			<p class="zkjj_a">自律勤奋的杂志主编叶晗,机缘巧合下帮助笨拙可爱的体育老师李潇潇化解了一次又一次尴尬的危机,却因为过去的遭遇,难以迈出爱的脚步;热情直接的杂志出版人徐嘉成,遇见了曾经的模特一姐童伊雯,两人在对爱情与事业
+				<span class="zk_jj red">[展开全部]</span>
+			</p>
+			<p class="sqjj_a" style="display: none;">　自律勤奋的杂志主编叶晗,机缘巧合下帮助笨拙可爱的体育老师李潇潇化解了一次又一次尴尬的危机,却因为过去的遭遇,难以迈出爱的脚步;热情直接的杂志出版人徐嘉成,遇见了曾经的模特一姐童伊雯,两人在对爱情与事业的追求中不断寻求着平衡;四人之间的关系因为潇潇暗恋嘉成变得复杂与充满考验,在兜兜转转中,叶晗守护着潇潇的暗恋与脆弱,潇潇彻底治愈了叶晗的情感创伤,嘉成与伊雯经过考验终修成正果。而其他几位朋友,也在经历人生的磨砺,沉稳踏实的律师许彦,专业能力出色,却始终不敢面对与年轻活力的徐嘉琳之间的感情;为人浪漫的餐吧老板路正与妻子郭晟林结婚多年,看似美好的婚姻里,却也有不为人知的苦恼。他们在经历了事业与感情的多重考验、分分合合后,最终收获了各自的幸福,也加深了彼此的羁绊。
+				<span class="sq_jj red">[收起部分]</span>
+			</p>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//

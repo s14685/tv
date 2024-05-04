@@ -1,0 +1,342 @@
+//卧龙资源
+
+
+
+    {
+// "type_id": 1,      "type_pid": 0,      "type_name": "电影"    },    {
+// "type_id": 6,      "type_pid": 1,      "type_name": "动作片"    },    {
+// "type_id": 7,      "type_pid": 1,      "type_name": "爱情片"    },    {
+// "type_id": 8,      "type_pid": 1,      "type_name": "科幻片"    },    {
+// "type_id": 9,      "type_pid": 1,      "type_name": "恐怖片"    },    {
+// "type_id": 10,      "type_pid": 1,      "type_name": "剧情片"    },    {
+// "type_id": 11,      "type_pid": 1,      "type_name": "战争片"    },    {
+// "type_id": 12,      "type_pid": 1,      "type_name": "喜剧片"    },    {
+// "type_id": 20,      "type_pid": 1,      "type_name": "动画片"    },    {
+// "type_id": 21,      "type_pid": 1,      "type_name": "犯罪片"    },    {
+// "type_id": 37,      "type_pid": 0,      "type_name": "电影解说"    },    {
+// "type_id": 38,      "type_pid": 1,      "type_name": "奇幻片"    },    {
+// "type_id": 39,      "type_pid": 1,      "type_name": "灾难片"    },    {
+// "type_id": 40,      "type_pid": 1,      "type_name": "悬疑片"    },    {
+// "type_id": 41,      "type_pid": 1,      "type_name": "其他片"    },    {
+
+// "type_id": 42,      "type_pid": 0,      "type_name": "体育赛事"    },    {
+// "type_id": 2,      "type_pid": 1,      "type_name": "纪录片"    },    {
+
+// "type_id": 3,      "type_pid": 0,      "type_name": "连续剧"    },    {
+// "type_id": 22,      "type_pid": 3,      "type_name": "国产剧"    },    {
+// "type_id": 23,      "type_pid": 3,      "type_name": "韩国剧"    },    {
+// "type_id": 4,      "type_pid": 3,      "type_name": "欧美剧"    },    {
+// "type_id": 35,      "type_pid": 3,      "type_name": "泰国剧"    },    {
+// "type_id": 36,      "type_pid": 3,      "type_name": "日剧"    },    {
+// "type_id": 5,      "type_pid": 3,      "type_name": "香港剧"    },    {
+// "type_id": 30,      "type_pid": 3,      "type_name": "台湾剧"    },    {	  
+// "type_id": 44,      "type_pid": 3,      "type_name": "海外剧"    },    {
+// "type_id": 46,      "type_pid": 0,      "type_name": "短剧"    },    {	  	  
+
+// "type_id": 24,      "type_pid": 0,      "type_name": "动漫"    },    {
+// "type_id": 31,      "type_pid": 24,      "type_name": "国产动漫"    },    {
+// "type_id": 32,      "type_pid": 24,      "type_name": "日本动漫"    },    {
+// "type_id": 33,      "type_pid": 24,      "type_name": "欧美动漫"    },    {
+// "type_id": 34,      "type_pid": 24,      "type_name": "海外动漫"    },    {
+
+// "type_id": 25,      "type_pid": 0,      "type_name": "综艺"    },    {
+// "type_id": 26,      "type_pid": 25,      "type_name": "大陆综艺"    },    {
+// "type_id": 27,      "type_pid": 25,      "type_name": "港台综艺"    },    {
+// "type_id": 28,      "type_pid": 25,      "type_name": "日韩综艺"    },    {
+// "type_id": 29,      "type_pid": 25,      "type_name": "欧美综艺"    },    {
+
+// "type_id": 48,      "type_pid": 0,      "type_name": "伦理片"    },    {
+// "type_id": 49,      "type_pid": 48,      "type_name": "港台三级"    },    {
+// "type_id": 50,      "type_pid": 48,      "type_name": "韩国伦理"    },    {
+// "type_id": 51,      "type_pid": 48,      "type_name": "日本伦理"    },    {
+// "type_id": 52,      "type_pid": 48,      "type_name": "卡通动漫"    },    {
+// "type_id": 53,      "type_pid": 48,      "type_name": "其他伦理"    },    {
+// "type_id": 54,      "type_pid": 46,      "type_name": "反转爽剧"    },    {
+// "type_id": 55,      "type_pid": 46,      "type_name": "女频恋爱"    },    {
+// "type_id": 56,      "type_pid": 46,      "type_name": "古装仙侠"    },    {
+// "type_id": 57,      "type_pid": 46,      "type_name": "年代穿越"    },    {
+// "type_id": 58,      "type_pid": 46,      "type_name": "脑洞悬疑"    },    {
+// "type_id": 59,      "type_pid": 46,      "type_name": "现代都市"    }
+  ]
+}
+//
+<div class="listcount col">
+<div class="button-container">
+<label class="custom-checkbox">
+<input type="checkbox" id="selectAll" onclick="toggleAll(this)">
+全选
+
+</label>
+<button class="custom-button" onclick="copySelectedLinks()">复制链接</button>
+<button class="custom-button" onclick="copySelectedNamesAndLinks()">复制链接和名称</button>
+</div>
+<div class="listitems  row">
+<input type="checkbox" class="video-checkbox">
+<!-- ... rest of your HTML code for the list item ... -->
+<a class="col play-item copy_text">第01集$
+<span class="hidden-xs">https://leshiyuncdn.36s.top/20240429/VYwwj3Y5/index.m3u8</span>
+</a>
+<div class="btn">
+<a href="https://leshivideoplayurl.com/?url=https://leshiyuncdn.36s.top/20240429/VYwwj3Y5/index.m3u8" class="bofang_id" style="color: #fff;">
+<button type="button" class="btn btn-primary bofang_btn">
+<img src="/template/m1938pc/images/icon_bofang@2x.png">播放
+
+</button>
+</a>
+</div>
+</div>
+<div class="listitems  row">
+<input type="checkbox" class="video-checkbox">
+<!-- ... rest of your HTML code for the list item ... -->
+<a class="col play-item copy_text">第02集$
+<span class="hidden-xs">https://leshiyuncdn.36s.top/20240429/ELkSzmnz/index.m3u8</span>
+</a>
+<div class="btn">
+<a href="https://leshivideoplayurl.com/?url=https://leshiyuncdn.36s.top/20240429/ELkSzmnz/index.m3u8" class="bofang_id" style="color: #fff;">
+<button type="button" class="btn btn-primary bofang_btn">
+<img src="/template/m1938pc/images/icon_bofang@2x.png">播放
+
+</button>
+</a>
+</div>
+</div>
+<div class="listitems  row">
+<input type="checkbox" class="video-checkbox">
+<!-- ... rest of your HTML code for the list item ... -->
+<a class="col play-item copy_text">第03集$
+<span class="hidden-xs">https://leshiyuncdn.36s.top/20240429/ic5lcMaW/index.m3u8</span>
+</a>
+<div class="btn">
+<a href="https://leshivideoplayurl.com/?url=https://leshiyuncdn.36s.top/20240429/ic5lcMaW/index.m3u8" class="bofang_id" style="color: #fff;">
+<button type="button" class="btn btn-primary bofang_btn">
+<img src="/template/m1938pc/images/icon_bofang@2x.png">播放
+
+</button>
+</a>
+</div>
+</div>
+<div class="listitems  row">
+<input type="checkbox" class="video-checkbox">
+<!-- ... rest of your HTML code for the list item ... -->
+<a class="col play-item copy_text">第04集$
+<span class="hidden-xs">https://leshiyuncdn.36s.top/20240429/kcN8G60S/index.m3u8</span>
+</a>
+<div class="btn">
+<a href="https://leshivideoplayurl.com/?url=https://leshiyuncdn.36s.top/20240429/kcN8G60S/index.m3u8" class="bofang_id" style="color: #fff;">
+<button type="button" class="btn btn-primary bofang_btn">
+<img src="/template/m1938pc/images/icon_bofang@2x.png">播放
+
+</button>
+</a>
+</div>
+</div>
+<div class="listitems  row">
+<input type="checkbox" class="video-checkbox">
+<!-- ... rest of your HTML code for the list item ... -->
+<a class="col play-item copy_text">第05集$
+<span class="hidden-xs">https://leshiyuncdn.36s.top/20240430/JxxFu0q6/index.m3u8</span>
+</a>
+<div class="btn">
+<a href="https://leshivideoplayurl.com/?url=https://leshiyuncdn.36s.top/20240430/JxxFu0q6/index.m3u8" class="bofang_id" style="color: #fff;">
+<button type="button" class="btn btn-primary bofang_btn">
+<img src="/template/m1938pc/images/icon_bofang@2x.png">播放
+
+</button>
+</a>
+</div>
+</div>
+<div class="listitems  row">
+<input type="checkbox" class="video-checkbox">
+<!-- ... rest of your HTML code for the list item ... -->
+<a class="col play-item copy_text">第06集$
+<span class="hidden-xs">https://leshiyuncdn.36s.top/20240430/1AHjBMFC/index.m3u8</span>
+</a>
+<div class="btn">
+<a href="https://leshivideoplayurl.com/?url=https://leshiyuncdn.36s.top/20240430/1AHjBMFC/index.m3u8" class="bofang_id" style="color: #fff;">
+<button type="button" class="btn btn-primary bofang_btn">
+<img src="/template/m1938pc/images/icon_bofang@2x.png">播放
+
+</button>
+</a>
+</div>
+</div>
+<div class="listitems  row">
+<input type="checkbox" class="video-checkbox">
+<!-- ... rest of your HTML code for the list item ... -->
+<a class="col play-item copy_text">第07集$
+<span class="hidden-xs">https://leshiyuncdn.36s.top/20240501/MxNXQwUE/index.m3u8</span>
+</a>
+<div class="btn">
+<a href="https://leshivideoplayurl.com/?url=https://leshiyuncdn.36s.top/20240501/MxNXQwUE/index.m3u8" class="bofang_id" style="color: #fff;">
+<button type="button" class="btn btn-primary bofang_btn">
+<img src="/template/m1938pc/images/icon_bofang@2x.png">播放
+
+</button>
+</a>
+</div>
+</div>
+<div class="listitems  row">
+<input type="checkbox" class="video-checkbox">
+<!-- ... rest of your HTML code for the list item ... -->
+<a class="col play-item copy_text">第08集$
+<span class="hidden-xs">https://leshiyuncdn.36s.top/20240501/nTzOQRvY/index.m3u8</span>
+</a>
+<div class="btn">
+<a href="https://leshivideoplayurl.com/?url=https://leshiyuncdn.36s.top/20240501/nTzOQRvY/index.m3u8" class="bofang_id" style="color: #fff;">
+<button type="button" class="btn btn-primary bofang_btn">
+<img src="/template/m1938pc/images/icon_bofang@2x.png">播放
+
+</button>
+</a>
+</div>
+</div>
+<div class="listitems  row">
+<input type="checkbox" class="video-checkbox">
+<!-- ... rest of your HTML code for the list item ... -->
+<a class="col play-item copy_text">第09集$
+<span class="hidden-xs">https://leshiyuncdn.36s.top/20240502/RNKQnKME/index.m3u8</span>
+</a>
+<div class="btn">
+<a href="https://leshivideoplayurl.com/?url=https://leshiyuncdn.36s.top/20240502/RNKQnKME/index.m3u8" class="bofang_id" style="color: #fff;">
+<button type="button" class="btn btn-primary bofang_btn">
+<img src="/template/m1938pc/images/icon_bofang@2x.png">播放
+
+</button>
+</a>
+</div>
+</div>
+<div class="listitems  row">
+<input type="checkbox" class="video-checkbox">
+<!-- ... rest of your HTML code for the list item ... -->
+<a class="col play-item copy_text">第10集$
+<span class="hidden-xs">https://leshiyuncdn.36s.top/20240502/mbjl7kea/index.m3u8</span>
+</a>
+<div class="btn">
+<a href="https://leshivideoplayurl.com/?url=https://leshiyuncdn.36s.top/20240502/mbjl7kea/index.m3u8" class="bofang_id" style="color: #fff;">
+<button type="button" class="btn btn-primary bofang_btn">
+<img src="/template/m1938pc/images/icon_bofang@2x.png">播放
+
+</button>
+</a>
+</div>
+</div>
+<div class="listitems  row">
+<input type="checkbox" class="video-checkbox">
+<!-- ... rest of your HTML code for the list item ... -->
+<a class="col play-item copy_text">第11集$
+<span class="hidden-xs">https://leshiyuncdn.36s.top/20240503/Zrpes3YM/index.m3u8</span>
+</a>
+<div class="btn">
+<a href="https://leshivideoplayurl.com/?url=https://leshiyuncdn.36s.top/20240503/Zrpes3YM/index.m3u8" class="bofang_id" style="color: #fff;">
+<button type="button" class="btn btn-primary bofang_btn">
+<img src="/template/m1938pc/images/icon_bofang@2x.png">播放
+
+</button>
+</a>
+</div>
+</div>
+<div class="listitems  row">
+<input type="checkbox" class="video-checkbox">
+<!-- ... rest of your HTML code for the list item ... -->
+<a class="col play-item copy_text">第12集$
+<span class="hidden-xs">https://leshiyuncdn.36s.top/20240503/T8AdbXel/index.m3u8</span>
+</a>
+<div class="btn">
+<a href="https://leshivideoplayurl.com/?url=https://leshiyuncdn.36s.top/20240503/T8AdbXel/index.m3u8" class="bofang_id" style="color: #fff;">
+<button type="button" class="btn btn-primary bofang_btn">
+	<img src="/template/m1938pc/images/icon_bofang@2x.png">播放
+
+	</button>
+</a>
+</div>
+</div>
+
+</div>
+
+//
+
+
+
+
+<div class="right">
+<p>名称：少年巴比伦</p>
+<p>别名：shaonianbabilun</p>
+<p>类型：<a href="6.html">国产剧</a></p>
+<p>评分：0.0 </p>
+<p>导演：林育贤 </p>
+<p>演员：杨采钰,侯明昊,王蔷,费启鸣,向涵之 </p>
+<p>年份：2023</p>
+<p>地区：中国大陆</p>
+<p>语言：汉语普通话</p>
+<p>上映：2023</p>
+<p>添加时间：</p>
+<p>更新时间：2024-05-03 18:43:20</p>
+<p>备注：更新至12集</p>
+</div>
+	   
+//
+{
+  "vod_id": 71276,  "type_id": 12,  "type_id_1": 2,  "group_id": 0,  "vod_name": "哈尔滨一九四四",  "vod_sub": "",  "vod_en": "haerbinyijiusisi",  "vod_status": 1,  "vod_letter": "H",  "vod_color": "",  "vod_tag": "",  "vod_class": "",  "vod_pic": "https://pic.wlongimg.com//upload/vod/20240421-1/ddf39204ca20296cd945d0fda0494429.jpg",  "vod_pic_thumb": "",  "vod_pic_slide": "",  "vod_actor": " 秦昊 / 杨幂 / 张子贤 / 栾元晖 / 王鹤润 / 刘宇轩",  "vod_director": "张黎",  "vod_writer": " 王小枪 / 刘天壮 / 刘劲飞",  "vod_behind": "",  "vod_blurb": "",  "vod_remarks": "更新至27集",  "vod_pubdate": "2024",  "vod_total": 0,  "vod_serial": "",  "vod_tv": "",  "vod_weekday": "",  "vod_area": "中国大陆",  "vod_lang": "汉语普通话",  "vod_year": "2024",  "vod_version": "",  "vod_state": "正片",  "vod_author": "",  "vod_jumpurl": "",  "vod_tpl": "",  "vod_tpl_play": "",  "vod_tpl_down": "",  "vod_isend": 0,  "vod_lock": 0,  "vod_level": 0,  "vod_points_play": 0,  "vod_points_down": 0,  "vod_hits": 0,  "vod_hits_day": 0,  "vod_hits_week": 0,  "vod_hits_month": 0,  "vod_duration": "",  "vod_up": 0,  "vod_down": 0,  "vod_score": "0.0",  "vod_score_all": 0,  "vod_score_num": 0,  "vod_time": "2024-05-03 20:10:57",  "vod_time_add": 1713701448,  "vod_time_hits": 0,  "vod_time_make": 0,  "vod_trysee": 0,  "vod_douban_id": 0,  "vod_douban_score": "0.0",  "vod_reurl": "",  "vod_rel_vod": "",  "vod_rel_art": "",  "vod_content": "",  "vod_play_from": "wolong",  "vod_play_server": "no",  "vod_play_note": "",  "vod_play_url": "第01集$https://cdn.wlcdn99.com:777/32601c7c/index.m3u8#第02集$https://cdn.wlcdn99.com:777/f0755c9a/index.m3u8#第03集$https://cdn.wlcdn99.com:777/a0bc52a3/index.m3u8#第04集$https://cdn.wlcdn99.com:777/5bd71906/index.m3u8#第05集$https://cdn.wlcdn99.com:777/e9efafa4/index.m3u8#第06集$https://cdn.wlcdn99.com:777/bc2d23b7/index.m3u8#第07集$https://cdn.wlcdn99.com:777/6aefd464/index.m3u8#第08集$https://cdn.wlcdn99.com:777/4a7e2ef2/index.m3u8#第09集$https://cdn.wlcdn99.com:777/e2df65be/index.m3u8#第10集$https://cdn.wlcdn99.com:777/c77b68ba/index.m3u8#第11集$https://cdn.wlcdn99.com:777/2623df3b/index.m3u8#第12集$https://cdn.wlcdn99.com:777/18add2f7/index.m3u8#第13集$https://cdn.wlcdn99.com:777/cec318d2/index.m3u8#第14集$https://cdn.wlcdn99.com:777/8e106b1f/index.m3u8#第15集$https://cdn.wlcdn99.com:777/ae3052f9/index.m3u8#第16集$https://cdn.wlcdn99.com:777/6f741a07/index.m3u8#第17集$https://cdn.wlcdn99.com:777/28c18f84/index.m3u8#第18集$https://cdn.wlcdn99.com:777/337b535a/index.m3u8#第19集$https://cdn.wlcdn99.com:777/56ba5735/index.m3u8#第20集$https://cdn.wlcdn99.com:777/eccb451a/index.m3u8#第21集$https://cdn.wlcdn99.com:777/b018003f/index.m3u8#第22集$https://cdn.wlcdn99.com:777/f3a4dc38/index.m3u8#第23集$https://cdn.wlcdn99.com:777/e542ceea/index.m3u8#第24集$https://cdn.wlcdn99.com:777/654a8686/index.m3u8#第25集$https://cdn.wlcdn99.com:777/1547778e/index.m3u8#第26集$https://cdn.wlcdn99.com:777/df5b08aa/index.m3u8#第27集$https://cdn.wlcdn99.com:777/672b91cc/index.m3u8",  "vod_down_from": "",  "vod_down_server": "",  "vod_down_note": "",  "vod_down_url": "",  "vod_pic_screenshot": "",  "vod_plot": 0,  "vod_plot_name": "",  "vod_plot_detail": "",  "vod_pwd": "",  "vod_pwd_url": "",  "vod_pwd_play": "",  "vod_pwd_play_url": "",  "vod_pwd_down": "",  "vod_pwd_down_url": "",  "vod_copyright": 0,  "vod_points": 0,  "type_name": "国产剧"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
+{
+// "type_id": 1,      "type_name": "电影片"    },    {
+// "type_id": 5,      "type_name": "动作片"    },    {
+// "type_id": 6,      "type_name": "喜剧片"    },    {
+// "type_id": 7,      "type_name": "爱情片"    },    {
+// "type_id": 8,      "type_name": "科幻片"    },    {
+// "type_id": 9,      "type_name": "恐怖片"    },    {
+// "type_id": 10,      "type_name": "剧情片"    },    {
+// "type_id": 11,      "type_name": "战争片"    },    {
+// "type_id": 39,      "type_name": "惊悚片"    },    {
+// "type_id": 42,      "type_name": "家庭片"    },    {
+// "type_id": 43,      "type_name": "古装片"    },    {
+// "type_id": 44,      "type_name": "历史片"    },    {
+// "type_id": 45,      "type_name": "悬疑片"    },    {
+// "type_id": 46,      "type_name": "犯罪片"    },    {	  
+// "type_id": 24,      "type_name": "动画片"    },    {	  
+
+// "type_id": 2,      "type_name": "连续剧"    },    {
+// "type_id": 12,      "type_name": "国产剧"    },    {
+// "type_id": 13,      "type_name": "香港剧"    },    {
+// "type_id": 14,      "type_name": "韩国剧"    },    {
+// "type_id": 15,      "type_name": "欧美剧"    },    {
+// "type_id": 16,      "type_name": "台湾剧"    },    {
+// "type_id": 17,      "type_name": "日本剧"    },    {
+// "type_id": 33,      "type_name": "泰国剧"    },    {
+// "type_id": 18,      "type_name": "海外剧"    },    {	  
+
+// "type_id": 3,      "type_name": "综艺片"    },    {
+// "type_id": 30,      "type_name": "港台综艺"    },    {
+// "type_id": 31,      "type_name": "韩国综艺"    },    {
+// "type_id": 32,      "type_name": "大陆综艺"    },    {	  
+// "type_id": 37,      "type_name": "欧美综艺"    },    {	  
+
+// "type_id": 4,      "type_name": "动漫片"    },    {
+// "type_id": 25,      "type_name": "国产动漫"    },    {
+// "type_id": 26,      "type_name": "欧美动漫"    },    {
+// "type_id": 27,      "type_name": "日本动漫"    },    {	  
+// "type_id": 49,      "type_name": "伦理片"    },    {
+// "type_id": 22,      "type_name": "记录片"    },    {
+// "type_id": 54,      "type_name": "短剧"    }
+// "type_id": 23,      "type_name": "短片"    },    {
+
+// "type_id": 38,      "type_name": "电影解说"    },    {
+
+
+///

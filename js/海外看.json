@@ -5,6 +5,7 @@
 //https://haiwaikan.com/index.php/vod/detail/id/99727.html
 //https://api.haiwaikan.com/v1/vod?ac=search&wd=功夫乒乓
 //https://haiwaikan.tv/vodshow/33-内地--古装-国语-------2024/
+//https://haiwaikan.tv/vodsearch/-------------/?wd=春色寄情人
 
     {
     "主页url":"https://haiwaikan.tv/",
@@ -26,10 +27,13 @@
     "搜索模式":"1",
     "搜索url":"https://haiwaikan.tv/vodsearch/-------------/?wd={wd}",
     //"搜索数组二次截取":"\"list\"*[&&]",
-    "搜索数组":"<div class=\"module-search-item\">&&立即播放",
+    "搜索数组":"<i class=\"icon-play\"></i></a>&&<h3>",
     "搜索图片":"data-src=\"&&\"",
-    "搜索标题":"<h3>&&</a>",
-    "搜索链接":"href=\"&&\"", //立刻播放
+    "搜索标题":"alt=\"&&\"",
+    //"搜索标题":"alt=\"&&\"+href=\"&&\"",
+    "搜索链接":"href=\"&&\"", 
+	//https://haiwaikan.tv/voddetail/42987/
+	//立刻播放 https://haiwaikan.tv/vodplay/42987-1-1/
 
     "影片类型":"tag-link\"><span class=\"slash\">/</span>&&</a>",
     "影片年代":"year*>&&</a>",

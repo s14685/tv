@@ -6,15 +6,18 @@
 {
     "作者":"荷城茶秀",
     "站名":"可可影视", 
-    "主页url":"https://www.keke1.app/",
-    "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "主页url":"https://www.keke1.app",
+    //"请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+	//"请求头":"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+	"强制解析":"0",
+    "图片代理":"0",
 //分类页面
-    //"数组":"<div class=\"module-box module-v-box\">&&</div>",
-    "数组":"<div class=\"module-item\">&&</a></div>",
+    "二次截取":"<div class=\"module-box-inner\">&&<!-- <div class=\"section-footer fs-margin-top\">a</div> -->",
+    "数组":"<div class=\"module-item\">&&<div class=\"v-item-footer\">",
     "标题":"title=\"&&\"",
+    //"副标题":"data-original=\"&&\"",
     "副标题":"v-item-bottom\">&&</span>+🌸+<span>豆瓣:&&分</span>",
-    //"图片":"data-original=\"&&\"",
-    "图片":"src=\"&&\"",
+    "图片":"https://61.147.93.252:15002+data-original=\"&&\"", //"src=\"&&\"",
     "链接":"href=\"&&\"",
 
 //播放页面
@@ -33,10 +36,10 @@
    "搜索图片": "src=\"&&\"",
    "搜索链接": "href=\"&&\"",
 
-//播放列表
+//播放列表 //$ # & * [ ]
     //"线路数组":"<div class=\"source-box\">&&</div></div>[不包含:夸克][排序:快云>量子>非凡>索尼>独家>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>极速>高清>超清>蓝光]",
     "线路数组":"class=\"source-item\">&&</a>[不包含:夸克][替换:FF线路>>非凡#LZ线路>>量子#HN线路>>红牛#XL线路>>新浪#超清-备用>>备用]",
-    "线路标题":"🌸+source-item-label\">&&</span>+⚡️+source-item-num\">&&</i>[排序:量子>非凡>超清>快云>索尼>独家>红牛>新浪>备用>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>极速>高清>蓝光]",
+    "线路标题":"🌸+source-item-label\">&&</span>+⚡️+source-item-num\">&&</i>[排序:超清>非凡>量子>快云>索尼>独家>红牛>新浪>备用>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>极速>高清>蓝光]",
     //"播放数组":"<div class=\"episode-box-main\">&&</div>",
     //"播放标题":"<a&&</a>",
     //"播放列表":"href=\"&&\"",

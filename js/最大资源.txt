@@ -1,0 +1,213 @@
+//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+  {
+    "type_id": 1,    "type_pid": 0,    "type_name": "电视剧"  },  {
+    "type_id": 20,    "type_pid": 1,    "type_name": "内地剧"  },  {
+    "type_id": 5,    "type_pid": 1,    "type_name": "韩剧"  },  {	
+    "type_id": 3,    "type_pid": 1,    "type_name": "欧美剧"  },  {
+    "type_id": 4,    "type_pid": 1,    "type_name": "香港剧"  },  {	
+    "type_id": 6,    "type_pid": 1,    "type_name": "日剧"  },  {
+    "type_id": 28,    "type_pid": 1,    "type_name": "台湾剧"  },  {
+    "type_id": 7,    "type_pid": 1,    "type_name": "马泰剧"  },  {	
+	
+    "type_id": 2,    "type_pid": 0,    "type_name": "电影"  },  {
+    "type_id": 8,    "type_pid": 0,    "type_name": "伦理片"  },  {
+    "type_id": 9,    "type_pid": 2,    "type_name": "动作片"  },  {
+    "type_id": 10,    "type_pid": 2,    "type_name": "爱情片"  },  {
+    "type_id": 11,    "type_pid": 2,    "type_name": "喜剧片"  },  {
+    "type_id": 12,    "type_pid": 2,    "type_name": "科幻片"  },  {
+    "type_id": 13,    "type_pid": 2,    "type_name": "恐怖片"  },  {
+    "type_id": 14,    "type_pid": 2,    "type_name": "剧情片"  },  {
+    "type_id": 15,    "type_pid": 2,    "type_name": "战争片"  },  {
+    "type_id": 16,    "type_pid": 2,    "type_name": "记录片"  },  {	
+	
+    "type_id": 27,    "type_pid": 0,    "type_name": "综艺"  },  {
+    "type_id": 29,    "type_pid": 0,    "type_name": "体育赛事"  },  {
+    "type_id": 30,    "type_pid": 0,    "type_name": "短剧"
+
+
+    "type_id": 17,    "type_pid": 0,    "type_name": "动漫"  },  {
+    "type_id": 23,    "type_pid": 2,    "type_name": "动画片"  },  {
+    "type_id": 24,    "type_pid": 17,    "type_name": "中国动漫"  },  {
+    "type_id": 25,    "type_pid": 17,    "type_name": "日本动漫"  },  {
+    "type_id": 26,    "type_pid": 17,    "type_name": "欧美动漫"  },  {
+	
+	
+
+
+	
+
+  }
+]
+
+
+//
+//最大资源
+//http://zuidazy.me https://zuidazy.me/
+//https://zuidazy.me/voddetail/72572.html
+//https://api.zuidapi.com/api.php/provide/vod/?ac=list
+//https://api.zuidapi.com/api.php/provide/vod/?ac=detail&t=13
+
+
+<!--火车头采集专用开始-->
+<!--影片名开始--><!--少年巴比伦2024--><!--影片名结束-->
+<!--备注开始--><!--更新13--><!--备注结束-->
+<!--评分开始--><!--6.0--><!--评分结束-->
+<!--副标开始--><!----><!--副标结束-->
+<!--影片分类开始--><!--国产剧--><!--影片分类结束-->
+<!--导演开始--><!--林育贤--><!--导演结束-->
+<!--主演开始--><!--杨采钰,侯明昊,向涵之,费启鸣,张腾,陈奕歌,隋媛,张淞--><!--主演结束-->
+<!--剧情开始--><!-- --><!--剧情结束-->
+<!--地区开始--><!--中国大陆--><!--地区结束-->
+<!--语言开始--><!--汉语普通话--><!--语言结束-->
+<!--年代开始--><!--2024--><!--年代结束-->
+<!--资源类型开始--><!----><!--资源类型结束-->
+<!--连载数开始--><!----><!--连载数结束-->
+<!--总集数开始--><!--0--><!--总集数结束-->
+<!--图片开始--><!--https://ok.zuidapic.com/upload/vod/20240504-1/649729fcac23da653ce32727ce98e276.jpg--><!--图片结束-->
+<!--介绍开始--><!--上世纪90年代初，东南沿海小城——福城，--><!--介绍结束-->
+
+<!--播放地址开始
+    
+      <播放组开始>zuidam3u8<播放组结束>
+      <zuidam3u8>
+      第01集$https://v10.qdhdcate.com/yyv10/202404/29/SsVUibftZb15/video/index.m3u8#
+      第02集$https://v10.qdhdcate.com/yyv10/202404/29/LYTjFbwrUq15/video/index.m3u8#
+      第03集$https://v10.qdhdcate.com/yyv10/202404/29/GmvNHxdvzM15/video/index.m3u8#
+      第04集$https://v10.qdhdcate.com/yyv10/202404/29/tat1dsbf9X15/video/index.m3u8#
+      第05集$https://v10.qdhdcate.com/yyv10/202404/30/K2vRK9wTFi15/video/index.m3u8#
+      第06集$https://v11.qdhdcate.com/yyv11/202404/30/DbQ4sz3yms3/video/index.m3u8#
+      第07集$https://v10.qdhdcate.com/yyv10/202405/01/Tdhdefp4ZS15/video/index.m3u8#
+      第08集$https://v11.qdhdcate.com/yyv11/202405/01/WGrAm5APuJ3/video/index.m3u8#
+      第09集$https://v4.qdhdcate.com/yyv4/202405/02/ti4i5FH7Lw4/video/index.m3u8#
+      第13集$https://v11.qdhdcate.com/yyv11/202405/04/2cacyZmizf3/video/index.m3u8#
+      </播放组-zuidam3u8> 
+  播放地结束始-->
+
+
+
+
+
+
+
+
+//
+{
+  "code": 1,  "msg": "数据列表",  "page": 1,  "pagecount": 3422,  "limit": "20",  "total": 68424,  "list": [
+{"vod_id": 68596,"vod_name": "花咲舞无法沉默第三季","type_id": 16,"type_name": "日剧","vod_en": "huaxiaowuwufachenmodisanji","vod_time": "2024-05-05 15:38:06","vod_remarks": "更新4","vod_play_from": "zuidam3u8"
+    },{"vod_id": 72829,"vod_name": "白日梦外送王","type_id": 11,"type_name": "剧情片","vod_en": "bairimengwaisongwang","vod_time": "2024-05-05 15:01:12","vod_remarks": "更新HD","vod_play_from": "zuidam3u8"
+    },{"vod_id": 72828,"vod_name": "球神比吉尔","type_id": 11,"type_name": "剧情片","vod_en": "qiushenbijier","vod_time": "2024-05-05 14:57:17","vod_remarks": "更新HD","vod_play_from": "zuidam3u8"
+    },{"vod_id": 72827,"vod_name": "相亲","type_id": 7,"type_name": "喜剧片","vod_en": "xiangqin","vod_time": "2024-05-05 14:57:09","vod_remarks": "更新HD","vod_play_from": "zuidam3u8"
+    },{"vod_id": 72826,"vod_name": "黎明墙","type_id": 20,"type_name": "纪录片","vod_en": "limingqiang","vod_time": "2024-05-05 14:56:58","vod_remarks": "更新HD","vod_play_from": "zuidam3u8"
+    },{"vod_id": 72825,"vod_name": "竹屋","type_id": 11,"type_name": "剧情片","vod_en": "zhuwu","vod_time": "2024-05-05 14:56:50","vod_remarks": "更新HD","vod_play_from": "zuidam3u8"
+    },{"vod_id": 72824,"vod_name": "白日青春","type_id": 11,"type_name": "剧情片","vod_en": "bairiqingchun","vod_time": "2024-05-05 14:56:41","vod_remarks": "更新HD","vod_play_from": "zuidam3u8"
+    },{"vod_id": 72823,"vod_name": "绥远之光","type_id": 12,"type_name": "战争片","vod_en": "suiyuanzhiguang","vod_time": "2024-05-05 14:56:33","vod_remarks": "更新HD","vod_play_from": "zuidam3u8"
+    },{"vod_id": 72822,"vod_name": "白鲸","type_id": 11,"type_name": "剧情片","vod_en": "baijing","vod_time": "2024-05-05 14:56:25","vod_remarks": "更新HD","vod_play_from": "zuidam3u8"
+    },{"vod_id": 72774,"vod_name": "中国新说唱2024","type_id": 25,"type_name": "大陆综艺","vod_en": "zhongguoxinshuochang2024","vod_time": "2024-05-05 14:40:53","vod_remarks": "更新20240504","vod_play_from": "zuidam3u8"
+    },{"vod_id": 31578,"vod_name": "惊人的星期六","type_id": 26,"type_name": "日韩综艺","vod_en": "jingrendexingqiliu","vod_time": "2024-05-05 14:40:47","vod_remarks": "更新20240504","vod_play_from": "zuidam3u8"
+    },{"vod_id": 31598,"vod_name": "认识的哥哥","type_id": 26,"type_name": "日韩综艺","vod_en": "renshidegege","vod_time": "2024-05-05 14:40:45","vod_remarks": "更新20240504","vod_play_from": "zuidam3u8"
+    },{"vod_id": 72270,"vod_name": "间谍过家家代号：白","type_id": 39,"type_name": "动画片","vod_en": "jiandieguojiajiadaihaobai","vod_time": "2024-05-05 14:01:53","vod_remarks": "更新0","vod_play_from": "zuidam3u8"
+    },{"vod_id": 68493,"vod_name": "一路长大","type_id": 25,"type_name": "大陆综艺","vod_en": "yiluchangda","vod_time": "2024-05-05 14:01:48","vod_remarks": "更新20240504","vod_play_from": "zuidam3u8"
+    },{"vod_id": 66963,"vod_name": "哈哈哈哈哈第四季","type_id": 25,"type_name": "大陆综艺","vod_en": "hahahahahadisiji","vod_time": "2024-05-05 14:01:45","vod_remarks": "更新20240504","vod_play_from": "zuidam3u8"
+    },{"vod_id": 72207,"vod_name": "灿烂的花园","type_id": 25,"type_name": "大陆综艺","vod_en": "canlandehuayuan","vod_time": "2024-05-05 14:01:43","vod_remarks": "更新20240504","vod_play_from": "zuidam3u8"
+    },{"vod_id": 64313,"vod_name": "种地吧2","type_id": 25,"type_name": "大陆综艺","vod_en": "zhongdiba2","vod_time": "2024-05-05 14:01:41","vod_remarks": "更新20243010","vod_play_from": "zuidam3u8"
+    },{"vod_id": 68498,"vod_name": "这是我的岛","type_id": 25,"type_name": "大陆综艺","vod_en": "zheshiwodedao","vod_time": "2024-05-05 14:01:36","vod_remarks": "更新20240504","vod_play_from": "zuidam3u8"
+    },{"vod_id": 68558,"vod_name": "易普症","type_id": 16,"type_name": "日剧","vod_en": "yipuzheng","vod_time": "2024-05-05 14:01:34","vod_remarks": "更新4","vod_play_from": "zuidam3u8"
+    },{"vod_id": 72472,"vod_name": "情深不悔，再爱难为","type_id": 13,"type_name": "国产剧","vod_en": "qingshenbuhuizaiainanwei","vod_time": "2024-05-05 13:58:17","vod_remarks": "更新13","vod_play_from": "zuidam3u8"
+    }
+  ],  "class": [
+// {"type_id": 1,"type_name": "电影"
+// },{"type_id": 6,"type_name": "动作片"
+// },{"type_id": 7,"type_name": "喜剧片"
+// },{"type_id": 8,"type_name": "爱情片"
+// },{"type_id": 9,"type_name": "科幻片"
+// },{"type_id": 10,"type_name": "恐怖片"
+// },{"type_id": 11,"type_name": "剧情片"
+// },{"type_id": 12,"type_name": "战争片"
+// },{"type_id": 39,"type_name": "动画片"	
+
+// },{"type_id": 47,"type_name": "演唱会"
+// },{"type_id": 53,"type_name": "影视解说"
+// },{"type_id": 54,"type_name": "爽文短剧"
+// },{"type_id": 63,"type_name": "有声动漫"
+// },{"type_id": 64,"type_name": "女频恋爱"
+// },{"type_id": 65,"type_name": "反转爽剧"
+// },{"type_id": 66,"type_name": "古装仙侠"
+// },{"type_id": 67,"type_name": "年代穿越"
+// },{"type_id": 68,"type_name": "脑洞悬疑"
+// },{"type_id": 69,"type_name": "现代都市"
+// },{"type_id": 62,"type_name": "4K电影"
+// },{"type_id": 70,"type_name": "邵氏电影"
+
+// },{"type_id": 2,"type_name": "电视剧"
+// },{"type_id": 13,"type_name": "国产剧"
+// },{"type_id": 15,"type_name": "韩剧"
+// },{"type_id": 14,"type_name": "欧美剧"
+// },{"type_id": 16,"type_name": "日剧"
+// },{"type_id": 17,"type_name": "港剧"
+// },{"type_id": 18,"type_name": "台剧"
+// },{"type_id": 19,"type_name": "泰剧"
+// },{"type_id": 20,"type_name": "纪录片"
+// },{"type_id": 23,"type_name": "海外剧"
+
+// },{"type_id": 3,"type_name": "综艺"
+// },{"type_id": 25,"type_name": "大陆综艺"
+// },{"type_id": 26,"type_name": "日韩综艺"
+// },{"type_id": 27,"type_name": "港台综艺"
+// },{"type_id": 28,"type_name": "欧美综艺"
+
+// },{"type_id": 4,"type_name": "动漫"
+// },{"type_id": 29,"type_name": "国产动漫"
+// },{"type_id": 30,"type_name": "日韩动漫"
+// },{"type_id": 31,"type_name": "欧美动漫"	
+// },{"type_id": 44,"type_name": "港台动漫"
+// },{"type_id": 45,"type_name": "海外动漫"
+
+// },{"type_id": 48,"type_name": "体育赛事"
+// },{"type_id": 49,"type_name": "篮球"
+// },{"type_id": 50,"type_name": "足球"
+// },{"type_id": 51,"type_name": "预告片"
+// },{"type_id": 52,"type_name": "斯诺克"
+
+// },{"type_id": 55,"type_name": "伦理"
+// },{"type_id": 56,"type_name": "港台三级"
+// },{"type_id": 57,"type_name": "韩国伦理"
+// },{"type_id": 58,"type_name": "西方伦理"
+// },{"type_id": 59,"type_name": "日本伦理"
+// },{"type_id": 60,"type_name": "两性课堂"
+// },{"type_id": 61,"type_name": "写真热舞"
+	
+
+    }
+  ]
+}
+//

@@ -2,14 +2,14 @@
   "作者": "SEJ95",
   "站名": "字母圈",
   //"主页url": "http://jinman2.com",
-  "主页url": "https://zimu.app",
+  "主页url": "https://zimu.app/",
   
   //"分类": "字母圈$1#国产区$2#AV$3#动漫$4#传媒视频$5#伦理片$36#成人小说$6#看美女$dy", 
   "分类": "字母圈$1#国产区$2#AV$3#动漫$4#传媒视频$5#伦理片$36", 
 
   "分类值": "a&b&c&d&e&f",
   
-  "分类url": "http://zimu.app/fl/{area}{by}{class}{cateId}{lang}{year}.html",
+  "分类url": "http://zimu.app/fl/{cateId}{area}{by}{class}{lang}{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   

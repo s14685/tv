@@ -445,92 +445,49 @@ v10.iqiyioss.com
     // {      "type_id": "54",      "type_name": "海外剧54"    },
 
 
-lzizy9.com/index.php/vod/search/actor/%E8%B5%B5%E4%B8%BD%E9%A2%96/page/1/
-==================================================================================================================================================================================
-HTTP/Requests:
-Topic / Item                                                       Count         Average       Min Val       Max Val       Rate (ms)     Percent       Burst Rate    Burst Start  
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-HTTP Requests by HTTP Host                                         12                                                      0.0009        100%          0.0400        5.506        
- winniec.asuscomm.com                                              6                                                       0.0005        50.00%        0.0400        5.506        
-  /iptv/js/HCCX.jar                                                2                                                       0.0002        33.33%        0.0200        5.506        
-  /iptv/js/%E9%87%8F%E5%AD%90%E6%BC%94%E5%91%98.json               2                                                       0.0002        33.33%        0.0200        5.592        
-  /iptv/fav.json                                                   2                                                       0.0002        33.33%        0.0200        5.331        
- lzizy9.com                                                        2                                                       0.0002        16.67%        0.0100        7.672        
-  /index.php/vod/search/actor/%E8%B5%B5%E4%B8%BD%E9%A2%96/page/1/  1                                                       0.0001        50.00%        0.0100        9.975        
-  /index.php/vod/search/actor/%E7%8E%84%E5%BD%AC/page/1/           1                                                       0.0001        50.00%        0.0100        7.672        
- 239.255.255.250:1900                                              4                                                       0.0003        33.33%        0.0100        17.720       
-  *                                                                4                                                       0.0003        100.00%       0.0100        17.720       
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
   ]
 }
 
 //
-<div class="vodInfo">
-	<div class="vodh">
-		<h2>春色寄情人</h2>
-		<span>全21集</span>
-		<label>0.0</label>
-	</div>
-	<div class="vodinfobox">
-		<ul>
-			<li>别名：
-				<span>吾乡有情人</span>
-			</li>
-			<li>导演：
-				<span>程亮</span>
-			</li>
-			<li>主演：
-				<span>李现,周雨彤,刘琳,方芳,吴俊霆,张熙唯,万鹏,张弛,牛超,田玲,徐幸,张垒</span>
-			</li>
-			<li>类型：
-				<span>国产剧 </span>
-			</li>
-			<li class="sm">地区：
-				<span>大陆</span>
-			</li>
-			<li class="sm">语言：
-				<span>国语</span>
-			</li>
-			<li class="sm">上映：
-				<span>2024</span>
-			</li>
-			<li class="sm">片长：
-				<span>0</span>
-			</li>
-			<li class="sm">更新：
-				<span>2024-04-30 21:18:58</span>
-			</li>
-			<li class="sm">总播放量：
-				<span>
-					<em id="hits">2872</em>
-					<script>MAC.Hits("vod","54842")</script>
-				</span>
-			</li>
-			<li class="sm">今日播放量：
-				<span>160</span>
-			</li>
-			<li class="sm">总评分数：
-				<span>0</span>
-			</li>
-			<li class="sm">评分次数：
-				<span>0</span>
-			</li>
-			<li class="cont">
-				<div class="jjText">
-					<span class="cl"></span>
-					<!-- <span class="more" txt="　　本剧根据舍目斯在豆瓣阅读连载的小说《情人》改编。　　该剧以松弛治愈的市井烟火为基调，展现温暖有爱的群像人物故事，聚焦成年人之间极致拉扯、双向救赎的爱情。陈麦冬 （李现 饰）年少时性格桀骜，遭遇生活变故后选择成为一名遗体整容师。庄洁 （周雨彤 饰）因车祸致残，为了追逐更好的自己，孤身在外打拼成为大城市之中的职场精英。一个是 性格桀骜但身心孤独的遗体整容师，一个是身体缺陷但勇敢耀眼的医疗销售，在不">　　本剧根据舍目斯在豆瓣阅读连载的小说《情人》改编。　　该剧以松弛治愈的市井烟火为基调，展现温暖有爱的群像人物故事，聚焦成年人之间极致拉扯、双向救赎的爱情。陈麦冬 （李现 饰）年少时性格桀骜，遭遇生活变故后选择成为一名遗体整容师。庄洁 （周雨彤 饰）因车祸致残，为了追逐更好的自己，孤身在外打拼成为大城市之中的职场精英。一个是 性格桀骜但身心孤独的遗体整容师，一个是身体缺陷但勇敢耀眼的医疗销售，在不断拉扯中逐渐互相理解与尊重，以爱治愈彼此的“不完美”。</span>  -->
-					<span class="cr"></span>
+<div class="module-item">
+	<div class="module-item-cover">
+		<div class="module-item-pic">
+			<a href="/voddetail/goushengkuaipao.html" title="狗剩快跑">
+				<i class="icon-play"></i>
+			</a>
+			<img class="lazy lazyloaded" data-src="https://ok.zuidapic.com/upload/vod/20240126-1/e0d18578e9090c5f6dc72de43dfb41a4.jpg" src="https://ok.zuidapic.com/upload/vod/20240126-1/e0d18578e9090c5f6dc72de43dfb41a4.jpg" alt="狗剩快跑">
+				<div class="loading"></div>
+			</div>
+			<div class="module-item-caption"><span>2024</span>
+				<span class="video-class">国产剧</span>
+				<span>中国大陆</span>
+			</div>
+			<div class="module-item-ru">
+				<span class="vip">独家推荐</span>
+			</div>
+			<div class="module-item-content">
+				<div class="module-item-style video-name">
+					<a href="/voddetail/goushengkuaipao.html" title="狗剩快跑">狗剩快跑</a>
 				</div>
-			</li>
-			<li class="tags">
-				<span></span>
-			</li>
-		</ul>
+				<div class="module-item-style video-tag">
+					<a href="/vodsearch/-%E8%92%8B%E9%BE%99------------.html" target="_blank">蒋龙</a>&nbsp;
+					<a href="/vodsearch/-%E5%8F%B2%E7%AD%96------------.html" target="_blank">史策</a>&nbsp;
+					<a href="/vodsearch/-%E7%A7%A6%E6%B5%B7%E7%92%90------------.html" target="_blank">秦海璐</a>&nbsp;
+					<a href="/vodsearch/-%E5%B0%A4%E5%8B%87%E6%99%BA------------.html" target="_blank">尤勇智</a>&nbsp;
+					<a href="/vodsearch/-%E8%92%8B%E6%98%93------------.html" target="_blank">蒋易</a>&nbsp;
+					<a href="/vodsearch/-%E7%8E%8B%E5%92%8C------------.html" target="_blank">王和</a>&nbsp; 
+				</div>
+				<div class="module-item-style video-text">狗剩（蒋龙 饰）自小被王大举（李梦男 饰）收养，却被养父嫌弃。为了赚钱娶媳妇不得不替傻弟弟当兵，但在从军的过程中狗剩遭到同村情敌杨三（蒋易 饰）设计陷害，又经历了许多光怪陆离、令人啼笑皆非的遭遇。最终狗剩和宋玉桃（史策 饰）等人一起加入了抗日队伍，走上了革命道路。
+该剧改编自电影《我不是王毛》。</div>
+			</div>
+		</div>
+		<div class="module-item-titlebox">
+			<a href="/voddetail/goushengkuaipao.html" class="module-item-title" title="狗剩快跑">狗剩快跑</a>
+		</div>
+		<div class="module-item-text">已完结</div>
 	</div>
-</div>
 
 //
 

@@ -17,12 +17,12 @@
 
     "二次截取":"class=\"module-items\">&&<div class=\"module-footer\">",
     "数组":"class=\"module-item\">&&<div class=\"module-item-style video-text\">",
-    "标题":"🌸+title=\"&&\"+⚡️+module-item-caption\"><span>&&</span>",
+    "标题":"title=\"&&\"",
     "图片":"data-src=\"&&\"",
     "链接":"href=\"&&\"",
     //"副标题":"🌸+module-item-text\">&&<",
     //"副标题":"🌸+module-item-caption\"><span>&&</div>", //[替换:</span>>>⚡️ #]
-    "副标题":"🌸+module-item-style video-tag\">&&</div>[替换:</a>&nbsp;>>️ #]",//[不包含:未知#内详#]
+    "副标题":"module-item-caption\"><span>&&</span>+🌸+target=\"_blank\">&&</div>[替换:</a>&nbsp;>>️ #]",//[不包含:未知#内详#]
 
     "搜索模式":"1",
     "搜索url":"https://haiwaikan.tv/vodsearch/-------------/?wd={wd}",

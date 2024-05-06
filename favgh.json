@@ -7,8 +7,8 @@
 //https://raw.liucn.cc/box/libs/jar/HCCX.jar
 //"https://raw.githubusercontent.com/s14685/tv/main/js/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
 //"spider": "https://raw.liucn.cc/box/fty.jar;md5;8b8d1018ca0b29c22cf681e2db55d38f",
-	//"线路数组":"data-dropdown-value=&&</div>[不包含:夸克#][替换:</span><small>>>️⚡️ #线路1>>豪华#线路2>>量子#线路3>>优质#线路4>>索尼#线路5>>乐视#线路6>>非凡#线路7>>优酷]", "请求头":"手机","免嗅": "0",
-    //"线路标题":"🌸+<span>&&</small>[排序:量子>非凡>天空>卧龙>优质>高清>爱坤>海外>乐视>闪电>索尼>无尽>红牛>极速>独家>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>暴风>超清>蓝光>备用>本站>稳定>国内>速播>金鹰]",
+//"线路数组":"data-dropdown-value=&&</div>[不包含:夸克#][替换:</span><small>>>️⚡️ #线路1>>豪华#线路2>>量子#线路3>>优质#线路4>>索尼#线路5>>乐视#线路6>>非凡#线路7>>优酷]", "请求头":"手机","免嗅": "0",
+//"线路标题":"🌸+<span>&&</small>[排序:量子>非凡>天空>卧龙>优质>高清>爱坤>海外>乐视>闪电>索尼>无尽>红牛>极速>独家>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>暴风>超清>蓝光>备用>本站>稳定>国内>速播>金鹰]",
 		
 {"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt;md5;69c44556911acb40c53846bd52873fee","wallpaper":"http://www.饭太硬.top/深色壁纸/api.php","sites":[
 //豆瓣評分
@@ -78,7 +78,7 @@
 {"key":"csp_酷云影视3","name":"🚀酷云影视🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/酷云影视.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"csp_秋霞","name":"🚀秋霞🚩🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/秋霞影视.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"csp_传奇影院","name":"🚀传奇🚩🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/传奇影院.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
-{"key":"csp_可可影视","name":"🚀可可🚩🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/可可影视.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+//{"key":"csp_可可影视","name":"🚀可可🚩🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/可可影视.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"csp_传奇影院","name":"🚀传奇🚩🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/传奇影院.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"csp_光年","name":"🚀光年🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/光年.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"csp_XBPQ_金曼","name":"🚀金曼🚩🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/金曼.json","jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CB79A023D795989F42EBF76D64FD7AFA"},
@@ -89,7 +89,7 @@
 {"key":"csp_青苹果影院","name":"🍏青苹果🍏4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/青苹果影院.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"csp_孜然影视","name":"🚀孜然影视🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/孜然影视.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"csp_臭蛋蛋","name":"🚀臭蛋蛋🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/ddys.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
-{"key":"csp_FreeOK","name":"🚀FreeOK🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/FreeOK.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+//{"key":"csp_FreeOK","name":"🚀FreeOK🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/FreeOK.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 
 //{"key":"xb_唐人街影院","name":"🌈唐人街xb🍏❄️","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/xb唐人街.json","jar": "https://raw.githubusercontent.com/s14685/tv/main/js/XBiu0927.jar"},
 //{"key":"xb_auete","name":"🌈xb_auete🍏❄️","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/xb_auete.json","jar": "https://raw.githubusercontent.com/s14685/tv/main/js/XBiu0927.jar"},

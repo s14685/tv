@@ -1,38 +1,30 @@
-//海外看 haiwaikan.tv
-//https://api.haiwaikan.com/v1/vod?ac=detail&t=104&pg=1&limit=20
-//https://api.haiwaikan.com/v1/vod?ac=detail&t=2&wd=功夫乒乓
-//https://haiwaikan.com/index.php/vod/type/id/122.html
-//https://haiwaikan.com/index.php/vod/detail/id/99727.html
-//https://api.haiwaikan.com/v1/vod?ac=search&wd=功夫乒乓
-//https://haiwaikan.tv/vodshow/33-内地--古装-国语-------2024/
-//https://haiwaikan.tv/vodshow/33-----------2024/
-//https://haiwaikan.tv/vodsearch/-------------/?wd=春色寄情人
+//一起看
+//https://m.533851.com/column/68
+//https://m.533851.com/filter?channelId=3&areaId=1&year=2024-2024&channelChildTypeId=8&sortType=2
+//https://m.173647.com/filter?channelId=3&areaId=1&year=2024-2024&channelChildTypeId=8&sortType=2
 
     {
-    "主页url":"https://haiwaikan.tv/",
-    "站名":"海外看资源",
+    "主页url":"https://m.533851.com/",
+    "站名":"一起看",
     "首页":"电视剧",
-    //"请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "请求头":"Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; AspiegelBot)",
     "强制解析":"0",
     "图片代理":"0",
 
-    "二次截取":"class=\"module-items\">&&<div class=\"module-footer\">+<div class=\"module-item\">", // add additional to cater last thumbnail
-    "数组":"<div class=\"module-item-pic\">&&<div class=\"module-item\">[替换:更新至>> #更至>> #&nbsp;>>#<span class=\"slash\">/</span>>><span></span>#]",
-    //"数组":"class=\"module-item\">&&<div class=\"module-item-style video-text\">",
-    //"标题":"title=\"&&\"+🌸+target=\"_blank\">&&</div>[替换:</a>&nbsp;>>️|#]",
-    "标题":"title=\"&&\"",
+    "二次截取":"<div data-v-ba488ea8=\"\" class=\"flex-r-s-s moon-list col-3*>&&<div data-v-c287ce77=\"\" data-v-ba488ea8=\"\" class=\"no-data-box flex-c-c-c+<div data-v-ba488ea8=\"\" class=\"moon-list-item\">", 
+    "数组":"<div data-v-ba488ea8=\"\" class=\"moon-list-item\">&&<div data-v-ba488ea8=\"\" class=\"moon-list-item\">",
+    "标题":"name item-title ohv-ellipsis\">&&</p>",
     "图片":"data-src=\"&&\"",
     "链接":"href=\"&&\"",
-    //"副标题":"<div class=\"module-item-text\">&&</div>+🌸+<div class=\"module-item-caption\"><span>&&</span>[替换:更新至>> #更至>> #</a>&nbsp;>>️ #]",
-    "副标题":"<div class=\"module-item-text\">&&</div>+🌸+target=\"_blank\">&&</div>",
+    "副标题":"rate ml-20\">&&</label>",//[不包含:未知#内详#]
 
     "搜索模式":"1",
-    "搜索url":"https://haiwaikan.tv/vodsearch/-------------/?wd={wd}", //https://haiwaikan.tv/vodsearch/-------------/?wd=春色寄情人
+    "搜索url":"https://m.533851.com/vodsearch/-------------/?wd={wd}",
     //"搜索数组二次截取":"\"list\"*[&&]",
-    "搜索数组":"<i class=\"icon-play\"></i></a>&&<div class=\"video-info-footer\">[替换:<span class=\"slash\">/</span>>><span></span>#]",
+    "搜索数组":"<i class=\"icon-play\"></i></a>&&<h3>",
     "搜索图片":"data-src=\"&&\"",
     "搜索标题":"alt=\"&&\"",
-    "搜索副标题":"🌸+主演：</span><div class=\"video-info-item video-info-actor\">&&<div class=\"video-info-items\">",
+    //"搜索标题":"alt=\"&&\"+href=\"&&\"",
     "搜索链接":"href=\"&&\"", 
 	//https://haiwaikan.tv/voddetail/42987/
 	//立刻播放 https://haiwaikan.tv/vodplay/42987-1-1/
@@ -41,11 +33,10 @@
     "影片年代":"year*>&&</a>",
     "影片地区":"area*>&&</a>",
 	"影片状态":"集数：</span><div class=\"video-info-item\">&&</div>",
-    "导演":"导演：</span>&&</a>+🌸+集数：</span><div class=\"video-info-item\">&&</div>[替换:更新至>> #更新>> #更至>> #]",
-    "主演":"主演：</span>&&</div>[替换:&nbsp;>>#<span class=\"slash\">/</span>>>#]",
+    "导演":"导演：</span>&&</a>",
+    "主演":"主演：</span>&&</div>",
     "简介":"🌸+集数：</span><div class=\"video-info-item\">&&</div>+🌸+<p class=\"sqjj_a\" style=\"display: none;\">&&<span",
 
-    //"线路二次截取": "",
     "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #]",
     "线路标题":"🌸+<span>&&</small>",
 
@@ -57,8 +48,9 @@
     //"播放链接":"href=\"&&\"",
     //"跳转播放链接":"\"url\"*\"&&\"",
 
-    "分类url":"https://haiwaikan.tv/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}/",
-    "分类":"国产剧$33#韩剧$32#国产动漫$50#电影$1#电视剧$2#动漫$4#综艺$3#体育$54#纪录片$55#",
+    "分类url":"https://m.533851.com/filter?channelId={cateId}&areaId={area}&year={year}-{year}&channelChildTypeId={class}&sortType={by}",
+	////https://m.173647.com/filter?channelId={cateId}&areaId={area}&year={year}-{year}&channelChildTypeId={class}&sortType={by}
+    "分类":"动漫$8#电视剧$3#高清韩剧$56#电影$2#综艺$10#短剧$50#体育$5#",
 
     "筛选":{
     "34":[

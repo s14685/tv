@@ -171,1473 +171,232 @@ v10.iqiyioss.com
 
 
 //
-{
-  "code": 1,
-  "msg": "数据列表",
-  "page": 1,
-  "pagecount": 2748,
-  "limit": 20,
-  "total": 54948,
-  "list": [
-    {
-      "vod_id": "52051",
-      "vod_name": "种地吧第二季",
-      "type_id": "62",
-      "type_name": "大陆综艺",
-      "vod_en": "zhongdibadierji",
-      
-"vod_time": "2024-04-30 21:55:40",
-      "vod_remarks": "更新至20240428期",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "54253",
-      "vod_name": "人生纪念册",
-      "type_id": "17",
-      "type_name": "泰国剧",
-      "vod_en": "renshengjiniance",
-      
-"vod_time": "2024-04-30 21:48:33",
-      "vod_remarks": "更新至07集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "54572",
-      "vod_name": "群星闪耀时",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_en": "qunxingshanyaoshi",
-      
-"vod_time": "2024-04-30 21:44:05",
-      "vod_remarks": "全34集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "54181",
-      "vod_name": "背着善在跑吧",
-      "type_id": "14",
-      "type_name": "韩国剧",
-      "vod_en": "beizhoushanzaipaoba",
-      
-"vod_time": "2024-04-30 21:41:43",
-      "vod_remarks": "更新至08集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "53739",
-      "vod_name": "逆天奇案2粤语",
-      "type_id": "16",
-      "type_name": "香港剧",
-      "vod_en": "nitianqian2yueyu",
-      
-"vod_time": "2024-04-30 21:31:55",
-      "vod_remarks": "更新至22集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "53740",
-      "vod_name": "逆天奇案2国语",
-      "type_id": "16",
-      "type_name": "香港剧",
-      "vod_en": "nitianqian2guoyu",
-      
-"vod_time": "2024-04-30 21:23:29",
-      "vod_remarks": "更新至22集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "54842",
-      "vod_name": "春色寄情人",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_en": "chunsejiqingren",
-      
-"vod_time": "2024-04-30 21:18:58",
-      "vod_remarks": "全21集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "54224",
-      "vod_name": "城中之城",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_en": "chengzhongzhicheng",
-      
-"vod_time": "2024-04-30 21:02:39",
-      "vod_remarks": "全40集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "54128",
-      "vod_name": "少年间谍第三季",
-      "type_id": "15",
-      "type_name": "欧美剧",
-      "vod_en": "shaonianjiandiedisanji",
-      
-"vod_time": "2024-04-30 20:49:19",
-      "vod_remarks": "更新至07集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "51789",
-      "vod_name": "海军罪案调查处：夏威夷第三季",
-      "type_id": "15",
-      "type_name": "欧美剧",
-      "vod_en": "haijunzuiandiaochachuxiaweiyidisanji",
-      
-"vod_time": "2024-04-30 20:48:28",
-      "vod_remarks": "更新至09集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "6199",
-      "vod_name": "爱·回家之开心速递",
-      "type_id": "16",
-      "type_name": "香港剧",
-      "vod_en": "aihuijiazhikaixinsudi",
-      
-"vod_time": "2024-04-30 20:40:20",
-      "vod_remarks": "更新至2269集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "55130",
-      "vod_name": "我的少年时代",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_en": "wodeshaonianshidai",
-      
-"vod_time": "2024-04-30 20:11:14",
-      "vod_remarks": "更新至12集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "40967",
-      "vod_name": "遮天",
-      "type_id": "66",
-      "type_name": "国产动漫",
-      "vod_en": "zhetian",
-      
-"vod_time": "2024-04-30 20:04:35",
-      "vod_remarks": "更新至55集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "44399",
-      "vod_name": "西行纪第五季",
-      "type_id": "66",
-      "type_name": "国产动漫",
-      "vod_en": "xixingjidiwuji",
-      
-"vod_time": "2024-04-30 20:03:33",
-      "vod_remarks": "更新至36集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "55038",
-      "vod_name": "微暗之火",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_en": "weianzhihuo",
-      
-"vod_time": "2024-04-30 19:46:46",
-      "vod_remarks": "更新至09集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "54186",
-      "vod_name": "366日",
-      "type_id": "18",
-      "type_name": "日本剧",
-      "vod_en": "renshengjiniance",
-      
-"vod_time": "2024-04-30 19:46:09",
-      "vod_remarks": "更新至04集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "51786",
-      "vod_name": "东邻西舍第六季",
-      "type_id": "15",
-      "type_name": "欧美剧",
-      "vod_en": "donglinxishediliuji",
-      
-"vod_time": "2024-04-30 19:43:44",
-      "vod_remarks": "更新至09集",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "55129",
-      "vod_name": "维和防暴队",
-      "type_id": "5",
-      "type_name": "动作片",
-      "vod_en": "weihefangbaodui",
-      
-"vod_time": "2024-04-30 19:33:20",
-      "vod_remarks": "独家特辑",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "55128",
-      "vod_name": "末路狂花钱",
-      "type_id": "6",
-      "type_name": "喜剧片",
-      "vod_en": "molukuanghuaqian",
-      
-"vod_time": "2024-04-30 19:32:02",
-      "vod_remarks": "独家特辑",
-      "vod_play_from": "zykyun,1080zyk"
-    },
-    {
-      "vod_id": "54840",
-      "vod_name": "哈尔滨一九四四",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_en": "haerbinyijiusisi",
-      
-"vod_time": "2024-04-30 19:28:06",
-      "vod_remarks": "更新至22集",
-      "vod_play_from": "zykyun,1080zyk"
-    }
-  ],
-  "class": [
-    // {      "type_id": "1",      "type_name": "电影"    },
-    // {      "type_id": "5",      "type_name": "动作片"    },
-    // {      "type_id": "6",      "type_name": "喜剧片"    },
-    // {      "type_id": "7",      "type_name": "爱情片"    },
-    // {      "type_id": "8",      "type_name": "科幻片"    },
-    // {      "type_id": "9",      "type_name": "恐怖片"    },
-    // {      "type_id": "10",      "type_name": "剧情片"    },
-    // {      "type_id": "11",      "type_name": "战争片"    },	
-    // {      "type_id": "41",      "type_name": "动画片"    },
-    // {      "type_id": "61",      "type_name": "倫理片"    },	
-
-	
-    // {      "type_id": "3",      "type_name": "综艺"    },
-    // {      "type_id": "62",      "type_name": "大陆综艺"    },
-    // {      "type_id": "63",      "type_name": "港台综艺"    },
-    // {      "type_id": "64",      "type_name": "日韩综艺"    },
-    // {      "type_id": "65",      "type_name": "欧美综艺"    },
-	// {      "type_id": "78",      "type_name": "搞笑"    },
-    // {      "type_id": "79",      "type_name": "音乐"    },
-    // {      "type_id": "80",      "type_name": "影视"    },
-    // {      "type_id": "81",      "type_name": "汽车"    },
-	
-    // {      "type_id": "83",      "type_name": "短剧大全"    }
-	
-    // {      "type_id": "4",      "type_name": "动漫"    },
-    // {      "type_id": "66",      "type_name": "国产动漫"    },
-    // {      "type_id": "67",      "type_name": "日韩动漫"    },
-    // {      "type_id": "68",      "type_name": "欧美动漫"    },
-    // {      "type_id": "69",      "type_name": "港台动漫"    },
-    // {      "type_id": "70",      "type_name": "海外动漫"    },
-
-    //{      "type_id": "2",      "type_name": "连续剧"    },
-    // {      "type_id": "12",      "type_name": "国产剧12"    },
-    // {      "type_id": "13",      "type_name": "台湾剧13"    },
-    // {      "type_id": "14",      "type_name": "韩国剧14"    },
-    // {      "type_id": "15",      "type_name": "欧美剧15"    },
-    // {      "type_id": "16",      "type_name": "香港剧16"    },
-    // {      "type_id": "17",      "type_name": "泰国剧17"    },
-    // {      "type_id": "18",      "type_name": "日本剧18"    },
-    // {      "type_id": "19",      "type_name": "福利19"    },
-    // {      "type_id": "20",      "type_name": "记录片20"    },
-    // {      "type_id": "54",      "type_name": "海外剧54"    },
-
-
-
-
-  ]
-}
-
-//
-<div class="module-item">
-	<div class="module-item-cover">
-		<div class="module-item-pic">
-			<a href="/voddetail/goushengkuaipao.html" title="狗剩快跑">
-				<i class="icon-play"></i>
-			</a>
-			<img class="lazy lazyloaded" data-src="https://ok.zuidapic.com/upload/vod/20240126-1/e0d18578e9090c5f6dc72de43dfb41a4.jpg" src="https://ok.zuidapic.com/upload/vod/20240126-1/e0d18578e9090c5f6dc72de43dfb41a4.jpg" alt="狗剩快跑">
-				<div class="loading"></div>
-			</div>
-			<div class="module-item-caption"><span>2024</span>
-				<span class="video-class">国产剧</span>
-				<span>中国大陆</span>
-			</div>
-			<div class="module-item-ru">
-				<span class="vip">独家推荐</span>
-			</div>
-			<div class="module-item-content">
-				<div class="module-item-style video-name">
-					<a href="/voddetail/goushengkuaipao.html" title="狗剩快跑">狗剩快跑</a>
-				</div>
-				<div class="module-item-style video-tag">
-					<a href="/vodsearch/-%E8%92%8B%E9%BE%99------------.html" target="_blank">蒋龙</a>&nbsp;
-					<a href="/vodsearch/-%E5%8F%B2%E7%AD%96------------.html" target="_blank">史策</a>&nbsp;
-					<a href="/vodsearch/-%E7%A7%A6%E6%B5%B7%E7%92%90------------.html" target="_blank">秦海璐</a>&nbsp;
-					<a href="/vodsearch/-%E5%B0%A4%E5%8B%87%E6%99%BA------------.html" target="_blank">尤勇智</a>&nbsp;
-					<a href="/vodsearch/-%E8%92%8B%E6%98%93------------.html" target="_blank">蒋易</a>&nbsp;
-					<a href="/vodsearch/-%E7%8E%8B%E5%92%8C------------.html" target="_blank">王和</a>&nbsp; 
-				</div>
-				<div class="module-item-style video-text">狗剩（蒋龙 饰）自小被王大举（李梦男 饰）收养，却被养父嫌弃。为了赚钱娶媳妇不得不替傻弟弟当兵，但在从军的过程中狗剩遭到同村情敌杨三（蒋易 饰）设计陷害，又经历了许多光怪陆离、令人啼笑皆非的遭遇。最终狗剩和宋玉桃（史策 饰）等人一起加入了抗日队伍，走上了革命道路。
-该剧改编自电影《我不是王毛》。</div>
-			</div>
-		</div>
-		<div class="module-item-titlebox">
-			<a href="/voddetail/goushengkuaipao.html" class="module-item-title" title="狗剩快跑">狗剩快跑</a>
-		</div>
-		<div class="module-item-text">已完结</div>
-	</div>
-
-//
-
-<div class="vodplayinfo">
-<div style="padding-left:10px;word-break: break-all; word-wrap:break-word;" class="playlist">
-<div id="play_1">
-<h3>播放类型：<span class="suf">zykyun</span></h3><ul>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-1.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/share/6e542b35ae6fdffd3b5354bbf0f8cf2d" checked="">第01集$https://yzzy1.play-cdn1.com/share/6e542b35ae6fdffd3b5354bbf0f8cf2d
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第01集 https://yzzy1.play-cdn1.com/share/6e542b35ae6fdffd3b5354bbf0f8cf2d&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-2.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/share/240d037d4b3f1297e1bd4e9128a94506" checked="">第02集$https://yzzy1.play-cdn1.com/share/240d037d4b3f1297e1bd4e9128a94506
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第02集 https://yzzy1.play-cdn1.com/share/240d037d4b3f1297e1bd4e9128a94506&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-3.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/share/b42ec7cfa84ce62386d46f8ae12a9b56" checked="">第03集$https://yzzy1.play-cdn1.com/share/b42ec7cfa84ce62386d46f8ae12a9b56
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第03集 https://yzzy1.play-cdn1.com/share/b42ec7cfa84ce62386d46f8ae12a9b56&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-4.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/share/63d37ad90673f036d66e310f2b5cc768" checked="">第04集$https://yzzy.play-cdn21.com/share/63d37ad90673f036d66e310f2b5cc768
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第04集 https://yzzy.play-cdn21.com/share/63d37ad90673f036d66e310f2b5cc768&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-5.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/share/b7e06877d36a4adf8619d79a01233983" checked="">第05集$https://yzzy.play-cdn21.com/share/b7e06877d36a4adf8619d79a01233983
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第05集 https://yzzy.play-cdn21.com/share/b7e06877d36a4adf8619d79a01233983&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-6.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/share/59c53d894d899733cf74c51da615234c" checked="">第06集$https://yzzy.play-cdn21.com/share/59c53d894d899733cf74c51da615234c
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第06集 https://yzzy.play-cdn21.com/share/59c53d894d899733cf74c51da615234c&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-7.html">
-<input type="checkbox" name="copy_sel" value="https://tudou.play-cdn23.com/share/133a1d4c028736d9023d335f06594a0e" checked="">第07集$https://tudou.play-cdn23.com/share/133a1d4c028736d9023d335f06594a0e
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第07集 https://tudou.play-cdn23.com/share/133a1d4c028736d9023d335f06594a0e&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-8.html">
-<input type="checkbox" name="copy_sel" value="https://tudou.play-cdn23.com/share/cfa83ab5876fb5b464805d6e554dd0d4" checked="">第08集$https://tudou.play-cdn23.com/share/cfa83ab5876fb5b464805d6e554dd0d4
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第08集 https://tudou.play-cdn23.com/share/cfa83ab5876fb5b464805d6e554dd0d4&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-9.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/share/fdd68c10c38eb2811cbf1e13bc95b5a1" checked="">第09集$https://yzzy1.play-cdn1.com/share/fdd68c10c38eb2811cbf1e13bc95b5a1
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第09集 https://yzzy1.play-cdn1.com/share/fdd68c10c38eb2811cbf1e13bc95b5a1&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-10.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/share/c0de112eab191312c2807dae4ba482b5" checked="">第10集$https://yzzy1.play-cdn1.com/share/c0de112eab191312c2807dae4ba482b5
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第10集 https://yzzy1.play-cdn1.com/share/c0de112eab191312c2807dae4ba482b5&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-11.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/share/74b846eb2dcd22fe703bebcd75a3aff1" checked="">第11集$https://yzzy.play-cdn21.com/share/74b846eb2dcd22fe703bebcd75a3aff1
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第11集 https://yzzy.play-cdn21.com/share/74b846eb2dcd22fe703bebcd75a3aff1&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-12.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/share/a16adb956f28c621d4e83cb0ec9616cf" checked="">第12集$https://yzzy.play-cdn21.com/share/a16adb956f28c621d4e83cb0ec9616cf
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第12集 https://yzzy.play-cdn21.com/share/a16adb956f28c621d4e83cb0ec9616cf&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-13.html">
-<input type="checkbox" name="copy_sel" value="https://tudou.play-cdn23.com/share/e99ce0cdd4f46110c2497ea4f5ead1f1" checked="">第13集$https://tudou.play-cdn23.com/share/e99ce0cdd4f46110c2497ea4f5ead1f1
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第13集 https://tudou.play-cdn23.com/share/e99ce0cdd4f46110c2497ea4f5ead1f1&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-14.html">
-<input type="checkbox" name="copy_sel" value="https://tudou.play-cdn23.com/share/8c0f24a304f10044bcb756fd2ab2370f" checked="">第14集$https://tudou.play-cdn23.com/share/8c0f24a304f10044bcb756fd2ab2370f
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第14集 https://tudou.play-cdn23.com/share/8c0f24a304f10044bcb756fd2ab2370f&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-15.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/share/f98ed89220998643e9ae4fd4d9ebc981" checked="">第15集$https://yzzy.play-cdn21.com/share/f98ed89220998643e9ae4fd4d9ebc981
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第15集 https://yzzy.play-cdn21.com/share/f98ed89220998643e9ae4fd4d9ebc981&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-16.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/share/66c3f86ac905496e4ab21a2bc5fb33f1" checked="">第16集$https://yzzy.play-cdn21.com/share/66c3f86ac905496e4ab21a2bc5fb33f1
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第16集 https://yzzy.play-cdn21.com/share/66c3f86ac905496e4ab21a2bc5fb33f1&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-17.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/share/7eb38c169d0faad77374895a8bdc24c5" checked="">第17集$https://yzzy.play-cdn21.com/share/7eb38c169d0faad77374895a8bdc24c5
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第17集 https://yzzy.play-cdn21.com/share/7eb38c169d0faad77374895a8bdc24c5&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-18.html">
-<input type="checkbox" name="copy_sel" value="https://tudou.play-cdn23.com/share/5b61616b138596dfa7c219db523f73a6" checked="">第18集$https://tudou.play-cdn23.com/share/5b61616b138596dfa7c219db523f73a6
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第18集 https://tudou.play-cdn23.com/share/5b61616b138596dfa7c219db523f73a6&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-19.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn20.com/share/072ae41a990df264e5508c75e4cbced0" checked="">第19集$https://yzzy1.play-cdn20.com/share/072ae41a990df264e5508c75e4cbced0
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第19集 https://yzzy1.play-cdn20.com/share/072ae41a990df264e5508c75e4cbced0&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-20.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/share/5ae6ade6f0e2863103a7e19a1abe18d2" checked="">第20集$https://yzzy1.play-cdn1.com/share/5ae6ade6f0e2863103a7e19a1abe18d2
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第20集 https://yzzy1.play-cdn1.com/share/5ae6ade6f0e2863103a7e19a1abe18d2&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-1-num-21.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/share/b5257afcdc69a68eda5bbe0556674ce0" checked="">第21集$https://yzzy1.play-cdn1.com/share/b5257afcdc69a68eda5bbe0556674ce0
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 zykyun 第21集 https://yzzy1.play-cdn1.com/share/b5257afcdc69a68eda5bbe0556674ce0&quot;);return false;">我要报错</a>
-</li>
-</ul>
-<input type="checkbox" name="checkbox" value="checkbox" onclick="checkAllSlect('play_1',this.checked)" checked="">全选 
-
-<input type="button" name="Submit" value="复制链接" class="copy1">&nbsp; 
-<input class="copy2" type="button" name="Submit" value="复制名称$链接">&nbsp; 
-<input type="button" name="Submit" class="copy3" value="复制名称$链接$后缀">
+<div class="module-item-box">
+	// <a href="/vodshow/2.html">全部</a>
+	// <a class="active" href="/vodshow/guochanju.html" title="国产剧">国产剧</a>
+	// <a href="/vodshow/oumeiju.html" title="欧美剧">欧美剧</a>
+	// <a href="/vodshow/riju.html" title="日剧">日剧</a>
+	// <a href="/vodshow/hanju.html" title="韩剧">韩剧</a>
+	// <a href="/vodshow/gangju.html" title="港剧">港剧</a>
+	// <a href="/vodshow/taiju.html" title="台剧">台剧</a>
+	// <a href="/vodshow/taiju.html" title="泰剧">泰剧</a>
+	// <a href="/vodshow/haiwaiju.html" title="海外剧">海外剧</a>
+	// <a href="/vodshow/shuangwenduanju.html" title="爽文短剧">爽文短剧</a>
 </div>
-<div id="play_2">
-<h3>播放类型：
-<span class="suf">1080zyk</span>
-</h3>
-<ul>
-<li>
-<a href="/?m=vod-play-id-54842-src-2-num-1.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/20240422/44218_7ba7e5d0/index.m3u8" checked="">第01集$https://yzzy1.play-cdn1.com/20240422/44218_7ba7e5d0/index.m3u8
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第01集 https://yzzy1.play-cdn1.com/20240422/44218_7ba7e5d0/index.m3u8&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-2-num-2.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/20240422/44217_406b95c2/index.m3u8" checked="">第02集$https://yzzy1.play-cdn1.com/20240422/44217_406b95c2/index.m3u8
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第02集 https://yzzy1.play-cdn1.com/20240422/44217_406b95c2/index.m3u8&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-2-num-3.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/20240422/44216_8621eedb/index.m3u8" checked="">第03集$https://yzzy1.play-cdn1.com/20240422/44216_8621eedb/index.m3u8
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第03集 https://yzzy1.play-cdn1.com/20240422/44216_8621eedb/index.m3u8&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-2-num-4.html">
-<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/20240423/34692_1c3ab606/index.m3u8" checked="">第04集$https://yzzy.play-cdn21.com/20240423/34692_1c3ab606/index.m3u8
-</a>
-<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第04集 https://yzzy.play-cdn21.com/20240423/34692_1c3ab606/index.m3u8&quot;);return false;">我要报错</a>
-</li>
-<li>
-<a href="/?m=vod-play-id-54842-src-2-num-5.html">
-	<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/20240424/34798_132ec310/index.m3u8" checked="">第05集$https://yzzy.play-cdn21.com/20240424/34798_132ec310/index.m3u8
+//
+<a href="/voddetail-113578.html" title="新生" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至9集</div>
+		<div class="module-item-pic">
+			<img class="lazy lazyload" data-original="https://www.imgikzy.com/upload/vod/20240506-3/754436eed43d850c81a4b0572f133fe7.jpg" 
+			alt="新生" referrerpolicy="no-referrer" src="https://www.imgikzy.com/upload/vod/20240506-3/754436eed43d850c81a4b0572f133fe7.jpg" style="">
+			</div>
+		</div>
+		<div class="module-poster-item-info">
+			<div class="module-poster-item-title">新生</div>
+		</div>
 	</a>
-	<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第05集 https://yzzy.play-cdn21.com/20240424/34798_132ec310/index.m3u8&quot;);return false;">我要报错</a>
-</li>
-<li>
-	<a href="/?m=vod-play-id-54842-src-2-num-6.html">
-		<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/20240424/34797_846fcfbd/index.m3u8" checked="">第06集$https://yzzy.play-cdn21.com/20240424/34797_846fcfbd/index.m3u8
-		</a>
-		<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第06集 https://yzzy.play-cdn21.com/20240424/34797_846fcfbd/index.m3u8&quot;);return false;">我要报错</a>
-	</li>
-	<li>
-		<a href="/?m=vod-play-id-54842-src-2-num-7.html">
-			<input type="checkbox" name="copy_sel" value="https://tudou.play-cdn23.com/20240425/12529_0bf36b7f/index.m3u8" checked="">第07集$https://tudou.play-cdn23.com/20240425/12529_0bf36b7f/index.m3u8
+//
+<div class="module-info-main">
+	<div class="module-info-heading">
+		<h1>哈尔滨一九四四</h1>
+		<div class="module-info-tag">
+			<div class="module-info-tag-link">
+				<a title="2024" href="/vodshow/23/year/2024.html">2024</a>
+			</div>
+			<div class="module-info-tag-link">
+				<a title="中国大陆" href="/vodshow/23/area/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86.html">中国大陆</a>
+			</div>
+			<div class="module-info-tag-link">
+				<a href="/vodshow/23/class/%E5%89%A7%E6%83%85.html">剧情</a>
+				<span class="slash">/</span>
+				<a href="/vodshow/23/class/%E6%82%AC%E7%96%91.html">悬疑</a>
+				<span class="slash">/</span>
+				<a href="/vodshow/23/class/%E6%88%98%E4%BA%89.html">战争</a>
+				<span class="slash">/</span>
+				<a href="/vodshow/23/class/%E5%9B%BD%E4%BA%A7.html">国产</a>
+				<span class="slash">/</span>
+			</div>
+		</div>
+		<div class="module-mobile-play">
+			<a href="/vodplay/111466-2-1.html" class="main-btn" title="立刻播放哈尔滨一九四四">
+				<i class="icon-play"></i>立即播放
 			</a>
-			<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第07集 https://tudou.play-cdn23.com/20240425/12529_0bf36b7f/index.m3u8&quot;);return false;">我要报错</a>
-		</li>
-		<li>
-			<a href="/?m=vod-play-id-54842-src-2-num-8.html">
-				<input type="checkbox" name="copy_sel" value="https://tudou.play-cdn23.com/20240425/12528_efdcc0c8/index.m3u8" checked="">第08集$https://tudou.play-cdn23.com/20240425/12528_efdcc0c8/index.m3u8
+			<a href="javascript:void(0);" data-type="2" data-mid="1" data-id="111466" class="mac_ulog btn-large btn-collect">
+				<i class="icon-shoucang"></i>收藏
+			</a>
+		</div>
+	</div>
+	<div class="module-info-content">
+		<div class="module-info-items">
+			<div class="module-info-item module-info-introduction">
+				<div class="module-info-introduction-content">
+					<p>1944年伪满统治下的哈尔滨，伪装成铁路巡警的地下党宋卓文（秦昊饰），被特务科科长关雪（杨幂饰）误认为自己的救命恩人——其实是卓文失散多年的双胞胎哥哥宋卓武（秦昊饰）。卓文为查清关东军课长浅野大吾来哈尔滨的最高任务，将计就计利用关雪进入特务科，可是宋卓武却突然出现，使卓文陷入始料未及的困境。关雪冷血多疑，心狠毒辣，卓武生性冲动，经常无意间破坏卓文的行动，在上级的安排下，才使得两兄弟相互配合，彼此掩护，经历数次的试探，避开特务科内部同事的明争暗斗，终于取得关雪和日方高官的信任。在这短短一年的时间之内，地下党人们经历千辛万苦查清并阻止了日军和苏联共谋的秘密行动，揪出潜伏在我党内部的伪满特务，迎来战争最后的胜利。</p>
+				</div>
+			</div>
+			<div class="module-info-item">
+				<span class="module-info-item-title">导演：</span><div class="module-info-item-content">
+					<a href="/vodsearch/director/%E5%BC%A0%E9%BB%8E.html" target="_blank">张黎</a>
+					<span class="slash">/</span>
+				</div>
+			</div>
+			<div class="module-info-item">
+				<span class="module-info-item-title">编剧：</span>
+				<div class="module-info-item-content">
+					<a href="/vodsearch/writer/%E7%8E%8B%E5%B0%8F%E6%9E%AA.html" target="_blank">王小枪</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/writer/%E5%88%98%E5%A4%A9%E5%A3%AE.html" target="_blank">刘天壮</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/writer/%E5%88%98%E5%8A%B2%E9%A3%9E.html" target="_blank">刘劲飞</a>
+					<span class="slash">/</span>
+				</div>
+			</div>
+			<div class="module-info-item">
+				<span class="module-info-item-title">主演：</span><div class="module-info-item-content">
+					<a href="/vodsearch/actor/%E7%A7%A6%E6%98%8A.html" target="_blank">秦昊</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E6%9D%A8%E5%B9%82.html" target="_blank">杨幂</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E5%BC%A0%E5%AD%90%E8%B4%A4.html" target="_blank">张子贤</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E6%A0%BE%E5%85%83%E6%99%96.html" target="_blank">栾元晖</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E7%8E%8B%E9%B9%A4%E6%B6%A6.html" target="_blank">王鹤润</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E5%88%98%E5%AE%87%E8%BD%A9.html" target="_blank">刘宇轩</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E6%9E%97%E5%AE%B6%E5%B7%9D.html" target="_blank">林家川</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E8%92%8B%E5%A5%87%E6%98%8E.html" target="_blank">蒋奇明</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E5%86%AF%E5%85%B5.html" target="_blank">冯兵</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E6%9D%8E%E4%B8%9C%E6%81%92.html" target="_blank">李东恒</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E8%B5%B5%E6%BB%A8.html" target="_blank">赵滨</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E8%91%A3%E7%95%85.html" target="_blank">董畅</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E5%BC%A0%E5%9B%BD%E5%BC%BA.html" target="_blank">张国强</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E6%B5%A9%E6%AD%8C.html" target="_blank">浩歌</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E6%B2%99%E5%AE%9D%E4%BA%AE.html" target="_blank">沙宝亮</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E7%94%B0%E5%B0%8F%E6%B4%81.html" target="_blank">田小洁</a>
+					<span class="slash">/</span>
+					<a href="/vodsearch/actor/%E6%99%AF%E5%B2%97%E5%B1%B1.html" target="_blank">景岗山</a>
+					<span class="slash">/</span>
+				</div>
+			</div>
+			<div class="module-info-item">
+				<span class="module-info-item-title">上映：</span>
+				<div class="module-info-item-content">2024-04-21(中国大陆)</div>
+			</div>
+			<div class="module-info-item">
+				<span class="module-info-item-title">片长：</span><div class="module-info-item-content">每集45分钟</div>
+			</div>
+			<div class="module-info-item">
+				<span class="module-info-item-title">更新：</span>
+				<div class="module-info-item-content">2024-05-15</div>
+			</div>
+			<div class="module-info-item">
+				<span class="module-info-item-title">集数：</span>
+				<div class="module-info-item-content">40集全</div>
+			</div>
+			<div class="module-info-item" style="color:#007711">
+				<span class="module-info-item-title">豆瓣：</span>
+				<a href="https://search.douban.com/movie/subject_search?search_text=哈尔滨一九四四" target="_blank" title="到豆瓣页面查看" rel="nofollow">
+					<font color="#007711">哈尔滨一九四四</font>
 				</a>
-				<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第08集 https://tudou.play-cdn23.com/20240425/12528_efdcc0c8/index.m3u8&quot;);return false;">我要报错</a>
-			</li>
-			<li>
-				<a href="/?m=vod-play-id-54842-src-2-num-9.html">
-					<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/20240426/45642_6d50734b/index.m3u8" checked="">第09集$https://yzzy1.play-cdn1.com/20240426/45642_6d50734b/index.m3u8
+			</div>
+		</div>
+		<div class="module-info-footer">
+			<div class="module-info-play">
+				<a href="/vodplay/111466-2-1.html" class="main-btn" title="立刻播放哈尔滨一九四四">
+					<i class="icon-play"></i>立即播放 
+				</a>
+				<a href="javascript:void(0);" data-type="2" data-mid="1" data-id="111466" class="mac_ulog btn-large btn-collect">
+					<i class="icon-shoucang"></i>收藏
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+//
+<div class="module-items module-card-items">
+	<div class="module-card-item module-item">
+		<div class="module-card-item-class">电视剧</div>
+		<a href="/voddetail-109959.html" class="module-card-item-poster">
+			<div class="module-item-cover">
+				<div class="module-item-note">40集全</div>
+				<div class="module-item-pic">
+					<img class="lazy lazyload" data-original="https://www.imgikzy.com/upload/vod/20240402-10/f09d51a278f6243798c1773ed827830e.jpg" 
+					alt="惜花芷" referrerpolicy="no-referrer" src="https://www.imgikzy.com/upload/vod/20240402-10/f09d51a278f6243798c1773ed827830e.jpg" style="">
+					</div>
+				</div>
+			</a>
+			<div class="module-card-item-info">
+				<div class="module-card-item-title">
+					<a href="/voddetail-109959.html">
+						<strong>惜花芷</strong>
 					</a>
-					<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第09集 https://yzzy1.play-cdn1.com/20240426/45642_6d50734b/index.m3u8&quot;);return false;">我要报错</a>
-				</li>
-				<li>
-					<a href="/?m=vod-play-id-54842-src-2-num-10.html">
-						<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/20240426/45641_78c3b202/index.m3u8" checked="">第10集$https://yzzy1.play-cdn1.com/20240426/45641_78c3b202/index.m3u8
-						</a>
-						<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第10集 https://yzzy1.play-cdn1.com/20240426/45641_78c3b202/index.m3u8&quot;);return false;">我要报错</a>
-					</li>
-					<li>
-						<a href="/?m=vod-play-id-54842-src-2-num-11.html">
-							<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/20240427/34990_25981642/index.m3u8" checked="">第11集$https://yzzy.play-cdn21.com/20240427/34990_25981642/index.m3u8
-							</a>
-							<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第11集 https://yzzy.play-cdn21.com/20240427/34990_25981642/index.m3u8&quot;);return false;">我要报错</a>
-						</li>
-						<li>
-							<a href="/?m=vod-play-id-54842-src-2-num-12.html">
-								<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/20240427/34989_7da71a83/index.m3u8" checked="">第12集$https://yzzy.play-cdn21.com/20240427/34989_7da71a83/index.m3u8
-								</a>
-								<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第12集 https://yzzy.play-cdn21.com/20240427/34989_7da71a83/index.m3u8&quot;);return false;">我要报错</a>
-							</li>
-							<li>
-								<a href="/?m=vod-play-id-54842-src-2-num-13.html">
-									<input type="checkbox" name="copy_sel" value="https://tudou.play-cdn23.com/20240428/12678_363b191b/index.m3u8" checked="">第13集$https://tudou.play-cdn23.com/20240428/12678_363b191b/index.m3u8
-									</a>
-									<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第13集 https://tudou.play-cdn23.com/20240428/12678_363b191b/index.m3u8&quot;);return false;">我要报错</a>
-								</li>
-								<li>
-									<a href="/?m=vod-play-id-54842-src-2-num-14.html">
-										<input type="checkbox" name="copy_sel" value="https://tudou.play-cdn23.com/20240428/12677_c646ed22/index.m3u8" checked="">第14集$https://tudou.play-cdn23.com/20240428/12677_c646ed22/index.m3u8
-										</a>
-										<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第14集 https://tudou.play-cdn23.com/20240428/12677_c646ed22/index.m3u8&quot;);return false;">我要报错</a>
-									</li>
-									<li>
-										<a href="/?m=vod-play-id-54842-src-2-num-15.html">
-											<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/20240429/35131_a89477e6/index.m3u8" checked="">第15集$https://yzzy.play-cdn21.com/20240429/35131_a89477e6/index.m3u8
-											</a>
-											<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第15集 https://yzzy.play-cdn21.com/20240429/35131_a89477e6/index.m3u8&quot;);return false;">我要报错</a>
-										</li>
-										<li>
-											<a href="/?m=vod-play-id-54842-src-2-num-16.html">
-												<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/20240429/35130_2f860e8e/index.m3u8" checked="">第16集$https://yzzy.play-cdn21.com/20240429/35130_2f860e8e/index.m3u8
-												</a>
-												<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第16集 https://yzzy.play-cdn21.com/20240429/35130_2f860e8e/index.m3u8&quot;);return false;">我要报错</a>
-											</li>
-											<li>
-												<a href="/?m=vod-play-id-54842-src-2-num-17.html">
-													<input type="checkbox" name="copy_sel" value="https://yzzy.play-cdn21.com/20240430/35247_9704c54a/index.m3u8" checked="">第17集$https://yzzy.play-cdn21.com/20240430/35247_9704c54a/index.m3u8
-													</a>
-													<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第17集 https://yzzy.play-cdn21.com/20240430/35247_9704c54a/index.m3u8&quot;);return false;">我要报错</a>
-												</li>
-												<li>
-													<a href="/?m=vod-play-id-54842-src-2-num-18.html">
-														<input type="checkbox" name="copy_sel" value="https://tudou.play-cdn23.com/20240430/12757_7b3e39f2/index.m3u8" checked="">第18集$https://tudou.play-cdn23.com/20240430/12757_7b3e39f2/index.m3u8
-														</a>
-														<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第18集 https://tudou.play-cdn23.com/20240430/12757_7b3e39f2/index.m3u8&quot;);return false;">我要报错</a>
-													</li>
-													<li>
-														<a href="/?m=vod-play-id-54842-src-2-num-19.html">
-															<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn20.com/20240430/46672_782f8c45/index.m3u8" checked="">第19集$https://yzzy1.play-cdn20.com/20240430/46672_782f8c45/index.m3u8
-															</a>
-															<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第19集 https://yzzy1.play-cdn20.com/20240430/46672_782f8c45/index.m3u8&quot;);return false;">我要报错</a>
-														</li>
-														<li>
-															<a href="/?m=vod-play-id-54842-src-2-num-20.html">
-																<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/20240430/47303_d648f638/index.m3u8" checked="">第20集$https://yzzy1.play-cdn1.com/20240430/47303_d648f638/index.m3u8
-																</a>
-																<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第20集 https://yzzy1.play-cdn1.com/20240430/47303_d648f638/index.m3u8&quot;);return false;">我要报错</a>
-															</li>
-															<li>
-																<a href="/?m=vod-play-id-54842-src-2-num-21.html">
-																	<input type="checkbox" name="copy_sel" value="https://yzzy1.play-cdn1.com/20240430/47304_707ee537/index.m3u8" checked="">第21集$https://yzzy1.play-cdn1.com/20240430/47304_707ee537/index.m3u8
-																	</a>
-																	<a target="_self" href="javascript:void(0)" onclick="MAC.Error(&quot;vod&quot;,&quot;54842&quot;,&quot;春色寄情人 1080zyk 第21集 https://yzzy1.play-cdn1.com/20240430/47304_707ee537/index.m3u8&quot;);return false;">我要报错</a>
-																</li>
-															</ul>
-															<input type="checkbox" name="checkbox" value="checkbox" onclick="checkAllSlect('play_2',this.checked)" checked="">全选 
-
-																<input type="button" name="Submit" value="复制链接" class="copy1">&nbsp; 
-																	<input class="copy2" type="button" name="Submit" value="复制名称$链接">&nbsp; 
-																		<input type="button" name="Submit" class="copy3" value="复制名称$链接$后缀">
-																		</div>
-																	</div>
-																</div>
-//
-{
-  "code": 1,
-  "msg": "数据列表",
-  "page": 1,
-  "pagecount": 250,
-  "limit": 20,
-  "total": 4989,
-  "list": [
-    {
-      "vod_time": "2022-03-30 20:42:39",
-      "vod_id": "495",
-      "vod_name": "相逢时节",
-      "vod_enname": "xiangfengshijie",
-      "vod_subname": "落花时节/Challenges at Midlife",
-      "vod_letter": "X",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-22/202203221647955547.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2022",
-      "vod_remark": "全38集",
-      "vod_actor": "雷佳音,袁泉,张艺兴,贾乃亮,罗海琼,梁冠华,练练,李乃文,孙宁,严晓频,周放,赵冉,周铁,刘秋实,王楚然,张俪",
-      "vod_director": "简川訸",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "335",
-      "vod_hits_day": "0",
-      "vod_hits_week": "5",
-      "vod_hits_month": "30",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "4.6",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　临水市农机二厂厂长简志国的儿子简宏成在大学里对文静漂亮的宁宥一见倾心，却一再遭到拒绝，直到毕业后宁宥嫁人，简宏成才死心。简志国因早年与职工崔浩发生口角被刺伤，身体大不如前，为了给年幼的简宏成保住厂子的承包权，强迫女儿简敏敏与他的徒弟张立新结婚，暂时代管工厂。张立新却暗中夺权，在简父去世后，迫简宏成远走他乡。多年后，宁宥遭到老公背叛，果断离婚。已白手起家的简宏成得知张立新要变卖老厂地皮抵债，不忍父亲的心血被糟蹋，回乡想要保住地皮，因此和宁宥重逢，终于知道宁宥一再拒绝他背后的原因，她竟是崔浩的女儿。简宏成依法依理地逐一解决张立新留下的烂摊子，宁宥的弟弟宁恕却不断从中作梗。简宏成和宁宥合力阻止双方不理智的至亲，面对多如牛毛的琐事，二人深感中年之痛，好在他们重新认识了彼此，也认清了自己想要的生活。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/a5a61717dddc3501cfdf7a4e22d7dbaa#第02集$https://yzzy.play-cdn2.com/share/88ef51f0bf911e452e8dbb1d807a81ab#第03集$https://yzzy.play-cdn2.com/share/093b60fd0557804c8ba0cbf1453da22f#第04集$https://yzzy.play-cdn2.com/share/5352696a9ca3397beb79f116f3a33991#第05集$https://yzzy.play-cdn2.com/share/d860edd1dd83b36f02ce52bde626c653#第06集$https://yzzy.play-cdn2.com/share/2d579dc29360d8bbfbb4aa541de5afa9#第07集$https://yzzy.play-cdn2.com/share/9f62b8625f914a002496335037e9ad97#第08集$https://yzzy.play-cdn2.com/share/312351bff07989769097660a56395065#第09集$https://yzzy.play-cdn2.com/share/c92a10324374fac681719d63979d00fe#第10集$https://yzzy.play-cdn2.com/share/07811dc6c422334ce36a09ff5cd6fe71#第11集$https://yzzy.play-cdn2.com/share/5531a5834816222280f20d1ef9e95f69#第12集$https://yzzy.play-cdn2.com/share/3a824154b16ed7dab899bf000b80eeee#第13集$https://yzzy.play-cdn2.com/share/05a5cf06982ba7892ed2a6d38fe832d6#第14集$https://yzzy.play-cdn2.com/share/7b7a53e239400a13bd6be6c91c4f6c4e#第15集$https://yzzy.play-cdn2.com/share/ea6b2efbdd4255a9f1b3bbc6399b58f4#第16集$https://yzzy.play-cdn2.com/share/cee8d6b7ce52554fd70354e37bbf44a2#第17集$https://yzzy.play-cdn2.com/share/8d8818c8e140c64c743113f563cf750f#第18集$https://yzzy.play-cdn2.com/share/8038da89e49ac5eabb489cfc6cea9fc1#第19集$https://yzzy.play-cdn2.com/share/84ddfb34126fc3a48ee38d7044e87276#第20集$https://yzzy.play-cdn2.com/share/65d2ea03425887a717c435081cfc5dbb#第21集$https://yzzy.play-cdn2.com/share/95192c98732387165bf8e396c0f2dad2#第22集$https://yzzy.play-cdn2.com/share/a00e5eb0973d24649a4a920fc53d9564#第23集$https://yzzy.play-cdn2.com/share/ef8446f35513a8d6aa2308357a268a7e#第24集$https://yzzy.play-cdn2.com/share/f1981e4bd8a0d6d8462016d2fc6276b3#第25集$https://yzzy.play-cdn2.com/share/d7a84628c025d30f7b2c52c958767e76#第26集$https://yzzy.play-cdn2.com/share/c79ec57a8e72a87d8a69d2c6b8a2a8d4#第27集$https://yzzy.play-cdn2.com/share/c8758b517083196f05ac29810b924aca#第28集$https://yzzy.play-cdn2.com/share/1b69ebedb522700034547abc5652ffac#第29集$https://yzzy.play-cdn2.com/share/de3c1a733c9c51de130bc7ae775fd930#第30集$https://yzzy.play-cdn2.com/share/c1aeb6517a1c7f33514f7ff69047e74e#第31集$https://yzzy.play-cdn2.com/share/a591024321c5e2bdbd23ed35f0574dde#第32集$https://yzzy.play-cdn2.com/share/a5ff5d4b0a0d7b3e4d64147037d8c344#第33集$https://yzzy.play-cdn2.com/share/c5b2cebf15b205503560c4e8e6d1ea78#第34集$https://yzzy.play-cdn2.com/share/5ec829debe54b19a5f78d9a65b900a39#第35集$https://yzzy.play-cdn2.com/share/6351bf9dce654515bf1ddbd6426dfa97#第36集$https://yzzy.play-cdn2.com/share/64f07f012a35c83d7c556ba0b69ef64e#第37集$https://yzzy.play-cdn2.com/share/08f90c1a417155361a5c4b8d297e0d78#第38集$https://yzzy.play-cdn2.com/share/06964dce9addb1c5cb5d6e3d9838f733$$$第01集$https://yzzy.play-cdn2.com/20220326/2033_77f23c2e/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220326/2031_761f9d7c/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220326/2029_83b5a140/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220326/2032_b8334f22/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220326/2028_cfc2746e/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220326/2030_5dcffe92/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220326/2027_7c801a52/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220326/2025_5a7532a4/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220326/2026_5bc79fb2/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220326/2024_42a63efa/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220326/2023_30192107/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220326/2022_134bb09e/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220326/2021_61fe3f64/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220326/2020_4890e945/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220326/2019_88c4a7f0/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220326/2014_7ac4b0ac/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220326/2017_8d74b2d0/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220326/2013_c7b494fa/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220326/2018_8438beb2/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220326/2015_3f29d94e/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220326/2016_1ec520e2/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220326/2007_a01b6076/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220326/2008_fa302f77/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220326/2009_57e6066a/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220326/2010_6fdada6a/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220330/4121_04156ee3/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220326/2011_1aaaec22/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220330/4119_326f5e97/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220330/4118_fd58b36a/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220330/4117_7541708f/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220326/2003_88048414/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220330/4115_ea48753f/index.m3u8#第33集$https://yzzy.play-cdn2.com/20220326/1998_6d958fff/index.m3u8#第34集$https://yzzy.play-cdn2.com/20220326/1999_b8638e77/index.m3u8#第35集$https://yzzy.play-cdn2.com/20220326/1996_3d78d767/index.m3u8#第36集$https://yzzy.play-cdn2.com/20220330/4111_f24d51a6/index.m3u8#第37集$https://yzzy.play-cdn2.com/20220326/2000_22b00396/index.m3u8#第38集$https://yzzy.play-cdn2.com/20220326/1997_ebe444e9/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-29 09:57:33",
-      "vod_id": "498",
-      "vod_name": "长公主在上",
-      "vod_enname": "changgongzhuzaishang",
-      "vod_subname": "",
-      "vod_letter": "C",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-22/202203221647955651.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2022",
-      "vod_remark": "全26集",
-      "vod_actor": "圻夏夏,锦超",
-      "vod_director": "知竹zZ",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "468",
-      "vod_hits_day": "0",
-      "vod_hits_week": "4",
-      "vod_hits_month": "54",
-      "vod_duration": "2",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "5.4",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/0e57098d0318a954d1443e2974a38fac#第02集$https://yzzy.play-cdn2.com/share/c04c19c2c2474dbf5f7ac4372c5b9af1#第03集$https://yzzy.play-cdn2.com/share/91e50fe1e39af2869d3336eaaeebdb43#第04集$https://yzzy.play-cdn2.com/share/eb1848290d5a7de9c9ccabc67fefa211#第05集$https://yzzy.play-cdn2.com/share/b994697479c5716eda77e8e9713e5f0f#第06集$https://yzzy.play-cdn2.com/share/fa6c94460e902005a0b660266190c8ba#第07集$https://yzzy.play-cdn2.com/share/c911241d00294e8bb714eee2e83fa475#第08集$https://yzzy.play-cdn2.com/share/143758ee65fb29d30caa170c0db0ed36#第09集$https://yzzy.play-cdn2.com/share/c563c2c394023a07d56ad6b3eb09537a#第10集$https://yzzy.play-cdn2.com/share/0a49e3c3a03ebde64f85c0bacd8a08e2#第11集$https://yzzy.play-cdn2.com/share/40dba662fae60cd3bcceaa76a82d2873#第12集$https://yzzy.play-cdn2.com/share/8068fee5f49946b3a8f85b1007cd40bb#第13集$https://yzzy.play-cdn2.com/share/02ae6a786bbf135d3d223cbc0e770b6e#第14集$https://yzzy.play-cdn2.com/share/38ef4b66cb25e92abe4d594acb841471#第15集$https://yzzy.play-cdn2.com/share/cd8d5260c8131ca7aeea5d41796d1a0a#第16集$https://yzzy.play-cdn2.com/share/43a115cbd6f4788924537365be3d6012#第17集$https://yzzy.play-cdn2.com/share/5e7264477cf9b6b237a0d254cf0324e2#第18集$https://yzzy.play-cdn2.com/share/98cac9d33aad44bb31800130e8c50b5f#第19集$https://yzzy.play-cdn2.com/share/37968ad196a5085f5ed91e58df8c2cef#第20集$https://yzzy.play-cdn2.com/share/e97399278d24e6bbf3a2d5e9c8d34262#第21集$https://yzzy.play-cdn2.com/share/d3614f463b2d42aba2700556d42740d0#第22集$https://yzzy.play-cdn2.com/share/95323660ed2124450caaac2c46b5ed90#第23集$https://yzzy.play-cdn2.com/share/63c6598e9ddd2961e7dfa4d4eb8144a1#第24集$https://yzzy.play-cdn2.com/share/58521e4e2bd3d4b988cbd17d7365df3c#第25集$https://yzzy.play-cdn2.com/share/c82836ed448c41094025b4a872c5341e#第26集$https://yzzy.play-cdn2.com/share/36072923bfc3cf47745d704feb489480$$$第01集$https://yzzy.play-cdn2.com/20220329/3822_daf64c47/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220329/3821_e13b665e/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220329/3820_7c0795e8/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220329/3819_182242d8/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220329/3818_48dc5aa4/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220329/3817_0af45763/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220329/3816_51819107/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220329/3815_faded053/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220329/3814_f1b6c6fa/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220329/3813_9617dada/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220329/3812_51ee5426/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220329/3811_5d2114a0/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220329/3810_0be950e7/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220329/3809_16003d2e/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220329/3808_7b1ba053/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220329/3807_122c5c35/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220329/3806_92a0b1f8/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220329/3805_5c7d0dab/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220329/3804_315d795c/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220329/3803_4fc2c649/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220329/3802_3c164f92/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220329/3801_36c50d48/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220329/3800_529e2379/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220329/3799_caedfa76/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220329/3798_15b98c71/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220329/3797_98ae422a/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-25 00:10:10",
-      "vod_id": "591",
-      "vod_name": "猎罪图鉴",
-      "vod_enname": "qianghong",
-      "vod_subname": "Under the Skin",
-      "vod_letter": "Q",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/16480967880.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2022",
-      "vod_remark": "全20集",
-      "vod_actor": "檀健次,金世佳,张柏嘉,朱嘉琦,陆妍淇,秦海璐,房子斌,张陆,金丰,刘美彤,武笑羽,张籽沐,冯兵,柳明明,米咪,蔡珩,马吟吟,林乐炫,屠芷莹,徐敏,李雅男,陈碧舸,马波,田原,王骁,朱刚日尧,于明加,章涛,傅淼,王晴,蒋龙,林晓凡,孙立韬,芦宏,安亚,许歌,张圣岳,曾柯琅,冷海铭,张燕,李斌,徐海为,于恒,陈诗敏,晨阳,徐艺瑄,孙乐天,王小伟,葛兆美,王屿,孙梦佳,孙延笙,墨阳,黄毅,张芯宁,孙斌,曹苏苏,徐崴罗,王雅婷,王雅琴,彭亚辉,王彬,何南,戴明,古铭璐,孟凡珏,王萧琪,黄泽伟,卢生伟,李楠,夏奇",
-      "vod_director": "邢键钧",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "973",
-      "vod_hits_day": "0",
-      "vod_hits_week": "4",
-      "vod_hits_month": "60",
-      "vod_duration": "90",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "7.0",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　该剧讲述了因一起尘封旧案而结怨的模拟画像师沈翊和刑警队长杜城，在机缘巧合下被迫搭档，两人联手侦破多起离奇疑案，共同追踪谜底真相的故事。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/53adaf494dc89ef7196d73636eb2451b#第02集$https://yzzy.play-cdn2.com/share/31857b449c407203749ae32dd0e7d64a#第03集$https://yzzy.play-cdn2.com/share/43dd49b4fdb9bede653e94468ff8df1e#第04集$https://yzzy.play-cdn2.com/share/a2137a2ae8e39b5002a3f8909ecb88fe#第05集$https://yzzy.play-cdn2.com/share/2290a7385ed77cc5592dc2153229f082#第06集$https://yzzy.play-cdn2.com/share/6c340f25839e6acdc73414517203f5f0#第07集$https://yzzy.play-cdn2.com/share/cd89fef7ffdd490db800357f47722b20#第08集$https://yzzy.play-cdn2.com/share/a89cf525e1d9f04d16ce31165e139a4b#第09集$https://yzzy.play-cdn2.com/share/299a23a2291e2126b91d54f3601ec162#第10集$https://yzzy.play-cdn2.com/share/4a08142c38dbe374195d41c04562d9f8#第11集$https://yzzy.play-cdn2.com/share/b4d168b48157c623fbd095b4a565b5bb#第12集$https://yzzy.play-cdn2.com/share/d8700cbd38cc9f30cecb34f0c195b137#第13集$https://yzzy.play-cdn2.com/share/4ca82782c5372a547c104929f03fe7a9#第14集$https://yzzy.play-cdn2.com/share/53c04118df112c13a8c34b38343b9c10#第15集$https://yzzy.play-cdn2.com/share/db576a7d2453575f29eab4bac787b919#第16集$https://yzzy.play-cdn2.com/share/7fec306d1e665bc9c748b5d2b99a6e97#第17集$https://yzzy.play-cdn2.com/share/f4dd765c12f2ef67f98f3558c282a9cd#第18集$https://yzzy.play-cdn2.com/share/456ac9b0d15a8b7f1e71073221059886#第19集$https://yzzy.play-cdn2.com/share/5055cbf43fac3f7e2336b27310f0b9ef#第20集$https://yzzy.play-cdn2.com/share/58c54802a9fb9526cd0923353a34a7ae$$$第01集$https://yzzy.play-cdn2.com/20220324/1068_428a3751/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/1067_b4e6eb4a/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/1066_f1bc0a08/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/1065_fa508533/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/1064_8cd1e016/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/1063_2405e184/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/1062_a19980b9/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/1061_263893be/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/1060_7a4f3501/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/1059_5d1189a7/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/1058_ff17dc29/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/1057_d5ac723b/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/1056_8e71241f/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/1055_449035d9/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/1054_21465b40/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/1053_56a7a058/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/1052_38b774e4/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/1051_2b22ca62/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/1050_e155217f/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/1049_a817f731/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-25 00:07:46",
-      "vod_id": "900",
-      "vod_name": "特战行动",
-      "vod_enname": "masaikedaluandou",
-      "vod_subname": "特勤八组/蓝色闪电/特勤第八组",
-      "vod_letter": "M",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/16480966590.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2022",
-      "vod_remark": "全35集",
-      "vod_actor": "高伟光,胡冰卿,迟宁宁,李川,丁嘉文,肖雨,高戈,何杨梦梵",
-      "vod_director": "刘礴",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "290",
-      "vod_hits_day": "0",
-      "vod_hits_week": "1",
-      "vod_hits_month": "17",
-      "vod_duration": "86",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "6.6",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　该剧讲述了在国际反恐新形势下，一支汇集了秦观、宁檬、童梦瑶、陈浩哲等高智商、高学历、高标准的“男女混编”反恐特战队临时组建而成，在血与火的搏杀中，与暴恐分子展开生死较量，在生与死的磨砺中，自身得到历练、成长和蜕变的故事。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/0f840be9b8db4d3fbd5ba2ce59211f55#第02集$https://yzzy.play-cdn2.com/share/168908dd3227b8358eababa07fcaf091#第03集$https://yzzy.play-cdn2.com/share/2ba596643cbbbc20318224181fa46b28#第04集$https://yzzy.play-cdn2.com/share/d240e3d38a8882ecad8633c8f9c78c9b#第05集$https://yzzy.play-cdn2.com/share/ef4e3b775c934dada217712d76f3d51f#第06集$https://yzzy.play-cdn2.com/share/6395ebd0f4b478145ecfbaf939454fa4#第07集$https://yzzy.play-cdn2.com/share/9232fe81225bcaef853ae32870a2b0fe#第08集$https://yzzy.play-cdn2.com/share/e6cb2a3c14431b55aa50c06529eaa21b#第09集$https://yzzy.play-cdn2.com/share/1c1d4df596d01da60385f0bb17a4a9e0#第10集$https://yzzy.play-cdn2.com/share/a3d68b461bd9d3533ee1dd3ce4628ed4#第11集$https://yzzy.play-cdn2.com/share/3cef96dcc9b8035d23f69e30bb19218a#第12集$https://yzzy.play-cdn2.com/share/c8c41c4a18675a74e01c8a20e8a0f662#第13集$https://yzzy.play-cdn2.com/share/c4b31ce7d95c75ca70d50c19aef08bf1#第14集$https://yzzy.play-cdn2.com/share/58e4d44e550d0f7ee0a23d6b02d9b0db#第15集$https://yzzy.play-cdn2.com/share/4b6538a44a1dfdc2b83477cd76dee98e#第16集$https://yzzy.play-cdn2.com/share/2f885d0fbe2e131bfc9d98363e55d1d4#第17集$https://yzzy.play-cdn2.com/share/64223ccf70bbb65a3a4aceac37e21016#第18集$https://yzzy.play-cdn2.com/share/b55ec28c52d5f6205684a473a2193564#第19集$https://yzzy.play-cdn2.com/share/92262bf907af914b95a0fc33c3f33bf6#第20集$https://yzzy.play-cdn2.com/share/74bba22728b6185eec06286af6bec36d#第21集$https://yzzy.play-cdn2.com/share/8d6dc35e506fc23349dd10ee68dabb64#第22集$https://yzzy.play-cdn2.com/share/3df1d4b96d8976ff5986393e8767f5b2#第23集$https://yzzy.play-cdn2.com/share/e820a45f1dfc7b95282d10b6087e11c0#第24集$https://yzzy.play-cdn2.com/share/90794e3b050f815354e3e29e977a88ab#第25集$https://yzzy.play-cdn2.com/share/b7892fb3c2f009c65f686f6355c895b5#第26集$https://yzzy.play-cdn2.com/share/043c3d7e489c69b48737cc0c92d0f3a2#第27集$https://yzzy.play-cdn2.com/share/d2ed45a52bc0edfa11c2064e9edee8bf#第28集$https://yzzy.play-cdn2.com/share/4daa3db355ef2b0e64b472968cb70f0d#第29集$https://yzzy.play-cdn2.com/share/1cc3633c579a90cfdd895e64021e2163#第30集$https://yzzy.play-cdn2.com/share/9f53d83ec0691550f7d2507d57f4f5a2#第31集$https://yzzy.play-cdn2.com/share/0d0871f0806eae32d30983b62252da50#第32集$https://yzzy.play-cdn2.com/share/1f4477bad7af3616c1f933a02bfabe4e#第33集$https://yzzy.play-cdn2.com/share/d045c59a90d7587d8d671b5f5aec4e7c#第34集$https://yzzy.play-cdn2.com/share/cbb6a3b884f4f88b3a8e3d44c636cbd8#第35集$https://yzzy.play-cdn2.com/share/c4015b7f368e6b4871809f49debe0579$$$第01集$https://yzzy.play-cdn2.com/20220324/959_b01fb57a/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/956_7e579e5b/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/957_7236077c/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/958_4cdb624b/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/955_88d3ad31/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/954_0dc234d2/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/953_25080fc3/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/952_c636c069/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/951_5fee879d/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/950_dfbe0731/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/949_ee2268ae/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/946_3f5111ee/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/947_dfc94602/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/948_f7b78601/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/945_70cf94fd/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/943_60f67576/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/944_609e6724/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/942_33a91149/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/941_cdaa63b5/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/938_d4de6f36/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/940_7d1789f3/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/939_579eab94/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/935_b77bf87b/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/936_5565ca68/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/937_6825ee91/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/933_11463228/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/932_f0622042/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/934_ed4feacb/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/930_ceca205f/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/931_54e24775/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220324/929_f2c80016/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220324/927_629a5a11/index.m3u8#第33集$https://yzzy.play-cdn2.com/20220324/928_2ac865b0/index.m3u8#第34集$https://yzzy.play-cdn2.com/20220324/926_272bdd1a/index.m3u8#第35集$https://yzzy.play-cdn2.com/20220324/923_64a2102e/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-25 00:06:48",
-      "vod_id": "962",
-      "vod_name": "天下人家",
-      "vod_enname": "tianxiarenjia",
-      "vod_subname": "幸福年代/入殓师",
-      "vod_letter": "T",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/164809622711.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2011",
-      "vod_remark": "全32集",
-      "vod_actor": "于和伟,杨童舒,李依晓,霍青,李明启,潘虹,刘涛",
-      "vod_director": "高希希",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "195",
-      "vod_hits_day": "0",
-      "vod_hits_week": "1",
-      "vod_hits_month": "20",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "7.7",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　该剧讲述了一个殡仪馆化妆师平凡且温情的一生，力求展现普通百姓家庭的真实生活，面对苦难时的隐忍、挑战与坚持。导演高希希从一个特殊的视角出发，将入殓师这个特殊的职业搬上中国电视剧荧屏。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/bea5955b308361a1b07bc55042e25e54#第02集$https://yzzy.play-cdn2.com/share/7fa732b517cbed14a48843d74526c11a#第03集$https://yzzy.play-cdn2.com/share/430c3626b879b4005d41b8a46172e0c0#第04集$https://yzzy.play-cdn2.com/share/ccc0aa1b81bf81e16c676ddb977c5881#第05集$https://yzzy.play-cdn2.com/share/6d0f846348a856321729a2f36734d1a7#第06集$https://yzzy.play-cdn2.com/share/1e056d2b0ebd5c878c550da6ac5d3724#第07集$https://yzzy.play-cdn2.com/share/3e89ebdb49f712c7d90d1b39e348bbbf#第08集$https://yzzy.play-cdn2.com/share/24896ee4c6526356cc127852413ea3b4#第09集$https://yzzy.play-cdn2.com/share/da0d1111d2dc5d489242e60ebcbaf988#第10集$https://yzzy.play-cdn2.com/share/23ce1851341ec1fa9e0c259de10bf87c#第11集$https://yzzy.play-cdn2.com/share/7634ea65a4e6d9041cfd3f7de18e334a#第12集$https://yzzy.play-cdn2.com/share/8b5040a8a5baf3e0e67386c2e3a9b903#第13集$https://yzzy.play-cdn2.com/share/e205ee2a5de471a70c1fd1b46033a75f#第14集$https://yzzy.play-cdn2.com/share/2a9d121cd9c3a1832bb6d2cc6bd7a8a7#第15集$https://yzzy.play-cdn2.com/share/b56a18e0eacdf51aa2a5306b0f533204#第16集$https://yzzy.play-cdn2.com/share/8b6dd7db9af49e67306feb59a8bdc52c#第17集$https://yzzy.play-cdn2.com/share/621461af90cadfdaf0e8d4cc25129f91#第18集$https://yzzy.play-cdn2.com/share/a4300b002bcfb71f291dac175d52df94#第19集$https://yzzy.play-cdn2.com/share/f47d0ad31c4c49061b9e505593e3db98#第20集$https://yzzy.play-cdn2.com/share/c8fbbc86abe8bd6a5eb6a3b4d0411301#第21集$https://yzzy.play-cdn2.com/share/f57a2f557b098c43f11ab969efe1504b#第22集$https://yzzy.play-cdn2.com/share/b6a1085a27ab7bff7550f8a3bd017df8#第23集$https://yzzy.play-cdn2.com/share/aa169b49b583a2b5af89203c2b78c67c#第24集$https://yzzy.play-cdn2.com/share/892c91e0a653ba19df81a90f89d99bcd#第25集$https://yzzy.play-cdn2.com/share/37bc2f75bf1bcfe8450a1a41c200364c#第26集$https://yzzy.play-cdn2.com/share/11b9842e0a271ff252c1903e7132cd68#第27集$https://yzzy.play-cdn2.com/share/06eb61b839a0cefee4967c67ccb099dc#第28集$https://yzzy.play-cdn2.com/share/9dfcd5e558dfa04aaf37f137a1d9d3e5#第29集$https://yzzy.play-cdn2.com/share/950a4152c2b4aa3ad78bdd6b366cc179#第30集$https://yzzy.play-cdn2.com/share/158f3069a435b314a80bdcb024f8e422#第31集$https://yzzy.play-cdn2.com/share/ef0d3930a7b6c95bd2b32ed45989c61f#第32集$https://yzzy.play-cdn2.com/share/758874998f5bd0c393da094e1967a72b$$$第01集$https://yzzy.play-cdn2.com/20220324/924_f5b2b270/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/925_818f0329/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/921_6c500e1d/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/922_78bbeec8/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/920_95164924/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/918_0c0efd0d/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/919_8a9a4581/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/915_de65155a/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/917_3c60ceae/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/916_0529f62d/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/914_b5df63b5/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/913_55197e68/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/910_9e39044a/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/912_e513c43c/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/911_a8add917/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/908_ff2d9239/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/907_0d6d4647/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/909_ae207486/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/904_00d93dcf/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/906_e773b594/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/905_d7b62523/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/902_59a663dd/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/903_6fb9ba12/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/901_45b30869/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/304_6014ea62/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/303_55782776/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/310_c3af2731/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/311_6393ae62/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/312_86a206c5/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/313_15fdedf9/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220324/299_e2bd6c68/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220324/314_aa863a72/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-25 00:07:20",
-      "vod_id": "963",
-      "vod_name": "人世间",
-      "vod_enname": "tianxiarenjia",
-      "vod_subname": "A Lifelong Journey",
-      "vod_letter": "T",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/164809623212.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2022",
-      "vod_remark": "全58集",
-      "vod_actor": "雷佳音,辛柏青,宋佳,殷桃,陈道明,丁勇岱,萨日娜,成泰燊,隋俊波,张瑞涵,宋楚炎,王大奇,王阳,李建义,宋春丽,张凯丽,于震,冯雷,白志迪,黄小蕾,胡连馨,吴幸键,梁晓声,马少骅,徐百慧,韩昊霖,陆毅,胡静,房子斌,丁海峰,宫宏佳,孙之鸿,王艺禅,沈晓海,潘斌龙,苗驰,赵小锐,舒耀瑄,刘晓晔,徐小飒,徐松子,于越,李光复,苇青,卞涛,许文广,徐敏,王晴,张继波,洪浚嘉,方悦乔,可旭,李学政,白红标,姜寒,尹键,李大强,黄俊鹏,胡连华,任铭松,朱彬予,马凡丁,葛子铭,李卓钊,郭紫铭,李思博",
-      "vod_director": "李路",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "4350",
-      "vod_hits_day": "0",
-      "vod_hits_week": "3",
-      "vod_hits_month": "139",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "8.1",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　上世纪七十年代末，北方某省会城市“光字片”区居住着周姓一家，父亲周志刚在西南参加“大三线”建设，长子周秉义响应国家号召成为第一批下乡知青，长女周蓉追随诗人丈夫远赴贵州乡村，周家只留下小弟周秉昆与周母相依为命。在五十年的岁月里周家人的命运与时代变迁交织在一起，周秉义大学毕业后从政，在大刀阔斧的改革中经历仕途沉浮；周蓉获得博士学位后留校任教，却情路坎坷，阴差阳错旅居法国十二年。周秉昆与美丽又不幸的女子郑娟相濡以沫，通过自己的努力从一名工人成长为文艺工作者，经历下岗的阵痛和“下海”的挑战，在平凡的岁月里扶持邻里亲友共同前进。一家人在完成各自人生使命的同时，也书写了一部当代中国百姓的生活史诗 。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/e17184bcb70dcf3942c54e0b537ffc6d#第02集$https://yzzy.play-cdn2.com/share/995e1fda4a2b5f55ef0df50868bf2a8f#第03集$https://yzzy.play-cdn2.com/share/afdec7005cc9f14302cd0474fd0f3c96#第04集$https://yzzy.play-cdn2.com/share/e515df0d202ae52fcebb14295743063b#第05集$https://yzzy.play-cdn2.com/share/84d2004bf28a2095230e8e14993d398d#第06集$https://yzzy.play-cdn2.com/share/3806734b256c27e41ec2c6bffa26d9e7#第07集$https://yzzy.play-cdn2.com/share/883e881bb4d22a7add958f2d6b052c9f#第08集$https://yzzy.play-cdn2.com/share/24146db4eb48c718b84cae0a0799dcfc#第09集$https://yzzy.play-cdn2.com/share/82b8a3434904411a9fdc43ca87cee70c#第10集$https://yzzy.play-cdn2.com/share/021bbc7ee20b71134d53e20206bd6feb#第11集$https://yzzy.play-cdn2.com/share/ce5140df15d046a66883807d18d0264b#第12集$https://yzzy.play-cdn2.com/share/93d65641ff3f1586614cf2c1ad240b6c#第13集$https://yzzy.play-cdn2.com/share/0768281a05da9f27df178b5c39a51263#第14集$https://yzzy.play-cdn2.com/share/65cc2c8205a05d7379fa3a6386f710e1#第15集$https://yzzy.play-cdn2.com/share/5d616dd38211ebb5d6ec52986674b6e4#第16集$https://yzzy.play-cdn2.com/share/ef50c335cca9f340bde656363ebd02fd#第17集$https://yzzy.play-cdn2.com/share/03e0704b5690a2dee1861dc3ad3316c9#第18集$https://yzzy.play-cdn2.com/share/298923c8190045e91288b430794814c4#第19集$https://yzzy.play-cdn2.com/share/08fe2621d8e716b02ec0da35256a998d#第20集$https://yzzy.play-cdn2.com/share/766d856ef1a6b02f93d894415e6bfa0e#第21集$https://yzzy.play-cdn2.com/share/6b180037abbebea991d8b1232f8a8ca9#第22集$https://yzzy.play-cdn2.com/share/f33ba15effa5c10e873bf3842afb46a6#第23集$https://yzzy.play-cdn2.com/share/7f975a56c761db6506eca0b37ce6ec87#第24集$https://yzzy.play-cdn2.com/share/1e48c4420b7073bc11916c6c1de226bb#第25集$https://yzzy.play-cdn2.com/share/31b3b31a1c2f8a370206f111127c0dbd#第26集$https://yzzy.play-cdn2.com/share/1587965fb4d4b5afe8428a4a024feb0d#第27集$https://yzzy.play-cdn2.com/share/d7322ed717dedf1eb4e6e52a37ea7bcd#第28集$https://yzzy.play-cdn2.com/share/9246444d94f081e3549803b928260f56#第29集$https://yzzy.play-cdn2.com/share/2387337ba1e0b0249ba90f55b2ba2521#第30集$https://yzzy.play-cdn2.com/share/fed33392d3a48aa149a87a38b875ba4a#第31集$https://yzzy.play-cdn2.com/share/aa68c75c4a77c87f97fb686b2f068676#第32集$https://yzzy.play-cdn2.com/share/fba9d88164f3e2d9109ee770223212a0#第33集$https://yzzy.play-cdn2.com/share/b8c37e33defde51cf91e1e03e51657da#第34集$https://yzzy.play-cdn2.com/share/a9b7ba70783b617e9998dc4dd82eb3c5#第35集$https://yzzy.play-cdn2.com/share/b706835de79a2b4e80506f582af3676a#第36集$https://yzzy.play-cdn2.com/share/9ab0d88431732957a618d4a469a0d4c3#第37集$https://yzzy.play-cdn2.com/share/ec5aa0b7846082a2415f0902f0da88f2#第38集$https://yzzy.play-cdn2.com/share/0b8aff0438617c055eb55f0ba5d226fa#第39集$https://yzzy.play-cdn2.com/share/2bcab9d935d219641434683dd9d18a03#第40集$https://yzzy.play-cdn2.com/share/934815ad542a4a7c5e8a2dfa04fea9f5#第41集$https://yzzy.play-cdn2.com/share/7b13b2203029ed80337f27127a9f1d28#第42集$https://yzzy.play-cdn2.com/share/860320be12a1c050cd7731794e231bd3#第43集$https://yzzy.play-cdn2.com/share/692f93be8c7a41525c0baf2076aecfb4#第44集$https://yzzy.play-cdn2.com/share/4fac9ba115140ac4f1c22da82aa0bc7f#第45集$https://yzzy.play-cdn2.com/share/a1140a3d0df1c81e24ae954d935e8926#第46集$https://yzzy.play-cdn2.com/share/9908279ebbf1f9b250ba689db6a0222b#第47集$https://yzzy.play-cdn2.com/share/df6d2338b2b8fce1ec2f6dda0a630eb0#第48集$https://yzzy.play-cdn2.com/share/fe7ee8fc1959cc7214fa21c4840dff0a#第49集$https://yzzy.play-cdn2.com/share/54a367d629152b720749e187b3eaa11b#第50集$https://yzzy.play-cdn2.com/share/d93ed5b6db83be78efb0d05ae420158e#第51集$https://yzzy.play-cdn2.com/share/6aab1270668d8cac7cef2566a1c5f569#第52集$https://yzzy.play-cdn2.com/share/fec8d47d412bcbeece3d9128ae855a7a#第53集$https://yzzy.play-cdn2.com/share/287e03db1d99e0ec2edb90d079e142f3#第54集$https://yzzy.play-cdn2.com/share/d79aac075930c83c2f1e369a511148fe#第55集$https://yzzy.play-cdn2.com/share/c32d9bf27a3da7ec8163957080c8628e#第56集$https://yzzy.play-cdn2.com/share/2ab56412b1163ee131e1246da0955bd1#第57集$https://yzzy.play-cdn2.com/share/cc1aa436277138f61cda703991069eaf#第58集$https://yzzy.play-cdn2.com/share/9c01802ddb981e6bcfbec0f0516b8e35$$$第01集$https://yzzy.play-cdn2.com/20220324/1033_c18e2725/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/1032_859c1e8a/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/1031_ba788824/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/1030_100a4079/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/1029_27cda236/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/1028_8a8d7604/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/1027_d13bb667/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/1026_0c0f3f3a/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/1025_551b3e10/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/1024_dc19e43d/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/1023_dc049948/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/1022_d0f3f4b0/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/1021_9bca6f02/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/1020_ce1334ef/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/1017_9309ea8c/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/1018_6e09aa64/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/1019_6957a7db/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/1015_69fa483b/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/1016_f9e0740a/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/1014_fb0b4ff2/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/1013_fb912c6f/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/1012_c4e781b3/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/1011_b1663861/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/1010_84688aaa/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/1009_b696ae8e/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/1008_5de6603f/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/1007_9bed96e9/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/1006_5f4f40ea/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/1005_5bbd7d8a/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/1004_5ce55d90/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220324/1003_807fbec3/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220324/1002_b2956359/index.m3u8#第33集$https://yzzy.play-cdn2.com/20220324/1001_be0230a7/index.m3u8#第34集$https://yzzy.play-cdn2.com/20220324/1000_844d38e5/index.m3u8#第35集$https://yzzy.play-cdn2.com/20220324/999_e7647076/index.m3u8#第36集$https://yzzy.play-cdn2.com/20220324/998_4fb6f71d/index.m3u8#第37集$https://yzzy.play-cdn2.com/20220324/997_fa0ca3a6/index.m3u8#第38集$https://yzzy.play-cdn2.com/20220324/996_5f20bf85/index.m3u8#第39集$https://yzzy.play-cdn2.com/20220324/995_6ee1938c/index.m3u8#第40集$https://yzzy.play-cdn2.com/20220324/994_f1955070/index.m3u8#第41集$https://yzzy.play-cdn2.com/20220324/993_a71ace1d/index.m3u8#第42集$https://yzzy.play-cdn2.com/20220324/992_69e7684d/index.m3u8#第43集$https://yzzy.play-cdn2.com/20220324/991_c5cf25c5/index.m3u8#第44集$https://yzzy.play-cdn2.com/20220324/990_467b4ab0/index.m3u8#第45集$https://yzzy.play-cdn2.com/20220324/989_883dbffa/index.m3u8#第46集$https://yzzy.play-cdn2.com/20220324/988_2d56127b/index.m3u8#第47集$https://yzzy.play-cdn2.com/20220324/987_b952bae0/index.m3u8#第48集$https://yzzy.play-cdn2.com/20220324/986_aa0ffcd9/index.m3u8#第49集$https://yzzy.play-cdn2.com/20220324/985_25e689a3/index.m3u8#第50集$https://yzzy.play-cdn2.com/20220324/984_11775368/index.m3u8#第51集$https://yzzy.play-cdn2.com/20220324/983_f2f425fa/index.m3u8#第52集$https://yzzy.play-cdn2.com/20220324/982_60520b33/index.m3u8#第53集$https://yzzy.play-cdn2.com/20220324/981_127833be/index.m3u8#第54集$https://yzzy.play-cdn2.com/20220324/980_e930dce5/index.m3u8#第55集$https://yzzy.play-cdn2.com/20220324/979_64a7e9a0/index.m3u8#第56集$https://yzzy.play-cdn2.com/20220324/978_99eda6d6/index.m3u8#第57集$https://yzzy.play-cdn2.com/20220324/977_7b54cf60/index.m3u8#第58集$https://yzzy.play-cdn2.com/20220324/976_2a7ebdf1/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-25 00:08:13",
-      "vod_id": "964",
-      "vod_name": "假日暖洋洋2",
-      "vod_enname": "jiarinuanyangyang2",
-      "vod_subname": "假日暖洋洋第二季",
-      "vod_letter": "J",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/164809623613.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2022",
-      "vod_remark": "全40集",
-      "vod_actor": "刘涛,陈赫,杨玏,张嘉倪,程潇,张天阳,周陆啦,满江,裴佳欣,黄澄澄,于典,宋家腾,张樟,卢琳,洛葳,倪大红,倪萍,姜超",
-      "vod_director": "姚晓峰",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "247",
-      "vod_hits_day": "0",
-      "vod_hits_week": "1",
-      "vod_hits_month": "22",
-      "vod_duration": "43",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "5.2",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　又是一年冬季， 融资被意外搅局的孔令麒，尾随着风险投资界女强人程蔓，误打误撞飞回东北，绞尽脑汁试图挽回失地，没想到卷入程蔓与女儿的家庭战争，过程中两人逐渐发现对方面具下的柔软，好感渐生；网红主播程菽经营的民宿面临倒闭，米其林大厨廖然的到来有如天降神兵，网络奔现的爱情却遭到金钱、事业和家庭的重重考验；一事无成的程淼误闯无人机竞速地界，FPV职业选手马伯渊发现她竟天赋异禀，立马邀请她一同参赛，在职业赛场的风驰电掣中，暧昧气氛也如无人机一般起伏升腾。冰雪童话之境，程家三姐妹开启归家寻爱之旅。这片富有人情味的雪乡之境，用它独有的温暖，化解着人们心中的寒冰，为怀揣各自理由来此的人们，找到属于他们的人生目标。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/b7bb35b9c6ca2aee2df08cf09d7016c2#第02集$https://yzzy.play-cdn2.com/share/abd815286ba1007abfbb8415b83ae2cf#第03集$https://yzzy.play-cdn2.com/share/051e4e127b92f5d98d3c79b195f2b291#第04集$https://yzzy.play-cdn2.com/share/42e77b63637ab381e8be5f8318cc28a2#第05集$https://yzzy.play-cdn2.com/share/185c29dc24325934ee377cfda20e414c#第06集$https://yzzy.play-cdn2.com/share/45645a27c4f1adc8a7a835976064a86d#第07集$https://yzzy.play-cdn2.com/share/233509073ed3432027d48b1a83f5fbd2#第08集$https://yzzy.play-cdn2.com/share/a733fa9b25f33689e2adbe72199f0e62#第09集$https://yzzy.play-cdn2.com/share/3871bd64012152bfb53fdf04b401193f#第10集$https://yzzy.play-cdn2.com/share/48ab2f9b45957ab574cf005eb8a76760#第11集$https://yzzy.play-cdn2.com/share/85fc37b18c57097425b52fc7afbb6969#第12集$https://yzzy.play-cdn2.com/share/b73dfe25b4b8714c029b37a6ad3006fa#第13集$https://yzzy.play-cdn2.com/share/5d44ee6f2c3f71b73125876103c8f6c4#第14集$https://yzzy.play-cdn2.com/share/cdc0d6e63aa8e41c89689f54970bb35f#第15集$https://yzzy.play-cdn2.com/share/eb6fdc36b281b7d5eabf33396c2683a2#第16集$https://yzzy.play-cdn2.com/share/851ddf5058cf22df63d3344ad89919cf#第17集$https://yzzy.play-cdn2.com/share/7750ca3559e5b8e1f44210283368fc16#第18集$https://yzzy.play-cdn2.com/share/58d4d1e7b1e97b258c9ed0b37e02d087#第19集$https://yzzy.play-cdn2.com/share/f76a89f0cb91bc419542ce9fa43902dc#第20集$https://yzzy.play-cdn2.com/share/f29c21d4897f78948b91f03172341b7b#第21集$https://yzzy.play-cdn2.com/share/d7a728a67d909e714c0774e22cb806f2#第22集$https://yzzy.play-cdn2.com/share/00ac8ed3b4327bdd4ebbebcb2ba10a00#第23集$https://yzzy.play-cdn2.com/share/8ebda540cbcc4d7336496819a46a1b68#第24集$https://yzzy.play-cdn2.com/share/996a7fa078cc36c46d02f9af3bef918b#第25集$https://yzzy.play-cdn2.com/share/fe2d010308a6b3799a3d9c728ee74244#第26集$https://yzzy.play-cdn2.com/share/4d2e7bd33c475784381a64e43e50922f#第27集$https://yzzy.play-cdn2.com/share/c54e7837e0cd0ced286cb5995327d1ab#第28集$https://yzzy.play-cdn2.com/share/ae5e3ce40e0404a45ecacaaf05e5f735#第29集$https://yzzy.play-cdn2.com/share/9adeb82fffb5444e81fa0ce8ad8afe7a#第30集$https://yzzy.play-cdn2.com/share/0188e8b8b014829e2fa0f430f0a95961#第31集$https://yzzy.play-cdn2.com/share/a42a596fc71e17828440030074d15e74#第32集$https://yzzy.play-cdn2.com/share/9a3d458322d70046f63dfd8b0153ece4#第33集$https://yzzy.play-cdn2.com/share/52292e0c763fd027c6eba6b8f494d2eb#第34集$https://yzzy.play-cdn2.com/share/b20bb95ab626d93fd976af958fbc61ba#第35集$https://yzzy.play-cdn2.com/share/160c88652d47d0be60bfbfed25111412#第36集$https://yzzy.play-cdn2.com/share/82c2559140b95ccda9c6ca4a8b981f1e#第37集$https://yzzy.play-cdn2.com/share/c44e503833b64e9f27197a484f4257c0#第38集$https://yzzy.play-cdn2.com/share/4f284803bd0966cc24fa8683a34afc6e#第39集$https://yzzy.play-cdn2.com/share/2b6d65b9a9445c4271ab9076ead5605a#第40集$https://yzzy.play-cdn2.com/share/5680522b8e2bb01943234bce7bf84534$$$第01集$https://yzzy.play-cdn2.com/20220324/631_0c5416bd/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/632_5a7d7687/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/629_47a1a1bf/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/628_8a67d861/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/627_cec6ff7d/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/626_3fd249bd/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/625_9557d338/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/623_1d7c21f1/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/622_876aea94/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/624_304f4e65/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/621_9084725a/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/620_6ca29794/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/617_710298c0/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/619_87f1d475/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/618_05928ec1/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/614_f628260c/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/616_41987d93/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/615_c40974b2/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/612_efe1c6a6/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/613_40a92825/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/609_461795ec/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/610_aeed192e/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/611_f217db4c/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/608_6e53aa68/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/1200_8ada8c46/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/1199_eeeca117/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/1198_00d818b3/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/1197_98e8c3cd/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/1196_ec9199f2/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/1195_c3efe24b/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220324/1194_9372de0a/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220324/1193_c15b134b/index.m3u8#第33集$https://yzzy.play-cdn2.com/20220324/1192_425b2488/index.m3u8#第34集$https://yzzy.play-cdn2.com/20220324/1191_59eb5ec6/index.m3u8#第35集$https://yzzy.play-cdn2.com/20220324/1190_d4280d8a/index.m3u8#第36集$https://yzzy.play-cdn2.com/20220324/1189_c4d65a47/index.m3u8#第37集$https://yzzy.play-cdn2.com/20220324/1188_563c715c/index.m3u8#第38集$https://yzzy.play-cdn2.com/20220324/1187_3a51f988/index.m3u8#第39集$https://yzzy.play-cdn2.com/20220324/1186_5b4928ce/index.m3u8#第40集$https://yzzy.play-cdn2.com/20220324/1185_cd723d8f/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-24 20:18:03",
-      "vod_id": "965",
-      "vod_name": "瓦舍江湖",
-      "vod_enname": "washejianghu",
-      "vod_subname": "德云瓦舍",
-      "vod_letter": "W",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/164809624014.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2022",
-      "vod_remark": "全35集",
-      "vod_actor": "秦霄贤,赵小棠,孟鹤堂,张昊玥,曹鹤阳,李鹤东,张鹤伦,朱云峰",
-      "vod_director": "綦小卉",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "391",
-      "vod_hits_day": "0",
-      "vod_hits_week": "3",
-      "vod_hits_month": "32",
-      "vod_duration": "44",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "4.2",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　某朝某代，盛世繁华，国泰民安，世人皆赞小皇帝英明睿智。但事实上，小皇帝尚未亲政，大权把握在太后和宰辅手中。对朝政不感兴趣的小皇帝一心想出宫游历，并对经营勾栏瓦舍、延揽江湖艺人、开办戏院十分痴迷。一日，小皇帝发现一条宫中密道，悄摸溜出，谁料密道尽头竟是一家关张多年的瓦舍。小皇帝偶遇盘下瓦舍的女伶白小青，从此便隐瞒身份在此瓦舍中与一群各具特色的奇葩艺人展开了一段啼笑皆非的茶楼经营趣事……",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/6883966fd8f918a4aa29be29d2c386fb#第02集$https://yzzy.play-cdn2.com/share/3fe94a002317b5f9259f82690aeea4cd#第03集$https://yzzy.play-cdn2.com/share/9fd81843ad7f202f26c1a174c7357585#第04集$https://yzzy.play-cdn2.com/share/432aca3a1e345e339f35a30c8f65edce#第05集$https://yzzy.play-cdn2.com/share/d296c101daa88a51f6ca8cfc1ac79b50#第06集$https://yzzy.play-cdn2.com/share/320722549d1751cf3f247855f937b982#第07集$https://yzzy.play-cdn2.com/share/1700002963a49da13542e0726b7bb758#第08集$https://yzzy.play-cdn2.com/share/5737c6ec2e0716f3d8a7a5c4e0de0d9a#第09集$https://yzzy.play-cdn2.com/share/f90f2aca5c640289d0a29417bcb63a37#第10集$https://yzzy.play-cdn2.com/share/918317b57931b6b7a7d29490fe5ec9f9#第11集$https://yzzy.play-cdn2.com/share/16a5cdae362b8d27a1d8f8c7b78b4330#第12集$https://yzzy.play-cdn2.com/share/839ab46820b524afda05122893c2fe8e#第13集$https://yzzy.play-cdn2.com/share/b83aac23b9528732c23cc7352950e880#第14集$https://yzzy.play-cdn2.com/share/53c3bce66e43be4f209556518c2fcb54#第15集$https://yzzy.play-cdn2.com/share/6faa8040da20ef399b63a72d0e4ab575#第16集$https://yzzy.play-cdn2.com/share/48aedb8880cab8c45637abc7493ecddd#第17集$https://yzzy.play-cdn2.com/share/c042f4db68f23406c6cecf84a7ebb0fe#第18集$https://yzzy.play-cdn2.com/share/d395771085aab05244a4fb8fd91bf4ee#第19集$https://yzzy.play-cdn2.com/share/310dcbbf4cce62f762a2aaa148d556bd#第20集$https://yzzy.play-cdn2.com/share/2f2b265625d76a6704b08093c652fd79#第21集$https://yzzy.play-cdn2.com/share/6855456e2fe46a9d49d3d3af4f57443d#第22集$https://yzzy.play-cdn2.com/share/6a9aeddfc689c1d0e3b9ccc3ab651bc5#第23集$https://yzzy.play-cdn2.com/share/357a6fdf7642bf815a88822c447d9dc4#第24集$https://yzzy.play-cdn2.com/share/4734ba6f3de83d861c3176a6273cac6d#第25集$https://yzzy.play-cdn2.com/share/819f46e52c25763a55cc642422644317#第26集$https://yzzy.play-cdn2.com/share/d947bf06a885db0d477d707121934ff8#第27集$https://yzzy.play-cdn2.com/share/40008b9a5380fcacce3976bf7c08af5b#第28集$https://yzzy.play-cdn2.com/share/58238e9ae2dd305d79c2ebc8c1883422#第29集$https://yzzy.play-cdn2.com/share/39059724f73a9969845dfe4146c5660e#第30集$https://yzzy.play-cdn2.com/share/06138bc5af6023646ede0e1f7c1eac75#第31集$https://yzzy.play-cdn2.com/share/eda80a3d5b344bc40f3bc04f65b7a357#第32集$https://yzzy.play-cdn2.com/share/13f9896df61279c928f19721878fac41#第33集$https://yzzy.play-cdn2.com/share/01386bd6d8e091c2ab4c7c7de644d37b#第34集$https://yzzy.play-cdn2.com/share/f7664060cc52bc6f3d620bcedc94a4b6#第35集$https://yzzy.play-cdn2.com/share/e56954b4f6347e897f954495eab16a88$$$第01集$https://yzzy.play-cdn2.com/20220324/294_e085c679/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/316_15850b45/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/297_d02db999/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/318_045b83e5/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/296_6f8c39e5/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/320_26671735/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/292_c9c81d20/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/322_cb7c3541/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/290_6e96a132/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/287_78fcffb3/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/286_0d2c1c89/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/289_783797f5/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/327_e9e3c1d2/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/293_c25a968c/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/329_64507f88/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/288_ffc0f4e0/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/332_13e0e5e5/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/279_e5308888/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/333_435853fe/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/334_8d589d15/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/336_654bca4b/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/282_033c7889/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/337_a10e9fac/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/273_6d1a1c33/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/338_15443502/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/274_a2d90b28/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/340_6d790d35/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/342_50c8c3a2/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/270_f7ff7a2e/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/269_1646ee31/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220324/267_2719a0ec/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220324/346_d0e60fe6/index.m3u8#第33集$https://yzzy.play-cdn2.com/20220324/348_e2326839/index.m3u8#第34集$https://yzzy.play-cdn2.com/20220324/266_f629bee0/index.m3u8#第35集$https://yzzy.play-cdn2.com/20220324/265_56f492b4/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-24 19:45:45",
-      "vod_id": "966",
-      "vod_name": "冰雪之名",
-      "vod_enname": "bingxuezhiming",
-      "vod_subname": "中国冰雪/To Our Dreamland of Ice",
-      "vod_letter": "B",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/164809624515.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2022",
-      "vod_remark": "全34集",
-      "vod_actor": "欧豪,彭小苒,陈若轩,梁洁,伊丽媛,蒋欣,刘天佐,邵兵,毛俊杰,王秀竹,张峻鸣,黑泽,李健,梁爱琪,林鹏,洛葳,刘显达,刘向京,威力斯,郭家铭,蔡子伦,万籽麟,任怡瑄",
-      "vod_director": "白涛",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "301",
-      "vod_hits_day": "0",
-      "vod_hits_week": "2",
-      "vod_hits_month": "20",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "4.2",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　2022年，速滑小将严阳即将为中国队征战世界青年锦标赛，当他拿起父亲严振华穿的那双红色冰鞋，不禁想起严家三代人与冰雪运动的不解之缘.……　　1980年，儿时的严振华在父亲严义国的启蒙下练习滑冰，并与哈尔滨女孩李冰河相识，成为花滑搭档。在残酷的竞技道路与时代变迁中，严振华与李冰河相互扶持，却最终渐行渐远。　　随着严振华儿子严阳一天天长大，严家人与冰雪运动的故事又掀开了新的篇章。2019年，严阳不顾父亲反对入选短道速滑青训营，却因实力不济沦为女选手金莹的陪练。在冠军教练陈谨的栽培下，严阳成功逆袭，并与金莹相互激励，最终一道踏上世界青年锦标赛的赛场。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/fc49306d97602c8ed1be1dfbf0835ead#第02集$https://yzzy.play-cdn2.com/share/2a084e55c87b1ebcdaad1f62fdbbac8e#第03集$https://yzzy.play-cdn2.com/share/847cc55b7032108eee6dd897f3bca8a5#第04集$https://yzzy.play-cdn2.com/share/a67f096809415ca1c9f112d96d27689b#第05集$https://yzzy.play-cdn2.com/share/8c235f89a8143a28a1d6067e959dd858#第06集$https://yzzy.play-cdn2.com/share/f7e9050c92a851b0016442ab604b0488#第07集$https://yzzy.play-cdn2.com/share/addfa9b7e234254d26e9c7f2af1005cb#第08集$https://yzzy.play-cdn2.com/share/92fb0c6d1758261f10d052e6e2c1123c#第09集$https://yzzy.play-cdn2.com/share/22ac3c5a5bf0b520d281c122d1490650#第10集$https://yzzy.play-cdn2.com/share/aff1621254f7c1be92f64550478c56e6#第11集$https://yzzy.play-cdn2.com/share/fe8c15fed5f808006ce95eddb7366e35#第12集$https://yzzy.play-cdn2.com/share/1efa39bcaec6f3900149160693694536#第13集$https://yzzy.play-cdn2.com/share/362e80d4df43b03ae6d3f8540cd63626#第14集$https://yzzy.play-cdn2.com/share/84f7e69969dea92a925508f7c1f9579a#第15集$https://yzzy.play-cdn2.com/share/b86e8d03fe992d1b0e19656875ee557c#第16集$https://yzzy.play-cdn2.com/share/f4552671f8909587cf485ea990207f3b#第17集$https://yzzy.play-cdn2.com/share/e97ee2054defb209c35fe4dc94599061#第18集$https://yzzy.play-cdn2.com/share/fc3cf452d3da8402bebb765225ce8c0e#第19集$https://yzzy.play-cdn2.com/share/3d8e28caf901313a554cebc7d32e67e5#第20集$https://yzzy.play-cdn2.com/share/02a32ad2669e6fe298e607fe7cc0e1a0#第21集$https://yzzy.play-cdn2.com/share/8f7d807e1f53eff5f9efbe5cb81090fb#第22集$https://yzzy.play-cdn2.com/share/fa83a11a198d5a7f0bf77a1987bcd006#第23集$https://yzzy.play-cdn2.com/share/ab88b15733f543179858600245108dd8#第24集$https://yzzy.play-cdn2.com/share/f9028faec74be6ec9b852b0a542e2f39#第25集$https://yzzy.play-cdn2.com/share/b0b183c207f46f0cca7dc63b2604f5cc#第26集$https://yzzy.play-cdn2.com/share/4d5b995358e7798bc7e9d9db83c612a5#第27集$https://yzzy.play-cdn2.com/share/013a006f03dbc5392effeb8f18fda755#第28集$https://yzzy.play-cdn2.com/share/301ad0e3bd5cb1627a2044908a42fdc2#第29集$https://yzzy.play-cdn2.com/share/7250eb93b3c18cc9daa29cf58af7a004#第30集$https://yzzy.play-cdn2.com/share/8e82ab7243b7c66d768f1b8ce1c967eb#第31集$https://yzzy.play-cdn2.com/share/e0ec453e28e061cc58ac43f91dc2f3f0#第32集$https://yzzy.play-cdn2.com/share/fa3a3c407f82377f55c19c5d403335c7#第33集$https://yzzy.play-cdn2.com/share/ce78d1da254c0843eb23951ae077ff5f#第34集$https://yzzy.play-cdn2.com/share/c2626d850c80ea07e7511bbae4c76f4b$$$第01集$https://yzzy.play-cdn2.com/20220324/860_9d3c100a/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/859_13700306/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/857_8009b5dd/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/858_77221048/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/856_27dbfbc7/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/854_a4096600/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/855_66e5b4e2/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/851_67279eaf/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/852_f0bf3367/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/853_be6b6a1a/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/849_d5a22b7f/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/850_e134e8f3/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/848_02ef8246/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/846_dd9babd2/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/845_45a2a2cb/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/847_89e60b0f/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/844_1ad456c6/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/842_57702718/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/843_ee929dd1/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/841_9f9a7e5f/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/839_82acae05/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/840_45546b2b/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/836_a029264e/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/838_16d41a04/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/837_902b527a/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/835_9d980bc8/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/833_8ffc64df/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/834_ac94bab3/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/832_d037d0d6/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/830_d94e4694/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220324/831_46dcb877/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220324/827_08511c2f/index.m3u8#第33集$https://yzzy.play-cdn2.com/20220324/829_a0919844/index.m3u8#第34集$https://yzzy.play-cdn2.com/20220324/828_d308f45d/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-25 00:08:37",
-      "vod_id": "967",
-      "vod_name": "老闺蜜",
-      "vod_enname": "laoguimi",
-      "vod_subname": "Good Time",
-      "vod_letter": "L",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/164809624916.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2020",
-      "vod_remark": "全48集",
-      "vod_actor": "王馥荔,潘虹,宋晓英,许娣,吴冕,孔雁,崔鹏,盛冠森,朱子璇,谢承颖,闫霖飞,赵顺然,冯千,马书良,成国栋,王诗槐,方俊哲,陈秋伶,孙磊,赵珍妮,冷海铭,三忘,王啸宇,刘姝辰,徐俊犇,徐玉兰,康群智,宗晓军,夏诺·扎西敦珠,邵逸凡,侯依彤,朱敏,马伟亮,杨树,张林圣,梁虹,李玮珽,阿唬,万家乐,常芮,金晖,赵肖云,张艺儿,吴贯一,丰艺超,吴倩,刘世轶,刘远锋,生严磊,张廷,段家璇,周帅,邹小祥,郑晓钟,蔡欣洋,崔冬洁,李亚泽,秦越,王洁敏,陈果,张大磊,刘磊,丁宏,侯思越,王彬雅,董婉萍,杨蕊丞,毛番琳,",
-      "vod_director": "乔梁",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "284",
-      "vod_hits_day": "0",
-      "vod_hits_week": "4",
-      "vod_hits_month": "38",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "5.2",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　某街区五位背景各异的老太太，悠然过着各自的晚年生活。梅姨开着一家咖啡馆，儿子的去世成了她内心挥之不去的痛。而服务员小雪的出现，彻底打乱了她的生活。宋老师日日来去奔波，将自己的生活安排得满满当当，却不时给女儿带来麻烦。刘大夫初来乍到，试图对儿子的生活强力去改变，令儿子苦不堪言。红姐是当地土著，虽衣食无忧，但儿女的婚事却成了她心头最大的难题。艾琳是街区里的“女神”，但内心的孤独只有她自己最清楚。五位老太太因一场“健康讲座”走到一起，在与骗子们激烈的斗智斗勇后，成为了“老闺蜜”。从此，便一起相互扶持，共同乐观面对生老病死那些沉重的话题。为了互助和助他，五位老人决定抱团养老，开起一家“老年人的乌托邦”。虽由此经历种种挫折，但最终，却用达观的姿态去笑着面对世界，并携手一起前往心中的圣地泸沽湖。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/dd77279f7d325eec933f05b1672f6a1f#第02集$https://yzzy.play-cdn2.com/share/e19347e1c3ca0c0b97de5fb3b690855a#第03集$https://yzzy.play-cdn2.com/share/d6ef5f7fa914c19931a55bb262ec879c#第04集$https://yzzy.play-cdn2.com/share/9c3b1830513cc3b8fc4b76635d32e692#第05集$https://yzzy.play-cdn2.com/share/20d135f0f28185b84a4cf7aa51f29500#第06集$https://yzzy.play-cdn2.com/share/b59c67bf196a4758191e42f76670ceba#第07集$https://yzzy.play-cdn2.com/share/2cbca44843a864533ec05b321ae1f9d1#第08集$https://yzzy.play-cdn2.com/share/8f1d43620bc6bb580df6e80b0dc05c48#第09集$https://yzzy.play-cdn2.com/share/b9d487a30398d42ecff55c228ed5652b#第10集$https://yzzy.play-cdn2.com/share/e58cc5ca94270acaceed13bc82dfedf7#第11集$https://yzzy.play-cdn2.com/share/c9f95a0a5af052bffce5c89917335f67#第12集$https://yzzy.play-cdn2.com/share/af21d0c97db2e27e13572cbf59eb343d#第13集$https://yzzy.play-cdn2.com/share/4da04049a062f5adfe81b67dd755cecc#第14集$https://yzzy.play-cdn2.com/share/aace49c7d80767cffec0e513ae886df0#第15集$https://yzzy.play-cdn2.com/share/c667d53acd899a97a85de0c201ba99be#第16集$https://yzzy.play-cdn2.com/share/c6bff625bdb0393992c9d4db0c6bbe45#第17集$https://yzzy.play-cdn2.com/share/1e6e0a04d20f50967c64dac2d639a577#第18集$https://yzzy.play-cdn2.com/share/a0160709701140704575d499c997b6ca#第19集$https://yzzy.play-cdn2.com/share/a5e0ff62be0b08456fc7f1e88812af3d#第20集$https://yzzy.play-cdn2.com/share/db2b4182156b2f1f817860ac9f409ad7#第21集$https://yzzy.play-cdn2.com/share/4e2545f819e67f0615003dd7e04a6087#第22集$https://yzzy.play-cdn2.com/share/d6723e7cd6735df68d1ce4c704c29a04#第23集$https://yzzy.play-cdn2.com/share/41bfd20a38bb1b0bec75acf0845530a7#第24集$https://yzzy.play-cdn2.com/share/68b1fbe7f16e4ae3024973f12f3cb313#第25集$https://yzzy.play-cdn2.com/share/6a2feef8ed6a9fe76d6b3f30f02150b4#第26集$https://yzzy.play-cdn2.com/share/754dda4b1ba34c6fa89716b85d68532b#第27集$https://yzzy.play-cdn2.com/share/8b4066554730ddfaa0266346bdc1b202#第28集$https://yzzy.play-cdn2.com/share/03f544613917945245041ea1581df0c2#第29集$https://yzzy.play-cdn2.com/share/b1563a78ec59337587f6ab6397699afc#第30集$https://yzzy.play-cdn2.com/share/a26398dca6f47b49876cbaffbc9954f9#第31集$https://yzzy.play-cdn2.com/share/d91d1b4d82419de8a614abce9cc0e6d4#第32集$https://yzzy.play-cdn2.com/share/4f16c818875d9fcb6867c7bdc89be7eb#第33集$https://yzzy.play-cdn2.com/share/9f36407ead0629fc166f14dde7970f68#第34集$https://yzzy.play-cdn2.com/share/e5e63da79fcd2bebbd7cb8bf1c1d0274#第35集$https://yzzy.play-cdn2.com/share/818f4654ed39a1c147d1e51a00ffb4cb#第36集$https://yzzy.play-cdn2.com/share/36a16a2505369e0c922b6ea7a23a56d2#第37集$https://yzzy.play-cdn2.com/share/731c83db8d2ff01bdc000083fd3c3740#第38集$https://yzzy.play-cdn2.com/share/43baa6762fa81bb43b39c62553b2970d#第39集$https://yzzy.play-cdn2.com/share/522a9ae9a99880d39e5daec35375e999#第40集$https://yzzy.play-cdn2.com/share/062ddb6c727310e76b6200b7c71f63b5#第41集$https://yzzy.play-cdn2.com/share/8a1e808b55fde9455cb3d8857ed88389#第42集$https://yzzy.play-cdn2.com/share/46072631582fc240dd2674a7d063b040#第43集$https://yzzy.play-cdn2.com/share/708f3cf8100d5e71834b1db77dfa15d6#第44集$https://yzzy.play-cdn2.com/share/390e982518a50e280d8e2b535462ec1f#第45集$https://yzzy.play-cdn2.com/share/a1519de5b5d44b31a01de013b9b51a80#第46集$https://yzzy.play-cdn2.com/share/1b0114c51cc532ed34e1954b5b9e4b58#第47集$https://yzzy.play-cdn2.com/share/dc58e3a306451c9d670adcd37004f48f#第48集$https://yzzy.play-cdn2.com/share/fc2c7c47b918d0c2d792a719dfb602ef$$$第01集$https://yzzy.play-cdn2.com/20220324/1116_6595a4f3/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/1115_eaceb13f/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/1114_a65484ab/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/1113_0d722287/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/1112_46bc746f/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/1111_84d9b583/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/1110_d6705628/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/1109_998db360/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/1108_cc228681/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/1107_75413151/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/1106_3785025d/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/1105_47139eec/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/1104_426da6eb/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/1103_f3a60f44/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/1102_2ba4afa1/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/1101_84d9c159/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/1100_aa7d3a62/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/1099_0d7ca3e5/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/1098_2936c9ab/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/1097_396fb7bc/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/1096_980d3763/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/1095_d1c2b710/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/1094_b88963a7/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/1093_1f07b86b/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/1092_45ddd044/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/1091_8d8ed1c4/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/1090_0017abbf/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/1089_5f4cdc58/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/1088_9105c449/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/1087_9cc9d0ad/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220324/1086_9d682a59/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220324/1085_59c348e9/index.m3u8#第33集$https://yzzy.play-cdn2.com/20220324/1084_182e7b5e/index.m3u8#第34集$https://yzzy.play-cdn2.com/20220324/1083_b577095c/index.m3u8#第35集$https://yzzy.play-cdn2.com/20220324/1082_7df6ac73/index.m3u8#第36集$https://yzzy.play-cdn2.com/20220324/1081_2b71d193/index.m3u8#第37集$https://yzzy.play-cdn2.com/20220324/1080_0c48bb2d/index.m3u8#第38集$https://yzzy.play-cdn2.com/20220324/1079_0085aa91/index.m3u8#第39集$https://yzzy.play-cdn2.com/20220324/1078_6ac1ede1/index.m3u8#第40集$https://yzzy.play-cdn2.com/20220324/1077_431e82ac/index.m3u8#第41集$https://yzzy.play-cdn2.com/20220324/1076_66dcf46c/index.m3u8#第42集$https://yzzy.play-cdn2.com/20220324/1075_1cf82850/index.m3u8#第43集$https://yzzy.play-cdn2.com/20220324/1074_d806b056/index.m3u8#第44集$https://yzzy.play-cdn2.com/20220324/1073_cb777f02/index.m3u8#第45集$https://yzzy.play-cdn2.com/20220324/1072_64e0e296/index.m3u8#第46集$https://yzzy.play-cdn2.com/20220324/1071_5378a828/index.m3u8#第47集$https://yzzy.play-cdn2.com/20220324/1070_8929cbe7/index.m3u8#第48集$https://yzzy.play-cdn2.com/20220324/1069_561af777/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-25 00:09:00",
-      "vod_id": "968",
-      "vod_name": "赖猫的狮子倒影",
-      "vod_enname": "laimiaodeshizidaoying",
-      "vod_subname": "老婆爱上我/The Lion's Secret",
-      "vod_letter": "L",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/164809625417.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2021",
-      "vod_remark": "全33集",
-      "vod_actor": "朱亚文,杨子姗,贺军翔,李媛,章申,邹承恩,蓝曼予,秦伯坤,隋咏良,陈昊明,谢承颖,建泽正,刘泯廷,施诗,周骏超,刘雪华,李光复,岳旸,方晓莉,夏利奥,夏健龙,蒋雪鸣",
-      "vod_director": "祝东宁,蓝海瀚",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "580",
-      "vod_hits_day": "0",
-      "vod_hits_week": "3",
-      "vod_hits_month": "43",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "5.2",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　一个是身家过亿的女总裁，一个是身无分文的无业游民，慕晚晴和刘青的第一次见面就在两个人的婚礼现场。从毫无感情、互相敌对，到彼此扶持、互生情愫，刘青一边暗中帮助慕晚晴解决公司遇到的重重危机，一边机智对抗着横空出现的慕晚晴前任男友冯聪。就在两人的感情经历重重考验之际，一股背后的黑暗势力也渐渐浮出水面。为了完成老一辈的遗愿，慕晚晴和刘青踏上了去泰国的行程，与黑暗势力正面交锋并取得了胜利，二人也认定对方是自己的所爱。两人回国过上幸福圆满的生活。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/09c6c3783b4a70054da74f2538ed47c6#第02集$https://yzzy.play-cdn2.com/share/df0aab058ce179e4f7ab135ed4e641a9#第03集$https://yzzy.play-cdn2.com/share/a1d50185e7426cbb0acad1e6ca74b9aa#第04集$https://yzzy.play-cdn2.com/share/8a3363abe792db2d8761d6403605aeb7#第05集$https://yzzy.play-cdn2.com/share/feab05aa91085b7a8012516bc3533958#第06集$https://yzzy.play-cdn2.com/share/4588e674d3f0faf985047d4c3f13ed0d#第07集$https://yzzy.play-cdn2.com/share/208e43f0e45c4c78cafadb83d2888cb6#第08集$https://yzzy.play-cdn2.com/share/8ce6790cc6a94e65f17f908f462fae85#第09集$https://yzzy.play-cdn2.com/share/f7f580e11d00a75814d2ded41fe8e8fe#第10集$https://yzzy.play-cdn2.com/share/8248a99e81e752cb9b41da3fc43fbe7f#第11集$https://yzzy.play-cdn2.com/share/184260348236f9554fe9375772ff966e#第12集$https://yzzy.play-cdn2.com/share/c3e0c62ee91db8dc7382bde7419bb573#第13集$https://yzzy.play-cdn2.com/share/801c14f07f9724229175b8ef8b4585a8#第14集$https://yzzy.play-cdn2.com/share/47a658229eb2368a99f1d032c8848542#第15集$https://yzzy.play-cdn2.com/share/fd2c5e4680d9a01dba3aada5ece22270#第16集$https://yzzy.play-cdn2.com/share/7c9d0b1f96aebd7b5eca8c3edaa19ebb#第17集$https://yzzy.play-cdn2.com/share/fd06b8ea02fe5b1c2496fe1700e9d16c#第18集$https://yzzy.play-cdn2.com/share/571e0f7e2d992e738adff8b1bd43a521#第19集$https://yzzy.play-cdn2.com/share/fe709c654eac84d5239d1a12a4f71877#第20集$https://yzzy.play-cdn2.com/share/4a213d37242bdcad8e7300e202e7caa4#第21集$https://yzzy.play-cdn2.com/share/69a5b5995110b36a9a347898d97a610e#第22集$https://yzzy.play-cdn2.com/share/3fe78a8acf5fda99de95303940a2420c#第23集$https://yzzy.play-cdn2.com/share/678a1491514b7f1006d605e9161946b1#第24集$https://yzzy.play-cdn2.com/share/ffeed84c7cb1ae7bf4ec4bd78275bb98#第25集$https://yzzy.play-cdn2.com/share/c21002f464c5fc5bee3b98ced83963b8#第26集$https://yzzy.play-cdn2.com/share/c7635bfd99248a2cdef8249ef7bfbef4#第27集$https://yzzy.play-cdn2.com/share/2cfd4560539f887a5e420412b370b361#第28集$https://yzzy.play-cdn2.com/share/3b712de48137572f3849aabd5666a4e3#第29集$https://yzzy.play-cdn2.com/share/3a15c7d0bbe60300a39f76f8a5ba6896#第30集$https://yzzy.play-cdn2.com/share/c6036a69be21cb660499b75718a3ef24#第31集$https://yzzy.play-cdn2.com/share/8597a6cfa74defcbde3047c891d78f90#第32集$https://yzzy.play-cdn2.com/share/c60d060b946d6dd6145dcbad5c4ccf6f#第33集$https://yzzy.play-cdn2.com/share/0eec27c419d0fe24e53c90338cdc8bc6$$$第01集$https://yzzy.play-cdn2.com/20220324/1149_11606728/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/1148_7eb195de/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/1147_644a950a/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/1146_adf7a48e/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/1145_79689471/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/1144_1f096a7b/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/1143_f48682ef/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/1142_9a5cefc6/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/1141_8403e284/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/1140_fd61b677/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/1139_ca99be0e/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/1138_6e9df6fe/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/1137_aa0e35c3/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/1136_4d03a046/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/1135_82b55794/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/1134_9e255335/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/1133_c1d4a985/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/1132_556dfd33/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/1131_42dd8549/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/1130_fec096cd/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/1129_0aa10fc6/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/1128_193b75c5/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/1127_eaf0baa2/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/1126_c5b69cd5/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/1125_843887f5/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/1124_5d9113c8/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/1123_11b49871/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/1122_7ead9257/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/1121_9e72aa99/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/1120_ed8dace3/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220324/1119_667a76d5/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220324/1118_46bdd187/index.m3u8#第33集$https://yzzy.play-cdn2.com/20220324/1117_54ff1b14/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-24 19:53:17",
-      "vod_id": "969",
-      "vod_name": "奋勇向前",
-      "vod_enname": "fenyongxiangqian",
-      "vod_subname": "齐鲁儿女",
-      "vod_letter": "F",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/16480962641.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2020",
-      "vod_remark": "全36集",
-      "vod_actor": "叶静,缪婷茹,任东霖,黄俊鹏,杜源,王姬,谢园,徐少强",
-      "vod_director": "武洪武,李相国",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "141",
-      "vod_hits_day": "0",
-      "vod_hits_week": "2",
-      "vod_hits_month": "20",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "5.2",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　一九三七年十二月二十七日，中共山东省委在篦子店召开紧急会议，会议根据急剧变化的形势，决定在泰城被日寇攻占前正式举行起义。日军中佐滨野高广作为日军先头部队进入泰城境内。徂徕山崖头庄，正值村长杨守南次子杨东良大婚。在迎娶新娘胡腊梅的路上，杨东良等人遭遇了土匪头目鞠振山抢亲，年轻气盛的杨东良带人剿匪，却误打误撞杀死了两个日本侦察兵。杨守南大儿子杨东善带着省委的冯超等同志回崖头庄准备起义，被汉奸吕茂恒出卖，导致崖头庄被滨野高广带领的日军中队血洗。一九三八年一月一日，冯超、杨东善等人在徂徕山大寺召集各界爱国人士一百六十余人宣誓起义，成立“八路军鲁中抗日游击队第四支队”。杨东良和新婚妻子胡腊梅在冯超等人带领下，成功潜伏进泰城，破坏了日军的一系列战略计划，一举歼灭了滨野高广带领的日军部队。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/d554f7bb7be44a7267068a7df88ddd20#第02集$https://yzzy.play-cdn2.com/share/677e09724f0e2df9b6c000b75b5da10d#第03集$https://yzzy.play-cdn2.com/share/795c7a7a5ec6b460ec00c5841019b9e9#第04集$https://yzzy.play-cdn2.com/share/afda332245e2af431fb7b672a68b659d#第05集$https://yzzy.play-cdn2.com/share/632cee946db83e7a52ce5e8d6f0fed35#第06集$https://yzzy.play-cdn2.com/share/4558dbb6f6f8bb2e16d03b85bde76e2c#第07集$https://yzzy.play-cdn2.com/share/3b5dca501ee1e6d8cd7b905f4e1bf723#第08集$https://yzzy.play-cdn2.com/share/e2a2dcc36a08a345332c751b2f2e476c#第09集$https://yzzy.play-cdn2.com/share/f0adc8838f4bdedde4ec2cfad0515589#第10集$https://yzzy.play-cdn2.com/share/43fa7f58b7eac7ac872209342e62e8f1#第11集$https://yzzy.play-cdn2.com/share/31839b036f63806cba3f47b93af8ccb5#第12集$https://yzzy.play-cdn2.com/share/71ad16ad2c4d81f348082ff6c4b20768#第13集$https://yzzy.play-cdn2.com/share/e0cf1f47118daebc5b16269099ad7347#第14集$https://yzzy.play-cdn2.com/share/96b9bff013acedfb1d140579e2fbeb63#第15集$https://yzzy.play-cdn2.com/share/b6edc1cd1f36e45daf6d7824d7bb2283#第16集$https://yzzy.play-cdn2.com/share/81e74d678581a3bb7a720b019f4f1a93#第17集$https://yzzy.play-cdn2.com/share/670e8a43b246801ca1eaca97b3e19189#第18集$https://yzzy.play-cdn2.com/share/a8ecbabae151abacba7dbde04f761c37#第19集$https://yzzy.play-cdn2.com/share/6e7b33fdea3adc80ebd648fffb665bb8#第20集$https://yzzy.play-cdn2.com/share/32b30a250abd6331e03a2a1f16466346#第21集$https://yzzy.play-cdn2.com/share/dc5689792e08eb2e219dce49e64c885b#第22集$https://yzzy.play-cdn2.com/share/846c260d715e5b854ffad5f70a516c88#第23集$https://yzzy.play-cdn2.com/share/d58072be2820e8682c0a27c0518e805e#第24集$https://yzzy.play-cdn2.com/share/1141938ba2c2b13f5505d7c424ebae5f#第25集$https://yzzy.play-cdn2.com/share/1aa48fc4880bb0c9b8a3bf979d3b917e#第26集$https://yzzy.play-cdn2.com/share/1905aedab9bf2477edc068a355bba31a#第27集$https://yzzy.play-cdn2.com/share/9e3cfc48eccf81a0d57663e129aef3cb#第28集$https://yzzy.play-cdn2.com/share/28267ab848bcf807b2ed53c3a8f8fc8a#第29集$https://yzzy.play-cdn2.com/share/7a53928fa4dd31e82c6ef826f341daec#第30集$https://yzzy.play-cdn2.com/share/beb22fb694d513edcf5533cf006dfeae#第31集$https://yzzy.play-cdn2.com/share/7c590f01490190db0ed02a5070e20f01#第32集$https://yzzy.play-cdn2.com/share/35cf8659cfcb13224cbd47863a34fc58#第33集$https://yzzy.play-cdn2.com/share/82489c9737cc245530c7a6ebef3753ec#第34集$https://yzzy.play-cdn2.com/share/96ea64f3a1aa2fd00c72faacf0cb8ac9#第35集$https://yzzy.play-cdn2.com/share/df7f28ac89ca37bf1abd2f6c184fe1cf#第36集$https://yzzy.play-cdn2.com/share/da8ce53cf0240070ce6c69c48cd588ee$$$第01集$https://yzzy.play-cdn2.com/20220324/825_2abe6cba/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/824_34192f07/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/826_6d1c7654/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/822_3e90b3a9/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/823_55623026/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/821_a7f559fc/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/819_169f9196/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/820_6939cefa/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/818_4905257a/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/816_08f1df9d/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/817_f50fcf62/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/815_3bf368f4/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/813_dc1ea67e/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/814_db828cfc/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/810_1cb688f4/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/812_b5378d26/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/811_51ad8454/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/808_6936aac6/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/807_a0394326/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/809_2e3c3960/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/804_c3231395/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/805_d18cc751/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/806_1f7d03d4/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/802_2cd8a7c4/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/803_2309cfae/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/801_65e09917/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/798_c3a3e487/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/799_1af24af4/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/800_b0848a74/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/797_cc2d8966/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220324/795_fcffe771/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220324/796_7c5a275d/index.m3u8#第33集$https://yzzy.play-cdn2.com/20220324/794_8eb1ef32/index.m3u8#第34集$https://yzzy.play-cdn2.com/20220324/792_5d481d9d/index.m3u8#第35集$https://yzzy.play-cdn2.com/20220324/791_70c627f4/index.m3u8#第36集$https://yzzy.play-cdn2.com/20220324/793_12e96b1b/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-25 00:09:22",
-      "vod_id": "970",
-      "vod_name": "惹不起的千岁大人",
-      "vod_enname": "ruobuqideqiansuidaren",
-      "vod_subname": "",
-      "vod_letter": "R",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/16480962682.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2022",
-      "vod_remark": "全15集",
-      "vod_actor": "罗正,季美含,陈名豪,杨伊墨,扈帷,朱美吉,张皓承,张艺瀚",
-      "vod_director": "蔡君爱",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "131",
-      "vod_hits_day": "0",
-      "vod_hits_week": "1",
-      "vod_hits_month": "18",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "5.2",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　故事讲述了拥有如打不死小强般顽强生命力的鬼马少女陈有有，被迫和抚仙城杀伐决断的“千岁大人”白离结为对食，一个是为谋生存的百变戏精，一个是隐瞒身份多年的“千岁大人”，二人在互相攻略中，最终真心失守。这是一个关于爱和成长的故事。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/7cce53cf90577442771720a370c3c723#第02集$https://yzzy.play-cdn2.com/share/20b5e1cf8694af7a3c1ba4a87f073021#第03集$https://yzzy.play-cdn2.com/share/1579779b98ce9edb98dd85606f2c119d#第04集$https://yzzy.play-cdn2.com/share/a0e2a2c563d57df27213ede1ac4ac780#第05集$https://yzzy.play-cdn2.com/share/1019c8091693ef5c5f55970346633f92#第06集$https://yzzy.play-cdn2.com/share/b9141aff1412dc76340b3822d9ea6c72#第07集$https://yzzy.play-cdn2.com/share/9ac403da7947a183884c18a67d3aa8de#第08集$https://yzzy.play-cdn2.com/share/d736bb10d83a904aefc1d6ce93dc54b8#第09集$https://yzzy.play-cdn2.com/share/537d9b6c927223c796cac288cced29df#第10集$https://yzzy.play-cdn2.com/share/27ed0fb950b856b06e1273989422e7d3#第11集$https://yzzy.play-cdn2.com/share/6d70cb65d15211726dcce4c0e971e21c#第12集$https://yzzy.play-cdn2.com/share/eddb904a6db773755d2857aacadb1cb0#第13集$https://yzzy.play-cdn2.com/share/83fa5a432ae55c253d0e60dbfa716723#第14集$https://yzzy.play-cdn2.com/share/a34bacf839b923770b2c360eefa26748#第15集$https://yzzy.play-cdn2.com/share/bdb106a0560c4e46ccc488ef010af787$$$第01集$https://yzzy.play-cdn2.com/20220324/1048_5d4ec0bc/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/1047_fdc3311f/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/1046_c2617d24/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/1045_a209c96d/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/1044_75b905af/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/1043_307f3c7b/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/1042_06776681/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/1041_3dafa2ea/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/1040_8090a3bf/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/1039_0c2d2a99/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/1038_b55cae3a/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/1037_1373bed3/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/1036_25448e3f/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/1035_5c78dab9/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/1034_d17c17c0/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-27 10:05:56",
-      "vod_id": "971",
-      "vod_name": "谁是凶手",
-      "vod_enname": "shuishixiongshou",
-      "vod_subname": "Who is The Murderer",
-      "vod_letter": "S",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/16480962723.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2021",
-      "vod_remark": "全16集",
-      "vod_actor": "赵丽颖,肖央,董子健,姚安濂,刘琳,常铖,李强,郝平,王鑫,姜卓君,孙绍龙,边天扬,李光复,周奇,王茂蕾,高露,耿乐,常戎,张昊唯,刘桦",
-      "vod_director": "孙皓",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "686",
-      "vod_hits_day": "0",
-      "vod_hits_week": "2",
-      "vod_hits_month": "55",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "6.2",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　该剧讲述了一起发生在南方四线小城海舟市的连环凶案，在真相尘封了十七年之后，与这宗悬案有着千丝万缕的联系的人们，在各自不可告人的秘密中，一起等待真相浮出水面……",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/92977ae4d2ba21425a59afb269c2a14e#第02集$https://yzzy.play-cdn2.com/share/4311359ed4969e8401880e3c1836fbe1#第03集$https://yzzy.play-cdn2.com/share/ca75910166da03ff9d4655a0338e6b09#第04集$https://yzzy.play-cdn2.com/share/c22abfa379f38b5b0411bc11fa9bf92f#第05集$https://yzzy.play-cdn2.com/share/6602294be910b1e3c4571bd98c4d5484#第06集$https://yzzy.play-cdn2.com/share/89fcd07f20b6785b92134bd6c1d0fa42#第07集$https://yzzy.play-cdn2.com/share/e744f91c29ec99f0e662c9177946c627#第08集$https://yzzy.play-cdn2.com/share/8f468c873a32bb0619eaeb2050ba45d1#第09集$https://yzzy.play-cdn2.com/share/6cfe0e6127fa25df2a0ef2ae1067d915#第10集$https://yzzy.play-cdn2.com/share/4e0cb6fb5fb446d1c92ede2ed8780188#第11集$https://yzzy.play-cdn2.com/share/eeb69a3cb92300456b6a5f4162093851#第12集$https://yzzy.play-cdn2.com/share/8065d07da4a77621450aa84fee5656d9#第13集$https://yzzy.play-cdn2.com/share/1ce927f875864094e3906a4a0b5ece68#第14集$https://yzzy.play-cdn2.com/share/5c936263f3428a40227908d5a3847c0b#第15集$https://yzzy.play-cdn2.com/share/d707329bece455a462b58ce00d1194c9#第16集$https://yzzy.play-cdn2.com/share/437d7d1d97917cd627a34a6a0fb41136$$$第01集$https://yzzy.play-cdn2.com/20220324/975_1bf86ead/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/974_0b75a71a/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/973_2019ff04/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/972_4a819cbc/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/971_fbfddec6/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/970_61eef6ff/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/969_a77e7836/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/968_64454be2/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/967_a2d821e6/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/966_21f7a58e/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/965_805fdd01/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/964_94b44361/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/963_49a85f5e/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/962_2f5a4b75/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/961_5826a30a/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/960_07d5a908/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-24 19:52:12",
-      "vod_id": "972",
-      "vod_name": "黄金瞳",
-      "vod_enname": "huangjintong",
-      "vod_subname": "The Golden Eyes",
-      "vod_letter": "H",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/16480962774.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2019",
-      "vod_remark": "全56集",
-      "vod_actor": "张艺兴,王紫璇,王栎鑫,李立群,陈泇文,孟阿赛,泓萱,石兆琪,洪剑涛,王茜,薛皓文,张帆,盖雨嘉,王闯,左金珠,何育骏,窦柏林,韩童生,史航,谭凯",
-      "vod_director": "林楠",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "1002",
-      "vod_hits_day": "0",
-      "vod_hits_week": "4",
-      "vod_hits_month": "53",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "5.4",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　由爱奇艺、灵河传媒、腾讯影业出品，爱奇艺龚宇担任出品人、林楠执导，铁佛担任总监制、南派三叔总策划，白一骢、李莅樱出任总制片人，张鸢盎为总编剧，张艺兴领衔主演的超级网剧《黄金瞳》，预计2018年底在爱奇艺独家上线。《黄金瞳》改编自白金作家打眼所著的都市探险同名小说，讲述了典当行工作的小职员庄睿，在一次意外中眼睛发生异变。美轮美奂的陶瓷，古拙大方的青铜器，惊心动魄的赌石等接踵而来，他的生活也随之产生了天翻地覆的变化。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/7f5d04d189dfb634e6a85bb9d9adf21e#第02集$https://yzzy.play-cdn2.com/share/109a0ca3bc27f3e96597370d5c8cf03d#第03集$https://yzzy.play-cdn2.com/share/3328bdf9a4b9504b9398284244fe97c2#第04集$https://yzzy.play-cdn2.com/share/556f391937dfd4398cbac35e050a2177#第05集$https://yzzy.play-cdn2.com/share/24681928425f5a9133504de568f5f6df#第06集$https://yzzy.play-cdn2.com/share/08d98638c6fcd194a4b1e6992063e944#第07集$https://yzzy.play-cdn2.com/share/1595af6435015c77a7149e92a551338e#第08集$https://yzzy.play-cdn2.com/share/fccb3cdc9acc14a6e70a12f74560c026#第09集$https://yzzy.play-cdn2.com/share/ca9c267dad0305d1a6308d2a0cf1c39c#第10集$https://yzzy.play-cdn2.com/share/9fe8593a8a330607d76796b35c64c600#第11集$https://yzzy.play-cdn2.com/share/71a3cb155f8dc89bf3d0365288219936#第12集$https://yzzy.play-cdn2.com/share/8fecb20817b3847419bb3de39a609afe#第13集$https://yzzy.play-cdn2.com/share/dc6a70712a252123c40d2adba6a11d84#第14集$https://yzzy.play-cdn2.com/share/0d7de1aca9299fe63f3e0041f02638a3#第15集$https://yzzy.play-cdn2.com/share/9f396fe44e7c05c16873b05ec425cbad#第16集$https://yzzy.play-cdn2.com/share/2dea61eed4bceec564a00115c4d21334#第17集$https://yzzy.play-cdn2.com/share/5dd9db5e033da9c6fb5ba83c7a7ebea9#第18集$https://yzzy.play-cdn2.com/share/17c276c8e723eb46aef576537e9d56d0#第19集$https://yzzy.play-cdn2.com/share/5c04925674920eb58467fb52ce4ef728#第20集$https://yzzy.play-cdn2.com/share/192fc044e74dffea144f9ac5dc9f3395#第21集$https://yzzy.play-cdn2.com/share/b5dc4e5d9b495d0196f61d45b26ef33e#第22集$https://yzzy.play-cdn2.com/share/fae0b27c451c728867a567e8c1bb4e53#第23集$https://yzzy.play-cdn2.com/share/84117275be999ff55a987b9381e01f96#第24集$https://yzzy.play-cdn2.com/share/2291d2ec3b3048d1a6f86c2c4591b7e0#第25集$https://yzzy.play-cdn2.com/share/8757150decbd89b0f5442ca3db4d0e0e#第26集$https://yzzy.play-cdn2.com/share/be3159ad04564bfb90db9e32851ebf9c#第27集$https://yzzy.play-cdn2.com/share/3a066bda8c96b9478bb0512f0a43028c#第28集$https://yzzy.play-cdn2.com/share/68264bdb65b97eeae6788aa3348e553c#第29集$https://yzzy.play-cdn2.com/share/0ff8033cf9437c213ee13937b1c4c455#第30集$https://yzzy.play-cdn2.com/share/2f37d10131f2a483a8dd005b3d14b0d9#第31集$https://yzzy.play-cdn2.com/share/b4288d9c0ec0a1841b3b3728321e7088#第32集$https://yzzy.play-cdn2.com/share/26408ffa703a72e8ac0117e74ad46f33#第33集$https://yzzy.play-cdn2.com/share/3d2d8ccb37df977cb6d9da15b76c3f3a#第34集$https://yzzy.play-cdn2.com/share/ab233b682ec355648e7891e66c54191b#第35集$https://yzzy.play-cdn2.com/share/eaae339c4d89fc102edd9dbdb6a28915#第36集$https://yzzy.play-cdn2.com/share/30ef30b64204a3088a26bc2e6ecf7602#第37集$https://yzzy.play-cdn2.com/share/55743cc0393b1cb4b8b37d09ae48d097#第38集$https://yzzy.play-cdn2.com/share/884d247c6f65a96a7da4d1105d584ddd#第39集$https://yzzy.play-cdn2.com/share/55b37c5c270e5d84c793e486d798c01d#第40集$https://yzzy.play-cdn2.com/share/443cb001c138b2561a0d90720d6ce111#第41集$https://yzzy.play-cdn2.com/share/303ed4c69846ab36c2904d3ba8573050#第42集$https://yzzy.play-cdn2.com/share/0ff39bbbf981ac0151d340c9aa40e63e#第43集$https://yzzy.play-cdn2.com/share/5e9f92a01c986bafcabbafd145520b13#第44集$https://yzzy.play-cdn2.com/share/8c7bbbba95c1025975e548cee86dfadc#第45集$https://yzzy.play-cdn2.com/share/9b698eb3105bd82528f23d0c92dedfc0#第46集$https://yzzy.play-cdn2.com/share/291597a100aadd814d197af4f4bab3a7#第47集$https://yzzy.play-cdn2.com/share/67e103b0761e60683e83c559be18d40c#第48集$https://yzzy.play-cdn2.com/share/0f96613235062963ccde717b18f97592#第49集$https://yzzy.play-cdn2.com/share/4c27cea8526af8cfee3be5e183ac9605#第50集$https://yzzy.play-cdn2.com/share/4ffce04d92a4d6cb21c1494cdfcd6dc1#第51集$https://yzzy.play-cdn2.com/share/6a10bbd480e4c5573d8f3af73ae0454b#第52集$https://yzzy.play-cdn2.com/share/c5ab0bc60ac7929182aadd08703f1ec6#第53集$https://yzzy.play-cdn2.com/share/a532400ed62e772b9dc0b86f46e583ff#第54集$https://yzzy.play-cdn2.com/share/6766aa2750c19aad2fa1b32f36ed4aee#第55集$https://yzzy.play-cdn2.com/share/26dd0dbc6e3f4c8043749885523d6a25#第56集$https://yzzy.play-cdn2.com/share/9cc138f8dc04cbf16240daa92d8d50e2$$$第01集$https://yzzy.play-cdn2.com/20220324/687_b3d57cf6/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/686_fd91dd40/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/685_077667ad/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/684_99c757ff/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/683_5e62bc86/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/682_c16c830c/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/681_4431f952/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/680_e8ff324b/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/679_b0650a67/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/678_48c8e05e/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/677_11aa4094/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/675_2fd3a950/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/676_72f39f2f/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/674_77bb8015/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/673_94f3d6b6/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/672_77171a50/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/671_190b3c97/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/670_695dfc33/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/669_13825a38/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/668_11520a9c/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/667_b9f59aa0/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/666_4606cfde/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/665_060486c9/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/664_1f102eab/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/663_e12002ba/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/662_ce8d711d/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/661_a0f4f5f6/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/660_419048f8/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/659_024e3b22/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/658_88a3d094/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220324/657_be542b80/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220324/656_0a2aaf3c/index.m3u8#第33集$https://yzzy.play-cdn2.com/20220324/655_e5bc7c26/index.m3u8#第34集$https://yzzy.play-cdn2.com/20220324/654_e9f9139e/index.m3u8#第35集$https://yzzy.play-cdn2.com/20220324/653_aa5470eb/index.m3u8#第36集$https://yzzy.play-cdn2.com/20220324/652_9b1690bc/index.m3u8#第37集$https://yzzy.play-cdn2.com/20220324/651_2b3b712e/index.m3u8#第38集$https://yzzy.play-cdn2.com/20220324/650_5c0b8b07/index.m3u8#第39集$https://yzzy.play-cdn2.com/20220324/649_79b468cd/index.m3u8#第40集$https://yzzy.play-cdn2.com/20220324/648_5fa945f4/index.m3u8#第41集$https://yzzy.play-cdn2.com/20220324/647_94e7178e/index.m3u8#第42集$https://yzzy.play-cdn2.com/20220324/646_2cacc378/index.m3u8#第43集$https://yzzy.play-cdn2.com/20220324/645_96885404/index.m3u8#第44集$https://yzzy.play-cdn2.com/20220324/644_d472147a/index.m3u8#第45集$https://yzzy.play-cdn2.com/20220324/643_49b03f7b/index.m3u8#第46集$https://yzzy.play-cdn2.com/20220324/642_9ae1f314/index.m3u8#第47集$https://yzzy.play-cdn2.com/20220324/641_cd731c74/index.m3u8#第48集$https://yzzy.play-cdn2.com/20220324/639_6a2c8c10/index.m3u8#第49集$https://yzzy.play-cdn2.com/20220324/638_2dcbb5ab/index.m3u8#第50集$https://yzzy.play-cdn2.com/20220324/640_21ed9513/index.m3u8#第51集$https://yzzy.play-cdn2.com/20220324/635_6c14cd1f/index.m3u8#第52集$https://yzzy.play-cdn2.com/20220324/636_406647d0/index.m3u8#第53集$https://yzzy.play-cdn2.com/20220324/637_8ae02f41/index.m3u8#第54集$https://yzzy.play-cdn2.com/20220324/634_30c962a6/index.m3u8#第55集$https://yzzy.play-cdn2.com/20220324/633_9e4c69a8/index.m3u8#第56集$https://yzzy.play-cdn2.com/20220324/630_8eb7f579/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-24 20:27:55",
-      "vod_id": "973",
-      "vod_name": "周生如故",
-      "vod_enname": "zhoushengrugu",
-      "vod_subname": "长安如故/一生一世美人骨/One and Only",
-      "vod_letter": "Z",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/16480962815.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2021",
-      "vod_remark": "全24集",
-      "vod_actor": "任嘉伦,白鹿,王星越,李宜儒,姚奕辰,周陆啦,苏梦芸,吴曼思,刘威葳,梁爱琪,傅隽,于洋,原若航,张诚航",
-      "vod_director": "郭虎",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "893",
-      "vod_hits_day": "0",
-      "vod_hits_week": "7",
-      "vod_hits_month": "33",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "7.1",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　年少成名、战功赫赫的小南辰王周生辰，立志一生效忠国家，其严谨作风和谦逊为人为世人所称道。名门漼氏独女漼时宜出生便被指腹为婚为未来太子妃，因与王府是世交，便被长辈送到王府学艺。漼时宜善良可爱、活泼聪慧的个性，在王府深得众人喜爱，学艺精进也很快，是王府的开心果。点滴相处中， 漼时宜钦佩周生辰远大的志向和儒雅的品格，不知不觉中爱上了这位将军。无论是守在王府等待捷报，还是与周生辰并肩作战，漼时宜都是周生辰最坚强的后盾和最温暖的支撑。两人情感迅速升温，但依然发乎情止乎礼。边关再度告急，周生辰义不容辞领兵出战，而漼时宜却须担负起家族声誉的责任与太子完婚。奋勇抗敌的周生辰遭奸人所害，留下唯一给漼时宜的临终遗言之后与世长辞。漼时宜悲痛万分，从城墙一跃而下殉情而亡。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/a3c65c2974270fd093ee8a9bf8ae7d0b#第02集$https://yzzy.play-cdn2.com/share/2d6cc4b2d139a53512fb8cbb3086ae2e#第03集$https://yzzy.play-cdn2.com/share/e2230b853516e7b05d79744fbd4c9c13#第04集$https://yzzy.play-cdn2.com/share/6974ce5ac660610b44d9b9fed0ff9548#第05集$https://yzzy.play-cdn2.com/share/087408522c31eeb1f982bc0eaf81d35f#第06集$https://yzzy.play-cdn2.com/share/a760880003e7ddedfef56acb3b09697f#第07集$https://yzzy.play-cdn2.com/share/ed3d2c21991e3bef5e069713af9fa6ca#第08集$https://yzzy.play-cdn2.com/share/3dc4876f3f08201c7c76cb71fa1da439#第09集$https://yzzy.play-cdn2.com/share/2723d092b63885e0d7c260cc007e8b9d#第10集$https://yzzy.play-cdn2.com/share/26657d5ff9020d2abefe558796b99584#第11集$https://yzzy.play-cdn2.com/share/38913e1d6a7b94cb0f55994f679f5956#第12集$https://yzzy.play-cdn2.com/share/812b4ba287f5ee0bc9d43bbf5bbe87fb#第13集$https://yzzy.play-cdn2.com/share/f4b9ec30ad9f68f89b29639786cb62ef#第14集$https://yzzy.play-cdn2.com/share/f899139df5e1059396431415e770c6dd#第15集$https://yzzy.play-cdn2.com/share/07563a3fe3bbe7e3ba84431ad9d055af#第16集$https://yzzy.play-cdn2.com/share/92cc227532d17e56e07902b254dfad10#第17集$https://yzzy.play-cdn2.com/share/2bb232c0b13c774965ef8558f0fbd615#第18集$https://yzzy.play-cdn2.com/share/54229abfcfa5649e7003b83dd4755294#第19集$https://yzzy.play-cdn2.com/share/7647966b7343c29048673252e490f736#第20集$https://yzzy.play-cdn2.com/share/2a38a4a9316c49e5a833517c45d31070#第21集$https://yzzy.play-cdn2.com/share/13f320e7b5ead1024ac95c3b208610db#第22集$https://yzzy.play-cdn2.com/share/f4be00279ee2e0a53eafdaa94a151e2c#第23集$https://yzzy.play-cdn2.com/share/68d30a9594728bc39aa24be94b319d21#第24集$https://yzzy.play-cdn2.com/share/9778d5d219c5080b9a6a17bef029331c$$$第01集$https://yzzy.play-cdn2.com/20220324/108_af827411/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/507_394cee91/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/509_b2db13a1/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/103_b537bdca/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/510_a84547e8/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/511_226aed99/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/98_523bdea4/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/513_2ac64e2a/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/109_9fce42c7/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/96_20f9b25e/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/517_37bd60f9/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/95_0a856dfb/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/94_cf288f8c/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/100_8df524ec/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/521_282cd1bd/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/92_e1ef7ed6/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/523_3df4e815/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/91_ff3a917f/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/89_97fef471/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/88_85f259a9/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/527_29c810a7/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/528_c28ad5be/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/84_66d02e90/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/82_43729937/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-24 20:33:36",
-      "vod_id": "974",
-      "vod_name": "一闪一闪亮星星",
-      "vod_enname": "yishanyishanliangxingxing",
-      "vod_subname": "在宇宙尽头一起出发吧/The Moment of Meeting Again",
-      "vod_letter": "Y",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/16480962856.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2022",
-      "vod_remark": "全24集",
-      "vod_actor": "张佳宁,屈楚萧,吴希泽,傅菁,骆明劼,蒋昀霖,徐紫茵",
-      "vod_director": "陈小明,章攀",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "1145",
-      "vod_hits_day": "1",
-      "vod_hits_week": "3",
-      "vod_hits_month": "29",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "6.8",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　一直为了追随爱情而放弃自我的林北星（张佳宁 饰）因男友出轨伤心至极，在收拾与前男友有关物品时意外删除旧手机中短信而频繁穿越回高中，但每当在最爽的时刻时总是被拽回现实世界。几经探索，林北星发现穿越的钥匙与张万森（屈楚萧 饰）有关，因此决心拯救张万森，展开了一段奇妙的时空救赎与相互成长的故事。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/fa7cdfad1a5aaf8370ebeda47a1ff1c3#第02集$https://yzzy.play-cdn2.com/share/b73ce398c39f506af761d2277d853a92#第03集$https://yzzy.play-cdn2.com/share/6c4b761a28b734fe93831e3fb400ce87#第04集$https://yzzy.play-cdn2.com/share/1c9ac0159c94d8d0cbedc973445af2da#第05集$https://yzzy.play-cdn2.com/share/1d7f7abc18fcb43975065399b0d1e48e#第06集$https://yzzy.play-cdn2.com/share/2a79ea27c279e471f4d180b08d62b00a#第07集$https://yzzy.play-cdn2.com/share/06409663226af2f3114485aa4e0a23b4#第08集$https://yzzy.play-cdn2.com/share/7ef605fc8dba5425d6965fbd4c8fbe1f#第09集$https://yzzy.play-cdn2.com/share/a8f15eda80c50adb0e71943adc8015cf#第10集$https://yzzy.play-cdn2.com/share/b3e3e393c77e35a4a3f3cbd1e429b5dc#第11集$https://yzzy.play-cdn2.com/share/140f6969d5213fd0ece03148e62e461e#第12集$https://yzzy.play-cdn2.com/share/37a749d808e46495a8da1e5352d03cae#第13集$https://yzzy.play-cdn2.com/share/f2217062e9a397a1dca429e7d70bc6ca#第14集$https://yzzy.play-cdn2.com/share/2b24d495052a8ce66358eb576b8912c8#第15集$https://yzzy.play-cdn2.com/share/903ce9225fca3e988c2af215d4e544d3#第16集$https://yzzy.play-cdn2.com/share/a5e00132373a7031000fd987a3c9f87b#第17集$https://yzzy.play-cdn2.com/share/0a09c8844ba8f0936c20bd791130d6b6#第18集$https://yzzy.play-cdn2.com/share/a8baa56554f96369ab93e4f3bb068c22#第19集$https://yzzy.play-cdn2.com/share/1385974ed5904a438616ff7bdb3f7439#第20集$https://yzzy.play-cdn2.com/share/8d5e957f297893487bd98fa830fa6413#第21集$https://yzzy.play-cdn2.com/share/47d1e990583c9c67424d369f3414728e#第22集$https://yzzy.play-cdn2.com/share/013d407166ec4fa56eb1e1f8cbe183b9#第23集$https://yzzy.play-cdn2.com/share/42a0e188f5033bc65bf8d78622277c4e#第24集$https://yzzy.play-cdn2.com/share/3988c7f88ebcb58c6ce932b957b6f332$$$第01集$https://yzzy.play-cdn2.com/20220324/164_062b7ac6/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/160_8ebbd3e0/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/157_dd8e3c0b/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/156_53537593/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/154_827a252c/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/155_06432c9d/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/158_5eea4417/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/150_2b5b68ee/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/151_e750c969/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/153_196ede04/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/159_2be64360/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/152_52b1200c/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/149_5692f7c3/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/145_d98c9b9a/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/143_f85605c8/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/146_dbe82dae/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/144_f69c7a57/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/142_1a419bba/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/140_d3332f4c/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/147_c09251c5/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/148_11e1bd2e/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/138_01b7671c/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/136_374357f0/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/137_7ffa1ef0/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-25 00:09:47",
-      "vod_id": "975",
-      "vod_name": "假日暖洋洋",
-      "vod_enname": "jiarinuanyangyang",
-      "vod_subname": "Vacation of Love",
-      "vod_letter": "J",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/16480962907.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2021",
-      "vod_remark": "全35集",
-      "vod_actor": "姚晨,白宇,大鹏,张静初,陈小艺,胡军,高叶,张彤,郑云龙,朱颜曼滋,谢园,李明珠,陈祉希,姜梓新,康可人,艾如,兰西雅",
-      "vod_director": "姚晓峰",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "305",
-      "vod_hits_day": "0",
-      "vod_hits_week": "2",
-      "vod_hits_month": "26",
-      "vod_duration": "0",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "6.0",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　该剧是一个由四组人物共同演绎的多线并行贺岁轻喜剧。而立之年的明星经纪人许可依，带着艺人高俊裕来度假村献唱，以为自己十年付出终将收获爱情，却未能如愿以偿，失魂落魄之时误打误撞结识了度假村员工侯昊。两人感情急速升温，慢生活的侯昊，能否为她带来新的开始……而领着一大家子前来度假的小夫妻宋小可与陈斌斌早已冲动离婚，为了让长辈们过个好年，只得硬着头皮继续扮演恩爱，而离婚一时爽、追妻火葬场的陈斌斌，在度假村中绞尽脑汁地讨好挽回，闹出一堆笑话。陈斌斌的妹妹陈暖暖，则另有秘密瞒着母亲，结果不想也闹出一个大乌龙；同时，医生老温因平日工作繁忙，导致女儿温若楠缺爱叛逆，妈妈的病逝又让女儿对父亲心结难解，两人又能否在度假村中和解成长？　　宁静放松的度假村里，阳光沙滩、椰林大海舒适而治愈，不慌不忙地洗刷着人们城市生活的疲累与艰辛，为一对对来这里寻找幸福的人，找到平凡人生里最温暖的答案。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/97af4fb322bb5c8973ade16764156bed#第02集$https://yzzy.play-cdn2.com/share/0e095e054ee94774d6a496099eb1cf6a#第03集$https://yzzy.play-cdn2.com/share/f47330643ae134ca204bf6b2481fec47#第04集$https://yzzy.play-cdn2.com/share/2ac2406e835bd49c70469acae337d292#第05集$https://yzzy.play-cdn2.com/share/6eb6e75fddec0218351dc5c0c8464104#第06集$https://yzzy.play-cdn2.com/share/dabd8d2ce74e782c65a973ef76fd540b#第07集$https://yzzy.play-cdn2.com/share/7d771e0e8f3633ab54856925ecdefc5d#第08集$https://yzzy.play-cdn2.com/share/83f97f4825290be4cb794ec6a234595f#第09集$https://yzzy.play-cdn2.com/share/a7d8ae4569120b5bec12e7b6e9648b86#第10集$https://yzzy.play-cdn2.com/share/1896a3bf730516dd643ba67b4c447d36#第11集$https://yzzy.play-cdn2.com/share/3473decccb0509fb264818a7512a8b9b#第12集$https://yzzy.play-cdn2.com/share/0a0a0c8aaa00ade50f74a3f0ca981ed7#第13集$https://yzzy.play-cdn2.com/share/36a1694bce9815b7e38a9dad05ad42e0#第14集$https://yzzy.play-cdn2.com/share/a113c1ecd3cace2237256f4c712f61b5#第15集$https://yzzy.play-cdn2.com/share/3eb71f6293a2a31f3569e10af6552658#第16集$https://yzzy.play-cdn2.com/share/1e1d184167ca7676cf665225e236a3d2#第17集$https://yzzy.play-cdn2.com/share/2f29b6e3abc6ebdefb55456ea6ca5dc8#第18集$https://yzzy.play-cdn2.com/share/9da187a7a191431db943a9a5a6fec6f4#第19集$https://yzzy.play-cdn2.com/share/0f2c9a93eea6f38fabb3acb1c31488c6#第20集$https://yzzy.play-cdn2.com/share/a3fb4fbf9a6f9cf09166aa9c20cbc1ad#第21集$https://yzzy.play-cdn2.com/share/00e26af6ac3b1c1c49d7c3d79c60d000#第22集$https://yzzy.play-cdn2.com/share/6e7d2da6d3953058db75714ac400b584#第23集$https://yzzy.play-cdn2.com/share/abea47ba24142ed16b7d8fbf2c740e0d#第24集$https://yzzy.play-cdn2.com/share/38ca89564b2259401518960f7a06f94b#第25集$https://yzzy.play-cdn2.com/share/884d79963bd8bc0ae9b13a1aa71add73#第26集$https://yzzy.play-cdn2.com/share/16e6a3326dd7d868cbc926602a61e4d0#第27集$https://yzzy.play-cdn2.com/share/0c048b3a434e49e655c1247efb389cec#第28集$https://yzzy.play-cdn2.com/share/a8240cb8235e9c493a0c30607586166c#第29集$https://yzzy.play-cdn2.com/share/e22312179bf43e61576081a2f250f845#第30集$https://yzzy.play-cdn2.com/share/285f89b802bcb2651801455c86d78f2a#第31集$https://yzzy.play-cdn2.com/share/e8b1cbd05f6e6a358a81dee52493dd06#第32集$https://yzzy.play-cdn2.com/share/55b1927fdafef39c48e5b73b5d61ea60#第33集$https://yzzy.play-cdn2.com/share/45f31d16b1058d586fc3be7207b58053#第34集$https://yzzy.play-cdn2.com/share/f197002b9a0853eca5e046d9ca4663d5#第35集$https://yzzy.play-cdn2.com/share/2b38c2df6a49b97f706ec9148ce48d86$$$第01集$https://yzzy.play-cdn2.com/20220324/1184_deaa43c4/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/1183_72de1db8/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/1182_9a965a22/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/1181_e901365e/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/1180_36b96892/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/1179_9b8d17fb/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/1178_714db463/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/1177_355574f8/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/1176_7a7053b5/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/1175_383f600f/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/1174_de23bb98/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/1173_4e3ea1bb/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/1172_48361c3f/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/1171_dfe798fa/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/1170_e0f05586/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/1169_7bddc6ca/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/1168_f5cd2afa/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/1167_50229b39/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/1166_cec57a69/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/1165_2aca4a4e/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/1164_fb2a11cc/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/1163_a4e1de72/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/1162_6c023536/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/1161_923cb847/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/1160_389e84e1/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/1159_29693f4e/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/1158_fcbc73cb/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/1157_0a07026a/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/1156_21a4e9f5/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/1155_142e2c23/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220324/1154_041aa5d7/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220324/1153_174755a2/index.m3u8#第33集$https://yzzy.play-cdn2.com/20220324/1152_cb6f7550/index.m3u8#第34集$https://yzzy.play-cdn2.com/20220324/1151_85c7a080/index.m3u8#第35集$https://yzzy.play-cdn2.com/20220324/1150_23fc6006/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2023-09-11 13:51:03",
-      "vod_id": "976",
-      "vod_name": "爱上特种兵",
-      "vod_enname": "aishangtezhongbing",
-      "vod_subname": "亲爱的戎装/军装下的绕指柔",
-      "vod_letter": "A",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/16480962948.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2021",
-      "vod_remark": "全40集",
-      "vod_actor": "黄景瑜,李沁,杨舒,聂子皓,姜嫄,赵荀,傅浤鸣,于跃,费鲤齐,刘晓洁,徐洪浩,熊睿玲,宁晓志",
-      "vod_director": "嵇天毅",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "1001",
-      "vod_hits_day": "0",
-      "vod_hits_week": "1",
-      "vod_hits_month": "12",
-      "vod_duration": "45",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "4.1",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　根据晋江文学城作者折纸蚂蚁小说《军装下的绕指柔》改编，聚焦特种兵与军医两种职业，从全新角度塑造了男主角梁牧泽（黄景瑜 饰）的军人形象。他与军医夏初（李沁 饰）一同追求理想，履行军人的职责与使命，也收获了历经生死的爱情。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/acf4b89d3d503d8252c9c4ba75ddbf6d#第02集$https://yzzy.play-cdn2.com/share/01882513d5fa7c329e940dda99b12147#第03集$https://yzzy.play-cdn2.com/share/a64c94baaf368e1840a1324e839230de#第04集$https://yzzy.play-cdn2.com/share/5705e1164a8394aace6018e27d20d237#第05集$https://yzzy.play-cdn2.com/share/4b0250793549726d5c1ea3906726ebfe#第06集$https://yzzy.play-cdn2.com/share/061412e4a03c02f9902576ec55ebbe77#第07集$https://yzzy.play-cdn2.com/share/20aee3a5f4643755a79ee5f6a73050ac#第08集$https://yzzy.play-cdn2.com/share/d56b9fc4b0f1be8871f5e1c40c0067e7#第09集$https://yzzy.play-cdn2.com/share/c2aee86157b4a40b78132f1e71a9e6f1#第10集$https://yzzy.play-cdn2.com/share/cfbce4c1d7c425baf21d6b6f2babe6be#第11集$https://yzzy.play-cdn2.com/share/024d7f84fff11dd7e8d9c510137a2381#第12集$https://yzzy.play-cdn2.com/share/7ce3284b743aefde80ffd9aec500e085#第13集$https://yzzy.play-cdn2.com/share/07871915a8107172b3b5dc15a6574ad3#第14集$https://yzzy.play-cdn2.com/share/0a113ef6b61820daa5611c870ed8d5ee#第15集$https://yzzy.play-cdn2.com/share/704afe073992cbe4813cae2f7715336f#第16集$https://yzzy.play-cdn2.com/share/0efe32849d230d7f53049ddc4a4b0c60#第17集$https://yzzy.play-cdn2.com/share/170c944978496731ba71f34c25826a34#第18集$https://yzzy.play-cdn2.com/share/210f760a89db30aa72ca258a3483cc7f#第19集$https://yzzy.play-cdn2.com/share/6c3cf77d52820cd0fe646d38bc2145ca#第20集$https://yzzy.play-cdn2.com/share/1f50893f80d6830d62765ffad7721742#第21集$https://yzzy.play-cdn2.com/share/dd8eb9f23fbd362da0e3f4e70b878c16#第22集$https://yzzy.play-cdn2.com/share/352407221afb776e3143e8a1a0577885#第23集$https://yzzy.play-cdn2.com/share/d516b13671a4179d9b7b458a6ebdeb92#第24集$https://yzzy.play-cdn2.com/share/7504adad8bb96320eb3afdd4df6e1f60#第25集$https://yzzy.play-cdn2.com/share/67d16d00201083a2b118dd5128dd6f59#第26集$https://yzzy.play-cdn2.com/share/4b0a59ddf11c58e7446c9df0da541a84#第27集$https://yzzy.play-cdn2.com/share/98d6f58ab0dafbb86b083a001561bb34#第28集$https://yzzy.play-cdn2.com/share/22fb0cee7e1f3bde58293de743871417#第29集$https://yzzy.play-cdn2.com/share/aeb3135b436aa55373822c010763dd54#第30集$https://yzzy.play-cdn2.com/share/51ef186e18dc00c2d31982567235c559#第31集$https://yzzy.play-cdn2.com/share/43feaeeecd7b2fe2ae2e26d917b6477d#第32集$https://yzzy.play-cdn2.com/share/dd45045f8c68db9f54e70c67048d32e8#第33集$https://yzzy.play-cdn2.com/share/49c9adb18e44be0711a94e827042f630#第34集$https://yzzy.play-cdn2.com/share/ede7e2b6d13a41ddf9f4bdef84fdc737#第35集$https://yzzy.play-cdn2.com/share/ca8155f4d27f205953f9d3d7974bdd70#第36集$https://yzzy.play-cdn2.com/share/3b3dbaf68507998acd6a5a5254ab2d76#第37集$https://yzzy.play-cdn2.com/share/19b650660b253761af189682e03501dd#第38集$https://yzzy.play-cdn2.com/share/1fc214004c9481e4c8073e85323bfd4b#第39集$https://yzzy.play-cdn2.com/share/5ec91aac30eae62f4140325d09b9afd0#第40集$https://yzzy.play-cdn2.com/share/f9a40a4780f5e1306c46f1c8daecee3b$$$第01集$https://yzzy.play-cdn2.com/20220324/900_07137265/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/899_744581c3/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/898_7ae8a926/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/897_dacb8b0f/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/894_75a7b2d2/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/896_68117c49/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/895_11bd2955/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/893_5db4fb44/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/892_3855b85b/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/891_a850fe61/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/890_4b438fb4/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/887_2367d778/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/889_9314e1fd/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/888_7260892d/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/886_a405fc68/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/885_8c6c3e08/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/884_036c2626/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/883_850dc867/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/882_191c1183/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/880_ed9e4a6e/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/878_e2241eb0/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/877_859d971d/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/879_e33ebe39/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/881_611869a7/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/876_71cabd9d/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/875_c40028bc/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/873_88f835dc/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/870_24682b73/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/871_8961dc5d/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/874_1b85aef5/index.m3u8#第31集$https://yzzy.play-cdn2.com/20220324/872_422026b2/index.m3u8#第32集$https://yzzy.play-cdn2.com/20220324/868_13429443/index.m3u8#第33集$https://yzzy.play-cdn2.com/20220324/869_5df37a02/index.m3u8#第34集$https://yzzy.play-cdn2.com/20220324/867_c9dc22dd/index.m3u8#第35集$https://yzzy.play-cdn2.com/20220324/866_c6bee5e0/index.m3u8#第36集$https://yzzy.play-cdn2.com/20220324/865_c4b23a94/index.m3u8#第37集$https://yzzy.play-cdn2.com/20220324/863_d545f471/index.m3u8#第38集$https://yzzy.play-cdn2.com/20220324/864_032d06af/index.m3u8#第39集$https://yzzy.play-cdn2.com/20220324/862_26c7bfe9/index.m3u8#第40集$https://yzzy.play-cdn2.com/20220324/861_6f15061a/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    },
-    {
-      "vod_time": "2022-03-24 20:30:34",
-      "vod_id": "977",
-      "vod_name": "一生一世",
-      "vod_enname": "yishengyishi",
-      "vod_subname": "一生一世美人骨/Forever and Ever",
-      "vod_letter": "Y",
-      "vod_color": "",
-      "vod_tag": "",
-      "type_id": "12",
-      "type_name": "国产剧",
-      "vod_pic": "https://pic1.imgyzzy.com/upload/vod/2022-03-24/16480962999.jpg",
-      "vod_lang": "国语",
-      "vod_area": "大陆",
-      "vod_year": "2021",
-      "vod_remark": "全30集",
-      "vod_actor": "任嘉伦,白鹿,此沙,骆明劼,王瑞欣,王悦伊,罗海琼,冯嘉怡,刘若谷",
-      "vod_director": "沈阳,贲放",
-      "vod_serial": "0",
-      "vod_lock": "0",
-      "vod_level": "0",
-      "vod_hits": "929",
-      "vod_hits_day": "0",
-      "vod_hits_week": "5",
-      "vod_hits_month": "40",
-      "vod_duration": "49",
-      "vod_up": "0",
-      "vod_down": "0",
-      "vod_score": "6.0",
-      "vod_score_all": "0",
-      "vod_score_num": "0",
-      "vod_points_play": "0",
-      "vod_points_down": "0",
-      "vod_content": "　　时宜（白鹿 饰）是一名配音演员，用自己的声音塑造了无数生动可爱的荧幕形象。一次偶然中，她在机场邂逅了名为周生辰（任嘉伦 饰）的化学教授，两人一见如故相谈甚欢，彼此之间的距离很快就亲密起来。周生辰出生在一个紫砂世家，如今已经开始走向没落，为了挽救家族产业，他决定放弃自己的梦想，继承家里的紫砂工厂。周生辰拒绝了母亲给自己安排的结婚对象，向时宜求婚了。周生辰的选择给他的人生带来了巨大的变化，他的经营理念和长辈们的大相径庭，两代人之间产生了巨大的分歧。在周生辰最困难的时候，时宜一直不离不弃的陪伴着他鼓励着他，可就在一切开始渐渐好转时，时宜却因为救周生辰，而身受重伤，陷入了昏迷之中。",
-      "vod_play_from": "zykyun$$$1080zyk",
-      "vod_play_note": "$$$",
-      "vod_play_server": "no$$$no",
-      "vod_play_url": "第01集$https://yzzy.play-cdn2.com/share/7f1de29e6da19d22b51c68001e7e0e54#第02集$https://yzzy.play-cdn2.com/share/0f28b5d49b3020afeecd95b4009adf4c#第03集$https://yzzy.play-cdn2.com/share/1afa34a7f984eeabdbb0a7d494132ee5#第04集$https://yzzy.play-cdn2.com/share/9fc3d7152ba9336a670e36d0ed79bc43#第05集$https://yzzy.play-cdn2.com/share/e00da03b685a0dd18fb6a08af0923de0#第06集$https://yzzy.play-cdn2.com/share/76dc611d6ebaafc66cc0879c71b5db5c#第07集$https://yzzy.play-cdn2.com/share/65ded5353c5ee48d0b7d48c591b8f430#第08集$https://yzzy.play-cdn2.com/share/ec5decca5ed3d6b8079e2e7e7bacc9f2#第09集$https://yzzy.play-cdn2.com/share/d1f491a404d6854880943e5c3cd9ca25#第10集$https://yzzy.play-cdn2.com/share/9b8619251a19057cff70779273e95aa6#第11集$https://yzzy.play-cdn2.com/share/c8ffe9a587b126f152ed3d89a146b445#第12集$https://yzzy.play-cdn2.com/share/202cb962ac59075b964b07152d234b70#第13集$https://yzzy.play-cdn2.com/share/02522a2b2726fb0a03bb19f2d8d9524d#第14集$https://yzzy.play-cdn2.com/share/069059b7ef840f0c74a814ec9237b6ec#第15集$https://yzzy.play-cdn2.com/share/3def184ad8f4755ff269862ea77393dd#第16集$https://yzzy.play-cdn2.com/share/07e1cd7dca89a1678042477183b7ac3f#第17集$https://yzzy.play-cdn2.com/share/4c56ff4ce4aaf9573aa5dff913df997a#第18集$https://yzzy.play-cdn2.com/share/da4fb5c6e93e74d3df8527599fa62642#第19集$https://yzzy.play-cdn2.com/share/5ef059938ba799aaa845e1c2e8a762bd#第20集$https://yzzy.play-cdn2.com/share/eb160de1de89d9058fcb0b968dbbbd68#第21集$https://yzzy.play-cdn2.com/share/c45147dee729311ef5b5c3003946c48f#第22集$https://yzzy.play-cdn2.com/share/2b44928ae11fb9384c4cf38708677c48#第23集$https://yzzy.play-cdn2.com/share/a0a080f42e6f13b3a2df133f073095dd#第24集$https://yzzy.play-cdn2.com/share/5fd0b37cd7dbbb00f97ba6ce92bf5add#第25集$https://yzzy.play-cdn2.com/share/73278a4a86960eeb576a8fd4c9ec6997#第26集$https://yzzy.play-cdn2.com/share/698d51a19d8a121ce581499d7b701668#第27集$https://yzzy.play-cdn2.com/share/7f6ffaa6bb0b408017b62254211691b5#第28集$https://yzzy.play-cdn2.com/share/5f93f983524def3dca464469d2cf9f3e#第29集$https://yzzy.play-cdn2.com/share/a97da629b098b75c294dffdc3e463904#第30集$https://yzzy.play-cdn2.com/share/f0935e4cd5920aa6c7c996a5ee53a70f$$$第01集$https://yzzy.play-cdn2.com/20220324/135_75a99eca/index.m3u8#第02集$https://yzzy.play-cdn2.com/20220324/141_10e0f833/index.m3u8#第03集$https://yzzy.play-cdn2.com/20220324/131_981acbe3/index.m3u8#第04集$https://yzzy.play-cdn2.com/20220324/133_73c5746e/index.m3u8#第05集$https://yzzy.play-cdn2.com/20220324/139_4bce458b/index.m3u8#第06集$https://yzzy.play-cdn2.com/20220324/128_6abee1cf/index.m3u8#第07集$https://yzzy.play-cdn2.com/20220324/132_06dba119/index.m3u8#第08集$https://yzzy.play-cdn2.com/20220324/127_d58dff8c/index.m3u8#第09集$https://yzzy.play-cdn2.com/20220324/129_2b2f5b01/index.m3u8#第10集$https://yzzy.play-cdn2.com/20220324/130_e4d36f68/index.m3u8#第11集$https://yzzy.play-cdn2.com/20220324/124_ac1ef11d/index.m3u8#第12集$https://yzzy.play-cdn2.com/20220324/123_0975bbc3/index.m3u8#第13集$https://yzzy.play-cdn2.com/20220324/134_a9b2982d/index.m3u8#第14集$https://yzzy.play-cdn2.com/20220324/126_843b088c/index.m3u8#第15集$https://yzzy.play-cdn2.com/20220324/125_becc32fc/index.m3u8#第16集$https://yzzy.play-cdn2.com/20220324/119_a93c41e9/index.m3u8#第17集$https://yzzy.play-cdn2.com/20220324/121_88b7a58b/index.m3u8#第18集$https://yzzy.play-cdn2.com/20220324/120_d89c5b55/index.m3u8#第19集$https://yzzy.play-cdn2.com/20220324/118_bd7ce091/index.m3u8#第20集$https://yzzy.play-cdn2.com/20220324/117_de64f0b5/index.m3u8#第21集$https://yzzy.play-cdn2.com/20220324/116_1e8ab932/index.m3u8#第22集$https://yzzy.play-cdn2.com/20220324/115_8a5755f8/index.m3u8#第23集$https://yzzy.play-cdn2.com/20220324/122_8a45f169/index.m3u8#第24集$https://yzzy.play-cdn2.com/20220324/114_39e8abc4/index.m3u8#第25集$https://yzzy.play-cdn2.com/20220324/113_9440c7b8/index.m3u8#第26集$https://yzzy.play-cdn2.com/20220324/111_3e10449c/index.m3u8#第27集$https://yzzy.play-cdn2.com/20220324/112_b6260258/index.m3u8#第28集$https://yzzy.play-cdn2.com/20220324/110_1414de47/index.m3u8#第29集$https://yzzy.play-cdn2.com/20220324/107_409a7793/index.m3u8#第30集$https://yzzy.play-cdn2.com/20220324/106_cb99a760/index.m3u8",
-      "vod_down_from": "0",
-      "vod_down_note": "0",
-      "vod_down_server": "0",
-      "vod_down_url": "0"
-    }
-  ]
-}
+				</div>
+				<div class="module-info-item">
+					<div class="module-info-item-content">2024 
+						<span class="slash">/</span>中国大陆 
+						<span class="slash">/</span> 爱情,古装,国产
+					</div>
+				</div>
+				<div class="module-info-item">
+					<div class="module-info-item-content">胡一天,张婧仪,吴希泽,卢昱晓,边程,胡杏儿,刘佳,海一天,杨明娜,高雄,田淼,方楚彤,胡春杨,梁芷菁,黄思瑞,王乔熙,陈恒,张舒妍,钟小淇,王丽娜,姚筱筱,殷玥</div>
+				</div>
+			</div>
+			<div class="module-card-item-footer">
+				<a href="/vodplay/109959-1-1.html" class="play-btn icon-btn">
+					<i class="icon-play"></i>
+					<span>播放</span>
+				</a>
+				<a href="/voddetail-109959.html" class="play-btn-o">
+					<span>详情</span>
+				</a>
+			</div>
+		</div>
+	</div>
 //
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//

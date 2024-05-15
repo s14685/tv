@@ -1,4 +1,5 @@
- //
+ //非凡资源网 非凡资源备用网址:ffzy.tv ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv
+ //http://ffzy5.tv/index.php/vod/type/id/13.html
  
  {
     "主页url":"http://ffzy5.tv/",
@@ -24,6 +25,7 @@
     "搜索数组":"{&&}",
     "搜索图片":"\"pic\"*\"&&\"",
     "搜索标题":"\"name\"*\"&&\"",
+	//"搜索副标题": "🌸+actor\"*\"&&\"", //Not support
     "搜索链接":"http://ffzy5.tv/index.php/vod/detail/id/+\"id\":&&,+.html",
         
 	"影片类型":"类型：&&</p>",

@@ -1,8 +1,16 @@
 周日,#genre#
 
-武神主宰,#genre#
-shall we talk,http://em.21dtv.com/songs/60004942.mkv
 斗破苍穹,#genre#
+shall we talk,http://em.21dtv.com/songs/60004942.mkv
+仙武传,#genre#
+shall we talk,http://em.21dtv.com/songs/60004942.mkv
+汉化日记,#genre#
+shall we talk,http://em.21dtv.com/songs/60004942.mkv
+一世之尊,#genre#
+shall we talk,http://em.21dtv.com/songs/60004942.mkv
+百家决,#genre#
+shall we talk,http://em.21dtv.com/songs/60004942.mkv
+,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
 武映三千道,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
@@ -17,4 +25,6 @@ shall we talk,http://em.21dtv.com/songs/60004942.mkv
 仙武传2,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv
 蓋世帝尊,#genre#
+shall we talk,http://em.21dtv.com/songs/60004942.mkv
+武神主宰,#genre#
 shall we talk,http://em.21dtv.com/songs/60004942.mkv

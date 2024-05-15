@@ -1,7 +1,7 @@
 //唐人街影院 
 //https://www.trjyy.com/index.php/vod/show/area/大陆/by/hits/class/剧情/id/14/lang/国语/year/2024.html
 //[国际线路>>海外#全球线路L>>量子#全球线路1>>优质#全球线路A>>爱坤#全球线路W>>卧龙#全球线路>>速播#]
-
+//https://www.trjyy.com/index.php/vod/show/by/hits/id/14/year/2024.html
 
 {
   "作者": "荷城茶秀",
@@ -9,18 +9,18 @@
   "请求头":"手机","免嗅": "0","倒序播放": "0",
   "主页url": "https://www.trjyy.com/",
  
-  //"二次截取": "resize_list\">&&</ul>", //list region scope
-  "数组": "<a class=\"vodlist_thumb lazyload\"&&<div class=\"vodlist_titbox\">",
+  "二次截取":"<ul class=\"vodlist vodlist_wi author*>&&</ul>+<li class=\"vodlist_item num_x\">", //<li class="vodlist_item num_1">
+  "数组": "<li class=\"vodlist_item num_&&<li class=\"vodlist_item num_",
   "标题": "title=\"&&\"",
-  "副标题": "🌸+<span class=\"play hidden_xs\"></span><span class=\"pic_text text_right\">&&</span>",
+  "副标题": "<span class=\"play hidden_xs\"></span><span class=\"pic_text text_right\">&&</span>+🌸+<p class=\"vodlist_sub\">&&</p>",
   "图片": "data-original=\"&&\"",
   "链接": "href=\"&&\"",
   
-  "简介": "🌸+简介：</span>&&<a",
-  "导演": "导演：</span>&&</a>+🌸+状态：&&</em></li>",
-  "主演": "主演：</span>&&</li>",
+  "简介": "类型：</span>&&</a>+🌸+状态：</span><span class=\"data_style\">&&</span>+🌸+简介：</span>&&<a",
+  "导演": "导演：</span>&&</a>+🌸+状态：</span><span class=\"data_style\">&&</span>[替换:更新至>> #更至>> #]",
+  "主演": "主演：</span>&&</li>[替换:</a>&nbsp;>> #]",
   //"影片状态": "状态：</span><span class=\"data_style\">&&</em></li>", 
-  "影片类型": "content_detail content_min fl\">&&</li>",
+  "影片类型": "/class/*>&&</a>[替换:剧情>>连续剧#]",
    
   //https://www.trjyy.com/index.php/vod/search.html?wd=abc&submit=
   //"搜索二次截取": "data_list\">&&</ul>", //search region scope
@@ -35,8 +35,8 @@
   
    //[排序:量子>非凡>高清>优质>天空>爱坤>海外>乐视>闪电>暴风>索尼>]
    //"线路二次截取": "<a href=\"javascript:;&&/a>", //Play region scope
-  "线路数组":"alt=&&>[[替换:国际线路>>海外#全球线路L>>量子#全球线路1>>优质#全球线路A>>爱坤#全球线路W>>卧龙#全球线路S>>速播#]",
-  "线路标题":"🌸+\"&&\"[排序:优质>量子>非凡>高清>海外>天空>爱坤>乐视>闪电>暴风>索尼>]",
+  "线路数组":"alt=&&>[替换:国际线路>>海外#全球线路L>>量子#全球线路1>>优质#全球线路A>>爱坤#全球线路W>>卧龙#全球线路S>>速播#]",
+  "线路标题":"🌸+\"&&\"[排序:优质>海外>量子>非凡>高清>天空>爱坤>乐视>闪电>暴风>索尼>]",
   
   //"播放数组": "scroll-content\">&&</div>",
   //"播放标题": "<span>&&</span>",

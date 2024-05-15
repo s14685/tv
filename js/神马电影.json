@@ -2,6 +2,8 @@
 //https://shenmaysk.com/vodshow/guochanju--hits---------2024.html
 //https://shenmaysk.com/vodshow/-----------.html
 //https://shenmaysk.com/vodshow/2-----------.html
+//https://shenmaysk.com/vodsearch/-赵丽颖------------.html
+//https://shenmaysk.com/vodsearch/-------------.html?wd=与凤行
 {
     "作者":"荷城茶秀",
     "站名":"神马电影", 
@@ -11,35 +13,41 @@
     "图片代理":"0",
 //分类页面
     "二次截取":"<div class=\"module-items\">&&<div class=\"module-footer\">",
-    "数组":"module-item\">&&<div class=\"module-item-text\">",
+    "数组":"module-item\">&&<div class=\"module-item-text\">[替换:更新至>> #更至>> #&nbsp;>>#<span class=\"slash\">/</span>>>#]",
     "标题":"title=\"&&\"",
     "图片":"data-src=\"&&\"",
     "链接":"href=\"&&\"",
     //"副标题":"href=\"&&\"",
     "副标题":"module-item-caption\"><span>&&</span>+🌸+target=\"_blank\">&&</div>",//+module-item-text\">&&</div>
 	
-    "简介":"🌸+剧情：</span>&&</span><a",
-    "导演":"导演：</span>&&</a>+🌸+集数：</span><div class=\"video-info-item\">&&</div>",
-    "主演":"主演：&&</span></div>",
-	"影片类型":"video-info-aux scroll-content\">&&</div>+🌸",
-	"影片年代":"</div><a class=\"tag-link*>&&</a>",
+    "简介":"🌸+集数：</span><div class=\"video-info-item\">&&</div>+🌸+剧情：</span>&&</span><a",
+    "导演":"导演：</span>&&</a>+🌸+集数：</span><div class=\"video-info-item\">&&</div>[替换:更新至>> #更新>> #更至>> #]",
+    "主演":"主演：&&</span></div>[替换:&nbsp;>>#<span class=\"slash\">/</span>>>#]",
+	"影片类型":"video-info-aux scroll-content\">&&</div>[替换:连续剧>> #]",
     "影片状态":"集数：</span>&&</div>",
-
+	"影片年代":"</div><a class=\"tag-link*>&&</a>",
+    "影片地区":"video-info-aux scroll-content\">&&</div>[替换:连续剧>> #]", //"地区：</span>&&</a>",
+	
 //搜索页面
-   //"搜索url": "/vodsearch/{wd}-------------.html",     //https://shenmaysk.com/vodsearch/-------------.html?wd=肖战
-   //"搜索数组": "module-card-item-class\">&&</a>",       //https://shenmaysk.com/vodsearch/肖战----------2---.html
-   //"搜索标题": "alt=\"&&\"",
-   //"搜索副标题": "note\">&&</div>",
-   //"搜索图片": "data-original=\"&&\"",
-   //"搜索链接": "href=\"&&\"",
+   "搜索url": "/vodsearch/-------------.html?wd={wd}",
+   "搜索数组二次截取":"<div class=\"module-items\">&&</main>",
+   "搜索数组": "lazy lazyload*>&&<strong>立即播放</strong>[替换:更新至>> #更至>> #&nbsp;>> #<span class=\"slash\">/</span>>> #]",
+   "搜索标题": "title=\"&&\"",
+   "搜索副标题": "target=\"_blank\">&&</a>+🌸+主演：</span><div class=\"video-info-item video-info-actor\">&&</div>",
+   "搜索图片": "data-src=\"&&\"",
+   "搜索链接": "<a class=\"video-serial\" href=\"&&\"",
+
 
 //播放列表
 //[排序:量子>非凡>快云>天空>海外>高清>乐视>閃電>优质>索尼>極速>飛速>闪电>无尽>红牛>极速>独家>专线>八戒>櫻花>超清]",
 //[替换:</span><small>>>⚡️]
+    //"线路二次截取": "",
     "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #光速资源>>光速#索尼资源>>索尼#乐视资源>>乐视#快看资源>>快看#暴风资源>>暴风#量子资源>>量子#天空资源>>天空#最大资源>>最大#非凡资源>>非凡#]",
     "线路标题":"🌸+<span>&&</small>[排序:非凡>量子>快云>天空>优质>乐视>最大>快看>八戒>飛速>爱坤>暴风>櫻花>快车>U酷>金鹰>索尼>闪电>海外>高清>極速>无尽>红牛>极速>独家>专线>超清>豪华]",
     
-	"播放数组":"id=\"glist&&<em",
+    //"播放二次截取": "",
+	//"播放数组":"id=\"glist&&<em",
+	"播放数组":"<div class=\"module-blocklist&&</div>",
     "播放标题":"<span>&&</span>",
     "播放列表":"<a&&</a>",
 

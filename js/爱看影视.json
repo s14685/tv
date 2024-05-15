@@ -6,30 +6,38 @@
     {
     "作者":"荷城茶秀",
     "站名":"爱看影院",
-    "请求头": "手机#Referer$https://www.92kyy.com/",
+    //"请求头": "手机#Referer$https://www.92kyy.com/",
     "主页url":"https://www.92kyy.com/",
-    "简介":"🌸+集数：</span>&&</div>+🌸+line-height: 20px;\">&&</p>",
-    "导演":"导演：</span>&&</div>",
-    "主演":"主演：</span>&&</div>",
-    "影片类型":"module-info-tag\">&&立即播放",
-    "影片状态":"集数：&&</div>",
+    "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "强制解析":"0",
+    "图片代理":"0",
 	
-    "数组":"<a&&/div></div></a>",
+	"二次截取":"<div class=\"module-adslist module-wrapper ads_w\">&&<div id=\"page\">",
+    "数组":"<a&&/div></div></a>[替换:更新至>> #更至>> #&nbsp;>>#<span class=\"slash\">/</span>>>#]",
     "标题":"title=\"&&\"",
     "副标题":"note\">&&</div>",
     "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
 	
-    //[排序:极速>高清>超清>蓝光][排序:量子>非凡>优质>高清>爱坤>海外>天空>乐速>闪电>蔚蓝>索尼] 
-    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>️⚡️#蓝光1>>蓝光#夸克4K>>夸克#蓝光2>>蓝光#超清-01>>乐视#极速-01>>非凡️#极速-03>>优质#极速-02>>量子️#极速-05>>索尼#]",
-    //"线路数组":"data-dropdown-value=&&</div>[排序:腾>达][不包含:优#奇#芒]", [替换:</span><small>>>️⚡️ ]
-    "线路标题":"🌸+<span>&&</small>[排序:非凡>量子>天空>优质>高清>爱坤>海外>乐速>闪电>蔚蓝>索尼] ",
-    //"线路标题":"🌸+<span>&&</small>[替换:高清频道>>高清#备用频道>>备用#OK频道>>OK#</span><small>>>>共]+集",[排序:量子>非凡>优质>高清>爱坤>海外>天空>乐速>闪电>蔚蓝>索尼] 
+    "简介":"🌸+集数：</span>&&</div>+🌸+line-height: 20px;\">&&</p>",
+    "导演":"导演：</span>&&</div>+🌸+集数：</span>&&</div>[替换:更新至>> #更新>> #更至>> #]",
+    "主演":"主演：</span>&&</div>",
+    "影片类型":"module-info-tag\">&&立即播放",
+    "影片状态":"集数：&&</div>",
+	"影片年代":"module-info-tag-link\">&&</a>",
+    //"影片地区":"",
 	
+	
+	"线路二次截取":"<div class=\"module\">&&<script type=\"text/javascript\">",
+    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>️⚡️#蓝光1>>蓝光#夸克4K>>夸克#蓝光2>>蓝光2#超清-01>>乐视#极速-01>>非凡️#极速-03>>优质#极速-02>>量子️#极速-05>>索尼#]",
+    "线路标题":"🌸+<span>&&</small>[排序:非凡>量子>蓝光>天空>优质>高清>爱坤>海外>乐速>闪电>蔚蓝>索尼] ",
+	
+	"播放二次截取":"<div class=\"module\">&&<script type=\"text/javascript\">",
     "播放数组":"<div class=\"module-play-list-content&&</div>",
     "播放标题":"<span>&&</span>",
     "播放列表":"<a&&</a>",
-    
+    "播放链接":"href=\"&&\"",
+	
 	"分类url":"https://www.92kyy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
     "分类":"电视剧$2#动漫$4#电影$1#综艺$3",
     

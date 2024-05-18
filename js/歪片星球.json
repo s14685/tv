@@ -29,13 +29,14 @@
     "影片类型":"module-info-tag\">&&</a></div></div>",
     "影片状态":"集数：</span>&&</div></div>",
 
-//搜索页面
-   //"搜索url": "https://soupian.one/search?utm_source=wp_hotwords&key={wd}",     //https://soupian.one/search?utm_source=wp_hotwords&key={wd}
-   //"搜索数组": "module-card-item-class\">&&</a>",
-   //"搜索标题": "alt=\"&&\"",
-   //"搜索副标题": "note\">&&</div>",
-   //"搜索图片": "data-original=\"&&\"",
-   //"搜索链接": "href=\"&&\"",
+//搜索页面 
+   "搜索url": "/search-{wd}-------------/",     //https://waipian28.com/search-庆余年-------------/
+   "搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"footer\">",
+   "搜索数组": "<div class=\"module-card-item module-item\">&&<span>详情</span>",
+   "搜索副标题": "module-item-note\">&&</div>[替换:更新至>> #连载中>> #连载到>> #]+🌸+</div></div><div class=\"module-info-item\"><div class=\"module-info-item-content\">&&</div>[替换:更新至>> #更至>> #&nbsp;>>#<span class=\"slash\">/</span>>><span></span>#]",
+   "搜索标题": "alt=\"&&\"",
+   "搜索图片": "data-original=\"&&\"",
+   "搜索链接": "href=\"&&\"",
 
 //播放列表
     "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #LZ源>>量子#FF源>>非凡#HD源>>优质#BF源>>暴风#TX源>>腾讯#MG源>>芒果#KK源>>快看#HN源>>红牛#TK源>>天空#QY源>>奇艺#BJ源>>八戒#YK源>>优酷#BD源>>百度#UK源>>U酷#]",

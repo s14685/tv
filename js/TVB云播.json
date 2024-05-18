@@ -9,7 +9,7 @@
   "主演": "主演：</span>&&</p>",
   "简介": "🌸+更新：</span>&&\/+🌸+sketch content\">&&</span>",  //搜索页面
   //"搜索模式": "1",
-  //"搜索url": "/vod/search/wd/{wd}.html", //http://www.tvyb03.com/vod/search/wd/{wd}.html
+  //"搜索url": "/vod/search.html?wd={wd}&submit=", //http://www.tvyb03.com/vod/search.html?wd=庆余年&submit=
   //"搜索数组": "myui-vodlist__thumb img-lg-150 img-md-150 img-sm-150 img-xs-100 lazyload\"&&</a>",
   //"搜索标题": "title=\"&&\"",
   //"搜索副标题": "background-color:*>&&</span>",

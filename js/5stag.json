@@ -10,11 +10,14 @@
     "作者":"荷城茶秀",
     "站名":"555电影", 
     "主页url":"https://5stag.shop/",
-    "简介":"请勿相信影片中的广告，以免上当受骗。+module-info-introduction-content show-desc\">&&</p>",
-    "导演":"导演：&&</div>",
-    "主演":"主演：&&</div>",
-    "影片类型":"module-info-tag\">&&立即播放",
+
+    "简介":"集数：&&</div>+🌸+module-info-introduction\">&&</p>[替换:每集>> #更新至>> #更至>> #&nbsp;>> #]",
+    "导演":"导演：&&</div>+🌸+片长：</span>&&</div>[替换:每集>> #更新至>> #分钟分钟>>分钟#&nbsp;>> #]",
+    "主演":"主演：&&</div>[替换:<span class=\"slash\">/</span>>><span></span>#]",
+	"影片类型":"<div class=\"module-info-tag-link\">&&</div>[替换:<span class=\"slash\">/</span>>><span></span>#]",
     "影片状态":"集数：&&</div>",
+	"影片年代":"module-info-tag-link\">&&</a>",
+    //"影片地区":"/area*>&&</a>",
 
 //分类页面
     "数组":"<a&&/div></div></a>",
@@ -41,7 +44,7 @@
 
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
     "分类url":"https://5stag.shop/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#福利$124",
+    "分类":"国产剧$13#日韩剧$44#电影$1#电视剧$2#综艺$3#动漫$4#福利$124",
     
     "筛选":{
     "1":[

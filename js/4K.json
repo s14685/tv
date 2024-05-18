@@ -5,7 +5,7 @@
 {
   "作者": "荷城茶秀",
   "站名": "4K",
-  "主页url": "https://movie.4kgod.cc/",
+  "主页url": "https://movie.4kgod.cc",
  
   "数组": "<a&&<div class=\"module-poster-item-info\">",
   "标题": "alt=\"&&\"",
@@ -19,12 +19,13 @@
   "影片状态": "更新：</span>&&</p>", 
   "影片类型": "module-info-tag\">&&立即播放",
    
-  //"搜索url": "/index.php/vod/search.html?wd={wd}",
-  //"搜索数组": "stui-vodlist__thumb&&</a>",
-  //"搜索标题": "title=\"&&\"",
-  //"搜索副标题": "pic-text text-right\">&&</span>",
-  //"搜索图片": "data-original=\"&&\"",
-  //"搜索链接": "href=\"&&\"",
+  "搜索url": "/index.php/vod/search.html?wd={wd}", //https://movie.4kgod.cc/index.php/vod/search.html?wd=庆余年
+  "搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
+  "搜索数组": "module-card-item module-item\">&&<span>详情</span>",
+  "搜索副标题": "module-item-note\">&&</div>[替换:更新至>> #]+🌸+</div></div><div class=\"module-info-item\"><div class=\"module-info-item-content\">&&</div>[替换:更新至>> #更至>> #&nbsp;>>#<span class=\"slash\">/</span>>><span></span>#]",
+  "搜索标题": "alt=\"&&\"",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索链接": "href=\"&&\"",
 
 //~[LZ资源>>量子#FF资源>>非凡#MG视频>>芒果#QQ视频>>腾讯#4K无水印专线3>>SEVEN#超清-FYNB无水印>>FYNB#4K无水印专线>>KYB#4K无水印专线2>>NBY#超清-SLNB无水印>>SLNB#YZ资源-勿信广告>>优质#SN资源–勿信广告>>索尼#4K无水印专线4>>MYTV#]
   "线路数组":"data-dropdown-value=&&</div>[[替换:</span><small>>>⚡️ #LZ资源>>量子#FF资源>>非凡#MG视频>>芒果#QQ视频>>腾讯#4K无水印专线3>>SEVEN#超清-FYNB无水印>>FYNB#4K无水印专线2>>NBY#超清-SLNB无水印>>SLNB#YZ资源-勿信广告>>优质#SN资源–勿信广告>>索尼#4K无水印专线4>>MYTV#YK视频>>优酷#4K无水印专线>>KYB#]",

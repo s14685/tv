@@ -33,13 +33,12 @@
     "副标题":"vod_remark\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+vod_actor\":\"&&\"",
 
     "搜索模式":"1",
-    //"搜索url":"https://api.1080zyku.com/inc/apijson.php?ac=search&wd=春色寄情人",
-    "搜索url":"https://yzzy.tv/inc/apijson.php?ac=detail&wd={wd}",
+    "搜索url":"/inc/apijson.php?ac=detail&wd={wd}", //https://yzzy.tv/inc/apijson.php?ac=detail&wd=春色寄情人
     "搜索数组二次截取":"\"list\"*[&&]",
     "搜索数组":"{&&\"vod_content\"",
     "搜索图片":"vod_pic\"*\"&&\"",
-	//"搜索图片":"https://api.1080zyku.com/template/newstyle/images/logo.gif",
     "搜索标题":"vod_name\"*\"&&\"",
+	"搜索副标题": "vod_remark\":\"&&\"+🌸+vod_actor\"*\"&&\"[替换:更新至>> #更至>> #&nbsp;>>#]", 
     "搜索链接":"https://yzzy.tv/?m=vod-detail-id-+\"vod_id\":\"&&\",+.html",
 
     "影片类型":"类型：<span>&&</span>",

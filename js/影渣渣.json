@@ -21,12 +21,13 @@
     "链接":"href=\"&&\"",
 
 //搜索页面
-   //"搜索url": "/vodsearch/{wd}-------------.html",     //https://www.yingzhazha.com/vodsearch/-------------.html?wd=肖战
-   //"搜索数组": "module-card-item-class\">&&</a>",       //https://www.yingzhazha.com/vodsearch/肖战----------2---.html
-   //"搜索标题": "alt=\"&&\"",
-   //"搜索副标题": "note\">&&</div>",
-   //"搜索图片": "data-original=\"&&\"",
-   //"搜索链接": "href=\"&&\"",
+  "搜索url": "/vodsearch/-------------.html?wd={wd}",     //https://www.yingzhazha.com/vodsearch/-------------.html?wd=庆余年
+  "搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
+  "搜索数组": "<div class=\"module-card-item module-item\">&&<span>详情</span>",
+  "搜索副标题": "<div class=\"module-item-note\">&&</div>[替换:更新至>> #连载中>> #连载到>> #]",
+  "搜索标题": "alt=\"&&\"",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索链接": "href=\"&&\"",
 
 //播放列表
 //[排序:量子>非凡>快云>天空>海外>高清>乐视>閃電>优质>索尼>極速>飛速>闪电>无尽>红牛>极速>独家>专线>八戒>櫻花>超清]",

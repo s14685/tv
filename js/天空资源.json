@@ -56,7 +56,7 @@
 	//https://tiankongzy.com/api.php/provide/vod/?ac=detail&ids=124161
 	//https://tiankongzy.com/vod/detail/id/124257/
     //"副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_score\":\"&&\"",
-    "副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+vod_actor\":\"&&\"",
+    "副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+vod_actor\":\"&&\"[替换:更新至>> #更至>> #&nbsp;>>#]",
     
 	"搜索模式":"1",
     //"搜索url":"https://tiankongzy.com/api.php/provide/vod/?ac=search&wd=春色寄情人",
@@ -65,7 +65,7 @@
     "搜索数组":"{&&\"vod_content\"",
     "搜索图片":"vod_pic\"*\"&&\"",
     "搜索标题":"vod_name\"*\"&&\"",
-	"搜索副标题": "🌸+vod_actor\"*\"&&\"", 
+	"搜索副标题": "vod_remarks\":\"&&\"+🌸+vod_actor\"*\"&&\"", 
     "搜索链接":"https://tiankongzy.com/vod/detail/id/+\"vod_id\":&&,+\/",
      
 	"影片类型":"类型：&&更新：",

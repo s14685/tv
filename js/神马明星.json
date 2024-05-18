@@ -7,7 +7,7 @@
 {
     "作者":"荷城茶秀",
     "站名":"神马明星", 
-    "主页url":"https://shenmaysk.com/",
+    "主页url":"https://shenmaysk.com",
     "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
     "强制解析":"0",
     "图片代理":"0",
@@ -29,13 +29,13 @@
     "影片地区":"<a class=\"tag-link\" href=\"/vodshow/13-%*>&&</a>",
 	
 //搜索页面
-   //"搜索url": "/vodsearch/-------------.html?wd={wd}",
-   //"搜索数组二次截取":"<div class=\"module-items\">&&</main>",
-   //"搜索数组": "lazy lazyload*>&&<strong>立即播放</strong>",
-   //"搜索标题": "title=\"&&\"",
-   //"搜索副标题": "target=\"_blank\">&&</a>+🌸+主演：</span><div class=\"video-info-item video-info-actor\">&&</div>[替换:<span class=\"slash\">/</span>>><span></span>#]",
-   //"搜索图片": "data-src=\"&&\"",
-   //"搜索链接": "<a class=\"video-serial\" href=\"&&\"",
+   "搜索url": "/vodsearch/-------------.html?wd={wd}", //https://shenmaysk.com/vodsearch/-------------.html?wd=庆余年第二季
+   "搜索数组二次截取":"<div class=\"module-items\">&&</div></main>",
+   "搜索数组": "<div class=\"module-search-item\">&&<strong>立即播放</strong>",
+   "搜索标题": "title=\"&&\"",
+   "搜索副标题": "video-serial*>&&</a>+🌸+主演：</span><div class=\"video-info-item video-info-actor\">&&</div>[替换:<span class=\"slash\">/</span>>><span></span>#]",
+   "搜索图片": "data-src=\"&&\"",
+   "搜索链接": "<a class=\"video-serial\" href=\"&&\"",
 
 //播放列表
 //[排序:量子>非凡>快云>天空>海外>高清>乐视>閃電>优质>索尼>極速>飛速>闪电>无尽>红牛>极速>独家>专线>八戒>櫻花>超清]",

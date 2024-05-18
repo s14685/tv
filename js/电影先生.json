@@ -26,9 +26,9 @@
    //"搜索图片": "data-original=\"&&\"",
    //"搜索链接": "href=\"&&\"",
    
-	"简介":"🌸+集数：</span>&&</div></div>+🌸+video-info-item video-info-content\">&&</div>",
-    "导演":"导演：</span>&&</span></a>+🌸+集数：</span>&&</div></div>",
-    "主演":"主演：</span>&&</span></a></div>",
+	"简介":"🌸+集数：</span>&&</div></div>+🌸+video-info-item video-info-content\">&&</div>[替换:每集>> #更新至>> #更至>> #&nbsp;>> #]",
+    "导演":"导演：</span>&&</span></a>+🌸+集数：</span>&&</div></div>[替换:每集>> #更新至>> #更至>> #&nbsp;>> #]",
+    "主演":"主演：</span>&&</span></a></div>[替换:<span class=\"slash\">/</span>>><span></span>#]",
     "影片类型":"video-info-aux\">&&立即播放",
     "影片状态":"集数：</span>&&</div></div>",
 	//"影片类型":"tag-link\">&&</div>",

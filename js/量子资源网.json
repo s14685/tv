@@ -38,6 +38,7 @@
     "搜索数组":"<div class=\"module-item-pic\">&&<div class=\"loading\"></div>",
     "搜索图片":"data-src=\"&&\"",
     "搜索标题":"alt=\"&&\"",
+	//"搜索副标题": "vod_remarks\":\"&&\"+🌸+vod_actor\"*\"&&\"", 	
     "搜索链接":"https://lzizy9.com/index.php/vod/detail/id/+\/id\/&&\/+.html",
     //"搜索链接":"https://lzizy9.com/index.php/vod/detail/id/+\/id\/&&\/+.html",
 

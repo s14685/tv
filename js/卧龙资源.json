@@ -19,11 +19,12 @@
     //"副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_actor\":\"&&\"", //vod_area vod_score vod_hits vod_actor
     
 	"搜索模式":"1",
-    "搜索url":"https://wolongzy.cc/api.php/provide/vod/?ac=detail&wd={wd}",
+    "搜索url":"/api.php/provide/vod/?ac=detail&wd={wd}",
     "搜索数组二次截取":"\"list\"*[&&]",
     "搜索数组":"{&&\"vod_content\"",
     "搜索图片":"vod_pic\"*\"&&\"",
     "搜索标题":"vod_name\"*\"&&\"+🌸+\"vod_year\":\"&&\"",
+	"搜索副标题": "vod_remarks\":\"&&\"+🌸+vod_actor\"*\"&&\"[替换:更新至>> #更至>> #&nbsp;>>#]", 
     "搜索链接":"https://wolongzyw.com/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
         
 	"影片类型":"类型：&&</a>",

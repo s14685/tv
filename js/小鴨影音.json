@@ -1,31 +1,28 @@
 //小鴨影音
-//https://777tv.tw/vodshow/2-大陸-hits--國語-------2023.html
 //https://tvbox.im/vod/show/2-大陸--懸疑-國語-------2024.html
-//https://777drama.tv/show/id/13-----------2024.html
-//https://777drama.cc/list/tv-cn/
-
+//https://tvbox.im/vod/show/13-----------2024.html
 
 {
 // https://tvbox.im/vod/show/13-----------.html	
     "作者":"荷城茶秀",
     "站名":"小鴨影音tvbox.im", 
     "主页url":"https://tvbox.im",
-    "简介":"class=\"module-info-introduction-content show-desc\" style=\"line-height: 25px;\">&&</p>",
-    "导演":"導演：</span>&&</a>",
+	
+    "简介":"集數：</span><div class=\"module-info-item-content\">&&</div>+🌸+class=\"module-info-introduction-content show-desc\" style=\"line-height: 25px;\">&&</p>[替换:更新至>> #更至>> #&nbsp;>>#]",
+    "导演":"導演：</span>&&</a>+🌸+片長：</span><div class=\"module-info-item-content\">&&</div>[替换:每集>> #分钟分钟>>分钟#&nbsp;>>#]",
     "主演":"主演：</span>&&</div>",
     "影片类型":"module-info-tag\">&&<div class=\"module-mobile-play\">",
-    "影片状态":"集數：</span>&&</div>",
+    "影片状态":"集數：</span>&&</div>[替换:更新至>> #更至>> #&nbsp;>>#]",
 
 //分类页面 
     "数组":"<a&&/div></div></a>",
     "标题":"title=\"&&\"",
-    "副标题":"note\">&&</div>+ 🌸+module-item-douban\">豆瓣:&&分</div>",
+    "副标题":"note\">&&</div>+🌸+module-item-douban\">豆瓣:&&分</div>",
     "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
 
 //搜索页面
-//   "搜索url": "/vodsearch/{wd}-------------.html",     //https://tvbox.im/vod/search/-------------.html?wd=師傅
-   "搜索url": "/vod/search/-------------.html?wd={wd}",     //https://tvbox.im/vod/search/-------------.html?wd=師傅
+   "搜索url": "/vod/search/-------------.html?wd={wd}",     //https://tvbox.im/vod/search/-------------.html?wd=少年巴比伦
    "搜索数组": "module-card-item-class\">&&</a>",
    "搜索标题": "alt=\"&&\"",
    "搜索副标题": "note\">&&</div>",

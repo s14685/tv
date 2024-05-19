@@ -23,26 +23,25 @@
 //{"key":"drpy_js_豆瓣","name":"🌺豆瓣評分🌺","api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js","type":3},
 //{"key":"js_爱奇异","name":"☘️爱奇艺评分☘️","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"http://winniec.asuscomm.com/iptv/js/aiqiyi.js","jar":"https://weixine.net/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
 //{"key": "js_优酷","name": "🎭优酷评分🎭","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/优酷.js"},
+{"key":"csp_TVB云","name":"🏳️‍🌈TVB云🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/TVB云播.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
 
-//Token:ac12d87497b74278a2ef0e3ddc2e5217, ec08717126de42d5b9bf022e6a9cbdfa
-{"key": "csp_KungFu404","name": "🍭设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "https://raw.liucn.cc/box/libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
-//{"key":"csp_WoGG","name":"👽玩偶3840🍏3","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 
 {"key":"csp_海外看🎯","name":"🎯海外看🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/海外看.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
 {"key":"csp_天空资源🎯","name":"🎯天空资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/天空资源.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
 {"key":"csp_飞速资源🎯","name":"🎯飞速资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/飞速资源.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
 
-{"key":"csp_神马电影","name":"🏳️‍🌈神马🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/神马电影.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"csp_神马明星","name":"🎭神马明星🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/神马明星.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"csp_非凡资源🎯","name":"🎯非凡资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/非凡资源.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-
 {"key":"csp_剧圈圈","name":"🏳️‍🌈剧圈圈🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/剧圈圈.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
 {"key":"csp_卧龙资源🎯","name":"🎯卧龙资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/卧龙资源.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
+{"key":"csp_非凡资源🎯","name":"🎯非凡资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/非凡资源.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
+
+{"key":"csp_神马电影","name":"🏳️‍🌈神马🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/神马电影.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
+{"key":"csp_神马明星","name":"🎭神马明星🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/神马明星.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
 {"key":"csp_老王","name":"🌈老王🍏7","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/老王.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
 
-{"key":"csp_TVB云","name":"🏳️‍🌈TVB云🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/TVB云播.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
+//Token:ac12d87497b74278a2ef0e3ddc2e5217, ec08717126de42d5b9bf022e6a9cbdfa, 545d29c46c4e47f9b7c914671a503a2f
+{"key":"csp_WoGG","name":"🏳️‍🌈玩偶🍏3","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+{"key": "csp_KungFu404","name": "🍭设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "https://raw.liucn.cc/box/libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
 {"key":"csp_耐看视频","name":"🌈耐看🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/耐看视频.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"csp_唐人街影院","name":"🌈唐人街🍏❄️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/唐人街影院.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
 
 {"key":"csp_网飞","name":"🏳️‍🌈网飞🍏❄️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/网飞.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
 {"key":"csp_奈飞","name":"🏳️‍🌈奈飞🍏❄️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/奈飞.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
@@ -50,6 +49,7 @@
 
 {"key":"csp_Gimy剧迷","name":"🏳️‍🌈Gimy🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/Gimy剧迷.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
 {"key":"csp_米爱影视","name":"🌈米爱影视🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/米爱影视.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
+{"key":"csp_唐人街影院","name":"🌈唐人街🍏❄️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/唐人街影院.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
 //{"key":"csp_YQKan","name":"🌎一起看🍎9","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.173647.com"}, 
 //{"key":"csp_一起看","name":"🌎一起看🍏1️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/一起看.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
 

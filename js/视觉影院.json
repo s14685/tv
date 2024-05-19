@@ -19,12 +19,13 @@
     "链接":"href=\"&&\"",
 
 //搜索页面
-  //"搜索url": "/vodsearch{wd}.html",     //https://www.sypfjy.com/vodsearch{wd}.html
-  //"搜索数组": "<img class=\"lazy lazyload&&</div>",
-  //"搜索标题": "title=\"&&\"",
-  //"搜索副标题": "pic-text text-right\">&&</span>",
-  //"搜索图片": "data-src=\"&&\"",
-  //"搜索链接": "href=\"&&\"",
+  "搜索url": "/vodsearch.html?wd=[wd}",     //https://www.sypfjy.com/vodsearch.html?wd=庆余年
+  "搜索数组二次截取":"<div class=\"module-items\">&&</div></main>[替换:<span class=\"slash\">/</span>>> #]",
+  "搜索数组": "<div class=\"module-search-item\">&&立即播放</strong>",
+  "搜索副标题": "video-serial*>&&</a>[替换:更新至>> #更至>> #更新>> #]+🌸+主演：</span><div class=\"video-info-item video-info-actor\">&&</div>[替换:<span class=\"slash\">/</span>>> #]",
+  "搜索标题": "title=\"&&\"",
+  "搜索图片": "data-src=\"&&\"",
+  "搜索链接": "href=\"&&\"",
 
 //播放列表
 //[替换:专线>>专线#独家线路>>独家#KK线路>>快看#BF线路>>暴风#FF线路>>非凡#LZ线路>>量子#YZ线路>>优质#LS线路>>乐视]",

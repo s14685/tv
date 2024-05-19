@@ -19,7 +19,7 @@
     "链接":"href=\"&&\"",
 
 //搜索页面
-   //"搜索url": "/vodsearch/{wd}-------------.html",     //https://soupian.pro/search?key=%E7%8C%8E%E5%86%B0&utm_source=dyxs_hotwords
+   //"搜索url": "/vodsearch/{wd}-------------.html",     //https://soupian.pro/search?key=庆余年&utm_source=dyxs_hotwords
    //"搜索数组": "module-card-item-class\">&&</a>",
    //"搜索标题": "alt=\"&&\"",
    //"搜索副标题": "note\">&&</div>",

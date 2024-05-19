@@ -18,13 +18,10 @@
 
     "二次截取":"class=\"module-items\">&&<div class=\"module-footer\">+<div class=\"module-item\">", // add additional to cater last thumbnail
     "数组":"<div class=\"module-item-pic\">&&<div class=\"module-item\">[替换:更新至>> #更至>> #&nbsp;>>#<span class=\"slash\">/</span>>><br>#]",
-    //"数组":"class=\"module-item\">&&<div class=\"module-item-style video-text\">",
-    //"标题":"title=\"&&\"+🌸+target=\"_blank\">&&</div>[替换:</a>&nbsp;>>️|#]",
     "标题":"title=\"&&\"",
     "图片":"data-src=\"&&\"",
     "链接":"href=\"&&\"",
-    //"副标题":"<div class=\"module-item-text\">&&</div>+🌸+<div class=\"module-item-caption\"><span>&&</span>[替换:更新至>> #更至>> #</a>&nbsp;>>️ #]",
-    "副标题":"<div class=\"module-item-text\">&&</div>+🌸+target=\"_blank\">&&</div>",
+    "副标题":"<div class=\"module-item-text\">&&</div>[替换:更新至>> #更至>> #]+🌸+target=\"_blank\">&&</div>",
 
     "搜索模式":"1",
     "搜索url":"https://haiwaikan.tv/vodsearch/-------------/?wd={wd}", //https://haiwaikan.tv/vodsearch/-------------/?wd=庆余年
@@ -43,7 +40,7 @@
 	"影片状态":"集数：</span><div class=\"video-info-item\">&&</div>",
     "导演":"导演：</span>&&</a>+🌸+集数：</span><div class=\"video-info-item\">&&</div>[替换:更新至>> #更新>> #更至>> #]",
     "主演":"主演：</span>&&</div>[替换:&nbsp;>>#<span class=\"slash\">/</span>>>#]",
-    "简介":"🌸+集数：</span><div class=\"video-info-item\">&&</div>+🌸+<p class=\"sqjj_a\" style=\"display: none;\">&&<span",
+    "简介":"🌸+集数：</span><div class=\"video-info-item\">&&</div>[替换:更新至>> #更至>> #]+🌸+<p class=\"sqjj_a\" style=\"display: none;\">&&<span",
 
     //"线路二次截取": "",
     "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #]",

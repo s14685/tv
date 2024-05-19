@@ -13,14 +13,14 @@
     "图片代理":"0",
 //分类页面
     "二次截取":"<div class=\"module-items\">&&<div class=\"module-footer\">",
-    "数组":"module-item\">&&<div class=\"module-item-text\">[替换:更新至>> #更至>> #&nbsp;>>#<span class=\"slash\">/</span>>>#]",
+    "数组":"module-item\">&&<div class=\"module-item-text\">[替换:更新至>> #更新>> #更至>> #&nbsp;>>#<span class=\"slash\">/</span>>>#]",
     "标题":"title=\"&&\"",
     "图片":"data-src=\"&&\"",
     "链接":"href=\"&&\"",
     //"副标题":"href=\"&&\"",
-    "副标题":"module-item-caption\"><span>&&</span>+🌸+target=\"_blank\">&&</div>",//+module-item-text\">&&</div>
+    "副标题":"module-item-caption\"><span>&&</span>[替换:更新至>> #更至>> #]+🌸+target=\"_blank\">&&</div>",//+module-item-text\">&&</div>
 	
-    "简介":"🌸+集数：</span><div class=\"video-info-item\">&&</div>+🌸+剧情：</span>&&</span><a",
+    "简介":"🌸+集数：</span><div class=\"video-info-item\">&&</div>[替换:更新至>> #更新>> #更至>> #]+🌸+剧情：</span>&&</span><a",
     "导演":"导演：</span>&&</a>+🌸+集数：</span><div class=\"video-info-item\">&&</div>[替换:更新至>> #更新>> #更至>> #]",
     "主演":"主演：&&</span></div>[替换:&nbsp;>>#<span class=\"slash\">/</span>>>#]",
 	"影片类型":"video-info-aux scroll-content\">&&</div>[替换:连续剧>> #]",
@@ -33,7 +33,7 @@
    "搜索数组二次截取":"<div class=\"module-items\">&&</div></main>",
    "搜索数组": "<div class=\"module-search-item\">&&<strong>立即播放</strong>",
    "搜索标题": "title=\"&&\"",
-   "搜索副标题": "video-serial*>&&</a>+🌸+主演：</span><div class=\"video-info-item video-info-actor\">&&</div>[替换:<span class=\"slash\">/</span>>><span></span>#]",
+   "搜索副标题": "video-serial*>&&</a>[替换:更新至>> #更新>> #更至>> #]+🌸+主演：</span><div class=\"video-info-item video-info-actor\">&&</div>[替换:<span class=\"slash\">/</span>>><span></span>#]",
    "搜索图片": "data-src=\"&&\"",
    "搜索链接": "<a class=\"video-serial\" href=\"&&\"",
 

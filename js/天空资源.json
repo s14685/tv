@@ -44,19 +44,19 @@
     "主页url":"https://tiankongzy.com/",
     "站名":"🌸天空资源",
     "首页":"电视剧",
-    "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    //"请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
     
 	"二次截取":"\"list\"*[&&]",
     "数组":"{&&\"vod_content\"",
     "图片":"vod_pic\"*\"&&\"",
-    "标题":"vod_name\"*\"&&\"+🌸+\"vod_year\":\"&&\"",
-    //"链接":"http://ffzy5.tv/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
+    "标题":"vod_name\"*\"&&\"",
     //"链接":"https://tiankongzy.com/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,",
     "链接":"https://tiankongzy.com/vod/detail/id/+\"vod_id\":&&,+\/",
 	//https://tiankongzy.com/api.php/provide/vod/?ac=detail&ids=124161
 	//https://tiankongzy.com/vod/detail/id/124257/
     //"副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_score\":\"&&\"",
-    "副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+vod_actor\":\"&&\"[替换:更新至>> #更至>> #&nbsp;>>#]",
+    "副标题":"vod_remarks\":\"&&\"[替换:更新至>> #更至>> #]+🌸+\"vod_duration\":\"&&\"+🌸+vod_actor\":\"&&\"",
+	//[替换:更新至>> #更至>> #]
     
 	"搜索模式":"1",
     //"搜索url":"https://tiankongzy.com/api.php/provide/vod/?ac=search&wd=春色寄情人",
@@ -65,7 +65,7 @@
     "搜索数组":"{&&\"vod_content\"",
     "搜索图片":"vod_pic\"*\"&&\"",
     "搜索标题":"vod_name\"*\"&&\"",
-	"搜索副标题": "vod_remarks\":\"&&\"+🌸+vod_actor\"*\"&&\"", 
+	"搜索副标题": "vod_remarks\":\"&&\"[替换:更新至>> #更至>> #]+🌸+vod_actor\"*\"&&\"", 
     "搜索链接":"https://tiankongzy.com/vod/detail/id/+\"vod_id\":&&,+\/",
      
 	"影片类型":"类型：&&更新：",
@@ -73,7 +73,7 @@
     "影片地区":"地区：&&</span>",
     "导演":"导演：&&</span>+🌸+<label>&&</label>",
     "主演":"主演：&&</span>",
-    "简介":"🌸+vodh\">&&</span><label>[替换:</h2><span>>>⚡️ #]+🌸+vodplayinfo\">&&</div>",
+    "简介":"🌸+vodh\">&&</span><label>[替换:</h2><span>>>⚡️ #更新至>> #更至>> #]+🌸+vodplayinfo\">&&</div>",
    
 	//[排序:来源：tkyun>来源：tkm3u8][排序:🌸天空tkyun>🌸天空tkm3u8]
 	"线路数组":"<h3&&/h3>[替换:来源：>>🌸天空#]",
@@ -235,4 +235,5 @@
         }
         ]
         }
-        }
+		
+}

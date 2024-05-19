@@ -13,9 +13,9 @@
 	//second time filter extraction
     "数组":"{&&\"vod_content\"",
     "图片":"vod_pic\"*\"&&\"",
-    "标题":"vod_name\"*\"&&\"+🌸+\"vod_year\":\"&&\"",
+    "标题":"vod_name\"*\"&&\"",
     "链接":"https://wolongzy.cc/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
-    "副标题":"vod_remarks\":\"&&\"+🌸+\"vod_actor\":\"&&\"", //vod_area vod_score vod_hits vod_actor
+    "副标题":"vod_remarks\":\"&&\"[替换:更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", //vod_area vod_score vod_hits vod_actor
     //"副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_actor\":\"&&\"", //vod_area vod_score vod_hits vod_actor
     
 	"搜索模式":"1",
@@ -24,7 +24,7 @@
     "搜索数组":"{&&\"vod_content\"",
     "搜索图片":"vod_pic\"*\"&&\"",
     "搜索标题":"vod_name\"*\"&&\"+🌸+\"vod_year\":\"&&\"",
-	"搜索副标题": "vod_remarks\":\"&&\"+🌸+vod_actor\"*\"&&\"[替换:更新至>> #更至>> #&nbsp;>>#]", 
+	"搜索副标题": "vod_remarks\":\"&&\"[替换:更新至>> #更至>> #]+🌸+vod_actor\"*\"&&\"[替换:更新至>> #更至>> #&nbsp;>>#]", 
     "搜索链接":"https://wolongzy.cc/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
         
 	"影片类型":"类型：&&</a>",
@@ -32,7 +32,7 @@
     "影片地区":"地区：&&</p>",
     "导演":"导演：&&</p>+🌸+评分：&&</p>",
     "主演":"演员：&&</p>",
-    "简介":"🌸+备注：&&</p>+🌸+剧情介绍</p>&&</div>",
+    "简介":"🌸+备注：&&</p>[替换:更新至>> #更至>> #]+🌸+剧情介绍</p>&&</div>",
     //only one source title
 	"线路数组":"<h4>&&</h4>",
     //"线路数组":"<h4>&&</h4>[替换:ffm3u8>>🌸非凡①#feifan>>🌸非凡②][排序:🌸非凡①>>🌸非凡②]",

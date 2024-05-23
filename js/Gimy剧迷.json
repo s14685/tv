@@ -30,7 +30,7 @@
    "搜索url": "/vodsearch.html?wd={wd}", //https://www.jagcys.com/vodsearch.html?wd=与凤行
    "搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
    "搜索数组": "<div class=\"module-card-item-class\">&&<div class=\"module-card-item-footer\">",
-   "搜索副标题": "module-item-note\">&&</div>[替换:更新至>> #更至>> #]",
+   "搜索副标题": "module-item-note\">&&</div>[替换:更新至>> #更至>> #更新>> #]",
    "搜索标题": "alt=\"&&\"",
    "搜索图片": "data-original=\"&&\"",
    "搜索链接": "<a class=\"video-serial\" href=\"&&\"",

@@ -1,59 +1,73 @@
-//真不卡影院
-//https://www.zhenbuka35.com/vodshow-dianshiju-中国大陆-hits------1---2024/
-//电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian#福利$lunlipian#
-
-
+//丫丫资源网 https://yayazy1.com/index.php/vod/show/id/13.html
+//官网地址：yayazy.net、yayazy.com、 yayazy.ne 、yayazy.org 、yayazy.me
+//https://yayazy10.com/api.php/provide/vod/?ac=list
+//https://yayazy10.com/api.php/provide/vod/?ac=detail&t=13&pg=1&limit=20
+//https://yayazy10.com/index.php/vod/search.html?wd=庆余年第二季&submit=
+//https://yayazy10.com/index.php/vod/show/id/13.html
  {
-    "主页url":"https://www.zhenbuka35.com/",
-    "站名":"🌸真不卡影院",
+    "主页url":"https://yayazy10.com/",
+    "站名":"🌸丫丫资源",
     "首页":"电视剧",
-    //"请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-	//"请求头":"Mozilla/5.0 (Linux; Android 7.1.2; Kindle Fire HDX Build/NJH47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Safari/537.36",
+    "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
     
-	"二次截取":"<ul class=\"stui-vodlist clearfix\">&&</ul>", //all thumb
-    "数组":"<div class=\"stui-vodlist__box\">&&</div></div>", //one thumb
-    "图片":"data-original=\"&&\"",
-    "标题":"title=\"&&\"",
-    "链接":"href==\"&&\"", 
-	     //https://www.zhenbuka35.com/vodplay/117508-1-1/
-    "副标题":"href==\"&&\"", 
+	"二次截取":"\"list\"*[&&]",
+    "数组":"{&&\"vod_content\"",
+    "图片":"vod_pic\"*\"&&\"",
+    "标题":"vod_name\"*\"&&\"",
+    //"链接":"https://yayazy10.com/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,",
+    "链接":"https://yayazy10.com/index.php/vod/detail/id/+\"vod_id\":&&,+.html", 
+	//https://yayazy10.com/index.php/vod/detail/id/73682.html
+    //"副标题":"\"vod_id\":&&,+.html",
+    "副标题":"vod_remarks\":\"&&\"[替换:更新第>> #更新至>> #]+🌸+vod_actor\":\"&&\"",
 	//[替换:更新至>> #更至>> #] vod_duration vod_year
     
 	"搜索模式":"1",
-    //https://www.zhenbuka35.com/index.php/vod/search.html?wd=庆余年第二季
-    "搜索url":"https://www.zhenbuka35.com/index.php/vod/search.html?wd={wd}",
-    "搜索数组二次截取":"<div id=\"niu-box\">&&</div>",
-    "搜索数组":"<a&&</a>",
+    //https://yayazy10.com/index.php/vod/search.html?wd=庆余年第二季&submit=
+    "搜索url":"https://yayazy10.com/index.php/vod/search.html?wd={wd}&submit=",
+    "搜索数组二次截取":"<!-- 列表 -->&&<!-- end 列表 -->",
+    "搜索数组":"<li class=\"clearfix\">&&</li>",
     //"搜索图片":"vod_pic\"*\"&&\"",
-    "搜索标题":"<div class=\"title\"><p>&&</p>",
-	"搜索副标题":"</p><span&&</span>[替换:更新第>> #更新至>> #]", 
+    "搜索标题":"title=\"&&\"", 
+	"搜索副标题":"<em class=\"btn-orange\">&&</em>[替换:更新第>> #更新至>> #]", 
     "搜索链接":"href=\"&&\"", 
 
-	"影片状态":"<div class=\"img\">&&</span>[替换:更新第>> #更新至>> #]",
-	"影片类型":"类型：</span>&&</a>",
-    "影片年代":"年代：</span>&&</a>",
-    "影片地区":"地区：</span>&&</a>",
-    "导演":"导演：</span>&&</a>+🌸+<div class=\"img\">&&</span>[替换:更新第>> #更新至>> #<span>>> #]",
-    "主演":"演员：</span>&&</div>[替换:&nbsp;>> #<span class=\"slash\">/</span>>> #]",
-    "简介":"🌸+<div class=\"img\">&&</span>[替换:更新第>> #更新至>> #]+🌸+剧情简介：</div>&&</div>",
+// 状态：<span>更新第13集</span></p>
+// 类型：<span>国产剧</span></p>
+// 导演：<span>孙皓</span></p>
+// 演员：<span>张若昀,李沁,陈道明,吴刚,田雨,李小冉</span>
+// 年代：<span>2024</span></p>
+// 地区：<span>中国大陆</span></p>
+// 语言：<span>汉语普通话</span></p>
+// TAG标签：<span>未知</span></p>
+// 更新时间：<span>2024-05-21 10:05:42</span></p>
+
+	"影片状态":"状态：<span>&&</span>[替换:更新第>> #更新至>> #]",
+	"影片类型":"类型：<span>&&</span>",
+    "影片年代":"年代：<span>&&</span>",
+    "影片地区":"地区：<span>&&</span>",
+    "导演":"导演：<span>&&</span>+🌸+状态：<span>&&</span>[替换:更新第>> #更新至>> #]",
+    "主演":"演员：<span>&&</span>",
+    "简介":"🌸+状态：<span>&&</span>[替换:更新第>> #更新至>> #]+🌸+<!-- 剧情 -->&&<!-- end 剧情 -->",
    
-	"线路数组":"播放类型：</div>&&<span",
+	"线路数组":"<!-- 播放器 -->&&<!-- end 播放器 -->",
     "线路标题":"🌸+&&",
     
-	//"播放二次截取": "<!-- 播放模块 -->&&<!-- end 播放模块 -->",//all playlist
-	"播放数组":"<div class=\"section\">&&<div class=\"footer\">", //one playlist
-    "播放列表":"<div class=\"once\">&&<span>点击播放</span>", //one episod
-    "播放标题":"<div class=\"num\">&&<", //one episod
-	//"播放链接":"href=\"&&\"",//one episod
+	"播放二次截取": "<!-- 播放模块 -->&&<!-- end 播放模块 -->",//all playlist
+	"播放数组":"<!-- 播放地址 -->&&<!-- end 播放地址 -->", //one playlist
+    //"播放列表":"<a href=\"javascript:;\" class=\"copy_text\">&&</a>", //one episod
+    "播放列表":"<a class=\"btn-orange pull-right\"&&<span class=\"hidden-sm hidden-xs\">", //one episod
+    "播放标题":"<!-- 播放集数 -->&&<!-- end 播放集数 -->", //one episod
+	//"播放链接":"<!-- 播放集数地址 -->&&<!-- end 播放集数地址 -->",//one episod
     
-	"分类":"电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian#福利$lunlipian#",
-    "分类url":"https://www.zhenbuka35.com/vodshow-{cateId}-{area}-hits------{catePg}---{year}/;;k",
-    //"分类url":"https://www.zhenbuka35.com/vodshow-dianshiju--------1---/",
-             //https://www.zhenbuka35.com/vodshow-dianshiju--------1---/
-			 
-    //"分类":"电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian#福利$lunlipian#",
-    //"分类url":"https://www.zhenbuka35.com/vodtype/{cateId}/",
-			 //https://www.zhenbuka35.com/vodtype/dianshiju/
+	"分类":"国产剧$13#韩剧$15#国产动漫$29#电视剧$13#动漫$29#电影$6#综艺$25#演唱会$47#伦理$55#",
+    //"分类url":"http://ffzy5.tv/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20",
+    "分类url":"https://yayazy10.com/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20",
+	//https://yayazy10.com/api.php/provide/vod/?ac=detail&t=13&pg=1&limit=20
+	//https://yayazy10.com/api.php/provide/vod/?ac=list
+
+
+
+
     
 	"筛选":{
     "34":[{"key":"cateId","name":"类型","value":[
@@ -107,16 +121,7 @@
 	// "type_id": 9,"type_name": "科幻片"}, {
 	// "type_id": 10,"type_name": "恐怖片"}, {
 	// "type_id": 11,"type_name": "剧情片"}, {
-	// "type_id": 12,"type_name": "战争片"}, {
-	// "type_id": 62,"type_name": "4K电影"}, {
-	// "type_id": 63,"type_name": "有声动漫"}, {
-	// "type_id": 64,"type_name": "女频恋爱"}, {
-	// "type_id": 65,"type_name": "反转爽剧"}, {
-	// "type_id": 66,"type_name": "古装仙侠"}, {
-	// "type_id": 67,"type_name": "年代穿越"}, {
-	// "type_id": 68,"type_name": "脑洞悬疑"}, {
-	// "type_id": 69,"type_name": "现代都市"}, {
-	// "type_id": 70,"type_name": "邵氏电影"		
+	// "type_id": 12,"type_name": "战争片"}, {	
 
 	"6":[
         {"key":"cateId","name":"类型","value":[
@@ -201,8 +206,6 @@
 	// "type_id": 27,"type_name": "港台综艺"}, {
 	// "type_id": 28,"type_name": "欧美综艺"}, {	
 	
-
-	
 	  "25":[
         {"key":"cateId","name":"类型","value":[
         {"n":"综艺","v":"25"},
@@ -244,8 +247,6 @@
 	// "type_id": 53,"type_name": "影视解说"}, {
 	// "type_id": 54,"type_name": "爽文短剧"}, {
 	
-
-	
 	  "47":[
         {"key":"cateId","name":"类型","value":[
         {"n":"演唱会","v":"47"},
@@ -272,6 +273,15 @@
 	// "type_id": 59,"type_name": "日本伦理"}, {
 	// "type_id": 60,"type_name": "两性课堂"}, {
 	// "type_id": 61,"type_name": "写真热舞"}, {
+	// "type_id": 62,"type_name": "4K电影"}, {
+	// "type_id": 63,"type_name": "有声动漫"}, {
+	// "type_id": 64,"type_name": "女频恋爱"}, {
+	// "type_id": 65,"type_name": "反转爽剧"}, {
+	// "type_id": 66,"type_name": "古装仙侠"}, {
+	// "type_id": 67,"type_name": "年代穿越"}, {
+	// "type_id": 68,"type_name": "脑洞悬疑"}, {
+	// "type_id": 69,"type_name": "现代都市"}, {
+	// "type_id": 70,"type_name": "邵氏电影"		
 		
 	
 	  "55":[

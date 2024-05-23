@@ -1,8 +1,19 @@
 //电影先生
-//https://dyxs29.com/pianku-dianshiju-中国大陆-hits-剧情-国语-------2024/
-//https://dyxs29.com/pianku-dianshiju-中国大陆-hits---------2024/
+//http://dyxs30.com 极快(5ms)
+//http://dyxs31.com 极快(5ms)
+//http://dyxs32.com 极快(5ms)
+//http://dyxs33.com 极快(5ms)
+//http://dyxs34.com 极快(5ms)
+//http://dyxs36.com 极快(5ms)
+//http://dyxs37.com 极快(5ms)
+//http://dyxs38.com 极快(6ms)
+//http://dyxs39.com 极快(6ms)
+//https://dyxs30.com/pianku-dianshiju-中国大陆-hits-剧情-国语-------2024/
+//https://dyxs30.com/pianku-dianshiju-中国大陆-hits---------2024/
 //https://www.dianyi.ng/pianku-guochan--hits---------2024.html
+
 //FF节点>>非凡#HD节点>>乐视#BF节点>>暴风#TX节点>>腾讯#MG节点>>芒果#LZ节点>>量子#KK节点>>快看#HN节点>>红牛#TK节点>>淘片#UK节点>>U酷#DB节点>>百度#
+
     {
     "作者":"荷城茶秀",
     "站名":"电影先生",
@@ -10,7 +21,7 @@
     "强制解析":"0",
     "图片代理":"0",
     "免嗅":"0",
-    "主页url":"https://dyxs29.com/",
+    "主页url":"https://dyxs30.com/",
     
 	"数组":"module-item-cover\">&&</div></div>",
     "标题":"title=\"&&\"",
@@ -27,8 +38,8 @@
    //"搜索链接": "href=\"&&\"",
    
 	"简介":"🌸+集数：</span>&&</div></div>+🌸+video-info-item video-info-content\">&&</div>[替换:每集>> #更新至>> #更至>> #&nbsp;>> #]",
-    "导演":"导演：</span>&&</span></a>+🌸+集数：</span>&&</div></div>[替换:每集>> #更新至>> #更至>> #&nbsp;>> #]",
-    "主演":"主演：</span>&&</span></a></div>[替换:<span class=\"slash\">/</span>>><span></span>#]",
+    "导演":"导演：</span>&&</span></a>+⚡️+片长：</span><div class=\"video-info-item\">&&</div></div>",
+    "主演":"主演：</span>&&</span></a></div>[替换:<span class=\"slash\">/</span>>><span></span> #&nbsp;>> #]",
     "影片类型":"video-info-aux\">&&立即播放",
     "影片状态":"集数：</span>&&</div></div>",
 	//"影片类型":"tag-link\">&&</div>",
@@ -48,8 +59,8 @@
     //"播放列表":"<a&&</a>",
 	//"播放链接":"",
     
-	"分类url":"https://dyxs29.com/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
-            //https://dyxs29.com/pianku-dianshiju-中国大陆-hits-剧情-国语-------2024/
+	"分类url":"https://dyxs30.com/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+            //https://dyxs30.com/pianku-dianshiju-中国大陆-hits-剧情-国语-------2024/
     "分类":"电视剧$pianku-dianshiju#电影$pianku-dianying#动漫$pianku-dongman#综艺$pianku-zongyi#",
 
     "筛选":{

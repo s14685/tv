@@ -1,27 +1,29 @@
-//真不卡影院
-//https://www.zhenbuka35.com/vodshow-dianshiju-中国大陆-hits------1---2024/
-//电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian#福利$lunlipian#
-
-
+//牛牛资源 https://niuniuzy3.com/index.php/vod/detail/id/73692.html
+//官网地址：niuniuzy.cc、niuniuzy.info、 niuniuzy.me 、niuniuzy.org
+//https://api.niuniuzy.me/api.php/provide/vod
+//https://niuniuzy3.com/api.php/provide/vod/?ac=list
+//https://niuniuzy3.com/api.php/provide/vod/?ac=detail&t=13&pg=1&limit=20
+//https://niuniuzy3.com/index.php/vod/search.html?wd=庆余年第二季
  {
-    "主页url":"https://www.zhenbuka35.com/",
-    "站名":"🌸真不卡影院",
+    "主页url":"https://niuniuzy3.com/",
+    "站名":"🌸牛牛资源",
     "首页":"电视剧",
-    //"请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-	//"请求头":"Mozilla/5.0 (Linux; Android 7.1.2; Kindle Fire HDX Build/NJH47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.92 Safari/537.36",
+    "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
     
-	"二次截取":"<ul class=\"stui-vodlist clearfix\">&&</ul>", //all thumb
-    "数组":"<div class=\"stui-vodlist__box\">&&</div></div>", //one thumb
-    "图片":"data-original=\"&&\"",
-    "标题":"title=\"&&\"",
-    "链接":"href==\"&&\"", 
-	     //https://www.zhenbuka35.com/vodplay/117508-1-1/
-    "副标题":"href==\"&&\"", 
+	"二次截取":"\"list\"*[&&]",
+    "数组":"{&&\"vod_content\"",
+    "图片":"vod_pic\"*\"&&\"",
+    "标题":"vod_name\"*\"&&\"",
+    //"链接":"https://niuniuzy3.com/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,",
+    "链接":"https://niuniuzy3.com/index.php/vod/detail/id/+\"vod_id\":&&,+.html", 
+	     //https://niuniuzy3.com/index.php/vod/detail/id/73692.html
+    //"副标题":"\"vod_id\":&&,+.html",
+    "副标题":"vod_remarks\":\"&&\"[替换:更新至>> #更新第>> #]+🌸+vod_actor\":\"&&\"",
 	//[替换:更新至>> #更至>> #] vod_duration vod_year
     
 	"搜索模式":"1",
-    //https://www.zhenbuka35.com/index.php/vod/search.html?wd=庆余年第二季
-    "搜索url":"https://www.zhenbuka35.com/index.php/vod/search.html?wd={wd}",
+    //https://niuniuzy3.com/index.php/vod/search.html?wd=庆余年第二季
+    "搜索url":"https://niuniuzy3.com/index.php/vod/search.html?wd={wd}",
     "搜索数组二次截取":"<div id=\"niu-box\">&&</div>",
     "搜索数组":"<a&&</a>",
     //"搜索图片":"vod_pic\"*\"&&\"",
@@ -46,14 +48,11 @@
     "播放标题":"<div class=\"num\">&&<", //one episod
 	//"播放链接":"href=\"&&\"",//one episod
     
-	"分类":"电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian#福利$lunlipian#",
-    "分类url":"https://www.zhenbuka35.com/vodshow-{cateId}-{area}-hits------{catePg}---{year}/;;k",
-    //"分类url":"https://www.zhenbuka35.com/vodshow-dianshiju--------1---/",
-             //https://www.zhenbuka35.com/vodshow-dianshiju--------1---/
-			 
-    //"分类":"电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian#福利$lunlipian#",
-    //"分类url":"https://www.zhenbuka35.com/vodtype/{cateId}/",
-			 //https://www.zhenbuka35.com/vodtype/dianshiju/
+	"分类":"国产剧$13#韩剧$15#国产动漫$29#电视剧$13#动漫$29#电影$6#综艺$25#演唱会$47#伦理$55#",
+    "分类url":"https://niuniuzy3.com/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20",
+	//https://niuniuzy3.com/api.php/provide/vod/?ac=detail&t=13&pg=1&limit=20
+	//https://niuniuzy3.com/api.php/provide/vod/?ac=list
+
     
 	"筛选":{
     "34":[{"key":"cateId","name":"类型","value":[

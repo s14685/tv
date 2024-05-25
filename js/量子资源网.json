@@ -14,6 +14,10 @@
 //https://lzizy9.com/index.php/vod/detail/id/78733.html
 //https://cj.lziapi.com/index.php/vod/detail/id/78733.html
 
+//https://cj.lziapi.com/api.php/provide/vod/?ac=list
+//https://cj.lziapi.com/api.php/provide/vod/?ac=detail&t=13&pg=1
+//https://cj.lziapi.com/api.php/provide/vod/?ac=detail&wd=庆余年第二季
+
     {
     "主页url":"https://lzizy9.com/",
     "站名":"量子资源网",

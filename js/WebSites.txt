@@ -1,10 +1,9 @@
-!!量子资源站
+!!量子资源站 OK资源采集网
 ~[替换:FF线路>>非凡#LZ线路>>量子#GQ线路>>高清#SO线路>>速播#FM线路>>非凡#iK线路>>爱坤#LS线路>>乐视#FS线路>>飞速#SN线路>>索尼#BF线路>>暴风#KK线路>>快看#WL线路>>卧龙#UK线路>>优酷#SD线路>>闪电#WJ线路>>无尽#TK线路>>天空#BD线路>>百度#HN线路>>红牛#TP线路>>淘片]
 ~[排序:量子>非凡>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>无尽>红牛>极速>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
 ~[排序:量子>非凡>快云>天空>优质>高清>爱坤>海外>乐速>闪电>暴风>索尼]
 ~[替换:v>>?ep=<序号>.mp4#][不包含:1#2#]\\$ \\# \\& \\* \\[ \\]
 ~[替换:每集>> #更新至>> #更新>> #更至>> #<span class=\"slash\">/</span>>><span></span>#]
-
 量子lz>v.cdnlz2.com								非凡ff>svipsvip.ffzy.online5.com
 快云ky>vip.kuaiyun4-cdn.com						海外看hwk>m3u.haiwaikan.com
 天空tk>v10.dious.cc								乐视ls>leshiyuncdn.36s.top
@@ -13,7 +12,6 @@
 爱坤ik>ikcdn01.ikzybf.com 						快看kk>vip.kuaikan-cdn4.com
 暴风bf>s5.bfengbf.com							豪华hh>play.hhuus.com
 闪电sd>v10.fentvoss.com ok v10.youkuoss.com ok	快播kb>
-
 索尼sn>v11.sunpalaceshotel.com v10.qqtvoss.com	百度bd>vod6.bdzybf7.com
 光速gs>v.gsuus.com								樱花yh>sod12.xmyysw.com
 八戒bj>c3.monidai.com							速播sb>vod.subokk.com
@@ -28,13 +26,11 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 奇艺qy>v10.iqiyioss.com							芒果mg
 腾讯tx											优酷yk
 
-
 	tab_order:['TK线路','LZ线路**','SD线路','SN线路','iK线路','GQ线路','SO线路','FM线路','LS线路','FS线路','BF线路','KK线路','WL线路','UK线路','WJ线路','BD线路','HN线路'],//线路顺序,按里面的顺序优先，没写的依次排后面
 	tab_rename:{'FF线路':'🌸非凡','LZ线路':'🌸量子','SN线路':'🌸索尼','bfzym3u8':'暴风','1080zyk':'优质','kuaikan':'快看','lzm3u8':'量子','ffm3u8':'非凡','snm3u8':'索尼','qhm3u8':'奇虎','haiwaikan':'海外看',
 	'gsm3u8':'光速','zuidam3u8':'最大','bjm3u8':'八戒','wolong':'卧龙','xlm3u8':'新浪','yhm3u8':'樱花','tkm3u8':'🌸天空','jsm3u8':'极速','wjm3u8':'无尽','sdm3u8':'🌸闪电','kcm3u8':'快车','jinyingm3u8':'金鹰',
 	'fsm3u8':'飞速','tpm3u8':'淘片','lem3u8':'鱼乐','dbm3u8':'百度','tomm3u8':'番茄','ukm3u8':'优酷','ikm3u8':'爱坤','hnzym3u8':'红牛资源','hnm3u8':'红牛','68zy_m3u8':'68','kdm3u8':'酷点','bdxm3u8':'北斗星',
 	'hhm3u8':'豪华','kbm3u8':'快播'},卧龙wl
-
 
 优质资源 
 "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]
@@ -43,38 +39,63 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 'bjm3u8': '八戒','snm3u8': '索尼','wolong': '卧龙','xlm3u8': '新浪','yhm3u8': '樱花','tkm3u8': '天空','jsm3u8': '极速','wjm3u8': '无尽',
 'sdm3u8': '闪电','kcm3u8': '快车','jinyingm3u8': '金鹰','fsm3u8': '飞速','tpm3u8': '淘片','lem3u8': '鱼乐','dbm3u8': '百度','tomm3u8': '番茄',
 'ukm3u8': '优酷','ikm3u8': '爱坤','hnzym3u8': '红牛资源','hnm3u8': '红牛','68zy_m3u8': '68','kdm3u8': '酷点','bdxm3u8': '北斗星','qhm3u8': '奇虎',
-'hhm3u8': '豪华','kbm3u8': '快播' LG 蓝光 无尽wj
+'hhm3u8': '豪华','kbm3u8': '快播' LG 蓝光 无尽 wj
 */
     {"n":"中国大陆","v":"中国大陆"},
     {"n":"中国","v":"中国"},
     {"n":"大陆","v":"大陆"},
     {"n":"内地","v":"内地"},
 ~[排序:量子>非凡>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>快看>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
-
 ~https://soupian.pro/search?key=庆余年
+~https://xn--p3tv7h.com/ https://影搜.com
 
-//A8影视 
+
+//OK资源 官网地址：okzyw.me、okzyw.info、 okzy.info 、okzyw.vip
+//https://okzyw9.com/index.php/vod/show/id/13.html
+//https://okzyw9.com/index.php/vod/detail/id/73926.html
+//https://api.okzy.org/api.php/provide/vod/?ac=list
+//https://okzyw9.com/api.php/provide/vod/?ac=list
+//https://okzyw9.com/api.php/provide/vod/?ac=detail&t=13&pg=1
+//https://okzyw9.com/index.php/vod/search.html?wd=庆余年第二季
+
+//百度网影院 https://www.bwdy.top/
+//https://www.bdwpdy.top/vodshow/13-/by/hits/year/2024.html
+//https://www.bdwpdy.top/voddetail/52578.html
+//https://www.bdwpdy.top/vodsearch/-.html?wd=庆余年
+
+//https://vidhub.icu/all/1--2024-hits/
+//https://vidhub.icu/detail/3sb17j2.html
+//https://vidhub.icu/watch/3sb17j2/1.html
+
+
+//想看影院 https://xiangkan1.com/show-dianshiju-中国大陆-hits---------2024.html
+//电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian#福利$lunlipian#
+
+//西屋影视 
+//https://xiwutv.com/vodshow/31--hits---------2024.html
+//[飞速线路1>>暴风#飞速线路2>>量子#飞速线路3>>OK#飞速线路4>>非凡#飞速线路5>>优质#]
+//https://xiwutv.com/vodplay/156684-1-1.html
+
+//飘花电影 https://www.yongzang.com/vodshow/22/by/hits/year/2024.html
+//我播 https://www.wobotv.cc/show/guochanju/by/hits/year/2024/
+//影视控 https://www.yingshikong1.com/list/dianshiju.html
+//蓝光岛 https://languangdao2.com/show-dianshiju-----------.html
+//电影天堂 https://www.dyttlg1.com/vodshow-dianshiju-----------2024.html
+//观影台 https://guanyingtai1.com/pianku-dianshiju--hits---------2024/
+//桃子影视 https://www.taozi007.com/show/21-----------.html
+//悠云影视 https://yoyys1.com/vodshow/2--hits---------2024.html
+//88影视 https://www.88tvs.cn/vodshow/juji--hits---------.html
+//追影猫 https://zhuiyingmao5.com/vodshow/2--hits---------2024.html
+//柯南电影 https://www.knvod.com/vodshow/2--hits---------2024/
+//侠客影 http://ys.xkys.link/index.php/vod/show/by/hits/id/2.html
+
+//真不卡影院 https://bkyb.net/vodshow/13--------1---2024.html
+//    "分类":"国产剧$13#韩剧$15#国产动漫$31#电影$1#电视剧$2#动漫$4#综艺$3#纪录片$5#",
+//[不卡云>>量子#高速云>>非凡#W云>>无尽#稳定云>>暴风#S云>>闪电#]
+//A8影视 Failed
 //https://www.a8ys.vip/vodshow/--hits---------/id/201.html
 //https://www.a8ys.vip/voddetail/id/281368.html
 //https://www.a8ys.vip/vodsearch/-------------.html?wd=庆余年第二季
-
-//侠客影 http://ys.xkys.link/index.php/vod/show/by/hits/id/2.html
-//柯南电影 https://www.knvod.com/vodshow/2--hits---------2024/
-//88影视 https://www.88tvs.cn/vodshow/juji--hits---------.html
-//追影猫 https://zhuiyingmao5.com/vodshow/2--hits---------2024.html
-//悠云影视 https://yoyys1.com/vodshow/2--hits---------2024.html
-//西屋影视 https://xiwutv.com/vodshow/31--hits---------2024.html
-//桃子影视 https://www.taozi007.com/show/21-----------.html
-//飘花电影 https://www.yongzang.com/vodshow/22/by/hits/year/2024.html
-//观影台 https://guanyingtai1.com/pianku-dianshiju--hits---------2024/
-//电影天堂 https://www.dyttlg1.com/vodshow-dianshiju-----------2024.html
-//蓝光岛 https://languangdao2.com/show-dianshiju-----------.html
-//我播 https://www.wobotv.cc/show/guochanju/by/hits/year/2024/
-//影视控 https://www.yingshikong1.com/list/dianshiju.html
-//想看影院 https://xiangkan1.com/show-dianshiju-中国大陆-hits---------2024.html
-//电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian#福利$lunlipian#
-//真不卡影院 https://bkyb.net/vodshow/13--------1---2024.html
-
 //金曼国内
 //https://jinman4.com/index.php/vod/show/by/hits/id/2/year/2024.html
 //jinman2.com
@@ -83,7 +104,6 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //~真不卡影院 电影盒子 
 //http://www.kan8.tv/actor.php?searchword=白鹿
 //http://www.kan8.tv/actor.php?searchword=张若昀
-
 //皮皮鸭 https://www.ppydy.com/vodshow/2-----------2024.html
 //[FF>>非凡#HH>>豪华#KK>>快看#49>>49#LZ>>量子#BF>>暴风#SN>>索尼#]
 //看看屋 https://www.kkw300.com/vodshow/13--hits---------2024.html
@@ -97,50 +117,40 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //https://yayazy1.com/api.php/provide/vod/?ac=detail&t=13&pg=1&limit=20
 //https://yayazy1.com/index.php/vod/search.html?wd=庆余年第二季&submit=
 
-
 //牛牛资源 https://niuniuzy3.com/index.php/vod/detail/id/73692.html
 //官网地址：niuniuzy.cc、niuniuzy.info、 niuniuzy.me 、niuniuzy.org
 //https://api.niuniuzy.me/api.php/provide/vod
 //https://niuniuzy3.com/api.php/provide/vod/?ac=list
 //https://niuniuzy3.com/api.php/provide/vod/?ac=detail&t=13&pg=1&limit=20
 //https://niuniuzy3.com/index.php/vod/search.html?wd=庆余年第二季
-
 //360资源站 https://360zy5.com/voddetail/57767.html
 //主域名 ： 360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 
 //备用域名 ：
 //360zy1.com 360zy2.com 360zy3.com 360zy4.com 360zy5.com
 //360zy6.com 360zy7.com 360zy8.com 360zy9.com 360zy10.com 
 //🍎苹果cms接口：https://360zy.com/api.php/provide/vod 
-
 //飞刀资源 主域名 www.feidaozy.com   www.feidaozy.com   www.feidaozy.com   www.feidaozy.com  
 //🍎苹果cms接口： http://www.feidaozy.com/api.php/provide/vod/?ac=list  
-
 //兄弟影视 
 //https://www.brovod.com/show/2--hits---------2024/
 //https://www.brovod.com/detail/146535/
 //[自建>>XDZJ#蓝光1线>>蓝光NBY#PC蓝光>>蓝光MYTV#急速1线>>乐视#急速2线>>暴风#急速3线>>量子#急速4线>>非凡#QQ>>腾讯#]
 //首播站 https://shoubozhan.com/vodshow/13--hits---------2024.html
-
 //往往影视 https://www.oftens.top/show/2--hits---------2024.html
 //https://www.wwys.pro/show/2--hits---------2024.html
 //[极速蓝光¹>>飞刀#速播¹>>360#腾讯>>腾讯#高清¹>>非凡#高清²>>OK#]
-
 //Failed 真不卡影院 https://www.zhenbuka35.com/vodshow-dianshiju-中国大陆-hits------1---2024/
-
 [[明星]]
 https://www.yingzhazha.com/vodshow/13-----------.html?wd=肖战
 https://dyds.lol/index.php/vod/show/id/3/page/2/wd/肖战.html dyds36.cyou/index.php/vod/show/id/3/wd/肖战.html
 https://sc1080.top/index.php/vod/show/id/2/?wd=肖战
 https://jinman2.com/index.php/vod/show/id/2.html?wd=肖战
-
 https://dmvi.club/vodsearch/-赵丽颖---------2---.html
 https://xmvod520.com/index.php/vod/show/id/70.html?wd=肖战
 https://www.9day.cc/index.php/vod/show/id/2.html?wd=肖战
 https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 
-
 //神马电影网 https://www.shenmaysk.com/vodshow/guochanju--hits---------2024.html
-
 //乌卡猫影院 https://www.wukamao.com/vodshow/13--hits---------2024.html //[线路1\[推荐\]>>豪华#线路2>>优质#]
 //7喜影院~https://7xi.tv/vodshow/13-----------.html
 //爱奈菲~https://tv-ainaifei.com/vod/show/id/13/
@@ -190,7 +200,6 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 //~二次萌影视 https://www.ecmys.com/vod/detail/id/73778/ 高清源>>量子#蓝光源>>索尼#速播源>>乐视#海外源>>海外#腾讯源>>腾讯#爱奇艺源>>奇艺#高清源·备>>非凡#蓝光源·备>>快看#速播源·备>>暴风#
 //~新视觉影院6080 https://www.80yy3.com/vplay/157983-8-1.html 蓝光专享1>>#夸克4K>>#蓝光专享2>>SEVEN#高清线路②>>量子#超清线路①>>乐视#高清线路③>>非凡#高清线路④>>1080P#高清线路⑤>>索尼
 //~真不卡影院 https://bkyb.net/vodshow/13--hits------2---2024.html 不卡云>>量子#高速云>>非凡#W云>>高速#S云>>标清#
-
     {"key": "商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar": "https://raw.liucn.cc/box/libs/jar/app.jar"},
      {"key": "直播转点播","name": "📺︎┃电视┃点播","playerType":1,"type": 3,"api": "https://raw.liucn.cc/box/libs/tv/zb.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.liucn.cc/box/libs/tv/zb.json"},
     {"key": "虎牙直播js","name": "🐯┃虎牙┃直播","playerType":1,"type": 3,"api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext": "https://raw.liucn.cc/box/libs/js/虎牙直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
@@ -201,7 +210,6 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
     {"key": "csp_XYQHiker_VSYY","name": "🎦┃VS┃影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext": "https://raw.liucn.cc/box/libs/xyq/VS影院.json"},
     {"key": "csp_XYQ素白白","name": "⛈┃素白白┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext": "https://raw.liucn.cc/box/libs/xyq/素白白.json"},
     {"key": "csp_XYQ电影牛","name": "🍖┃电影牛┃影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext": "https://raw.liucn.cc/box/libs/xyq/电影牛.json"},
-
 
 <source src="https://leshiyuncdn.36s.top/20240402/Wf2lxO1A/index.m3u8" type="application/x-mpegURL" label="線路1">
 <source src="https://m3u.haiwaikan.com/xm3u8/d98758d78c5853f71ec9a0da415660c378cabe25e779502a486f49fac1f3b3df9921f11e97d0da21.m3u8" type="application/x-mpegURL" label="線路2">
@@ -221,7 +229,6 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 <source src="https://svipsvip.ffzy-online5.com/20240402/25578_0fb34c6e/index.m3u8" type="application/x-mpegURL" label="線路16">
 <source src="https://c3.monidai.com/20240402/Smsy090m/index.m3u8" type="application/x-mpegURL" label="線路17">
 <source src="https://play.hhuus.com/play/Xe0kwNGd/index.m3u8" type="application/x-mpegURL" label="線路18">
-
 <video id="my-player_html5_api" class="vjs-tech" muted="muted" preload="true" tabindex="-1" role="application" autoplay="" src="blob:https://tvbox.im/ec0c0db2-ec2d-4efc-ba41-8653904f579e">
 <source src="https://v10.qqtvoss.com/202403/18/yTym8877Qe3/video/index.m3u8" type="application/x-mpegURL" label="線路1">
 <source src="https://m3u.haiwaikan.com/xm3u8/a7ba5c149a6ec000dd12b7234420293cb327667c3d444190c655982ddc677d8a9921f11e97d0da21.m3u8" type="application/x-mpegURL" label="線路2">
@@ -250,7 +257,6 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 <source src="https://vod2.pptvoss.com/20240318/4yuIpEZn/index.m3u8" type="application/x-mpegURL" label="線路25">
 </video>
 
-
 全部类型
 国产剧 美剧 韩剧 港台剧 日剧 其他剧
 全部剧情
@@ -264,7 +270,6 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 字母查找
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 0-9
 时间排序 人气排序 评分排序
-
 资源站合集
 M3U8资源
 量子资源网：http://www.lzzy.tv
@@ -283,9 +288,7 @@ M3U8资源
 全站资源：https://caiji.yueai55.cc:2277
 下载资源
 量子资源网：http://www.lzzy.tv
-
 最大资源网：http://zuidafile.com
-
 卧龙资源 http://wolongzy.net
 八戒资源 http://zy.bajieziyuan.com
 8K资源网 https://www.8k.cm/
@@ -362,49 +365,37 @@ IX资源： http://api.iixxzyapi.com
 利来在线采集（API接口）： http://llzxcj.com/inc/sck.php
 博天堂伦理采集（API接口）： http://bttcj.com/inc/sapi.php
 环亚无码采集（API接口）： http://wmcj8.com/inc/sapi.php
-
 //Web sites
 !!C:\inetpub\wwwroot\iptv\dc\ok\小米Demo.json (10 hits)
 "https://www.xsmp3.com/{cateId}/{catePg}.html;;av"
 "https://www.psmp3.com/{cateId}/{catePg}.html;;av"
-
 //骚火电影 https://saohuo.us/  QQ+HH
 "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0" 
-
 //蛋蛋剧ok
 https://www.dandanju.cc/
 "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html"
-
 //极客电影 - https://www.jkdy.cc/vodshow/2-大陆-score---------2024.html
 "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
-
 //热播之家
 "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a"
-
 //pptv
 //https://ivdy.com/vod/show/id/2/page/1/sortType/3/sortOrder/0/type/14/year/2024
 https://www.pptv06.com/vodshow/2-----------.html
-
 
 !!C:\inetpub\wwwroot\iptv\dc\ok\XC备用库.json (8 hits)
 //西瓜影院ok https://www.xiguayya.com/s/guochanju/year/2024.html
 "https://www.xiguayya.com/t/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html
 "https://www.kpkuang.fun/vodshow/{cateId}-{area}-------{catePg}--{class}-{year}--.html[https://www.kpkuang.fun/vodtype/{cateId}/]"分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
-
 "https://laowang.lol/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation"}},
 //老王电影ok
 //https://www.laowang.co/vodshow/hanju-韩国-hits-古装-韩语-------2024.html
-
 //华乐影院ok
 https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/2024.html
 "https://huale.tv/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"分类":"电影$1#剧集$2#动漫$4#综艺$3#TV直播$6"}},
-
 //耐看点播ok
 "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"
-
 //爱看影院ok https://www.92kyy.com/
 "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a"
-
  
 !!C:\inetpub\wwwroot\iptv\dc\ok\乌鸦乐乐.json (3 hits)
 //996=www.cs1369.com/show/area/中国大陆/by/hits/class/古装/id/15/lang/汉语普通话/year/2024.html
@@ -422,10 +413,8 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 !!C:\inetpub\wwwroot\iptv\dc\ok\地表最强接口.json (8 hits)
 //tv广播迷网站ok
 "http://www.guangbomi.com/tv/{cateId}/{catePg}.html[http://www.guangbomi.com/tv/{cateId}/index.html"}} 
-
 //tv好趣网ok
 "http://tv.haoqu99.com/{cateId};;z", "数组": "<li class=\"p-item\">&&</li>"}} 
-
 //348电影网no
 "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"}}
  
@@ -452,10 +441,8 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 !!C:\inetpub\wwwroot\iptv\dc\ok\海天盛宴.json (6 hits)
 //TVB云播ok http://www.tvyb03.com/ http://www.hktvyun.com
 "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a"分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
-
 //剧哥哥 www.jugege.cc/vodshow/2-内地-hits-古装-国语-------2024.html
 "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}}
-
   
 !!C:\inetpub\wwwroot\iptv\dc\ok\玉玉.json (4 hits)
 //蛙视频ok 海外看 非凡
@@ -464,7 +451,6 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 !!C:\inetpub\wwwroot\iptv\dc\ok\看玩偶4K.json (12 hits)
 //电影大师ok9 https://dyds.lol/
 "https://dyds36.cyou/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"分类":"电影$1#电视剧$3#动漫$4#综艺$23"}},
-
 //纽约影院ok 海外看>量子>索尼
 "https://nycvod.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$28#电视剧$24#综艺$31#动漫$26"免嗅":"1"}},
  
@@ -1264,7 +1250,6 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a"分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 "http://www.sharenice.net/{cateId}?page={catePg}","二次截取":"class=\"item-box\">&&</ul>","数组":"<li&&</li>","图片":"data-original=\"&&\"","标题":"title=\"&&\""链接":"href=\"&&\""}},
 "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1"搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
-
 ##
 {"key":"drpy_js_热播之家","name":"影视 | 热播之家[js]","type":3,"api":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/热播之家.js"},
 {"key":"drpy_js_云镜影视","name":"影视 | 云镜影视[js]","type":3,"api":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/云镜影视.js"},
@@ -1410,26 +1395,252 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 {"key":"drpy_js_伊人追剧","name":"影视 | 伊人追剧[js]","type":3,"api":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/伊人追剧.js"},
 {"key":"drpy_js_追剧啦儿","name":"影视 | 追剧啦儿[js]","type":3,"api":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/子子影视.js"},
+//
+影视资源采集站收录 各大CMS采集资源站网址合集
+电影资源网
+著名的CMS源码地址
+http://www.yhcms.cc/ 英皇cms
+http://www.ppvod.net 飞飞CMS
+http://www.ffcms.cn/portal.php 另一个飞飞CMS
+https://www.seacms.net/index.php 海洋CMS
+http://www.makesicms.com 马克思CMS
+http://www.ctcms.cn 赤兔CMS
+https://www.zanpiancms.com/ 赞片CMS
+https://www.movcms.com/ MOVCMS
+http://www.lfdycms.com/ 雷风CMS
+http://www.msvod.cc/ 魅思CMS
+http://gg3.taosezy10.com/ 桃色CMS
+http://tantancms.com/ 探探CMS
+https://www.9ccms.net/ 久草CMS
+https://mk99.net/ 米酷CMS
+http://www.qingtiancms.com/movie/ 晴天CMS
+M3U8资源
+八戒资源          http://bajiezy.cc（推荐）
+209资源站      http://www.209zy.net  （原33UU）
+麻花资源          http://www.mahuazy.net
+沃酷资源         http://www.wokuzy.com
+156资源            http://www.1156zy.net
+ok资源              http://www.haozy.cc （可采集下载）
+605资源            http://www.765zy.com
+1866资源          http://www.1886zy.net
+123资源网        http://www.123ku.com
+乐多资源         http://www.leduozy.com
+步步高资源     http://www.bbkdj.com/help
+88资源网        http://www.88zyw.net
+天空资源网  http://tiankongzy.cc/（国内cdn）
+花椒资源 http://huajiaozy.com/（带小说图片采集）
+优果资源站 https://ugirl6.com/help/#（达到一定ip会送现金）
+乐播资源：https://lebozy.com/ (速度最快视频，小说，图片)
+6u资源站 http://zy.ataoju.com （官方资源）（各种无图）共有资源47600+
+最新资源网 http://www.zuixzy.com/ （官方资源）（已倒闭）
+高清资源采集站 http://www.wuxiou.com 共有资源22733+
+电视直播：http://ivi.bupt.edu.cn/
+官方资源
+8090资源        http://zy.yilans.net:8090/help
+1717资源          http://zy.itono.cn/V10.php
+步步高资源     http://www.bbkdj.com/help
+6u资源网        http://zy.ataoju.com（收费）
+X站资源
+乐播资源：https://lebozy.com/ (速度最快视频，小说，图片)
+辣椒资源：https://apilj.com
+小黄瓜资源：http://www.xhgjq5.com
+博天堂资源：http://ssfb8.com/btt/
+环亚无码：http://www.ssfb8.com/hy/
+IX资源：http://api.iixxzyapi.com
+92资源：http://92zyw.co
+西瓜资源：https://www.xgzy1.com
+00后资源：http://www.00h19.com/
+800资源网：http://800zy8.com/
+玉米资源 https://ym666.vip/
+1769资源站 https://www.69aab.com/
+飞机馆 http://www.fjgvip.com
+神马资源：https://www.shenmazy9.com/Sponsor/
+萌妹资源 http://mmzy1.com/
+35资源网 http://www.35zyw.com/
+大地资源 http://dadizy11.com/
+资讯采集接口
+步步高资讯采集接口：http://api.bbkdj.com/json/news     接口类型：json >>> 资源类型：文章 >>> 保存即可！
+2022.2.14新增采集接口
+老鸭资源https://api.apilyzy.com/api.php/Seacms/vod/
+趣播资源https://www.qbzyz.com/api.php/provide/vod/at/xml
+7K解析https://zy.7kjx.com/api.xml
+花椒资源https://apihjzy.com/api.php/Seacms/vod/
+最快资源http://cj.1886zy.co/inc/seacmsapi.php
+6U资源http://zy.ataoju.com/inc/api.php
+乐多资源网http://api.leduozy.com/inc/api.php
+605资源http://www.605zy.co/inc/api.php
+快播云http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/
+1717云http://zy.itono.cn/inc/api.php
+天空云https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/
+八戒云http://cj.bajiecaiji.com/inc/bjm3u8.php
+人人资源https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/
+BT天堂http://bttcj.com/inc/sapi.php
+365影视http://video.365tx.com/api.php/provide/vod/at/xml
+追剧吧http://www.huaxiab.com/api.php/provide/vod/at/xml
+39影视https://www.39kan.com/api.php/provide/vod/at/xml
+AWSLTVhttp://www.awsltv.com/api.php/provide/vod/at/xml
+太初电影https://www.tcmove.com/api.php/provide/vod/at/xml
+新奇遇电影https://www.newqiyu.com/api.php/provide/vod/at/xml
+蚂蚁BThttps://www.mayipbt.cc/api.php/provide/vod/at/xml
+穿梭资源http://ok.888hyk.com/api.php/provide/vod/at/xml
+蘑菇资源http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml
+麻瓜资源http://maguays.cc/api.php/provide/vod/at/xml/
+苍天http://cj.cangtiancj.com/api.php/Seacms/vod/
+乐播https://lbapi9.com/api.php/provide/vod/at/xml/
+76http://m.7777688.com/inc/api.php
+shayuhttps://shayuapi.com/api.php/Seacms/vod/
+大地https://dadiapi.com/api.php
+809zyhttp://cj.809zy.com/inc/zyapimac.php
+环亚资源http://wmcj8.com/inc/sapi.php
+佳丽https://jialiapi.com/api.php/provide/vod/at/xml/
+优果资源站https://www.ugvapi.com/inc/zyapimac.php
+1769资源站 https://www.69aab.com/
+2022-2-14新增资源站
+大米资源网：http://dmzyu.com/
+U酷资源网：http://gg4.ukuzy0.com/
+百度资源网：http://gg19.bdyunzy.com/
+飞速资源网：http://help.feisuzyapi.com/
+北斗星资源网：http://bdxzy15.com/
+爱播资源网：http://aibozy1.com/
+老鸭资源网：http://laoyazy47.cc
+乐鱼资源网：https://www.leyuzy.vip/?789/
+秀色资源网：http://gg3.xiusezy9.com/
+探探资源网：https://www.tantanzy7.com/
+淘片资源网：https://www.taopianzy.com/home/index.html
+牛X云 http://g.shumafen.cn/
+魔卡资源网 https://mokazy.com/ 共有资源60000+
+超快资源 http://265zy.cc/ 共有资源28654+
+卧龙资源： http://wolongzy.net （速度快，稳定）共有资源33000+
+八戒资源站 http://zy.bajieziyuan.com （秒播）共有资源22000+
+8K资源网 https://www.8k.cm/ 共有资源26000+
+乐库资源 http://www.wokanzy.com/ 共有资源33000+
+麻花资源采集站 http://www.mahuazy.net/ （贼快、新站）共有资源17400+
+最大资源采集站 http://zuidazy.net 共有资源37300+
+极快资源网 https://www.jikzy.com/ 共有资源34300+
+焱冰资源站 http://www.275hd.com/（官方资源） 共有资源47800+
+吾乐资源网 https://wule.cc/ （官方资源） 共有资源46400+
+771资源站 http://www.agenya.cn/ （官方资源） 共有资源70000+（内测中）
+易拉采集站 http://cj.1la.cc/ （官方资源）（已倒闭）
+6u资源站 http://zy.ataoju.com （官方资源）（各种无图）共有资源47600+
+1717资源站 http://zy.itono.cn （官方资源）共有资源77200+
+最新资源网 http://www.zuixzy.com/ （官方资源）（已倒闭）
+明日资源 https://zy.nmbaojie.com/ （官方资源） 共有资源82300+
+超快资源360版 http://www.ttzy.cc/ （官方资源） 共有资源45900+
+超快资源2345版 http://www.ckzy.cc （官方资源） 共有资源60000+
+156资源： http://www.156zy.cc 共有资源30387+
+http://www.33uudy.com/
+酷云资源： http://kuyunzy.cc 共有资源37000+
+ok资源采集站 http://www.haozy.cc （可采集下载）共有资源40300+
+605资源站 http://www.765zy.com 共有资源31220+
+酷酷资源站 http://www.kukuzy.com/ （现为超快资源2345版）
+135资源采集站 http://135zy.cc/ （倒闭）
+1977资源站 http://www.1977zy.com （合并最大）
+最快资源站 http://zuikzy.cc 共有资源24300+ （更名为1866资源）
+123资源网 http://www.123ku.com/ （这资源站不咋滴）共有资源30000+
+131资源采集网 http://131zy.vip/ 共有资源25500+ （更名为看看资源）
+豆瓣资源采集站 http://www.doubanzy.com （不建议采集） 共有资源14441+
+高清资源采集站 http://gaoqingzy.com （不建议采集） 共有资源30836+
+172资源采集站 http://www.172zy.net （合并最大）
+速播资源采集站 https://www.subo8988.com 共有资源34200+
+乐多资源采集站 http://www.leduozy.com （加密）共有资源48300+（不建议采集）
+永久资源采集站 http://yongjiuzy.cc 共有资源29000+
+值资资源采集站 http://www.ziyuanpian.net 共有资源37200+
+极速云资源采集站 http://www.caijizy.com 共有资源33000+ （网站打不开）
+哈酷资源采集站 http://www.666zy.com/ 共有资源30052+
+百万云资源采集站 http://www.baiwanzy.com 共有资源23130+
+高清资源采集站 http://www.wuxiou.com 共有资源22733+
+步步高资源采集站 http://www.bbkdj.com （站长是个傻逼）
+猫眼资源采集站 http://maoyan123.com/ （合并到高清）
+398资源采集站 https://www.398zy.com/ 共有资源21376+
+c值云采集资源站 http://www.czhiziyuan.com 共有资源14400+
+酷播资源 http://kubozy.net/ （卡的要死）共有资源30000+
+超级资源采集网 http://chaojizy.com/ 共有资源24424+
+秒播影视资源 https://www.mb700.com 共有资源25019+（不建议采集）
+最新资源 http://www.zuixinzy.cc/ （m3u8）共有资源32000+
+搜乐资源网 https://www.solezy.com/ 共有资源21061+
+
+//
+2024年最新可采集CMS视频资源站网址合集
+ok资源
+https://okzyw9.com/index.php/vod/type/id/2.html
+飞速资源
+https://help.feisuzyapi.com/
+闪电资源
+http://shan04.com/
+樱花资源
+https://yhzy.cc/
+百度资源
+http://bdzy.com/
+无尽资源
+https://www.wujinzy.com/
+酷点资网
+https://www.kudian20.com/
+红牛资源
+https://www.hongniuziyuan.com/
+云解析资源
+https://www.yparse.com/help
+
+天空资源
+http://help.tiankongapi.com/
+天堂官方资源
+http://vipmv.cc/help/
+1080zyk优质资源
+https://1080zyk2.com/
+卧龙影视资源
+http://wolongzyw.com/
+全网影视资源
+http://hao123.daicuo.cc/
+fox资源
+https://help.foxzyapi.com/
+金鹰资源
+https://jinyingzy.net/
+新浪资源
+https://xinlangzy.com/
+光速影视资源
+https://guangsuzy.com/
+奥斯卡资源
+https://aosikazy.com/static/help/index.html
+
+快车资源
+https://www.kuaichezy.com/
+淘片资源(需VPN)
+https://www.taopianzy.com/
+量子资源
+http://lzizy.net/
+诺讯资源
+https://caiji.nxflv.com/
+tom资源
+https://www.tomziyuan.com/
+三零资源
+http://www.000zy.com/
+麒麟资源(需要授权)
+https://www.qilinzyz.com/
+鱼乐资源
+https://www.ylzy1.com/
+ikun资源
+https://www.ikunzy.com/
+阳光资源
+https://www.xxzy.org/
+U酷资源
+https://ukuzy.com/
+非凡资源
+http://ffzy.tv/
+伊人资源
+https://yrzyz9.com/
+天猫资源
+https://tianmaozy.com/
+快车资源
+https://www.kuaichezy.com/
+海外看资源(需VPN)
+https://haiwaikan.com/
+//
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//
+//
 
 
 

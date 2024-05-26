@@ -4,10 +4,12 @@
 //http://winniec.ddns.net/iptv/favnet.json
 //https://raw.githubusercontent.com/s14685/tv/main/favgh.json
 //https://raw.githubusercontent.com/s14685/tv/main/tbvgh.json
-//http://winniec.asuscomm.com/iptv/js/
-//http://winniec.asuscomm.com/iptv/js/HCCX.jar
+
+//http://winniec.asuscomm.com/iptv/js/ -> https://raw.githubusercontent.com/s14685/tv/main/js/
+//http://winniec.asuscomm.com/iptv/js/HCCX.jar -> https://raw.liucn.cc/box/libs/jar/HCCX.jar
+
 //https://raw.liucn.cc/box/libs/jar/HCCX.jar
-//"https://raw.githubusercontent.com/s14685/tv/main/js/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
+//https://raw.githubusercontent.com/s14685/tv/main/js/HCCX.jar
 //"spider": "https://raw.liucn.cc/box/fty.jar;md5;8b8d1018ca0b29c22cf681e2db55d38f",
 //"线路数组":"data-dropdown-value=&&</div>[不包含:夸克#][替换:</span><small>>>️⚡️ #线路1>>豪华#线路2>>量子#线路3>>优质#线路4>>索尼#线路5>>乐视#线路6>>非凡#线路7>>优酷]", "请求头":"手机","免嗅": "0",
 //"线路标题":"🌸+<span>&&</small>[排序:量子>非凡>天空>卧龙>优质>高清>爱坤>海外>乐视>闪电>索尼>无尽>红牛>极速>独家>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>暴风>超清>蓝光>备用>本站>稳定>国内>速播>金鹰]",

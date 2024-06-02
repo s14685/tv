@@ -86,7 +86,7 @@
 //{"key":"csp_爱奈明星","name":"✨️爱奈演员🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.ddns.net/iptv/js/爱奈明星.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"js_360影视","name":"✨️360演员🍏1","api":"http://winniec.ddns.net/iptv/js/drpy.min.js","ext":"http://winniec.ddns.net/iptv/js/360影视.js","type":3},
 
-{"key":"csp_优质资源🎯","name":"🎯优质资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.ddns.net/iptv/js/优质资源.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_优质资源🎯","name":"🎯优质资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.ddns.net/iptv/js/api优质.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 //{"key":"csp_量子演员ID🎯","name":"🎯量子演员ID🍏","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.ddns.net/iptv/js/量子演员ID.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"csp_量子演员🎯","name":"🌸量子演员🍏","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.ddns.net/iptv/js/量子演员.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"csp_最大资源🎯","name":"🎯最大资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.ddns.net/iptv/js/最大资源.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},

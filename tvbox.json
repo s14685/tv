@@ -67,14 +67,17 @@
 {"key":"zy_魔都资源","name":"💎魔都MD🍎1","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
 //哔哩 🍏9 🍎1
-{"key":"Bili","name":"🌺🌺Bili🌺🌺","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-{"key": "myNovel","name": "🍄Novel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myNovel.json"},
-{"key": "myBio","name": "🍄Biology","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myBio.json"},
-{"key": "myStar","name": "🍄歌星","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myStar.json"},
-{"key": "myEXCEL","name": "🍄Excel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myExcel.json"},
-{"key": "解说","name": "🍄️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/哔哩影视解说.json"},
-{"key": "EXCEL","name": "🍄Excel学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/哔哩Excel教程.json"},
-{"key": "PS","name": "🍄PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/哔哩PS.json"},
+{"key":"Bili","name":"🌺🌺Bili🌺🌺","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"playerType":2,"filterable":1},
+{"key": "myNovel","name": "🍄Novel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myNovel.json"},
+{"key": "myBio","name": "🍄Biology","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myBio.json"},
+{"key": "myStar","name": "🍄歌星","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myStar.json"},
+{"key": "myEXCEL","name": "🍄Excel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myExcel.json"},
+{"key": "解说","name": "🍄️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/哔哩影视解说.json"},
+{"key": "EXCEL","name": "🍄Excel学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/哔哩Excel教程.json"},
+{"key": "PS","name": "🍄PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/哔哩PS.json"},
+{"key": "bili_太极拳","name": "🌅太极拳","type": 3,"api": "csp_Bili","searchable": 1,"changeable": 0,"playerType":2,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "http://winniec.asuscomm.com/iptv/js/bili/bili太极拳.json","type": "太极拳#帕梅拉#广场舞#演唱会","cookie": ""},"jar": "http://winniec.asuscomm.com/iptv/js/custom_spider.jar"},
+{"key": "bili_歌星  ","name": "🌅歌星","type": 3,"api": "csp_Bili","searchable": 1,"changeable": 0,"playerType":2,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "http://winniec.asuscomm.com/iptv/js/bili/myStar.json","type": "博君一肖#","cookie": ""},"jar": "http://winniec.asuscomm.com/iptv/js/custom_spider.jar"},
+
 
 {"key":"meowtv_yqks","name":"💋一起2160","api":"csp_YQKan","changeable":1,"jar":"http://www.xzweb.top/cs/影视接口/main/alib/jar/公告1.jar","quickSearch":1,"searchable":1,"type":3},
 {"key":"drpy_js_网飞.TV","name":"💋网飞2160","api":"https://jihulab.com/xhkw1/kw/-/raw/main/lib/drpy2.min.js","ext":"http://www.xzweb.top/cs/影视接口/main/lib/网飞.TV.js","jar":"http://www.xzweb.top/cs/影视接口/main/alib/jar/公告1.jar","type":3},

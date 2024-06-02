@@ -210,17 +210,6 @@ XBPQ最核心的优势就是能简写！jar包内内置很多常用模板，有�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 本期就开始解释下上面的两个元素怎么获取！
 鬼鬼影院 - http://dy.909197.xyz/
 1、 打开电影网站后，如图所示。
@@ -245,15 +234,6 @@ http://dy.909197.xyz/index.php/vod/show/area/{area}/by/{by}/class/{calss}/id/{ca
 附加：（免嗅探）;;m 用法！
 
 播放地址取网页源码！划红线为真实播放地址！该地址如果为明文！免嗅探就可以把开关打开！如下不是明文的话，免嗅不开。
-
-
-
-
-
-
-
-
-
 
 完整参数举例：
 
@@ -325,3 +305,161 @@ https://haikuo.lanzouf.com/u/GoldRiver
 //http://ffzy5.tv/index.php/vod/type/id/13.html
 //tiankongzy.com, tkzy1.com, tkzy2.com
 
+//
+
+api接口仅供提供数据，可以直接在苹果CMS后台联盟采集中加入-并提供给他人采集。
+
+联盟资源分配唯一标识ID，用来区别绑定分类，这个ID一般由苹果CMS官方提供，不可随意修改设置，否则造成入库分类错乱。
+
+1,视频列表地址https://api.1080zyku.com/inc/api_mac10.php?ac=list
+2,视频详情地址https://api.1080zyku.com/inc/api_mac10.php?ac=detail
+列表数据格式：
+
+{"code":1,"msg":"\u6570\u636e\u5217\u8868","page":1,"pagecount":1673,"limit":20,"total":33460,"list":[{"vod_id":"34172","vod_name":"\u5916\u5356\u5403\u5f97\u5f00\u5417","type_id":"3","type_name":"\u7efc\u827a","vod_en":"waimaichidekaima","vod_time":"2020-06-03 14:06:58","vod_remarks":"\u66f4\u65b0\u81f320200602\u96c6","vod_play_from":"1080zyk"},{"vod_id":"32117","vod_name":"\u6025\u8bca\u5ba4\u7684\u6545\u4e8b\u7b2c\u56db\u5b63","type_id":"15","type_name":"\u6b27\u7f8e\u5267","vod_en":"jizhenshidegushidisiji","vod_time":"2020-06-03 14:00:40","vod_remarks":"\u66f4\u65b0\u81f302\u96c6","vod_play_from":"1080zyk"},{"vod_id":"35533","vod_name":"\u548c\u5e73\u7cbe\u82f1\u6781\u9650\u6311\u6218 \u9e21\u5927\u5b9d","type_id":"45","type_name":null,"vod_en":"hepingjingyingjixiantaozhanjidabao","vod_time":"2020-06-03 13:41:21","vod_remarks":"\u66f4\u65b0\u81f3385\u96c6","vod_play_from":"1080zyk"},{"vod_id":"35532","vod_name":"\u8ff7\u4f60\u4e16\u754c\uff1a\u5fc6\u6db5\u548c\u5c0f\u8868\u59b9\u7684\u751f\u5b58\u65e5\u8bb0","type_id":"45","type_name":null,"vod_en":"minishijieyihanhexiaobiaomeideshengcunriji","vod_time":"2020-06-03 13:39:32","vod_remarks":"\u66f4\u65b0\u81f3309\u96c6","vod_play_from":"1080zyk"},{"vod_id":"35531","vod_name":"\u8ff7\u4f60\u4e16\u754c\u4e09\u6708\u89e3\u8bf4\u8352\u5c9b\u6c42\u751f\u8bb0","type_id":"45","type_name":null,"vod_en":"minishijiesanyuejieshuohuangdaoqiushengji","vod_time":"2020-06-03 13:33:54","vod_remarks":"\u66f4\u65b0\u81f3306\u96c6","vod_play_from":"1080zyk"},{"vod_id":"35530","vod_name":"\u6211\u7684\u4e16\u754c\u4e4b\u5c0f\u6708\u5386\u9669\u8bb0","type_id":"45","type_name":null,"vod_en":"wodeshijiezhixiaoyuelixianji","vod_time":"2020-06-03 13:25:34","vod_remarks":"\u66f4\u65b0\u81f3424\u96c6","vod_play_from":"1080zyk"},{"vod_id":"35529","vod_name":"\u690d\u7269\u5927\u6218\u50f5\u5c38\u6211\u7684\u4e16\u754c\u771f\u4eba","type_id":"45","type_name":null,"vod_en":"zhiwudazhanjiangshiwodeshijiezhenren","vod_time":"2020-06-03 13:22:37","vod_remarks":"\u66f4\u65b0\u81f3206\u96c6","vod_play_from":"1080zyk"},{"vod_id":"35528","vod_name":"\u6c38\u8fdc\u7684\u4e09\u4e01\u76ee\u7684\u5915\u9633","type_id":"10","type_name":"\u5267\u60c5\u7247","vod_en":"yongyuandesandingmudexiyang","vod_time":"2020-06-03 13:17:05","vod_remarks":"BD","vod_play_from":"1080zyk"},{"vod_id":"35378","vod_name":"\u521b\u4e1a\u5427\uff0c\u6211\u7684\u5c06\u519b\u5927\u4eba","type_id":"48","type_name":null,"vod_en":"chuangyebawodejiangjundaren","vod_time":"2020-06-03 13:12:48","vod_remarks":"\u66f4\u65b0\u81f316\u96c6","vod_play_from":"1080zyk"},{"vod_id":"32966","vod_name":"\u548c\u5e73\u7cbe\u82f1\u5927\u59da\u641e\u7b11\u5403\u9e21","type_id":"45","type_name":null,"vod_en":"hepingjingyingdayaogaoxiaochiji","vod_time":"2020-06-03 13:12:08","vod_remarks":"\u66f4\u65b0\u81f3139\u96c6","vod_play_from":"1080zyk"},{"vod_id":"34147","vod_name":"\u5143\u5c0a\u7b2c2\u5b63","type_id":"40","type_name":null,"vod_en":"yuanzundiji","vod_time":"2020-06-03 13:01:46","vod_remarks":"\u66f4\u65b0\u81f307\u96c6","vod_play_from":"1080zyk"},{"vod_id":"35527","vod_name":"\u6c38\u8fdc\u7684\u4e09\u4e01\u76ee\u7684\u5915\u9633\u4e4b1964","type_id":"10","type_name":"\u5267\u60c5\u7247","vod_en":"yongyuandesandingmudexiyangzhi","vod_time":"2020-06-03 12:59:24","vod_remarks":"BD","vod_play_from":"1080zyk"},{"vod_id":"35526","vod_name":"\u5b87\u5b99\u6218\u8230\u5927\u548c\u53f7","type_id":"10","type_name":"\u5267\u60c5\u7247","vod_en":"yuzhouzhanjiandahehao","vod_time":"2020-06-03 12:58:57","vod_remarks":"DVD","vod_play_from":"1080zyk"},{"vod_id":"35525","vod_name":"\u6e90\u6c0f\u7269\u8bed\uff1a\u5343\u5e74\u4e4b\u8c1c","type_id":"10","type_name":"\u5267\u60c5\u7247","vod_en":"yuanshiwuyuqiannianzhimi","vod_time":"2020-06-03 12:58:18","vod_remarks":"BD","vod_play_from":"1080zyk"},{"vod_id":"35524","vod_name":"\u5cb3\uff1a\u51b0\u5cf0\u6551\u63f4","type_id":"10","type_name":"\u5267\u60c5\u7247","vod_en":"yuebingfengjiuyuan","vod_time":"2020-06-03 12:57:47","vod_remarks":"DVD","vod_play_from":"1080zyk"},{"vod_id":"35523","vod_name":"\u4e08\u592b\u5f97\u4e86\u6291\u90c1\u75c7","type_id":"7","type_name":"\u7231\u60c5\u7247","vod_en":"zhangfudeliaoyiyuzheng","vod_time":"2020-06-03 12:56:51","vod_remarks":"BD","vod_play_from":"1080zyk"},{"vod_id":"33471","vod_name":"\u738b\u7237\u4e0d\u80fd\u64a9","type_id":"40","type_name":null,"vod_en":"wangyebunenliao","vod_time":"2020-06-03 12:56:35","vod_remarks":"\u66f4\u65b0\u81f305\u96c6","vod_play_from":"1080zyk"},{"vod_id":"35522","vod_name":"\u7ec8\u70b9\u7ad9-\u66d9\u5149\u53f7\u7279\u5feb\u4e4b\u604b","type_id":"10","type_name":"\u5267\u60c5\u7247","vod_en":"zhongdianzhanshuguanghaotekuaizhilian","vod_time":"2020-06-03 12:56:22","vod_remarks":"HD","vod_play_from":"1080zyk"},{"vod_id":"35521","vod_name":"\u4e94\u4e2a\u66b4\u8d70\u7684\u5c11\u5e74","type_id":"10","type_name":"\u5267\u60c5\u7247","vod_en":"wugebaozoudeshaonian","vod_time":"2020-06-03 12:55:51","vod_remarks":"DVD","vod_play_from":"1080zyk"},{"vod_id":"35520","vod_name":"\u4ed6\u662f\u8c01","type_id":"11","type_name":"\u6218\u4e89\u7247","vod_en":"tashishui","vod_time":"2020-06-03 12:53:46","vod_remarks":"HD","vod_play_from":"1080zyk"}],"class":[{"type_id":"1","type_name":"\u7535\u5f71"},{"type_id":"2","type_name":"\u8fde\u7eed\u5267"},{"type_id":"3","type_name":"\u7efc\u827a"},{"type_id":"4","type_name":"\u52a8\u6f2b"},{"type_id":"5","type_name":"\u52a8\u4f5c\u7247"},{"type_id":"6","type_name":"\u559c\u5267\u7247"},{"type_id":"7","type_name":"\u7231\u60c5\u7247"},{"type_id":"8","type_name":"\u79d1\u5e7b\u7247"},{"type_id":"9","type_name":"\u6050\u6016\u7247"},{"type_id":"10","type_name":"\u5267\u60c5\u7247"},{"type_id":"11","type_name":"\u6218\u4e89\u7247"},{"type_id":"12","type_name":"\u56fd\u4ea7\u5267"},{"type_id":"13","type_name":"\u53f0\u6e7e\u5267"},{"type_id":"14","type_name":"\u97e9\u5267"},{"type_id":"15","type_name":"\u6b27\u7f8e\u5267"},{"type_id":"16","type_name":"\u9999\u6e2f\u5267"},{"type_id":"17","type_name":"\u6cf0\u5267"},{"type_id":"18","type_name":"\u65e5\u5267"},{"type_id":"19","type_name":"\u798f\u5229\u7247"},{"type_id":"20","type_name":"\u8bb0\u5f55\u7247"},{"type_id":"49","type_name":"\u502b\u7406"},{"type_id":"48","type_name":"\u56fd\u4ea7\u77ed\u5267"},{"type_id":"42","type_name":"\u5c11\u513f\u9891\u9053"},{"type_id":"43","type_name":"\u97f3\u4e50MV"},{"type_id":"44","type_name":"\u9884\u544a\u7247"},{"type_id":"47","type_name":"\u6b27\u7f8e\u52a8\u6f2b"},{"type_id":"46","type_name":"\u641e\u7b11\u7247"},{"type_id":"45","type_name":"\u6e38\u620f\u89e3\u8bf4"},{"type_id":"41","type_name":"\u52a8\u753b\u7247"},{"type_id":"38","type_name":"\u77ed\u89c6\u9891"},{"type_id":"39","type_name":"\u65e5\u97e9\u52a8\u6f2b"},{"type_id":"40","type_name":"\u56fd\u4ea7\u52a8\u6f2b"},{"type_id":"51","type_name":"\u6e2f\u53f0\u502b\u7406"},{"type_id":"52","type_name":"\u65e5\u97e9\u502b\u7406"},{"type_id":"53","type_name":"\u6b27\u7f8e\u502b\u7406"},{"type_id":"54","type_name":"\u6d77\u5916\u5267"}]}
+列表接收参数：
+ac=list
+t=类别ID
+pg=页码
+wd=搜索关键字
+h=几小时内的数据
+例如： https://api.1080zyku.com/inc/api_mac10.php?ac=list&t=1&pg=5 分类ID为1的列表数据第5页
+内容数据格式：
+{"code":1,"msg":"\u6570\u636e\u5217\u8868","page":1,"pagecount":1,"limit":20,"total":1,"list":[{"vod_time":"2020-06-02 18:52:34","vod_id":"29534","vod_name":"\u5f71\u4e4b\u8bd7","vod_enname":"yingzhishi","vod_subname":"Shadowverse","vod_letter":"Y","vod_color":"","vod_tag":"","type_id":"39","type_name":null,"vod_pic":"https:\/\/pic1.zykpic.com\/upload\/vod\/2020-04-07\/15862627711.jpg","vod_lang":"\u65e5\u8bed","vod_area":"\u65e5\u672c","vod_year":"2020","vod_remark":"\u66f4\u65b0\u81f309\u96c6","vod_actor":"\u68b6\u539f\u5cb3\u4eba,\u698e\u6728\u6df3\u5f25,\u672c\u6e21\u67ab,\u7530\u8c37\u96bc","vod_director":"\u5ddd\u53e3\u656c\u4e00\u90ce","vod_serial":"0","vod_lock":"0","vod_level":"0","vod_hits":"40","vod_hits_day":"0","vod_hits_week":"3","vod_hits_month":"3","vod_duration":"0","vod_up":"0","vod_down":"0","vod_score":"0.0","vod_score_all":"0","vod_score_num":"0","vod_points_play":"0","vod_points_down":"0","vod_content":"","vod_play_from":"1080zyk","vod_play_note":"","vod_play_server":"no","vod_play_url":"\u7b2c01\u96c6$https:\/\/1080zyk-kb.com\/20200407\/2QGhmPIa\/index.m3u8#\u7b2c02\u96c6$https:\/\/1080zyk-kb.com\/20200414\/1PiHvZI5\/index.m3u8#\u7b2c03\u96c6$https:\/\/1080zyk-kb.com\/20200421\/fzHR2rT9\/index.m3u8#\u7b2c04\u96c6$https:\/\/1080zyk-kb.com\/20200428\/4qapdd4x\/index.m3u8#\u7b2c05\u96c6$https:\/\/1080zyk-kb.com\/20200505\/AsLF6bqu\/index.m3u8#\u7b2c06\u96c6$https:\/\/1080zyk-kb.com\/20200512\/v7E66VuE\/index.m3u8#\u7b2c07\u96c6$https:\/\/d.1080zyk-kb.com\/20200519\/34sGzc4E\/index.m3u8#\u7b2c08\u96c6$https:\/\/d.1080zyk-kb.com\/20200526\/qPr4wXEZ\/index.m3u8#\u7b2c09\u96c6$https:\/\/d.1080zyk-kb.com\/20200602\/6JGBluqU\/index.m3u8","vod_down_from":"","vod_down_note":"","vod_down_server":"","vod_down_url":""}]}
+
+　
+
+内容接收参数：
+参数 ids=数据ID，多个ID逗号分割。
+t=类型ID
+pg=页码
+h=几小时内的数据
+
+例如: 
+https://api.1080zyku.com/inc/api_mac10.php?ac=detail&ids=123,567 获取ID为123和567的数据信息
+https://api.1080zyku.com/inc/api_mac10.php?ac=detail&h=24 获取24小时内更新数据信息
+
+
+//https://github.com/FongMi/TV?tab=readme-ov-file
+基於 CatVod 項目
+https://github.com/CatVodTVOfficial/CatVodTVJarLoader
+
+點播欄位
+欄位名稱	預設值	說明	其他
+searchable	1	是否搜索	0：關閉；1：啟用
+changeable	1	是否換源	0：關閉；1：啟用
+playerType	none	播放器	0：系統；1：IJK；2：EXO
+timeout	15	播放超時	單位：秒
+header	none	請求標頭	格式：json
+click	none	點擊js	javascript
+直播欄位
+欄位名稱	預設值	說明	其他
+ua	none	用戶代理	
+origin	none	來源	
+referer	none	參照地址	
+epg	none	節目地址	
+logo	none	台標地址	
+pass	false	是否免密碼	
+boot	false	是否自啟動	
+playerType	none	播放器	0：系統；1：IJK；2：EXO
+timeout	15	播放超時	單位：秒
+header	none	請求標頭	格式：json
+click	none	點擊js	javascript
+樣式
+欄位名稱	值	說明
+type	rect	矩形
+oval	橢圓
+list	列表
+ratio	0.75	3：4
+1.33	4：3
+直式
+
+{
+  "style": {
+    "type": "rect"
+  }
+}
+橫式
+
+{
+  "style": {
+    "type": "rect",
+    "ratio": 1.33
+  }
+}
+正方
+
+{
+  "style": {
+    "type": "rect",
+    "ratio": 1
+  }
+}
+正圓
+
+{
+  "style": {
+    "type": "oval"
+  }
+}
+橢圓
+
+{
+  "style": {
+    "type": "oval",
+    "ratio": 1.1
+  }
+}
+API
+刷新詳情
+
+http://127.0.0.1:9978/action?do=refresh&type=detail
+刷新播放
+
+http://127.0.0.1:9978/action?do=refresh&type=player
+推送字幕
+
+http://127.0.0.1:9978/action?do=refresh&type=subtitle&path=http://xxx
+推送彈幕
+
+http://127.0.0.1:9978/action?do=refresh&type=danmaku&path=http://xxx
+新增緩存字串
+
+http://127.0.0.1:9978/cache?do=set&key=xxx&value=xxx
+取得緩存字串
+
+http://127.0.0.1:9978/cache?do=get&key=xxx
+刪除緩存字串
+
+http://127.0.0.1:9978/cache?do=del&key=xxx
+Proxy
+scheme 支持 http, https, socks4, socks5
+
+scheme://username:password@host:port
+配置 rules 新增 proxy 判斷 host 是否走代理
+
+{
+  "name": "proxy",
+  "hosts": [
+    "api.nivodz.com"
+  ]
+}
+配置範例
+點播-線上
+點播-本地
+直播-線上
+直播-本地
+
+飛機群
+討論群組
+發布頻道
+//
+
+
+
+
+
+
+
+
+
+//

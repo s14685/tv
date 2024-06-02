@@ -1,5 +1,583 @@
+~[排序:量子>非凡>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>快看>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
+
+
+
+
+
+
+
 //
+<li>
+	<div class="li-img cover">
+		<a href="/tv/7o1EypnB16W.html" title="庆余年 第二季" target="_blank">
+			<img src="https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2907968100.webp" data-src="https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2907968100.webp" alt="庆余年 第二季" data-loaded="true">
+				<span class="bottom">
+					<span class="bottom1">
+						<i class="icon-fire"></i>19.1万
+					</span>
+					<span class="bottom2">
+						<i class="icon-play"></i>36集全
+					</span>
+				</span>
+			</a>
+		</div>
+		<div class="li-bottom">
+			<h3>
+				<a href="/tv/7o1EypnB16W.html" title="庆余年 第二季" target="_blank">庆余年 第二季</a>
+				<span>7.1</span>
+			</h3>
+			<div class="tag">2024 / 大陆 / 剧情 / 古装</div>
+		</div>
+	</li>
+
+
+//
+<div class="public-list-div public-list-bj">
+	<a class="public-list-exp" href="/voddetail/88368.html">
+		<img class="lazy lazy1 gen-movie-img mask-b entered loaded" alt="新一年又一年" referrerpolicy="no-referrer" src="https://img.jisuimage.com/cover/78d2ef62fda6fcc601c6669d22b8eb28.jpg" data-src="https://img.jisuimage.com/cover/78d2ef62fda6fcc601c6669d22b8eb28.jpg" data-ll-status="loaded">
+			<span class="public-list-prb hide ft2">更新至10集</span>
+			<span class="public-bg"></span>
+			<span class="public-play">
+				<i class="fa"></i>
+			</span>
+		</a>
+	</div>
+
 // [自建四号线>>MYTV#自建二号线>>NBY#自建一线路>>BT#APP专线>>FYNB#自建三号线>>SEVEN#非凡线路>>非凡#量子线路>>量子#豪华线路>>豪华#乐视线路>>乐视#虎牙线路>>虎牙#]
+
+//[ 蓝光LZ>>量子# 非凡>>非凡#QY>>奇艺# 蓝光HR1>>HR# 蓝光Z>>HLYS# 极速2>>ZN2# 蓝光-MY>>NBY# 极速>>ZN1# 高清-LS>>乐视#]
+<a href="/voddetail/93685.html" title="南城宴" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">更新至第11集</div>
+		<div class="module-item-pic">
+			<img class="lazy lazyload" data-original="/upload/vod/20240526-1/227559cbc6189f15cfb08080afac5f04.jpg" alt="南城宴" referrerpolicy="no-referrer" src="/upload/vod/20240526-1/227559cbc6189f15cfb08080afac5f04.jpg" style="">
+			</div>
+		</div>
+		<div class="module-poster-item-info">
+			<div class="module-poster-item-title">南城宴</div>
+		</div>
+	</a>
+//
+
+============================================================================================================================================================================
+HTTP/Requests:
+Topic / Item                                                 Count         Average       Min Val       Max Val       Rate (ms)     Percent       Burst Rate    Burst Start  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+HTTP Requests by HTTP Host                                   72                                                      0.0084        100%          0.0900        4.257        
+ https://www.nbyy.cc/filter.html?channel=tv&region=&showtype=&page=1&year=                                                 2                                                       0.0002        2.78%         0.0100        5.921        
+       1                                                       0.0001        50.00%        0.0100        5.921        
+  /filter.html?channel=anime&region=&showtype=&page=1&year=  1                                                       0.0001        50.00%        0.0100        8.904        
+ winniec.asuscomm.com                                        6                                                       0.0007        8.33%         0.0400        4.257        
+  /iptv/js/HCCX.jar                                          2                                                       0.0002        33.33%        0.0200        4.257        
+  /iptv/js/%E6%B3%A5%E5%B7%B4%E5%BD%B1%E9%99%A2.json         2                                                       0.0002        33.33%        0.0200        4.335        
+  /iptv/fav.json                                             2                                                       0.0002        33.33%        0.0200        4.094        
+ pan.baidu.com                                               1                                                       0.0001        1.39%         0.0100        5.808        
+  /res/static/thirdparty/connect.jpg?t=1716977290            1                                                       0.0001        100.00%       0.0100        5.808        
+ 239.255.255.250:1900                                        63                                                      0.0073        87.50%        0.0500        1.733        
+  *                                                          63                                                      0.0073        100.00%       0.0500        1.733        
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+//
+
+//泥巴海内
+//https://www.nbtvv.com/index.php/vod/show/by/hits/id/13/year/2024.html
+//https://www.nbtvv.com/index.php/vod/detail/id/262990.html
+//https://www.nbtvv.com/index.php/vod/search.html?wd=庆余年第二季
+//优质资源1>>优质#云播>>CLYNBM#云播3>>NBY#云播1>>CLYNB#my切片>>MYTV#索尼云播>>索尼#企鹅云播>>腾讯#奇异果>>奇异#哔哩云播>>哔哩#芒果云播>>芒果#YK云播>>优酷#
+
+优质资源114 云播42 云播312 seven11 奇异果14 索尼云播14 哔哩云播14 企鹅云播14 腾讯
+优酷
+//
+
+<li class="qy-mod-li">
+<div class="qy-list-img vertical">
+<div class="qy-mod-link-wrap">
+<a href="./7CDtPDw33r4HznfjTdiG2Js2D2iPPGZo-0-0-0-0-detail.html?x=1" vfrmrseat="" class="qy-mod-link" target="_blank">
+<div style="height: 100%; overflow: hidden;">
+<div id="T-randomAni" class="qy-mod-cover" style="height: inherit; width: inherit; background-size: 100%; animation-duration: 0.4s; animation-delay: 0.0726115s; background-image: 
+url(https://static.nivod0.tv/imgs/2024/01/03/9e3eef4e-9ab7-49f5-994a-9058ec115e97.jpg_300x400.jpg);"></div>
+</div>
+<div class="icon-tr"></div>
+
+
+</a>
+</div>
+<div class="title-wrap">
+<p class="main">
+<span class="text-score">2.2</span>
+<a data-pb="" rseat="" title="古镇郎中" href="./7CDtPDw33r4HznfjTdiG2Js2D2iPPGZo-0-0-0-0-detail.html?x=1" class="link-txt" target="_blank">
+<span>古镇郎中</span>
+</a>
+</p>
+<p class="sub">
+主演:<span>国文学,碰碰胡,唐仲亭<span>
+</span></span></p>
+</div>
+</div>
+</li>
+
+//
+//https://www.nivod9.tv/filter.html?x=1&channelId=2&showTypeId=226&langsId=2&sortId=2
+<dd>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2" rseat="909161_filter_huayu">全部分类</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=1" rseat="909161_filter_huayu">大陆</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=11" rseat="909161_filter_huayu">香港</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=12" rseat="909161_filter_huayu">台湾</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=13" rseat="909161_filter_huayu">日本</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=14" rseat="909161_filter_huayu">韩国</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=4" rseat="909161_filter_huayu">欧美</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=15" rseat="909161_filter_huayu">泰国</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=5" rseat="909161_filter_huayu">新马</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=226" rseat="909161_filter_huayu">Netflix</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=19" rseat="909161_filter_huayu">偶像</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=29" rseat="909161_filter_huayu">军旅</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=139" rseat="909161_filter_huayu">剧情</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=137" rseat="909161_filter_huayu">动作</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=23" rseat="909161_filter_huayu">历史</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=26" rseat="909161_filter_huayu">历险</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=22" rseat="909161_filter_huayu">古装</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=140" rseat="909161_filter_huayu">同性</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=135" rseat="909161_filter_huayu">商战</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=30" rseat="909161_filter_huayu">喜剧</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=141" rseat="909161_filter_huayu">奇幻</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=133" rseat="909161_filter_huayu">宫廷</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=35" rseat="909161_filter_huayu">家庭</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=37" rseat="909161_filter_huayu">悬疑</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=138" rseat="909161_filter_huayu">惊悚</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=36" rseat="909161_filter_huayu">战争</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=31" rseat="909161_filter_huayu">武侠</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=32" rseat="909161_filter_huayu">江湖</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=20" rseat="909161_filter_huayu">爱情</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=24" rseat="909161_filter_huayu">玄幻</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=134" rseat="909161_filter_huayu">神话</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=28" rseat="909161_filter_huayu">科幻</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=38" rseat="909161_filter_huayu">穿越</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=33" rseat="909161_filter_huayu">罪案</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=21" rseat="909161_filter_huayu">言情</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=136" rseat="909161_filter_huayu">警匪</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=25" rseat="909161_filter_huayu">谍战</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=27" rseat="909161_filter_huayu">都市</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;showTypeId=34" rseat="909161_filter_huayu">青春</a></dd>
+//
+<dd>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7" rseat="909161_filter_huayu">全部分类</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;regionId=1" rseat="909161_filter_huayu">大陆</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;regionId=11" rseat="909161_filter_huayu">香港</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;regionId=12" rseat="909161_filter_huayu">台湾</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;regionId=13" rseat="909161_filter_huayu">日本</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;regionId=14" rseat="909161_filter_huayu">韩国</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;regionId=4" rseat="909161_filter_huayu">欧美</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;regionId=15" rseat="909161_filter_huayu">泰国</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;regionId=5" rseat="909161_filter_huayu">新马</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=154" rseat="909161_filter_huayu">三级伦理</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=147" rseat="909161_filter_huayu">中文字幕</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=146" rseat="909161_filter_huayu">亚洲有码</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=153" rseat="909161_filter_huayu">人妻熟女</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=152" rseat="909161_filter_huayu">制服诱惑</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=143" rseat="909161_filter_huayu">国产情色</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=150" rseat="909161_filter_huayu">强奸乱伦</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=155" rseat="909161_filter_huayu">成人动画</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=145" rseat="909161_filter_huayu">日本无码</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=148" rseat="909161_filter_huayu">欧美情色</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=142" rseat="909161_filter_huayu">精品推荐</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=144" rseat="909161_filter_huayu">网红主播</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=149" rseat="909161_filter_huayu">美乳巨乳</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=7&amp;showTypeId=151" rseat="909161_filter_huayu">萝莉少女</a></dd>
+//
+<dd>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1" rseat="909161_filter_huayu">全部分类</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;regionId=1" rseat="909161_filter_huayu">大陆</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;regionId=11" rseat="909161_filter_huayu">香港</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;regionId=12" rseat="909161_filter_huayu">台湾</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;regionId=13" rseat="909161_filter_huayu">日本</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;regionId=14" rseat="909161_filter_huayu">韩国</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;regionId=4" rseat="909161_filter_huayu">欧美</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;regionId=15" rseat="909161_filter_huayu">泰国</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;regionId=5" rseat="909161_filter_huayu">新马</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=227" rseat="909161_filter_huayu">Netflix</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=7" rseat="909161_filter_huayu">冒险</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=11" rseat="909161_filter_huayu">剧情</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=3" rseat="909161_filter_huayu">动作</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=16" rseat="909161_filter_huayu">动画电影</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=17" rseat="909161_filter_huayu">同性</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=1" rseat="909161_filter_huayu">喜剧</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=6" rseat="909161_filter_huayu">奇幻</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=9" rseat="909161_filter_huayu">恐怖</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=15" rseat="909161_filter_huayu">悬疑</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=10" rseat="909161_filter_huayu">惊悚</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=12" rseat="909161_filter_huayu">战争</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=13" rseat="909161_filter_huayu">歌舞</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=8" rseat="909161_filter_huayu">灾难</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=2" rseat="909161_filter_huayu">爱情</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=4" rseat="909161_filter_huayu">犯罪</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=5" rseat="909161_filter_huayu">科幻</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=14" rseat="909161_filter_huayu">经典</a>
+<a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=1&amp;showTypeId=18" rseat="909161_filter_huayu">网络电影</a></dd>
+
+//
+//
+// movie-热门
+// movie-最新
+// movie-经典
+// movie-豆瓣高分
+// movie-冷门佳片
+// movie-华语
+// movie-欧美
+// movie-韩国
+// movie-日本
+// movie-动作
+// movie-喜剧
+// movie-爱情
+// movie-科幻
+// movie-悬疑
+// movie-恐怖
+// movie-动画
+// movie-豆瓣top250
+
+// tv-热门
+// tv-美剧
+// tv-英剧
+// tv-韩剧
+// tv-日剧
+// tv-国产剧
+// tv-港剧
+// tv-日本动画
+// tv-综艺
+// tv-纪录片
+
+
+
+
+<a class="item" href="/play/800986">
+<div class="embed-responsive cover-wp">
+<img class="img-responsive lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 11 14'%3E%3C/svg%3E" alt="庆余年 第二季" 
+data-src="https://img1.ikanbot.com/images/6/ee/c2e169f657226ae8934f7b0a27dd3ee6.jpg" />
+</div>
+<p>庆余年 第二季</p>
+</a>
+
+<div class="item-root">
+<img src="https://img1.ikanbot.com/images/6/ee/c2e169f657226ae8934f7b0a27dd3ee6.jpg" alt="庆余年 第二季" class="cover lazy entered loaded" 
+data-src="https://img1.ikanbot.com/images/6/ee/c2e169f657226ae8934f7b0a27dd3ee6.jpg" data-ll-status="loaded">
+<div class="detail">
+	<h2 class="meta title">庆余年 第二季</h2>
+	<h3 class="meta">庆余年2,Joy of Life 2</h3><h3 class="meta">2024</h3><h3 class="meta">中国大陆</h3>
+	<h3 class="meta">孙皓/张若昀,李沁,陈道明,吴刚,田雨</h3>
+</div>
+</div>
+					
+
+//
+{"type_id":1,"type_name":"电影"},
+{"type_id":6,"type_name":"动作片"},
+{"type_id":7,"type_name":"喜剧片"},
+{"type_id":8,"type_name":"爱情片"},
+{"type_id":9,"type_name":"科幻片"},
+{"type_id":10,"type_name":"恐怖片"},
+{"type_id":11,"type_name":"剧情片"},
+{"type_id":12,"type_name":"战争片"},
+{"type_id":39,"type_name":"动画片"},
+{"type_id":62,"type_name":"4K电影"},
+{"type_id":63,"type_name":"有声动漫"},
+{"type_id":64,"type_name":"女频恋爱"},
+{"type_id":65,"type_name":"反转爽剧"},
+{"type_id":66,"type_name":"古装仙侠"},
+{"type_id":67,"type_name":"年代穿越"},
+{"type_id":68,"type_name":"脑洞悬疑"},
+{"type_id":69,"type_name":"现代都市"},
+{"type_id":70,"type_name":"邵氏电影"}
+{"type_id":2,"type_name":"电视剧"},
+{"type_id":13,"type_name":"国产剧"},
+{"type_id":14,"type_name":"欧美剧"},
+{"type_id":15,"type_name":"韩剧"},
+{"type_id":16,"type_name":"日剧"},
+{"type_id":17,"type_name":"港剧"},
+{"type_id":18,"type_name":"台剧"},
+{"type_id":19,"type_name":"泰剧"},
+{"type_id":20,"type_name":"纪录片"},
+{"type_id":23,"type_name":"海外剧"},
+{"type_id":3,"type_name":"综艺"},
+{"type_id":25,"type_name":"大陆综艺"},
+{"type_id":26,"type_name":"日韩综艺"},
+{"type_id":27,"type_name":"港台综艺"},
+{"type_id":28,"type_name":"欧美综艺"},
+{"type_id":4,"type_name":"动漫"},
+{"type_id":29,"type_name":"国产动漫"},
+{"type_id":30,"type_name":"日韩动漫"},
+{"type_id":31,"type_name":"欧美动漫"},
+{"type_id":44,"type_name":"港台动漫"},
+{"type_id":45,"type_name":"海外动漫"},
+
+{"type_id":47,"type_name":"演唱会"},
+{"type_id":48,"type_name":"体育赛事"},
+{"type_id":49,"type_name":"篮球"},
+{"type_id":50,"type_name":"足球"},
+{"type_id":51,"type_name":"预告片"},
+{"type_id":52,"type_name":"斯诺克"},
+{"type_id":53,"type_name":"影视解说"},
+{"type_id":54,"type_name":"爽文短剧"},
+{"type_id":55,"type_name":"伦理"},
+{"type_id":56,"type_name":"港台三级"},
+{"type_id":57,"type_name":"韩国伦理"},
+{"type_id":58,"type_name":"西方伦理"},
+{"type_id":59,"type_name":"日本伦理"},
+{"type_id":60,"type_name":"两性课堂"},
+{"type_id":61,"type_name":"写真热舞"},
+
+
+//
+<div class="module-search-item">
+	<div class="video-cover">
+		<div class="module-item-cover">
+			<div class="module-item-pic">
+				
+<a href="/vodplay/42962-1-1/" title="立刻播放奔跑吧 第八季">
+					<i class="icon-play"></i>
+				</a>
+				<img referrerpolicy="no-referrer" class="lazy lazyload" 
+				data-src="https://img.haiwaikan.com/ximgs/1bab7b9a28152695da6f4c05084790bc234429915c0474e12001acd8228997ab3a7e866a5ce3038bfde7694f56113c31.jpg" src="https://img.haiwaikan.com/ximgs/1bab7b9a28152695da6f4c05084790bc234429915c0474e12001acd8228997ab3a7e866a5ce3038bfde7694f56113c31.jpg" alt="奔跑吧 第八季">
+					<div class="loading"></div>
+				</div>
+			</div>
+		</div>
+		<div class="video-info">
+			<div class="video-info-header">
+				
+<a class="video-serial" href="/voddetail/42962/" title="奔跑吧 第八季">20240526（第5期加更）</a>
+				<h3>
+					
+<a href="/voddetail/42962/" title="奔跑吧 第八季">奔跑吧 第八季</a>
+				</h3>
+				<div class="video-info-aux">
+					
+<a href="/vodtype/3/" title="综艺" class="tag-link">
+						<span class="video-tag-icon">
+							<i class="icon-cate-zy"></i>综艺
+						</span>
+					</a>
+					<div class="tag-link">
+						
+<a href="/vodsearch/-------------2024/" target="_blank">2024</a>&nbsp;
+					</div>
+					<div class="tag-link">
+						
+<a href="/vodsearch/--%E5%A4%A7%E9%99%86-----------/" target="_blank">大陆</a>&nbsp;
+					</div>
+				</div>
+			</div>
+			<div class="video-info-main">
+				<div class="video-info-items">
+					<span class="video-info-itemtitle">导演：</span>
+					<div class="video-info-item video-info-actor">
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-----%E5%A7%9A%E8%AF%91%E6%B7%BB--------/" target="_blank">姚译添</a>
+						<span class="slash">/</span>
+					</div>
+				</div>
+				<div class="video-info-items">
+					<span class="video-info-itemtitle">主演：</span>
+					<div class="video-info-item video-info-actor">
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-%E6%9D%8E%E6%99%A8------------/" target="_blank">李晨</a>
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-%E9%83%91%E6%81%BA------------/" target="_blank">郑恺</a>
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-%E6%B2%99%E6%BA%A2------------/" target="_blank">沙溢</a>
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-%E7%99%BD%E9%B9%BF------------/" target="_blank">白鹿</a>
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-%E5%91%A8%E6%B7%B1------------/" target="_blank">周深</a>
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-%E8%8C%83%E4%B8%9E%E4%B8%9E------------/" target="_blank">范丞丞</a>
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-%E5%AE%8B%E9%9B%A8%E7%90%A6------------/" target="_blank">宋雨琦</a>
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-%E5%BC%A0%E7%9C%9F%E6%BA%90------------/" target="_blank">张真源</a>
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-%E5%88%98%E6%B6%9B------------/" target="_blank">刘涛</a>
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-%E6%9D%A8%E5%A4%A9%E7%9C%9F------------/" target="_blank">杨天真</a>
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-%E9%83%91%E4%B8%9A%E6%88%90------------/" target="_blank">郑业成</a>
+						<span class="slash">/</span>
+						
+<a href="/vodsearch/-%E5%BC%A0%E8%89%BA%E5%87%A1------------/" target="_blank">张艺凡</a>
+						<span class="slash">/</span>
+					</div>
+				</div>
+				<div class="video-info-items">
+					<span class="video-info-itemtitle">剧情：</span>
+					<div class="video-info-item">第十二季今日官宣概念海报，一条栩栩如生的龙盘旋在空中，充满力量与生机，满满的细节令人期待值拉满，这一季又会带来什么样的惊喜呢？《奔跑吧》“龙”重登场，期待奔跑吧12全阵容官宣！</div>
+				</div>
+			</div>
+			<div class="video-info-footer">
+				
+<a href="/vodplay/42962-1-1/" class="btn-important btn-base" title="立刻播放奔跑吧 第八季">
+					<i class="icon-play"></i>
+					<strong>立即播放</strong>
+				</a>
+			</div>
+		</div>
+	</div>
+
+//
+// {"type_id":1,"type_pid":0,"type_name":"电影"},
+
+// {"type_id":21,"type_pid":1,"type_name":"动画片"},
+
+// {"type_id":6,"type_pid":1,"type_name":"动作片"},
+
+// {"type_id":7,"type_pid":1,"type_name":"喜剧片"},
+
+// {"type_id":8,"type_pid":1,"type_name":"爱情片"},
+
+// {"type_id":9,"type_pid":1,"type_name":"科幻片"},
+
+// {"type_id":10,"type_pid":1,"type_name":"恐怖片"},
+
+// {"type_id":11,"type_pid":1,"type_name":"剧情片"},
+
+// {"type_id":12,"type_pid":1,"type_name":"战争片"},
+
+// {"type_id":35,"type_pid":1,"type_name":"其他片"},
+
+// {"type_id":37,"type_pid":0,"type_name":"求片留言"},
+
+// {"type_id":2,"type_pid":0,"type_name":"电视剧"},
+
+// {"type_id":13,"type_pid":2,"type_name":"国产剧"},
+
+// {"type_id":14,"type_pid":2,"type_name":"香港剧"},
+
+// {"type_id":15,"type_pid":2,"type_name":"台湾剧"},
+
+// {"type_id":16,"type_pid":2,"type_name":"韩国剧"},
+
+// {"type_id":20,"type_pid":1,"type_name":"纪录片"},
+
+// {"type_id":22,"type_pid":2,"type_name":"日本剧"},
+
+// {"type_id":23,"type_pid":2,"type_name":"泰国剧"},
+
+// {"type_id":24,"type_pid":2,"type_name":"欧美剧"},
+
+// {"type_id":36,"type_pid":2,"type_name":"其他剧"},
+
+// {"type_id":3,"type_pid":0,"type_name":"综艺"},
+
+// {"type_id":30,"type_pid":3,"type_name":"大陆综艺"},
+
+// {"type_id":31,"type_pid":3,"type_name":"港台综艺"},
+
+// {"type_id":32,"type_pid":3,"type_name":"日韩综艺"},
+
+// {"type_id":33,"type_pid":3,"type_name":"欧美综艺"},
+
+// {"type_id":4,"type_pid":0,"type_name":"动漫"},
+
+// {"type_id":25,"type_pid":4,"type_name":"国产动漫"},
+
+// {"type_id":26,"type_pid":4,"type_name":"日本动漫"},
+
+// {"type_id":27,"type_pid":4,"type_name":"欧美动漫"},
+
+// {"type_id":28,"type_pid":4,"type_name":"海外动漫"},
+
+// {"type_id":38,"type_pid":0,"type_name":"体育赛事"},
+
+// {"type_id":39,"type_pid":0,"type_name":"短剧"}
+// {"type_id":29,"type_pid":0,"type_name":"电影解说"},
+
+
+
+
+//
+// {"type_id":1,"type_pid":0,"type_name":"电影"},
+
+// {"type_id":37,"type_pid":0,"type_name":"电影解说"},
+
+// {"type_id":38,"type_pid":1,"type_name":"奇幻片"},
+
+// {"type_id":39,"type_pid":1,"type_name":"灾难片"},
+
+// {"type_id":40,"type_pid":1,"type_name":"悬疑片"},
+
+// {"type_id":41,"type_pid":1,"type_name":"其他片"},
+
+// {"type_id":42,"type_pid":0,"type_name":"体育赛事"},
+
+
+// {"type_id":44,"type_pid":0,"type_name":"短剧"}
+// {"type_id":2,"type_pid":1,"type_name":"纪录片"},
+
+// {"type_id":3,"type_pid":0,"type_name":"连续剧"},
+
+// {"type_id":4,"type_pid":3,"type_name":"欧美剧"},
+
+// {"type_id":5,"type_pid":3,"type_name":"香港剧"},
+
+// {"type_id":22,"type_pid":3,"type_name":"国产剧"},
+
+// {"type_id":23,"type_pid":3,"type_name":"韩国剧"},
+
+// {"type_id":30,"type_pid":3,"type_name":"台湾剧"}
+// {"type_id":35,"type_pid":3,"type_name":"泰国剧"},
+
+// {"type_id":36,"type_pid":3,"type_name":"日剧"},
+
+// {"type_id":6,"type_pid":1,"type_name":"动作片"},
+
+// {"type_id":7,"type_pid":1,"type_name":"爱情片"},
+
+// {"type_id":8,"type_pid":1,"type_name":"科幻片"},
+
+// {"type_id":9,"type_pid":1,"type_name":"恐怖片"},
+
+// {"type_id":10,"type_pid":1,"type_name":"剧情片"},
+
+// {"type_id":11,"type_pid":1,"type_name":"战争片"},
+
+// {"type_id":12,"type_pid":1,"type_name":"喜剧片"},
+
+// {"type_id":20,"type_pid":1,"type_name":"动画片"},
+
+// {"type_id":21,"type_pid":1,"type_name":"犯罪片"},
+
+
+// {"type_id":24,"type_pid":0,"type_name":"动漫"},
+
+// {"type_id":31,"type_pid":24,"type_name":"国产动漫"},
+
+// {"type_id":32,"type_pid":24,"type_name":"日本动漫"},
+
+// {"type_id":33,"type_pid":24,"type_name":"欧美动漫"},
+
+// {"type_id":34,"type_pid":24,"type_name":"海外动漫"},
+
+// {"type_id":25,"type_pid":0,"type_name":"综艺"},
+
+// {"type_id":26,"type_pid":25,"type_name":"大陆综艺"},
+
+// {"type_id":27,"type_pid":25,"type_name":"港台综艺"},
+
+// {"type_id":28,"type_pid":25,"type_name":"日韩综艺"},
+
+// {"type_id":29,"type_pid":25,"type_name":"欧美综艺"},
+
 
 
 //
@@ -36,133 +614,219 @@
 }
 //
 // {"type_id":1,"type_name":"冒险片"},
+
 // {"type_id":2,"type_name":"剧情片"},
+
 // {"type_id":3,"type_name":"动作片"},
+
 // {"type_id":4,"type_name":"动画电影片"},
+
 // {"type_id":5,"type_name":"同性片"},
+
 // {"type_id":6,"type_name":"喜剧片"},
+
 // {"type_id":7,"type_name":"奇幻片"},
+
 // {"type_id":8,"type_name":"恐怖片"},
+
 // {"type_id":9,"type_name":"悬疑片"},
+
 // {"type_id":10,"type_name":"惊悚片"},
+
 // {"type_id":11,"type_name":"战争片"},
+
 // {"type_id":12,"type_name":"歌舞片"},
+
 // {"type_id":13,"type_name":"灾难片"},
+
 // {"type_id":14,"type_name":"爱情片"},
+
 // {"type_id":15,"type_name":"犯罪片"},
+
 // {"type_id":16,"type_name":"科幻片"},
+
 // {"type_id":17,"type_name":"经典片"},
+
 // {"type_id":18,"type_name":"网络电影片"},
 
+
 // {"type_id":104,"type_name":"国产剧"},
+
+
 // {"type_id":103,"type_name":"韩剧"},
+
+
 // {"type_id":101,"type_name":"欧美剧"},
+
 // {"type_id":102,"type_name":"日剧"},
+
 // {"type_id":105,"type_name":"泰剧"},
+
 // {"type_id":106,"type_name":"港剧"},
+
 // {"type_id":107,"type_name":"台剧"},
+
 // {"type_id":108,"type_name":"新马剧"},
+
 // {"type_id":109,"type_name":"其他剧"},
 
+
 // {"type_id":204,"type_name":"国产综艺"},
+
+
 // {"type_id":201,"type_name":"欧美综艺"},
+
 // {"type_id":202,"type_name":"日本综艺"},
+
 // {"type_id":203,"type_name":"韩国综艺"},
+
 // {"type_id":205,"type_name":"新马泰综艺"},
+
 // {"type_id":206,"type_name":"港台综艺"},
+
 // {"type_id":207,"type_name":"其他综艺"},
 
+
 // {"type_id":304,"type_name":"国产动漫"},
+
+
 // {"type_id":301,"type_name":"欧美动漫"},
+
 // {"type_id":302,"type_name":"日本动漫"},
+
 // {"type_id":303,"type_name":"韩国动漫"},
+
 // {"type_id":305,"type_name":"新马泰动漫"},
+
 // {"type_id":306,"type_name":"港台动漫"},
+
 // {"type_id":307,"type_name":"其他动漫"},
 
+
 // {"type_id":401,"type_name":"体育赛事"},
+
 // {"type_id":501,"type_name":"纪录片"},
 
+
 // {"type_id":601,"type_name":"重生短剧"},
+
 // {"type_id":602,"type_name":"穿越短剧"},
+
 // {"type_id":603,"type_name":"复仇短剧"},
+
 // {"type_id":604,"type_name":"古装短剧"},
+
 // {"type_id":605,"type_name":"萌宝短剧"},
+
 // {"type_id":606,"type_name":"虐恋短剧"},
+
 // {"type_id":607,"type_name":"逆袭短剧"},
+
 // {"type_id":608,"type_name":"强者短剧"},
+
 // {"type_id":609,"type_name":"神豪短剧"},
+
 // {"type_id":610,"type_name":"甜宠短剧"},
+
 // {"type_id":611,"type_name":"悬疑短剧"}
 //
 // {"type_id":1,"type_pid":0,"type_name":"电影"},
 
+
 // {"type_id":6,"type_pid":1,"type_name":"动作片"},
+
 
 // {"type_id":7,"type_pid":1,"type_name":"喜剧片"},
 
+
 // {"type_id":8,"type_pid":1,"type_name":"爱情片"},
+
 
 // {"type_id":9,"type_pid":1,"type_name":"科幻片"},
 
+
 // {"type_id":10,"type_pid":1,"type_name":"恐怖片"},
+
 
 // {"type_id":11,"type_pid":1,"type_name":"剧情片"},
 
+
 // {"type_id":12,"type_pid":1,"type_name":"战争片"},
+
 
 // {"type_id":35,"type_pid":1,"type_name":"其他片"},
 
+
 // {"type_id":21,"type_pid":1,"type_name":"动画片"},
+
 
 // {"type_id":29,"type_pid":0,"type_name":"电影解说"},
 
 
+
 // {"type_id":2,"type_pid":0,"type_name":"电视剧"},
+
 
 // {"type_id":13,"type_pid":2,"type_name":"国产剧"},
 
+
 // {"type_id":16,"type_pid":2,"type_name":"韩国剧"},
+
 
 // {"type_id":14,"type_pid":2,"type_name":"香港剧"},
 
+
 // {"type_id":15,"type_pid":2,"type_name":"台湾剧"},
+
 
 // {"type_id":22,"type_pid":2,"type_name":"日本剧"},
 
+
 // {"type_id":23,"type_pid":2,"type_name":"泰国剧"},
 
+
 // {"type_id":24,"type_pid":2,"type_name":"欧美剧"},
+
 
 // {"type_id":20,"type_pid":1,"type_name":"纪录片"},
 
 
 // {"type_id":3,"type_pid":0,"type_name":"综艺"},
 
+
 // {"type_id":30,"type_pid":3,"type_name":"大陆综艺"},
+
 
 // {"type_id":31,"type_pid":3,"type_name":"港台综艺"},
 
+
 // {"type_id":32,"type_pid":3,"type_name":"日韩综艺"},
 
+
 // {"type_id":33,"type_pid":3,"type_name":"欧美综艺"},
+
 
 // {"type_id":36,"type_pid":2,"type_name":"其他剧"},
 
 
 // {"type_id":4,"type_pid":0,"type_name":"动漫"},
 
+
 // {"type_id":25,"type_pid":4,"type_name":"国产动漫"},
+
 
 // {"type_id":26,"type_pid":4,"type_name":"日本动漫"},
 
+
 // {"type_id":27,"type_pid":4,"type_name":"欧美动漫"},
+
 
 // {"type_id":28,"type_pid":4,"type_name":"海外动漫"},
 
 
 // {"type_id":39,"type_pid":0,"type_name":"短剧"}
 // {"type_id":38,"type_pid":0,"type_name":"体育赛事"},
+
 
 // {"type_id":37,"type_pid":0,"type_name":"求片留言"},
 
@@ -307,7 +971,6 @@
 
 
 
-
 // {"type_id":6,"type_name":"动作片"},
 
 
@@ -374,7 +1037,6 @@
 
 
 
-
 // {"type_id":13,"type_name":"国产剧"},
 
 
@@ -422,7 +1084,6 @@
 
 
 // {"type_id":3,"type_name":"综艺"},
-
 
 
 
@@ -482,9 +1143,7 @@
 
 
 
-
 // {"type_id":47,"type_name":"演唱会"},
-
 
 
 
@@ -492,9 +1151,7 @@
 
 
 
-
 // {"type_id":49,"type_name":"篮球"},
-
 
 
 
@@ -502,9 +1159,7 @@
 
 
 
-
 // {"type_id":51,"type_name":"预告片"},
-
 
 
 
@@ -512,9 +1167,7 @@
 
 
 
-
 // {"type_id":53,"type_name":"影视解说"},
-
 
 
 
@@ -539,9 +1192,7 @@
 
 
 
-
 // {"type_id":55,"type_name":"伦理"},
-
 
 
 
@@ -549,9 +1200,7 @@
 
 
 
-
 // {"type_id":57,"type_name":"韩国伦理"},
-
 
 
 
@@ -559,9 +1208,7 @@
 
 
 
-
 // {"type_id":59,"type_name":"日本伦理"},
-
 
 
 
@@ -569,9 +1216,7 @@
 
 
 
-
 // {"type_id":61,"type_name":"写真热舞"},
-
 
 
 
@@ -607,7 +1252,6 @@
 
 
 {"type_id":12,"type_pid":1,"type_name":"战争片"},
-
 
 
 
@@ -648,7 +1292,6 @@
 
 
 
-
 {"type_id":3,"type_pid":0,"type_name":"综艺片"},
 
 
@@ -666,7 +1309,6 @@
 
 
 {"type_id":28,"type_pid":3,"type_name":"欧美综艺"},
-
 
 
 
@@ -691,7 +1333,6 @@
 
 
 {"type_id":33,"type_pid":4,"type_name":"海外动漫"},
-
 
 
 
@@ -889,7 +1530,8 @@ https://leshiapi.com/api.php/provide/vod/at/json/?ac=detail&ids=51855
 
 <tr>
 	<td>
-		<a href="/index.php/vod/detail/id/51855.html">🏀庆余年 第二季</a>
+		
+<a href="/index.php/vod/detail/id/51855.html">🏀庆余年 第二季</a>
 		<span class="badge badge-info">更新至21集</span>
 	</td>
 	<td>国产剧</td>
@@ -902,7 +1544,9 @@ https://leshiapi.com/api.php/provide/vod/at/json/?ac=detail&ids=51855
 //
 <div class="item">
 <div class="link clamp1 q1">第01集$https://v11.bxgbnet.com/sdv11/202405/16/bBax7JbMgq3/video/index.m3u8</div>
-<!--<a href="/index.php/vod/play/id/73525/sid/1/nid/1.html">--><a href="https://jiexi.okzyw.info/m3u8/?url=https://v11.bxgbnet.com/sdv11/202405/16/bBax7JbMgq3/video/index.m3u8"target="_blank">
+<!--
+<a href="/index.php/vod/play/id/73525/sid/1/nid/1.html">-->
+<a href="https://jiexi.okzyw.info/m3u8/?url=https://v11.bxgbnet.com/sdv11/202405/16/bBax7JbMgq3/video/index.m3u8"target="_blank">
 <span>点击播放</span>
 <img src="/template/okzy/static/images/ok-bofang.png">
 </a>

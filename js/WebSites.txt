@@ -45,10 +45,62 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
     {"n":"中国","v":"中国"},
     {"n":"大陆","v":"大陆"},
     {"n":"内地","v":"内地"},
-~[排序:量子>非凡>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>快看>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
+~[排序:量子>非凡>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>快看>卧龙>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
 ~https://soupian.pro/search?key=庆余年
 ~https://xn--p3tv7h.com/ https://影搜.com
 
+
+
+//纽约影院 模板:'短视2'
+//https://www.nycvod.com/vodshow/2--hits---------2024.html
+//https://www.nycvod.com/voddetail/40315.html
+//https://www.nycvod.com/vodsearch/-------------.html?wd=庆余年
+
+//123kubo酷播 模板:'海螺3',
+//https://123kubo.tv/show/13/by/hits/year/2024.html
+//https://123kubo.tv/eps/231439.html
+//https://123kubo.tv/search.html?wd=慶餘年&submit=
+//[替换:海外雲>>海外#極速雲>>極速#索尼雲>>索尼#優質雲>>優質#閃電雲>>閃電#無盡雲>>無盡#卧龍雲>>卧龍#快車雲>>快車#]
+
+//Icio影视 -  非凡 索尼
+//https://www.icio.cc/vodshow/2-中国大陆-time---------2024.html
+//https://www.icio.cc/voddetail/20648.html
+//https://www.icio.cc/vodsearch/-------------.html?wd=庆余年
+
+
+~[排序:量子>非凡>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>快看>卧龙>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
+
+//凌云影视
+//https://www.lyys8.com/list/tv--hits---------2024.html
+//https://www.lyys8.com/tv/7o1EypnB16W.html
+//https://www.lyys8.com/sou.html?wd=庆余年
+//[替换:LY云>>凌云#FF云>>非凡#WL云>>卧龙#GS云>>光速#LZ云>>量子#WJ云>>无尽#]
+
+//7喜影院
+//https://7xi.tv/vodshow/13-----------.html
+//https://7xi.tv/voddetail/814917.html
+//h/changmeng
+
+//https://www.yaku.vip/search.php?page=1&searchtype=5&order=hit&tid=13&area=&year=2024&letter=&yuyan=&state=&money=&ver=&jq=
+//https://www.kandm.cc/search.php?page=1&searchtype=5&order=hit&tid=1
+//https://qw4982rr.icu/
+
+//18哈
+//https://sk100.tv/vodshow/13-----------2024.html
+//https://sk100.tv/voddetail/87720.html
+//https://sk100.tv/vodsearch/-------------.html?wd=庆余年
+//[替换:专享一>>极速#专享二>>豪华#纯享>>Premiuer#备用一>>乐视#备用二>>索尼#海外路线>>#]
+
+
+//4k影院
+//https://4k4k.live/vodshow/13--hits---------2024.html
+//https://4k4k.live/voddetail/93188.html
+//https://4k4k.live/vodsearch/-------------.html?wd=庆余年
+
+//酷云高清 
+//https://www.kuyunhd.com/do/type.ac?area=&cid=13&sort=2&year=2024&page=1
+//https://www.kuyunhd.com/detail/6130.html
+//https://www.kuyunhd.com/do/search.ac?name=庆余年
 
 //OK资源 官网地址：okzyw.me、okzyw.info、 okzy.info 、okzyw.vip
 //https://okzyw9.com/index.php/vod/show/id/13.html
@@ -57,25 +109,19 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //https://okzyw9.com/api.php/provide/vod/?ac=list
 //https://okzyw9.com/api.php/provide/vod/?ac=detail&t=13&pg=1
 //https://okzyw9.com/index.php/vod/search.html?wd=庆余年第二季
-
 //百度网影院 https://www.bwdy.top/
 //https://www.bdwpdy.top/vodshow/13-/by/hits/year/2024.html
 //https://www.bdwpdy.top/voddetail/52578.html
 //https://www.bdwpdy.top/vodsearch/-.html?wd=庆余年
-
 //https://vidhub.icu/all/1--2024-hits/
 //https://vidhub.icu/detail/3sb17j2.html
 //https://vidhub.icu/watch/3sb17j2/1.html
-
-
 //想看影院 https://xiangkan1.com/show-dianshiju-中国大陆-hits---------2024.html
 //电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian#福利$lunlipian#
-
 //西屋影视 
 //https://xiwutv.com/vodshow/31--hits---------2024.html
-//[飞速线路1>>暴风#飞速线路2>>量子#飞速线路3>>OK#飞速线路4>>非凡#飞速线路5>>优质#]
+//[替换:飞速线路1>>暴风#飞速线路2>>量子#飞速线路3>>OK#飞速线路4>>非凡#飞速线路5>>优质#]
 //https://xiwutv.com/vodplay/156684-1-1.html
-
 //飘花电影 https://www.yongzang.com/vodshow/22/by/hits/year/2024.html
 //我播 https://www.wobotv.cc/show/guochanju/by/hits/year/2024/
 //影视控 https://www.yingshikong1.com/list/dianshiju.html
@@ -88,10 +134,9 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //追影猫 https://zhuiyingmao5.com/vodshow/2--hits---------2024.html
 //柯南电影 https://www.knvod.com/vodshow/2--hits---------2024/
 //侠客影 http://ys.xkys.link/index.php/vod/show/by/hits/id/2.html
-
 //真不卡影院 https://bkyb.net/vodshow/13--------1---2024.html
 //    "分类":"国产剧$13#韩剧$15#国产动漫$31#电影$1#电视剧$2#动漫$4#综艺$3#纪录片$5#",
-//[不卡云>>量子#高速云>>非凡#W云>>无尽#稳定云>>暴风#S云>>闪电#]
+//[替换:不卡云>>量子#高速云>>非凡#W云>>无尽#稳定云>>暴风#S云>>闪电#]
 //A8影视 Failed
 //https://www.a8ys.vip/vodshow/--hits---------/id/201.html
 //https://www.a8ys.vip/voddetail/id/281368.html
@@ -105,7 +150,7 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //http://www.kan8.tv/actor.php?searchword=白鹿
 //http://www.kan8.tv/actor.php?searchword=张若昀
 //皮皮鸭 https://www.ppydy.com/vodshow/2-----------2024.html
-//[FF>>非凡#HH>>豪华#KK>>快看#49>>49#LZ>>量子#BF>>暴风#SN>>索尼#]
+//[替换:FF>>非凡#HH>>豪华#KK>>快看#49>>49#LZ>>量子#BF>>暴风#SN>>索尼#]
 //看看屋 https://www.kkw300.com/vodshow/13--hits---------2024.html
 //看看屋 https://www.kkw300.com/vodsearch/-李沁---------2---.html
 //[在线1$闪电#在线2$索尼#在线10$非凡#在线9$优质#在线5$淘片#在线8$红牛#在线3$无尽#]
@@ -123,6 +168,7 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //https://niuniuzy3.com/api.php/provide/vod/?ac=list
 //https://niuniuzy3.com/api.php/provide/vod/?ac=detail&t=13&pg=1&limit=20
 //https://niuniuzy3.com/index.php/vod/search.html?wd=庆余年第二季
+
 //360资源站 https://360zy5.com/voddetail/57767.html
 //主域名 ： 360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 
 //备用域名 ：
@@ -131,10 +177,12 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //🍎苹果cms接口：https://360zy.com/api.php/provide/vod 
 //飞刀资源 主域名 www.feidaozy.com   www.feidaozy.com   www.feidaozy.com   www.feidaozy.com  
 //🍎苹果cms接口： http://www.feidaozy.com/api.php/provide/vod/?ac=list  
+//https://www.360kan.com/dianshi/list?rank=rankhot&cat=&year=2024&area=&act=
+
 //兄弟影视 
 //https://www.brovod.com/show/2--hits---------2024/
 //https://www.brovod.com/detail/146535/
-//[自建>>XDZJ#蓝光1线>>蓝光NBY#PC蓝光>>蓝光MYTV#急速1线>>乐视#急速2线>>暴风#急速3线>>量子#急速4线>>非凡#QQ>>腾讯#]
+//[替换:自建>>XDZJ#蓝光1线>>蓝光NBY#PC蓝光>>蓝光MYTV#急速1线>>乐视#急速2线>>暴风#急速3线>>量子#急速4线>>非凡#QQ>>腾讯#]
 //首播站 https://shoubozhan.com/vodshow/13--hits---------2024.html
 //往往影视 https://www.oftens.top/show/2--hits---------2024.html
 //https://www.wwys.pro/show/2--hits---------2024.html
@@ -176,7 +224,7 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 //影视工场 https://www.ysgc5.cc/vodshow/2-大陆-hits_week---------2024.html LG源>>LG#FF源>>#LZ源>>量子#YZ源>>优质#
 //https://www.haitum.cc/dianshiju/dalu-2024-Shot
 //https://www.haituw.com/dianshiju/dalu-2024-Shot
-//[优质线路>>优质#量子线路>>量子#非凡线路>>非凡#金鹰线路>>金鹰#天空线路>>天空#飞速线路>>飞速#光速线路>>光速#淘片线路>>淘片#U酷线路>>U酷#ikun线路>>爱坤#无尽线路>>无尽#百度线路>>百度#]//~https://www.jsard.com/vodshow/dsj.html https://www.jsard.com/vodshow/guochanju/by/hits/year/2024.html
+//[替换:优质线路>>优质#量子线路>>量子#非凡线路>>非凡#金鹰线路>>金鹰#天空线路>>天空#飞速线路>>飞速#光速线路>>光速#淘片线路>>淘片#U酷线路>>U酷#ikun线路>>爱坤#无尽线路>>无尽#百度线路>>百度#]//~https://www.jsard.com/vodshow/dsj.html https://www.jsard.com/vodshow/guochanju/by/hits/year/2024.html
 //~https://www.imtlink.com/vodshow/dsj-%E5%86%85%E5%9C%B0-hits---------.html
 //~https://www.dianying666.cc/vodshow/21-----------.html
 //~https://www.wukamao.com/vodshow/13-----------.html

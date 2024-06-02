@@ -4,6 +4,9 @@
 
 //https://cj.ffzyapi.com/api.php/provide/vod/?ac=list
 //https://cj.ffzyapi.com/api.php/provide/vod/?ac=detail&t=13&pg=1
+//https://cj.ffzyapi.com/api.php/provide/vod/?ac=detail&wd=庆余年第二季
+//https://cj.ffzyapi.com/api.php/provide/vod/?ac=detail&wd=张若昀
+//https://cj.ffzyapi.com/api.php/provide/vod/?ac=detail&wd=白鹿
 //https://cj.ffzyapi.com/api.php/provide/vod/?ac=detail&ids=66696
 //http://ffzy5.tv/index.php/ajax/suggest.html?mid=1&wd=庆余年第二季
  
@@ -28,7 +31,7 @@
 	"搜索模式":"1",
     "搜索url":"https://cj.ffzyapi.com/api.php/provide/vod/?ac=detail&wd={wd}", //https://cj.ffzyapi.com/api.php/provide/vod/?ac=detail&wd=庆余年第二季
     "搜索数组二次截取":"\"list\"*[&&]",
-    "搜索数组":"{&&\"vod_content\"",
+    "搜索数组":"{&&}",
     "搜索图片":"vod_pic\"*\"&&\"",
     "搜索标题":"vod_name\"*\"&&\"",
     "搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更至第>> #]+🌸+\"vod_actor\":\"&&\"", 
@@ -55,6 +58,7 @@
     "播放标题":"&&",
 	"播放链接":"&&",
     
+
     "分类":"国产剧$13#韩国剧$15#国产动漫$29#电影$6#电视剧$13#综艺$25#动漫$29#伦理片$34#记录片$20#短剧$36#",
     "分类url":"https://cj.ffzyapi.com/api.php/provide/vod/at/json/?ac=detail&t={cateId}&pg={catePg}&limit=20",
 

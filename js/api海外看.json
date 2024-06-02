@@ -12,6 +12,9 @@
 //https://api.haiwaikan.com/v1/vod?ac=detail&t=13&pg=1&limit=20
 //https://api.haiwaikan.com/v1/vod?ac=detail&ids=102157
 //https://api.haiwaikan.com/v1/vod?ac=list&wd=庆余年
+//https://api.haiwaikan.com/v1/vod?ac=list&wd=张若昀
+
+//https://haiwaikan.tv/vodsearch/-张若昀------------/
 
 {
      "主页url":"https://api.haiwaikan.com",
@@ -30,14 +33,15 @@
     "副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
     //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor
     
-	//"搜索模式":"1",
-    //"搜索url":"https://api.haiwaikan.com/api.php/provide/vod/?ac=list&wd={wd}", //https://api.haiwaikan.com/api.php/provide/vod/?ac=detail&wd=庆余年第二季
-    //"搜索数组二次截取":"\"list\"*[&&]",
-    //"搜索数组":"{&&\"vod_content\"",
-    //"搜索图片":"vod_pic\"*\"&&\"",
-    //"搜索标题":"vod_name\"*\"&&\"",
-    //"搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
-    //"搜索链接":"https://api.haiwaikan.com/api.php/provide/vod/at/json/?ac=detail&ids=+\"vod_id\":&&,", //API
+	"搜索模式":"1",
+    "搜索url":"https://api.haiwaikan.com/v1/vod?ac=list&wd={wd}", //https://api.haiwaikan.com/v1/vod?ac=list&wd=庆余年第二季
+    "搜索数组二次截取":"\"list\"*[&&]",
+    "搜索数组":"{&&}",
+    "搜索图片":"vod_pic\"*\"&&\"",
+    "搜索标题":"vod_name\"*\"&&\"",
+    "搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_id\":&&,", 
+    "搜索链接":"https://api.haiwaikan.com/v1/vod?ac=detail&ids=+\"vod_id\":&&,", //API
+
     
 //API    
 	"影片类型":"vod_class\"*\"&&\"[替换:剧情>>电视剧#]", //type_name

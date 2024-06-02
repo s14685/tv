@@ -4,6 +4,7 @@
 //https://leshiapi.com/api.php/provide/vod/at/json/?ac=detail&t=22&pg=1
 //https://leshiapi.com/api.php/provide/vod/at/json/?ac=list&wd=庆余年第二季
 //https://leshiapi.com/api.php/provide/vod/at/json/?ac=detail&ids=51855
+//https://leshiapi.com/api.php/provide/vod/at/json/?ac=list&wd=张若昀
   
  {
     "主页url":"https://leshizy9.com/",
@@ -20,8 +21,8 @@
     //"链接":"https://leshizy9.com/index.php/vod/detail/id/+\"vod_id\":&&,+.html", //WEB
     "链接":"https://leshiapi.com/api.php/provide/vod/at/json/?ac=detail&ids=+\"vod_id\":&&,", //API
 	     //https://leshiapi.com/api.php/provide/vod/at/json/?ac=detail&ids=51855
-    //"副标题":"vod_remarks\":\"&&\"+🌸+\"vod_actor\":\"&&\"", 
-    "副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor
+    "副标题":"vod_remarks\":\"&&\"+🌸+\"vod_actor\":\"&&\"", 
+    //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor
     
 	"搜索模式":"1",
     "搜索url":"https://leshizy9.com/index.php/vod/search.html?wd={wd}", //https://leshizy9.com/index.php/vod/search.html?wd=庆余年+第二季

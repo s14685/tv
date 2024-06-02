@@ -1,67 +1,58 @@
-//海外看 haiwaikan.tv
-//https://api.haiwaikan.com/v1/vod?ac=detail&t=104&pg=1&limit=20
-//https://api.haiwaikan.com/v1/vod?ac=detail&t=2&wd=功夫乒乓
-//https://haiwaikan.com/index.php/vod/type/id/122.html
-//https://haiwaikan.com/index.php/vod/detail/id/99727.html
-//https://api.haiwaikan.com/v1/vod?ac=search&wd=功夫乒乓
-//https://haiwaikan.tv/vodshow/33-内地--古装-国语-------2024/
-//https://haiwaikan.tv/vodshow/33-----------2024/
-//https://haiwaikan.tv/vodsearch/-------------/?wd=庆余年
+//酷云高清 
+//https://www.kuyunhd.com/do/type.ac?area=&cid=13&sort=2&year=2024&page=1
+//https://www.kuyunhd.com/detail/6130.html
+//https://www.kuyunhd.com/do/search.ac?name=庆余年
 
     {
-    "主页url":"https://haiwaikan.tv",
+    "主页url":"https://www.kuyunhd.com",
     "站名":"海外看资源",
     "首页":"电视剧",
     //"请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
     "强制解析":"0",
     "图片代理":"0",
 
-    "二次截取":"class=\"module-items\">&&<div class=\"module-footer\">+<div class=\"module-item\">", // add additional to cater last thumbnail
-    "数组":"<div class=\"module-item-pic\">&&<div class=\"module-item\">[替换:更新至>> #更至>> #&nbsp;>>#<span class=\"slash\">/</span>>><br>#]",
+    "二次截取":"<ul class=\"kb-list clear\">&&</ul>", // add additional to cater last thumbnail
+    "数组":"<li class=\"list-lh col-sm-2 col-xs-4\">&&</li>[替换:更新至>> #更至>> #&nbsp;>>#<span class=\"slash\">/</span>>><br>#]",
     "标题":"title=\"&&\"",
-    "图片":"data-src=\"&&\"",
+    "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
-    "副标题":"<div class=\"module-item-text\">&&</div>[替换:更新至>> #更至>> #]+🌸+target=\"_blank\">&&</div>",
+    "副标题":"<p class=\"vother\"><i>&&</i>[替换:更新至>> #更至>> #]+🌸+</dt><dl>&&</dl>",
 
     "搜索模式":"1",
-    "搜索url":"https://haiwaikan.tv/vodsearch/-------------/?wd={wd}", //https://haiwaikan.tv/vodsearch/-------------/?wd=庆余年
-    //"搜索数组二次截取":"\"list\"*[&&]",
-    "搜索数组":"<i class=\"icon-play\"></i></a>&&<div class=\"video-info-footer\">",
-    "搜索图片":"data-src=\"&&\"",
-    "搜索标题":"alt=\"&&\"", 
-    "搜索副标题":"video-serial*>&&</a>[替换:更新至>> #更至>> #]+🌸+主演：</span><div class=\"video-info-item video-info-actor\">&&<div class=\"video-info-items\">[替换:<span class=\"slash\">/</span>>><br>#]",
+    "搜索url":"/do/search.ac?name={wd}", //https://www.kuyunhd.com/do/search.ac?name=庆余年
+    "搜索数组二次截取":"<ul class=\"kb-list clear\">&&</ul>",
+    "搜索数组":" <li class=\"list-lh col-sm-2 col-xs-4\">&&</li>",
+    "搜索图片":"data-original=\"&&\"",
+    "搜索标题":"title=\"&&\"", 
+    "搜索副标题":"<p class=\"vother\"><i>&&</i>[替换:更新至>> #更至>> #]+🌸+<dl>&&</dl>",
     "搜索链接":"href=\"&&\"", 
-	//https://haiwaikan.tv/voddetail/42987/
-	//立刻播放 https://haiwaikan.tv/vodplay/42987-1-1/
+	//https://www.kuyunhd.com/voddetail/42987/
+	//立刻播放 https://www.kuyunhd.com/vodplay/42987-1-1/
 
-    "影片类型":"tag-link\"><span class=\"slash\">/</span>&&</a>",
-    "影片年代":"year*>&&</a>",
-    "影片地区":"area*>&&</a>",
-	"影片状态":"集数：</span><div class=\"video-info-item\">&&</div>",
-    "导演":"导演：</span>&&</a>+🌸+集数：</span><div class=\"video-info-item\">&&</div>[替换:更新至>> #更新>> #更至>> #]",
-    "主演":"主演：</span>&&</div>[替换:&nbsp;>>#<span class=\"slash\">/</span>>>#]",
-    "简介":"🌸+集数：</span><div class=\"video-info-item\">&&</div>[替换:更新至>> #更至>> #]+🌸+<p class=\"sqjj_a\" style=\"display: none;\">&&<span",
+    "影片类型":"类型：</dt>&&</dd>[替换:&nbsp;>><br>#]",
+    "影片年代":"年份：</dt>&&</dd>",
+    "影片地区":"地区：</dt>&&</dd>",
+	"影片状态":"状态：</dt>&&</dd>",
+    "导演":"导演：</dt>&&</dd>+🌸+状态：</dt>&&</dd>[替换:更新至>> #更新>> #更至>> #]",
+    "主演":"主演：</dt>&&</dd>[替换:&nbsp;>>#<span class=\"slash\">/</span>>>#]",
+    "简介":"🌸+状态：</dt>&&</dd>[替换:更新至>> #更至>> #]+🌸+<div id=\"pcontent\" class=\"tab-pane\">&&</div>",
 
-    //"线路二次截取": "",
-    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #]",
-    "线路标题":"🌸+<span>&&</small>",
+    "线路二次截取": "<div class=\"tab-content\" id=\"plist\">&&<div id=\"pcontent\" class=\"tab-pane\">", //[替换:</span><small>>>⚡️ #]
+    "线路数组":"当前使用&&播放[不包含:高清影院#剧情简介#][替换:hnm3u8>>红牛#lzm3u8>>量子#ffm3u8>>非凡#]",
+    "线路标题":"🌸+&&[排序:非凡>量子>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>快看>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
 
 
-    //"播放二次截取": "",//all playlist
-    "播放数组":"<div class=\"scroll-content\">&&</div>",//one playlist
-    "播放列表":"<a&&</a>", //one episod <a href="/vodplay/39846-1-1/" title="播放庆余年 第二季1"><span>1</span></a>
-    "播放标题":"<span>&&</span>[不包含:复制]", //one episod
+    "播放二次截取": "<div class=\"tab-content\" id=\"plist\">&&<div id=\"pcontent\" class=\"tab-pane\">",//all playlist
+    "播放数组":"<ul class=\"clear\">&&</ul>",//one playlist
+    "播放列表":"<a&&/a>", //one episod <a href="/vodplay/39846-1-1/" title="播放庆余年 第二季1"><span>1</span></a>
+    "播放标题":">&&<[不包含:复制]", //one episod
     "播放链接":"href=\"&&\"", //one episod
     //"跳转播放链接":"\"url\"*\"&&\"", //one episod
 	
-	// "播放二次截取": "<!-- 播放模块 -->&&<!-- end 播放模块 -->",//all playlist
-	// "播放数组":"<!-- 播放地址 -->&&<!-- end 播放地址 -->", //one playlist
-    // "播放列表":"<a href=\"javascript:;\" class=\"copy_text\">&&</a>", //one episod
-    // "播放标题":"<!-- 播放集数 -->&&<!-- end 播放集数 -->", //one episod
-	// "播放链接":"<!-- 播放集数地址 -->&&<!-- end 播放集数地址 -->",//one episod
 
-    "分类url":"https://haiwaikan.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
-    "分类":"国产剧$33#韩剧$32#国产动漫$50#电影$1#电视剧$2#动漫$4#综艺$3#体育$54#纪录片$55#",
+            //https://www.kuyunhd.com/do/type.ac?area=&cid=13&sort=2&year=2024&page=1
+    "分类url":"https://www.kuyunhd.com/do/type.ac?cid={cateId}&area={area}&sort={by}&year={year}&page={catePg}",
+    "分类":"国产剧$13#韩剧$15#国产动漫$29#电影$6#电视剧$13#动漫$4#综艺$3#",
 
     "筛选":{
   "34":[
@@ -119,36 +110,19 @@
     ]
     }
     ],
-// <a class="library-item" href="/vodshow/21-----------/">惊悚</a>
-// <a class="library-item" href="/vodshow/55-----------/">纪录</a>
-// <a class="library-item" href="/vodshow/29-----------/">网络</a>
-// <a class="library-item" href="/vodshow/28-----------/">经典</a>
-// <a class="library-item" href="/vodshow/27-----------/">科幻</a>
-// <a class="library-item" href="/vodshow/26-----------/">犯罪</a>
-// <a class="library-item" href="/vodshow/25-----------/">爱情</a>
-// <a class="library-item" href="/vodshow/24-----------/">灾难</a>
-// <a class="library-item" href="/vodshow/23-----------/">歌舞</a>
-// <a class="library-item" href="/vodshow/22-----------/">战争</a>
-// <a class="library-item" href="/vodshow/20-----------/">悬疑</a>
-// <a class="library-item" href="/vodshow/56-----------/">剧情</a>
-// <a class="library-item" href="/vodshow/6-----------/">冒险</a>
-// <a class="library-item" href="/vodshow/7-----------/">动作</a>
-// <a class="library-item" href="/vodshow/8-----------/">动画</a>
-// <a class="library-item" href="/vodshow/9-----------/">同性</a>
-// <a class="library-item" href="/vodshow/10-----------/">喜剧</a>
-// <a class="library-item" href="/vodshow/11-----------/">奇幻</a>
-// <a class="library-item" href="/vodshow/12-----------/">恐怖</a>
-  "1":[
+// 动作片 6 喜剧片 7 爱情片 8 科幻片 9 恐怖片 10 剧情片 11 战争片 12 纪录片 20 预告片  45
+
+  "6":[
     {"key":"cateId","name":"类型","value":[
     {"n":"电影","v":"1"},
-    {"n":"动作片","v":"7"},
-    {"n":"喜剧片","v":"10"},
-    {"n":"爱情片","v":"25"},
-    {"n":"科幻片","v":"27"},
-    {"n":"恐怖片","v":"12"},
-    {"n":"剧情片","v":"56"},
-    {"n":"战争片","v":"22"},
-    {"n":"纪录片","v":"55"}
+    {"n":"动作片","v":"6"},
+    {"n":"喜剧片","v":"7"},
+    {"n":"爱情片","v":"8"},
+    {"n":"科幻片","v":"9"},
+    {"n":"恐怖片","v":"10"},
+    {"n":"剧情片","v":"11"},
+    {"n":"战争片","v":"12"},
+    {"n":"纪录片","v":"20"}
     ]
     },
 	
@@ -198,35 +172,27 @@
 	
     {"key":"by","name":"排序","value":[
     {"n":"全部排序","v":""},
-    {"n":"时间排序","v":"time"},
-    {"n":"人气排序","v":"hits"},
-    {"n":"评分排序","v":"score"}
+    {"n":"时间排序","v":"1"},
+    {"n":"人气排序","v":"2"},
+    {"n":"评分排序","v":"2"}
     ]
     }
     ],
 
-// <a class="library-item" href="/vodshow/33 国产</a>
-// <a class="library-item" href="/vodshow/32 韩国</a>
-// <a class="library-item" href="/vodshow/30 欧美</a>
-// <a class="library-item" href="/vodshow/31 日本</a>
-// <a class="library-item" href="/vodshow/34 泰国</a>
-// <a class="library-item" href="/vodshow/35 香港</a>
-// <a class="library-item" href="/vodshow/36 台湾</a>
-// <a class="library-item" href="/vodshow/37 新马</a>
-// <a class="library-item" href="/vodshow/38 其他</a>
+//国产剧$13#香港剧$14#韩剧$15#欧美剧$16#台湾剧$21#日本剧$22#泰国剧$24#短剧$46#
 
 "2":[
     {"key":"cateId","name":"类型","value":[
     {"n":"剧集","v":"2"},
-    {"n":"国产剧","v":"33"},
-    {"n":"韩国剧","v":"32"},
-    {"n":"香港剧","v":"35"},
-    {"n":"欧美剧","v":"30"},
-    {"n":"台湾剧","v":"36"},
-    {"n":"日本剧","v":"31"},
-    {"n":"新马剧","v":"37"},
-    {"n":"泰国剧","v":"34"},
-    {"n":"海外剧","v":"38"}
+    {"n":"国产剧","v":"13"},
+    {"n":"韩国剧","v":"15"},
+    {"n":"香港剧","v":"14"},
+    {"n":"欧美剧","v":"16"},
+    {"n":"台湾剧","v":"21"},
+    {"n":"日本剧","v":"22"},
+    {"n":"泰国剧","v":"24"},
+    {"n":"短剧","v":"46"},
+    {"n":"海外剧","v":"13"}
     ]
     },
 
@@ -276,25 +242,25 @@
 	
     {"key":"by","name":"排序","value":[
     {"n":"全部排序","v":""},
-    {"n":"时间排序","v":"time"},
-    {"n":"人气排序","v":"hits"},
-    {"n":"评分排序","v":"score"}
+    {"n":"时间排序","v":"1"},
+    {"n":"人气排序","v":"2"},
+    {"n":"评分排序","v":"2"}
     ]
     }
     ],
 
-  "33":[
+  "13":[
     {"key":"cateId","name":"类型","value":[
     {"n":"剧集","v":"2"},
-    {"n":"国产剧","v":"33"},
-    {"n":"韩国剧","v":"32"},
-    {"n":"香港剧","v":"35"},
-    {"n":"欧美剧","v":"30"},
-    {"n":"台湾剧","v":"36"},
-    {"n":"日本剧","v":"31"},
-    {"n":"新马剧","v":"37"},
-    {"n":"泰国剧","v":"34"},
-    {"n":"海外剧","v":"38"}
+    {"n":"国产剧","v":"13"},
+    {"n":"韩国剧","v":"15"},
+    {"n":"香港剧","v":"14"},
+    {"n":"欧美剧","v":"16"},
+    {"n":"台湾剧","v":"21"},
+    {"n":"日本剧","v":"22"},
+    {"n":"泰国剧","v":"24"},
+    {"n":"短剧","v":"46"},
+    {"n":"海外剧","v":"13"}
     ]
     },
 
@@ -344,25 +310,25 @@
 	
     {"key":"by","name":"排序","value":[
     {"n":"全部排序","v":""},
-    {"n":"时间排序","v":"time"},
-    {"n":"人气排序","v":"hits"},
-    {"n":"评分排序","v":"score"}
+    {"n":"时间排序","v":"1"},
+    {"n":"人气排序","v":"2"},
+    {"n":"评分排序","v":"2"}
     ]
     }
     ],
 
-  "32":[
+  "15":[
     {"key":"cateId","name":"类型","value":[
     {"n":"剧集","v":"2"},
-    {"n":"国产剧","v":"33"},
-    {"n":"韩国剧","v":"32"},
-    {"n":"香港剧","v":"35"},
-    {"n":"欧美剧","v":"30"},
-    {"n":"台湾剧","v":"36"},
-    {"n":"日本剧","v":"31"},
-    {"n":"新马剧","v":"37"},
-    {"n":"泰国剧","v":"34"},
-    {"n":"海外剧","v":"38"}
+    {"n":"国产剧","v":"13"},
+    {"n":"韩国剧","v":"15"},
+    {"n":"香港剧","v":"14"},
+    {"n":"欧美剧","v":"16"},
+    {"n":"台湾剧","v":"21"},
+    {"n":"日本剧","v":"22"},
+    {"n":"泰国剧","v":"24"},
+    {"n":"短剧","v":"46"},
+    {"n":"海外剧","v":"13"}
     ]
     },
 
@@ -412,32 +378,25 @@
 	
     {"key":"by","name":"排序","value":[
     {"n":"全部排序","v":""},
-    {"n":"时间排序","v":"time"},
-    {"n":"人气排序","v":"hits"},
-    {"n":"评分排序","v":"score"}
+    {"n":"时间排序","v":"1"},
+    {"n":"人气排序","v":"2"},
+    {"n":"评分排序","v":"2"}
     ]
     }
     ],
 
 	
-// <a class="library-item" href="/vodshow/39-----------/">欧美</a>
-// <a class="library-item" href="/vodshow/40-----------/">日本</a>
-// <a class="library-item" href="/vodshow/41-----------/">韩国</a>
-// <a class="library-item" href="/vodshow/42-----------/">国产</a>
-// <a class="library-item" href="/vodshow/43-----------/">新马泰</a>
-// <a class="library-item" href="/vodshow/44-----------/">港台</a>
-// <a class="library-item" href="/vodshow/45-----------/">其他</a>
-// <a class="library-item" href="/vodshow/54-----------/">体育</a>
+// 大陆综艺 25 港台综艺 26 日韩综艺 27 欧美综艺 28
+
   "3":[
     {"key":"cateId","name":"类型","value":[
     {"n":"综艺","v":"3"},
-    {"n":"大陆综艺","v":"42"},
-    {"n":"港台综艺","v":"44"},
-    {"n":"韩综艺","v":"41"},
-    {"n":"日综艺","v":"40"},
-    {"n":"欧美综艺","v":"39"},
-    {"n":"体育","v":"54"},
-    {"n":"其他","v":"45"}
+    {"n":"大陆综艺","v":"25"},
+    {"n":"港台综艺","v":"26"},
+    {"n":"日韩综艺","v":"27"},
+    //{"n":"日综艺","v":"40"},
+    {"n":"欧美综艺","v":"28"},
+    {"n":"其他","v":"25"}
     ]
     },
 
@@ -487,28 +446,22 @@
 	
     {"key":"by","name":"排序","value":[
     {"n":"全部排序","v":""},
-    {"n":"时间排序","v":"time"},
-    {"n":"人气排序","v":"hits"},
-    {"n":"评分排序","v":"score"}
+    {"n":"时间排序","v":"1"},
+    {"n":"人气排序","v":"2"},
+    {"n":"评分排序","v":"2"}
     ]
     }
     ],
 
-// <a class="library-item" href="/vodshow/50-----------/">国产</a>
-// <a class="library-item" href="/vodshow/47-----------/">欧美</a>
-// <a class="library-item" href="/vodshow/48-----------/">日本</a>
-// <a class="library-item" href="/vodshow/49-----------/">韩国</a>
-// <a class="library-item" href="/vodshow/51-----------/">新马泰</a>
-// <a class="library-item" href="/vodshow/52-----------/">港台</a>
-// <a class="library-item" href="/vodshow/53-----------/">其他</a>
+//国产动漫 29 日韩动漫 30 欧美动漫 31 港台动漫 32
   "4":[
     {"key":"cateId","name":"类型","value":[
     {"n":"动漫","v":"4"},
-    {"n":"国产动漫","v":"50"},
-    {"n":"日本动漫","v":"48"},
-    {"n":"欧美动漫","v":"47"},
-    {"n":"港台动漫","v":"52"},
-    {"n":"海外动漫","v":"53"}
+    {"n":"国产动漫","v":"29"},
+    {"n":"日本动漫","v":"30"},
+    {"n":"欧美动漫","v":"31"},
+    {"n":"港台动漫","v":"32"},
+    {"n":"海外动漫","v":"29"}
     ]
     },
 
@@ -558,21 +511,21 @@
 	
     {"key":"by","name":"排序","value":[
     {"n":"全部排序","v":""},
-    {"n":"时间排序","v":"time"},
-    {"n":"人气排序","v":"hits"},
-    {"n":"评分排序","v":"score"}
+    {"n":"时间排序","v":"1"},
+    {"n":"人气排序","v":"2"},
+    {"n":"评分排序","v":"2"}
     ]
     }
     ],
 
-    "50":[
+  "29":[
     {"key":"cateId","name":"类型","value":[
     {"n":"动漫","v":"4"},
-    {"n":"国产动漫","v":"50"},
-    {"n":"日本动漫","v":"48"},
-    {"n":"欧美动漫","v":"47"},
-    {"n":"港台动漫","v":"52"},
-    {"n":"海外动漫","v":"53"}
+    {"n":"国产动漫","v":"29"},
+    {"n":"日本动漫","v":"30"},
+    {"n":"欧美动漫","v":"31"},
+    {"n":"港台动漫","v":"32"},
+    {"n":"海外动漫","v":"29"}
     ]
     },
 
@@ -622,9 +575,9 @@
 	
     {"key":"by","name":"排序","value":[
     {"n":"全部排序","v":""},
-    {"n":"时间排序","v":"time"},
-    {"n":"人气排序","v":"hits"},
-    {"n":"评分排序","v":"score"}
+    {"n":"时间排序","v":"1"},
+    {"n":"人气排序","v":"2"},
+    {"n":"评分排序","v":"2"}
     ]
     }
     ],

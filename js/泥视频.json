@@ -1,43 +1,37 @@
-//海外看 haiwaikan.tv
-//https://api.haiwaikan.com/v1/vod?ac=detail&t=104&pg=1&limit=20
-//https://api.haiwaikan.com/v1/vod?ac=detail&t=2&wd=功夫乒乓
-//https://haiwaikan.com/index.php/vod/type/id/122.html
-//https://haiwaikan.com/index.php/vod/detail/id/99727.html
-//https://api.haiwaikan.com/v1/vod?ac=search&wd=功夫乒乓
-//https://haiwaikan.tv/vodshow/33-内地--古装-国语-------2024/
-//https://haiwaikan.tv/vodshow/33-----------2024/
-//https://haiwaikan.tv/vodsearch/-------------/?wd=庆余年
+//泥视频
+//https://www.nivod9.tv/filter.html?x=1&channelId=1&regionId=1
+//https://www.nivod9.tv/filter.html?x=1&channelId=2&regionId=1
+//电影$1#电视剧$2#动漫$4#综艺$3#体育$5#纪录片$6#午夜场$7#短视频$15#短剧$17#
 
     {
-    "主页url":"https://haiwaikan.tv",
-    "站名":"海外看资源",
+    "主页url":"https://www.nivod9.tv",
+    "站名":"泥视频",
     "首页":"电视剧",
-    //"请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
     "强制解析":"0",
     "图片代理":"0",
 
-    "二次截取":"class=\"module-items\">&&<div class=\"module-footer\">+<div class=\"module-item\">", // add additional to cater last thumbnail
-    "数组":"<div class=\"module-item-pic\">&&<div class=\"module-item\">[替换:更新至>> #更至>> #&nbsp;>>#<span class=\"slash\">/</span>>><br>#]",
+    "二次截取":"<ul class=\"qy-mod-ul\">&&</ul>", // add additional to cater last thumbnail
+    "数组":"<div class=\"qy-mod-link-wrap\">&&</li>",
     "标题":"title=\"&&\"",
-    "图片":"data-src=\"&&\"",
+    "图片":"url(&&)",
     "链接":"href=\"&&\"",
-    "副标题":"<div class=\"module-item-text\">&&</div>[替换:更新至>> #更至>> #]+🌸+target=\"_blank\">&&</div>",
+    "副标题":"🌸+主演:<span>&&</span>",
 
-    "搜索模式":"1",
-    "搜索url":"https://haiwaikan.tv/vodsearch/-------------/?wd={wd}", //https://haiwaikan.tv/vodsearch/-------------/?wd=庆余年
-    //"搜索数组二次截取":"\"list\"*[&&]",
-    "搜索数组":"<i class=\"icon-play\"></i></a>&&<div class=\"video-info-footer\">",
-    "搜索图片":"data-src=\"&&\"",
-    "搜索标题":"alt=\"&&\"", 
-    "搜索副标题":"video-serial*>&&</a>[替换:更新至>> #更至>> #]+🌸+主演：</span><div class=\"video-info-item video-info-actor\">&&<div class=\"video-info-items\">[替换:<span class=\"slash\">/</span>>><br>#]",
-    "搜索链接":"href=\"&&\"", 
-	//https://haiwaikan.tv/voddetail/42987/
-	//立刻播放 https://haiwaikan.tv/vodplay/42987-1-1/
+    //"搜索模式":"1",
+    //"搜索url":"https://www.nivod9.tv/vodsearch/-------------/?wd={wd}", //https://www.nivod9.tv/vodsearch/-------------/?wd=庆余年
+    ////"搜索数组二次截取":"\"list\"*[&&]",
+    //"搜索数组":"<i class=\"icon-play\"></i></a>&&<div class=\"video-info-footer\">",
+    //"搜索图片":"data-src=\"&&\"",
+    //"搜索标题":"alt=\"&&\"", 
+    //"搜索副标题":"video-serial*>&&</a>[替换:更新至>> #更至>> #]+🌸+主演：</span><div class=\"video-info-item video-info-actor\">&&<div class=\"video-info-items\">[替换:<span class=\"slash\">/</span>>><br>#]",
+    //"搜索链接":"href=\"&&\"", 
 
-    "影片类型":"tag-link\"><span class=\"slash\">/</span>&&</a>",
-    "影片年代":"year*>&&</a>",
-    "影片地区":"area*>&&</a>",
-	"影片状态":"集数：</span><div class=\"video-info-item\">&&</div>",
+
+    "影片类型":"</h3><h3 class=\"meta\">&&</div>",
+    "影片年代":"</h3><h3 class=\"meta\">&&</h3>",
+    "影片地区":"<h3 class=\"meta\">*</h3><h3 class=\"meta\">&&</h3>",
+	//"影片状态":"集数：</span><div class=\"video-info-item\">&&</div>",
     "导演":"导演：</span>&&</a>+🌸+集数：</span><div class=\"video-info-item\">&&</div>[替换:更新至>> #更新>> #更至>> #]",
     "主演":"主演：</span>&&</div>[替换:&nbsp;>>#<span class=\"slash\">/</span>>>#]",
     "简介":"🌸+集数：</span><div class=\"video-info-item\">&&</div>[替换:更新至>> #更至>> #]+🌸+<p class=\"sqjj_a\" style=\"display: none;\">&&<span",
@@ -54,14 +48,21 @@
     "播放链接":"href=\"&&\"", //one episod
     //"跳转播放链接":"\"url\"*\"&&\"", //one episod
 	
-	// "播放二次截取": "<!-- 播放模块 -->&&<!-- end 播放模块 -->",//all playlist
-	// "播放数组":"<!-- 播放地址 -->&&<!-- end 播放地址 -->", //one playlist
-    // "播放列表":"<a href=\"javascript:;\" class=\"copy_text\">&&</a>", //one episod
-    // "播放标题":"<!-- 播放集数 -->&&<!-- end 播放集数 -->", //one episod
-	// "播放链接":"<!-- 播放集数地址 -->&&<!-- end 播放集数地址 -->",//one episod
 
-    "分类url":"https://haiwaikan.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
-    "分类":"国产剧$33#韩剧$32#国产动漫$50#电影$1#电视剧$2#动漫$4#综艺$3#体育$54#纪录片$55#",
+            //https://www.nivod9.tv/filter.html?x=1&channelId=2&regionId=1
+    "分类url":"https://www.nivod9.tv/filter.html?x=1&channelId={cateId}",
+    "分类":"电视剧$2#动漫$4#电影$1#综艺$3#体育$5#纪录片$6#午夜场$7#短视频$15#短剧$17#",
+
+
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=1" rseat="909161_filter_huayu">大陆</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=11" rseat="909161_filter_huayu">香港</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=12" rseat="909161_filter_huayu">台湾</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=13" rseat="909161_filter_huayu">日本</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=14" rseat="909161_filter_huayu">韩国</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=4" rseat="909161_filter_huayu">欧美</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=15" rseat="909161_filter_huayu">泰国</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=5" rseat="909161_filter_huayu">新马</a>
+
 
     "筛选":{
   "34":[
@@ -119,60 +120,28 @@
     ]
     }
     ],
-// <a class="library-item" href="/vodshow/21-----------/">惊悚</a>
-// <a class="library-item" href="/vodshow/55-----------/">纪录</a>
-// <a class="library-item" href="/vodshow/29-----------/">网络</a>
-// <a class="library-item" href="/vodshow/28-----------/">经典</a>
-// <a class="library-item" href="/vodshow/27-----------/">科幻</a>
-// <a class="library-item" href="/vodshow/26-----------/">犯罪</a>
-// <a class="library-item" href="/vodshow/25-----------/">爱情</a>
-// <a class="library-item" href="/vodshow/24-----------/">灾难</a>
-// <a class="library-item" href="/vodshow/23-----------/">歌舞</a>
-// <a class="library-item" href="/vodshow/22-----------/">战争</a>
-// <a class="library-item" href="/vodshow/20-----------/">悬疑</a>
-// <a class="library-item" href="/vodshow/56-----------/">剧情</a>
-// <a class="library-item" href="/vodshow/6-----------/">冒险</a>
-// <a class="library-item" href="/vodshow/7-----------/">动作</a>
-// <a class="library-item" href="/vodshow/8-----------/">动画</a>
-// <a class="library-item" href="/vodshow/9-----------/">同性</a>
-// <a class="library-item" href="/vodshow/10-----------/">喜剧</a>
-// <a class="library-item" href="/vodshow/11-----------/">奇幻</a>
-// <a class="library-item" href="/vodshow/12-----------/">恐怖</a>
+
   "1":[
-    {"key":"cateId","name":"类型","value":[
-    {"n":"电影","v":"1"},
-    {"n":"动作片","v":"7"},
-    {"n":"喜剧片","v":"10"},
-    {"n":"爱情片","v":"25"},
-    {"n":"科幻片","v":"27"},
-    {"n":"恐怖片","v":"12"},
-    {"n":"剧情片","v":"56"},
-    {"n":"战争片","v":"22"},
-    {"n":"纪录片","v":"55"}
-    ]
-    },
-	
+
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=1" rseat="909161_filter_huayu">大陆</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=11" rseat="909161_filter_huayu">香港</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=12" rseat="909161_filter_huayu">台湾</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=13" rseat="909161_filter_huayu">日本</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=14" rseat="909161_filter_huayu">韩国</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=4" rseat="909161_filter_huayu">欧美</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=15" rseat="909161_filter_huayu">泰国</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=5" rseat="909161_filter_huayu">新马</a>	
     {"key":"area","name":"地区","value":[
     {"n":"全部地区","v":""},
-    {"n":"大陆","v":"大陆"},
-    {"n":"中国大陆","v":"中国大陆"},
-    {"n":"内地","v":"内地"},
-    {"n":"中国香港","v":"中国香港"},
-    {"n":"中国台湾","v":"中国台湾"},
-    {"n":"香港","v":"香港"},
-    {"n":"台湾","v":"台湾"},
-    {"n":"美国","v":"美国"},
-    {"n":"法国","v":"法国"},
-    {"n":"英国","v":"英国"},
-    {"n":"日本","v":"日本"},
-    {"n":"韩国","v":"韩国"},
-    {"n":"德国","v":"德国"},
-    {"n":"泰国","v":"泰国"},
-    {"n":"印度","v":"印度"},
-    {"n":"意大利","v":"意大利"},
-    {"n":"西班牙","v":"西班牙"},
-    {"n":"加拿大","v":"加拿大"},
-    {"n":"其他","v":"其他"}
+    {"n":"大陆","v":"1"},
+    {"n":"韩国","v":"14"},
+    {"n":"日本","v":"13"},
+    {"n":"香港","v":"11"},
+    {"n":"台湾","v":"12"},
+    {"n":"欧美","v":"4"},
+    {"n":"新马","v":"5"},
+    {"n":"泰国","v":"15"},
+    {"n":"其他","v":"1"}
     ]
     },
 
@@ -205,52 +174,28 @@
     }
     ],
 
-// <a class="library-item" href="/vodshow/33 国产</a>
-// <a class="library-item" href="/vodshow/32 韩国</a>
-// <a class="library-item" href="/vodshow/30 欧美</a>
-// <a class="library-item" href="/vodshow/31 日本</a>
-// <a class="library-item" href="/vodshow/34 泰国</a>
-// <a class="library-item" href="/vodshow/35 香港</a>
-// <a class="library-item" href="/vodshow/36 台湾</a>
-// <a class="library-item" href="/vodshow/37 新马</a>
-// <a class="library-item" href="/vodshow/38 其他</a>
 
 "2":[
-    {"key":"cateId","name":"类型","value":[
-    {"n":"剧集","v":"2"},
-    {"n":"国产剧","v":"33"},
-    {"n":"韩国剧","v":"32"},
-    {"n":"香港剧","v":"35"},
-    {"n":"欧美剧","v":"30"},
-    {"n":"台湾剧","v":"36"},
-    {"n":"日本剧","v":"31"},
-    {"n":"新马剧","v":"37"},
-    {"n":"泰国剧","v":"34"},
-    {"n":"海外剧","v":"38"}
-    ]
-    },
 
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=1" rseat="909161_filter_huayu">大陆</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=11" rseat="909161_filter_huayu">香港</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=12" rseat="909161_filter_huayu">台湾</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=13" rseat="909161_filter_huayu">日本</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=14" rseat="909161_filter_huayu">韩国</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=4" rseat="909161_filter_huayu">欧美</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=15" rseat="909161_filter_huayu">泰国</a>
+// <a class="classes-item" target="_blank" href="filter.html?x=1&amp;channelId=2&amp;regionId=5" rseat="909161_filter_huayu">新马</a>	
     {"key":"area","name":"地区","value":[
     {"n":"全部地区","v":""},
-    {"n":"大陆","v":"大陆"},
-    {"n":"中国大陆","v":"中国大陆"},
-    {"n":"内地","v":"内地"},
-    {"n":"中国香港","v":"中国香港"},
-    {"n":"中国台湾","v":"中国台湾"},
-    {"n":"香港","v":"香港"},
-    {"n":"台湾","v":"台湾"},
-    {"n":"美国","v":"美国"},
-    {"n":"法国","v":"法国"},
-    {"n":"英国","v":"英国"},
-    {"n":"日本","v":"日本"},
-    {"n":"韩国","v":"韩国"},
-    {"n":"德国","v":"德国"},
-    {"n":"泰国","v":"泰国"},
-    {"n":"印度","v":"印度"},
-    {"n":"意大利","v":"意大利"},
-    {"n":"西班牙","v":"西班牙"},
-    {"n":"加拿大","v":"加拿大"},
-    {"n":"其他","v":"其他"}
+    {"n":"大陆","v":"1"},
+    {"n":"韩国","v":"14"},
+    {"n":"日本","v":"13"},
+    {"n":"香港","v":"11"},
+    {"n":"台湾","v":"12"},
+    {"n":"欧美","v":"4"},
+    {"n":"新马","v":"5"},
+    {"n":"泰国","v":"15"},
+    {"n":"其他","v":"1"}
     ]
     },
 

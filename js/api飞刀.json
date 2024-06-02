@@ -1,21 +1,13 @@
-//https://www.feisuzy.com/ https://www.feisuzyapi.com
-//飞速 feisuzy.com、fszy1.com-fszy10.com、feisuzy.cc（总有一条可以打开）
-//https://www.feisuzy.com/vod/detail/id/115764/
-//https://www.feisuzy.com/api.php/provide/vod/?ac=detail&t=2&pg=1&limit=20
-//https://www.feisuzyapi.com/vod/detail/id/115764/
-//https://www.feisuzy.cc/vod/detail/id/115764/
-//https://www.feisuzy.cc/api.php/provide/vod/?ac=detail&t=2&pg=1&limit=20
-//https://www.feisuzyapi.com/vod/detail/id/115764/
-//https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&t=2&pg=1&limit=20
-//https://www.fszy10.com/vod/detail/id/115764/
-//https://www.fszy10.com/vod/type/id/13/
+//飞刀资源 主域名 www.feidaozy.com  www.feisuzyapi.com   www.feisuzyapi.com   www.feisuzyapi.com  
+//🍎苹果cms接口： https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&t=16&pg=1&limit=20
+//https://www.feisuzyapi.com/api.php/provide/vod/?ac=list
+//https://www.feisuzyapi.com/index.php/vod/detail/id/58232.html
 
 //https://www.feisuzyapi.com/api.php/provide/vod/?ac=list
 //https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&t=13&pg=1
 //https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&ids=124470
 //https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&wd=庆余年第二季
 //https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&wd=张若昀
-//
 
 
 {
@@ -30,26 +22,26 @@
     "图片":"vod_pic\"*\"&&\"",
     "标题":"vod_name\"*\"&&\"",
     //"标题":"vod_name\"*\"&&\"+🌸+vod_id\":&&,",
-    "链接":"https://www.feisuzyapi.com/api.php/provide/vod/at/json/?ac=detail&ids=+\"vod_id\":&&,", //API
+    "链接":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,", //API
 	     //https://www.feisuzyapi.com/api.php/provide/vod/at/json/?ac=detail&ids=51855
     "副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_actor\":\"&&\"", 
     //"副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
     //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor vod_duration
     
-	//"搜索模式":"1",
+	"搜索模式":"1",
     "搜索url":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list&wd={wd}", //https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&wd=庆余年第二季
     "搜索数组二次截取":"\"list\"*[&&]",
     "搜索数组":"{&&}",
     "搜索图片":"vod_pic\"*\"&&\"",
     "搜索标题":"vod_name\"*\"&&\"",
     "搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
-    "搜索链接":"https://www.feisuzyapi.com/api.php/provide/vod/at/json/?ac=detail&ids=+\"vod_id\":&&,", //API
+    "搜索链接":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,", //API
     
 //API    
 	"影片类型":"vod_class\"*\"&&\"[替换:剧情>>电视剧#]",
     "影片年代":"vod_year\"*\"&&\"",
     "影片地区":"vod_area\"*\"&&\"",
-    "导演":"vod_director\"*\"&&\"+⚡️+vod_remarks\"*\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+⚡️+vod_duration\"*\"&&\"[替换:分钟>> #]",
+    "导演":"vod_director\"*\"&&\"+⚡️+vod_remarks\"*\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+⚡️+vod_duration\"*\"&&\"",
     "主演":"vod_actor\"*\"&&\"",
     "简介":"🌸+vod_remarks\"*\"&&\"[替换:更新至第>> #更新至>> #]+🌸+vod_content\"*\"&&\"",
     //"简介": "vod_play_from\"*\"&&\"+$+$+$+#",
@@ -66,11 +58,16 @@
     "播放标题":"&&",
 	"播放链接":"&&",
     
-	"分类":"国产剧$13#韩剧$16#国产动漫$25#电视剧$13#动漫$25#电影$6#综艺$30#纪录片$20#短剧$39#体育$38#",
-            //https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&t=13&pg=1
+	"分类":"国产剧$13#韩剧$16#国产动漫$25#电视剧$13#动漫$25#电影$6#综艺$30#短剧$39#体育$38#电影解说$29#",
+	        //https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&t=16&pg=1&limit=20
     "分类url":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20",
 
 
+// {"type_id":38,"type_pid":0,"type_name":"体育赛事"},
+// {"type_id":39,"type_pid":0,"type_name":"短剧"}
+// {"type_id":29,"type_pid":0,"type_name":"电影解说"},
+
+		
     "筛选":{
     "34":[{"key":"cateId","name":"类型","value":[
         {"n":"电影","v":"1"},
@@ -115,9 +112,49 @@
         }
         ],
 
+
     "1":[
         {"key":"cateId","name":"类型","value":[
-        {"n":"电影","v":"1"},
+        {"n":"电影","v":"6"},
+        {"n":"冒险片","v":"6"},
+        {"n":"剧情片","v":"7"},
+        {"n":"动作片","v":"8"},
+        {"n":"动漫片","v":"9"},
+        {"n":"同性片","v":"10"},
+        {"n":"喜剧片","v":"11"},
+        {"n":"奇幻片","v":"12"},
+        {"n":"恐怖片","v":"20"},
+        {"n":"悬疑片","v":"21"},
+        {"n":"惊悚片","v":"22"},
+        {"n":"战争片","v":"23"},
+        {"n":"歌舞片","v":"24"},
+        {"n":"灾难片","v":"25"},
+        {"n":"爱情片","v":"26"},
+        {"n":"犯罪片","v":"27"},
+        {"n":"科幻片","v":"28"},
+        {"n":"经典片","v":"29"},
+        {"n":"网络电影","v":"30"},
+        {"n":"纪录片","v":"50"}
+        ]
+        }
+        ],
+		
+// {"type_id":1,"type_pid":0,"type_name":"电影"},
+// {"type_id":6,"type_pid":1,"type_name":"动作片"},
+// {"type_id":7,"type_pid":1,"type_name":"喜剧片"},
+// {"type_id":8,"type_pid":1,"type_name":"爱情片"},
+// {"type_id":9,"type_pid":1,"type_name":"科幻片"},
+// {"type_id":10,"type_pid":1,"type_name":"恐怖片"},
+// {"type_id":11,"type_pid":1,"type_name":"剧情片"},
+// {"type_id":12,"type_pid":1,"type_name":"战争片"},
+// {"type_id":21,"type_pid":1,"type_name":"动画片"},
+// {"type_id":35,"type_pid":1,"type_name":"其他片"},
+// {"type_id":37,"type_pid":0,"type_name":"求片留言"},
+
+		
+    "6":[
+        {"key":"cateId","name":"类型","value":[
+        {"n":"电影","v":"6"},
         {"n":"动作片","v":"6"},
         {"n":"喜剧片","v":"7"},
         {"n":"爱情片","v":"8"},
@@ -125,59 +162,65 @@
         {"n":"恐怖片","v":"10"},
         {"n":"剧情片","v":"11"},
         {"n":"战争片","v":"12"},
-        {"n":"动漫片","v":"21"},
-        {"n":"纪录片","v":"20"}
+        {"n":"纪录片","v":"20"},
+        {"n":"动画片","v":"21"},
+
+        {"n":"其他片","v":"35"}
         ]
         }
         ],
 
     "2":[
         {"key":"cateId","name":"类型","value":[
-        {"n":"剧集","v":"2"},
-        {"n":"国产剧","v":"13"},
-        {"n":"香港剧","v":"14"},
-        {"n":"韩国剧","v":"16"},
-        {"n":"欧美剧","v":"24"},
-        {"n":"台湾剧","v":"15"},
-        {"n":"日本剧","v":"22"},
-        {"n":"泰国剧","v":"23"},
-        {"n":"其他剧","v":"36"}
+        {"n":"剧集","v":"16"},
+        {"n":"国产剧","v":"16"},
+        {"n":"韩国剧","v":"15"},
+        {"n":"日本剧","v":"14"},
+        {"n":"欧美剧","v":"13"},
+        {"n":"香港剧","v":"32"},
+        {"n":"台湾剧","v":"33"},
+        {"n":"泰国剧","v":"31"},
+        {"n":"新马剧","v":"34"},
+        {"n":"其他剧","v":"35"}
         ]
         }
         ],
-		// "type_id": 2,"type_pid": 0,"type_name": "电视剧2"}, {
-		// "type_id": 13,"type_pid": 2,"type_name": "国产剧13"}, {
-		// "type_id": 14,"type_pid": 2,"type_name": "香港剧14"}, {
-		// "type_id": 15,"type_pid": 2,"type_name": "台湾剧15"}, {
-		// "type_id": 16,"type_pid": 2,"type_name": "韩国剧16"}, {
-		// "type_id": 22,"type_pid": 2,"type_name": "日本剧22"}, {
-		// "type_id": 23,"type_pid": 2,"type_name": "泰国剧23"}, {
-		// "type_id": 24,"type_pid": 2,"type_name": "欧美剧24"}, {	
-		// "type_id": 36,"type_pid": 2,"type_name": "其他剧36"}, {		
+// {"type_id":2,"type_pid":0,"type_name":"电视剧"},
+// {"type_id":13,"type_pid":2,"type_name":"国产剧"},
+// {"type_id":14,"type_pid":2,"type_name":"香港剧"},
+// {"type_id":15,"type_pid":2,"type_name":"台湾剧"},
+// {"type_id":16,"type_pid":2,"type_name":"韩国剧"},
+// {"type_id":20,"type_pid":1,"type_name":"纪录片"},
+// {"type_id":22,"type_pid":2,"type_name":"日本剧"},
+// {"type_id":23,"type_pid":2,"type_name":"泰国剧"},
+// {"type_id":24,"type_pid":2,"type_name":"欧美剧"},
+// {"type_id":36,"type_pid":2,"type_name":"其他剧"},
     "13":[
         {"key":"cateId","name":"类型","value":[
-        {"n":"剧集","v":"2"},
+        {"n":"剧集","v":"13"},
         {"n":"国产剧","v":"13"},
-        {"n":"香港剧","v":"14"},
         {"n":"韩国剧","v":"16"},
-        {"n":"欧美剧","v":"24"},
-        {"n":"台湾剧","v":"15"},
         {"n":"日本剧","v":"22"},
+        {"n":"欧美剧","v":"24"},
+        {"n":"香港剧","v":"14"},
+        {"n":"台湾剧","v":"15"},
         {"n":"泰国剧","v":"23"},
+        {"n":"纪录片","v":"20"},
         {"n":"其他剧","v":"36"}
         ]
         }
         ],
     "16":[
         {"key":"cateId","name":"类型","value":[
-        {"n":"剧集","v":"2"},
+        {"n":"剧集","v":"16"},
         {"n":"国产剧","v":"13"},
-        {"n":"香港剧","v":"14"},
         {"n":"韩国剧","v":"16"},
-        {"n":"欧美剧","v":"24"},
-        {"n":"台湾剧","v":"15"},
         {"n":"日本剧","v":"22"},
+        {"n":"欧美剧","v":"24"},
+        {"n":"香港剧","v":"14"},
+        {"n":"台湾剧","v":"15"},
         {"n":"泰国剧","v":"23"},
+        {"n":"纪录片","v":"20"},
         {"n":"其他剧","v":"36"}
         ]
         }
@@ -185,26 +228,48 @@
 		
     "3":[
         {"key":"cateId","name":"类型","value":[
-        {"n":"综艺","v":"3"},
-        {"n":"大陆综艺","v":"25"},
-        {"n":"港台综艺","v":"26"},
-        {"n":"日韩综艺","v":"27"},
-        {"n":"欧美综艺","v":"28"}
+        {"n":"综艺","v":"30"},
+        {"n":"大陆综艺","v":"30"},
+        {"n":"港台综艺","v":"31"},
+        {"n":"韩日国综艺","v":"32"},
+        {"n":"欧美综艺","v":"33"},
+        {"n":"其他综艺","v":"30"}
         ]
         }
         ],
-		// "type_id": 4,"type_pid": 0,"type_name": "动漫4"}, {
-		// "type_id": 25,"type_pid": 4,"type_name": "国产动漫25"}, {
-		// "type_id": 26,"type_pid": 4,"type_name": "日本动漫26"}, {
-		// "type_id": 27,"type_pid": 4,"type_name": "欧美动漫27"}, {
-		// "type_id": 28,"type_pid": 4,"type_name": "海外动漫28"}, {
+		
+		
+// {"type_id":3,"type_pid":0,"type_name":"综艺"},
+// {"type_id":30,"type_pid":3,"type_name":"大陆综艺"},
+// {"type_id":31,"type_pid":3,"type_name":"港台综艺"},
+// {"type_id":32,"type_pid":3,"type_name":"日韩综艺"},
+// {"type_id":33,"type_pid":3,"type_name":"欧美综艺"},
+
+    "30":[
+        {"key":"cateId","name":"类型","value":[
+        {"n":"综艺","v":"30"},
+        {"n":"大陆综艺","v":"30"},
+        {"n":"港台综艺","v":"31"},
+        {"n":"韩日国综艺","v":"32"},
+        {"n":"欧美综艺","v":"33"},
+        {"n":"其他综艺","v":"30"}
+        ]
+        }
+        ],	
+
+
+// {"type_id":4,"type_pid":0,"type_name":"动漫"},
+// {"type_id":25,"type_pid":4,"type_name":"国产动漫"},
+// {"type_id":26,"type_pid":4,"type_name":"日本动漫"},
+// {"type_id":27,"type_pid":4,"type_name":"欧美动漫"},
+// {"type_id":28,"type_pid":4,"type_name":"海外动漫"},
 
     "25":[
         {"key":"cateId","name":"类型","value":[
-        {"n":"动漫","v":"4"},
+        {"n":"动漫","v":"25"},
         {"n":"国产动漫","v":"25"},
-        {"n":"日本动漫","v":"26"},
         {"n":"欧美动漫","v":"27"},
+        {"n":"日本动漫","v":"26"},
         {"n":"海外动漫","v":"28"}
         ]
         }
@@ -212,10 +277,10 @@
 		
     "4":[
         {"key":"cateId","name":"类型","value":[
-        {"n":"动漫","v":"4"},
+        {"n":"动漫","v":"25"},
         {"n":"国产动漫","v":"25"},
-        {"n":"日本动漫","v":"26"},
         {"n":"欧美动漫","v":"27"},
+        {"n":"日本动漫","v":"26"},
         {"n":"海外动漫","v":"28"}
         ]
         }

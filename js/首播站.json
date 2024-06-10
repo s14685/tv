@@ -5,12 +5,15 @@
     "作者":"荷城茶秀",
     "站名":"首播站", 
     "主页url":"https://shoubozhan.com/",
-
+    "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "强制解析":"0",
+    "图片代理":"0",
+	
 //分类页面
-    "二次截取":"<div class=\"module\">&&<div id=\"page\">",
+    "二次截取":"评分排序</a>&&<div id=\"page\">",
     "数组":"<a&&</div></a>",
     "标题":"title=\"&&\"[不包含:下载APP#]",
-    "副标题":"🌸+<div class=\"module-item-note\">&&</div>[替换:更新至>> #更至>> #更新>> #]",
+    "副标题":"🌸+<div class=\"module-item-note\">&&</div>[替换:更新至>> #更至>> #更新>> #]+⚡+<div class=\"module-item-douban\">豆瓣:&&</div>",
     "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
 	
@@ -22,10 +25,10 @@
     "影片年代":"<div class=\"module-info-tag-link\">&&</a></div>",
     //"影片地区":"/area*>&&</a>",
 	
-//搜索页面
+//搜索页面 https://shoubozhan.com/vodsearch/-------------.html?wd=墨雨云间
    "搜索url": "/vodsearch/-------------.html?wd={wd}",     //https://shoubozhan.com/vodsearch/-------------.html?wd=庆余年第二季
-   "搜索数组二次截取":"<div class=\"module\">&&<div class=\"fixedGroup\">",
-   "搜索数组": "<div class=\"module-items module-card-items\">&&<span>详情</span>[替换:更新至>> #更至>> #更新>> #]",
+   "搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
+   "搜索数组": "<div class=\"module-card-item module-item\">&&<span>详情</span>[替换:更新至>> #更至>> #更新>> #]",
    "搜索标题": "alt=\"&&\"",
    "搜索副标题": "<div class=\"module-item-note\">&&</div>&&</div>[替换:更新至>>#更至>>#更新>>#]+🌸+</div></div><div class=\"module-info-item\"><div class=\"module-info-item-content\">&&</div>",
    "搜索图片": "data-original=\"&&\"",
@@ -34,7 +37,7 @@
 //播放列表
     //"线路二次截取": "",
     "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>️⚡️#自建>>XDZJ#蓝光1线>>蓝光NBY#PC蓝光>>蓝光MYTV#急速1线>>乐视#急速2线>>暴风#急速3线>>量子#急速4线>>非凡#QQ>>腾讯#YK>>优酷#MG>>芒果#]",
-    "线路标题":"🌸+<span>&&</small>[排序:XDZJ>MYTV>非凡>量子>蓝光>优质>乐视>专线>索尼>快看>暴风>独家>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>超清>蓝光>备用>本站>稳定>国内]",
+    "线路标题":"🌸+<span>&&</small>[排序:优质>非凡>量子>蓝光>乐视>专线>索尼>快看>暴风>独家>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>超清>蓝光>备用>本站>稳定>国内]",
 	
 	//"播放二次截取": "",
     "播放数组":"<div class=\"module-play-list-content&&</div>",

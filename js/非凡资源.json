@@ -2,8 +2,9 @@
 //http://ffzy5.tv/index.php/vod/type/id/13.html
 //http://ffzy5.tv/index.php/ajax/data?mid=1&tid=2&page=1
 //http://ffzy5.tv/index.php/ajax/data?mid=1&ids=66696
-//https://cj.ffzyapi.com/api.php/provide/vod/?ac=detail&ids=66696
-//http://ffzy5.tv/index.php/ajax/suggest.html?mid=1&wd=庆余年第二季
+//http://cj.ffzyapi.com/api.php/provide/vod/?ac=detail&ids=66696
+//http://ffzy5.tv/index.php/ajax/suggest.html?mid=1&wd=庆余年
+
  
  {
     "主页url":"http://ffzy5.tv/",
@@ -22,15 +23,15 @@
     "链接":"http://ffzy5.tv/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
     "副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_score\":\"&&\"",
     //"副标题":"vod_remarks\":\"&&\"+🌸+vod_actor\":\"&&\"",
-    
-	"搜索模式":"1",
+
+    "搜索模式":"1",
     "搜索url":"http://ffzy5.tv/index.php/ajax/suggest.html?mid=1&wd={wd}",
     "搜索数组二次截取":"\"list\"*[&&]",
     "搜索数组":"{&&}",
     "搜索图片":"\"pic\"*\"&&\"",
     "搜索标题":"\"name\"*\"&&\"",
-	//"搜索副标题": "🌸+actor\"*\"&&\"", //Not support
     "搜索链接":"http://ffzy5.tv/index.php/vod/detail/id/+\"id\":&&,+.html",
+	
         
 	"影片类型":"类型：&&</p>",
     "影片年代":"年代：&&</p>",

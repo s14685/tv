@@ -2,7 +2,7 @@
 //热播之家 https://rebozj.pro/show/13-内地-hits-爱情-国语-------2024.html
 {
     "作者":"荷城茶秀",
-    "站名":"热播之家", 
+    "站名":"热播之家", //模板:'首图2',
     "主页url":"https://rebozj.pro/",
     "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
     "强制解析":"0",
@@ -15,9 +15,9 @@
     "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
     //"副标题":"href=\"&&\"",
-    "副标题":"<span class=\"pic-text text-right\"><b>&&</b></span>[替换:更新至>> #更至>> #]",
+    "副标题":"🌸+<span class=\"pic-text text-right\"><b>&&</b></span>[替换:更新至>> #更至>> #]",
 	
-    "简介":"🌸+<span style=\"color: #FB5312;\">&&</span>[替换:更新至>> #更新>> #更至>> #]+🌸+<span class=\"detail-sketch\">&&</span>",
+    "简介":"🌸+<span style=\"color: #FB5312;\">&&</span>[替换:更新至>> #更新>> #更至>> #]+🌸+<span class=\"detail-content*>&&</span>",
     "导演":"导演：<a*>&&</a>+⚡️+span style=\"color: #FB5312;\">&&</span>[替换:更新至>> #更新>> #更至>> #]",
     "主演":"主演：&&</p>[替换:&nbsp;>>#<span class=\"slash\">/</span>>><br>#]",
 	"影片类型":"类型：&&地区[替换:剧情>>电视剧#]", //类型：剧情,古装,国产,情,电视 / 地区：大陆 / 年份：2024</p>

@@ -45,22 +45,56 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
     {"n":"中国","v":"中国"},
     {"n":"大陆","v":"大陆"},
     {"n":"内地","v":"内地"},
-~[排序:量子>非凡>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>快看>卧龙>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
+~[排序:量子>非凡>快云>天空>优质>海外看>高清>乐速>爱坤>乐视>闪电>索尼>快看>卧龙>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果>百度>淘片]",
 ~https://soupian.pro/search?key=庆余年
 ~https://xn--p3tv7h.com/ https://影搜.com
 
+//爱看动漫影视
+//https://www.ikan6.vip/vodshow/13--hits---------2024/
+//https://www.ikan6.vip/voddetail/102365/
+//https://www.akanhd.com/voddetail/102365/
+//
 
 
-//纽约影院 模板:'短视2'
-//https://www.nycvod.com/vodshow/2--hits---------2024.html
-//https://www.nycvod.com/voddetail/40315.html
-//https://www.nycvod.com/vodsearch/-------------.html?wd=庆余年
+//楚门影视 模板:'首图',
+//https://www.chumenys.com/vodshow/16--hits---------2024.html
+//https://www.chumenys.com/voddetail/35652.html
+//https://www.chumenys.com/vodsearch/-------------.html?wd=%E5%BA%86%E4%BD%99%E5%B9%B4&submit=
+
+
+//快看影视
+//https://www.kuaikanys.net/s/guochanju/year/2024.html
+//https://www.kuaikanys.net/v/125976.html
+//https://www.kuaikanys.net/vodsearch/-------------.html?wd=庆余年&submit=
+
+//小白菜
+//https://www.xbcdy.com/vodshow/guochanju--hits---------2024.html
+//https://www.xbcdy.com/voddetail/253735.html
+//LZ在线>>量子#腾讯视频>>腾讯#W在线>>无尽#
+
+//天天视频
+//https://www.ttsp.tv/vodshow/2--hits---------2024.html
+//https://www.ttsp.tv/voddetail/628278.html
+//https://www.ttsp.tv/vodsearch/-------------.html?wd=庆余年&submit=
+//[替换:快看(蓝光)>>快看#WJ资源>>无尽#TK资源>>天空#BDY资源>>百度#FS资源>>飞速#HN资源>>红牛#SD资源>>闪电#BJ资源>>八戒#]
+
+//多瑙影院
+//https://www.dnvods.com/index.php/vod/show/by/hits/id/13.html
+//https://www.dnvods.com/index.php/vod/detail/id/859312.html
+//https://www.dnvods.com/index.php/vod/search.html?wd=庆余年&submit=
+//[替换:海外专线>>海外看#高清专线>>高清#线路一>>乐视#线路二>>飞速#线路三>>非凡#]
+
+//剧白白
+//https://jubaibai.xzsa.cn/s/lianxuju/area/大陆/by/hits/year/2024.html
+//https://jubaibai.xzsa.cn/v/50907.html
+//https://jubaibai.xzsa.cn/vodsearch/-------------.html;post;wd={wd}
+//优优 量子 红牛 最大 无尽
 
 //123kubo酷播 模板:'海螺3',
 //https://123kubo.tv/show/13/by/hits/year/2024.html
 //https://123kubo.tv/eps/231439.html
 //https://123kubo.tv/search.html?wd=慶餘年&submit=
-//[替换:海外雲>>海外#極速雲>>極速#索尼雲>>索尼#優質雲>>優質#閃電雲>>閃電#無盡雲>>無盡#卧龍雲>>卧龍#快車雲>>快車#]
+//[替换:海外雲>>海外看#極速雲>>極速#索尼雲>>索尼#優質雲>>優質#閃電雲>>閃電#無盡雲>>無盡#卧龍雲>>卧龍#快車雲>>快車#]
 
 //Icio影视 -  非凡 索尼
 //https://www.icio.cc/vodshow/2-中国大陆-time---------2024.html
@@ -68,7 +102,23 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //https://www.icio.cc/vodsearch/-------------.html?wd=庆余年
 
 
-~[排序:量子>非凡>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>快看>卧龙>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
+~[排序:量子>非凡>快云>天空>优质>海外看>高清>乐速>爱坤>乐视>闪电>索尼>快看>卧龙>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果>百度>淘片]",
+
+//华乐影院
+//https://www.huale.org/vodshow/13--hits---------.html
+//https://www.huale.org/voddetail/78948.html
+//https://www.huale.org/vodsearch/-------------.html?wd=庆余年&submit=
+//电影1 动作片6喜剧片爱情片科幻片恐怖片剧情片战争片冒险片动画电影同性片奇幻片悬疑片惊悚片歌舞片灾难片犯罪片经典片网络电影32 
+//电视剧2 国产剧13港台剧14日韩剧15欧美剧16泰剧33新马剧35其他剧>>#网络短剧61
+//综艺3 欧美综艺37日本综艺38韩国综艺39国产综艺40新马泰综艺41港台综艺42其他综艺43
+//动漫4 欧美动漫44日本动漫45韩国动漫46国产动漫47新马泰动漫48港台动漫49其他动漫50
+//纪录片21
+//伦理片60
+
+//纽约影院 模板:'短视2'
+//https://www.nycvod.com/vodshow/2--hits---------2024.html
+//https://www.nycvod.com/voddetail/40315.html
+//https://www.nycvod.com/vodsearch/-------------.html?wd=庆余年
 
 //凌云影视
 //https://www.lyys8.com/list/tv--hits---------2024.html

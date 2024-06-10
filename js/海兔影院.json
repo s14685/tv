@@ -1,23 +1,26 @@
 //海兔影院
-
 //https://www.haitum.cc/dianshiju/dalu-2024-Shot
 //https://www.haituw.com/dianshiju/dalu-2024-Shot
+//https://www.haituw.com/movie/201-368186.html
 //[优质线路>>优质#量子线路>>量子#非凡线路>>非凡#金鹰线路>>金鹰#天空线路>>天空#飞速线路>>飞速#光速线路>>光速#淘片线路>>淘片#U酷线路>>U酷#ikun线路>>爱坤#无尽线路>>无尽#百度线路>>百度#]
 {
     "作者":"荷城茶秀",
     "站名":"海兔影院", 
-	"请求头":"手机","免嗅": "0",
     "主页url":"https://www.haituw.com/",
-
+    "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "强制解析":"0",
+    "图片代理":"0",
+	
 //分类页面
-    "数组":"<a&&</i></p></div></a></li>",
+    "二次截取":"<ul class=\"list new-list lazy-load-list\">&&</ul>",
+    "数组":"<li*>&&</li>",
     "标题":"title=\"&&\"",
     "副标题":"<span class=\"state\">&&</span>+ 🌸",
     "图片":"_src=\"&&\"",
     "链接":"href=\"&&\"",
 
     "简介":"🌸+集数：</label>&&</span>+🌸+以下为剧情简介：<br><p>&&</p>",
-    "导演":"导演：</label>&&</span>+🌸+douban_score\">&&</a>",
+    "导演":"导演：</label>&&</span>+⚡️+douban_score\">&&</a>",
     "主演":"主演：</label>$$</span>",
     "影片类型":"类型：</label>&&片长：",
     //"影片状态":"",
@@ -35,13 +38,14 @@
 //[排序:量子>非凡>快云>天空>海外>高清>乐视>閃電>优质>索尼>極速>飛速>闪电>无尽>红牛>极速>独家>专线>八戒>櫻花>超清]",[排序:量子>非凡>快云>天空>八戒>优质>飛速>爱坤>暴风>櫻花>快车>U酷>金鹰>索尼>闪电>海外>高清>乐视>極速>无尽>红牛>极速>独家>专线>超清>豪华]
 //[替换:</span><small>>>⚡️][不包含:夸克][替换:</span><small>>>⚡️ #极速线路1>>非凡#极速线路2>>索尼#极速线路3>>暴风#极速线路4>>快看#超清线路1>>乐视#超清线路2>>新浪#备用线路1>>红牛#备用线路2>>无尽#蓝光专享1>>SEVEN#蓝光专享2>>腾讯#蓝光专享3>>优酷#蓝光专享4>>奇艺#蓝光专享5>>芒果#大米蓝光>>大米DD#]
   
-	"线路二次截取": "<ul class=\"nav nav-tabs swiper-wrapper\">&&</ul>",
-	"线路数组":"<li class=\"swiper-slide&&</li>",
-    "线路标题":"🌸+>&&</a>",
-    
-	//"播放数组":"<div class=\"module-play-list-content&&</div>",
-    //"播放标题":"<span>&&</span>",
-    //"播放列表":"<a&&</a>",
+	"线路二次截取": "<ul class=\"nav nav-tabs swiper-wrapper*>&&</ul>",
+	"线路数组":"<h5 class=\"item-name\">&&提供",
+    "线路标题":"🌸+&&",
+	
+    //"播放二次截取": "<ul class=\"episodes-list\">&&</ul>",
+	//"播放数组":"<li*>&&</li>",
+    //"播放列表":"<a*>&&</a>",
+    //"播放标题":"🌸+&&",
 
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
             //https://www.haituw.com/dianshiju/dalu-2024-Shot 

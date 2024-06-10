@@ -1,30 +1,40 @@
 //网飞/奈飞
 //https://www.wangfei.tv/vodshow/area/中国/by/hits/class/爱情/id/guochanju/lang/普通话/year/2024.html
 //https://www.wangfei.tv/vodshow/by/hits/id/guochanju/year/2024.html
+//https://www.wangfei.tv/vodsearch.html?wd=庆余年
 {
     "作者":"荷城茶秀",
-    "站名":"网飞", 
+    "站名":"网飞", //模板: 'mxone5',
     "主页url":"https://www.wangfei.tv/",
-    "简介":"🌸+进度：</span>&&</div></div>+🌸+<div class=\"module-info-introduction-content show-desc\" style=\"line-height: 20px;\"><p>&&</p>",
-    "导演":"导演：</span>&&</a>+🌸+video:score\" content=\"&&\"",
-    "主演":"主演：</span>&&</div>",
-    "影片类型":"module-info-tag\">&&</a></div></div>",
-    "影片状态":"进度：</span>&&</div></div>",
-
+    "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "强制解析":"0",
+    "图片代理":"0",
+	
 //分类页面
-    //"数组":"<a&&</div></a></div>",
+    //"二次截取":"<a&&</div></a></div>",
     "数组":"<a&&</div></a>",
     "标题":"module-poster-item-title\">&&<",
-    "副标题":"module-item-note\">&&<+🌸+module-item-douban\">奈飞:&&分</div>",
+    "副标题":"module-item-note\">&&<[替换:更新至>> #更至>> #]+🌸+module-item-douban\">奈飞:&&分</div>",
     "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
 
-//搜索页面
-   "搜索url": "/vodsearch/wd/{wd}.html",     //https://www.wangfei.tv/vodsearch/wd/与凤行.html
-   "搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
-   "搜索数组": "<div class=\"module-card-item module-item\">&&详情",
+    "简介":"🌸+｜<div class=\"module-info-item-content\">&&</div></div>[替换:更新至>> #更至>> #]+🌸+<div class=\"module-info-introduction-content show-desc\" style=\"line-height: 20px;\"><p>&&</p>",
+    "导演":"导演：</span>&&</a>+⚡️+进度：</span><div class=\"module-info-item-content\">&&</div>",
+    "主演":"主演：</span>&&</div>",
+    "影片类型":"<div class=\"module-info-tag\">&&立即播放[替换:<span class=\"slash\">/</span>>><br>#]",
+    //"影片状态":"进度：</span>&&</div></div>",
+    "影片年代":"首播：</span><div class=\"module-info-item-content\">&&-",
+    "影片地区":"<div class=\"module-info-tag-link\"><a*>&&</a>",
+	//进度：共40集｜45分钟｜更新至13集
+	//进度：共24集｜15分钟｜全24集
+	//进度：</span><div class="module-info-item-content">共24集｜10分钟</div>｜<div class="module-info-item-content">更新至12集</div>
+
+//搜索页面 
+   "搜索url": "/vodsearch.html?wd={wd}",     //https://www.naifei.io/vodsearch.html?wd=庆余年
+   "搜索数组二次截取":"<div class=\"module-items\">&&<div class=\"fixedGroup\">",
+   "搜索数组": "<div class=\"module-search-item\">&&播放",
    "搜索标题": "alt=\"&&\"",
-   "搜索副标题": "</div></div><div class=\"module-info-item\"><div class=\"module-info-item-content\">&&<div class=\"module-card-item-footer\">", // "note\">&&</div>",
+   "搜索副标题": "<a class=\"video-serial*>&&</sa>", 
    "搜索图片": "data-original=\"&&\"",
    "搜索链接": "href=\"&&\"",
 

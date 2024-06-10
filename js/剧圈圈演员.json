@@ -1,63 +1,60 @@
-//海外看明星 
-//https://haiwaikan.tv/vodsearch/-白鹿---------1---/
-//https://haiwaikan.tv/vodsearch/-张若昀---------2---/
+//剧圈圈在线 
+//https://www.jqqzx.cc/ https://www.jqqzx.one https://www.jqqzx.top
+//https://www.jqqzx.cc/vodshow/by/hits/id/guochanju/year/2024.html
+//https://www.jqqzx.cc/vodsearch.html?wd=庆余年
+//https://www.jqqzx.cc/vodsearch/actor/张若昀/page/2.html
+
 {
-    "作者":"海外看演员",
-    "站名":"海外看明星", 
-    "主页url":"https://haiwaikan.tv",
+    "作者":"荷城茶秀",
+    "站名":"剧圈圈演员", 
+    "主页url":"https://www.jqqzx.cc/",
     "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
     "强制解析":"0",
     "图片代理":"0",
 	
 //分类页面
-    "二次截取":"<div class=\"module-items\">&&<div class=\"module-footer\">",
-    "数组":"<i class=\"icon-play\"></i>&&立即播放",
-    "标题":"title=\"&&\"",
-    "图片":"data-src=\"&&\"",
+    "二次截取":"<div class=\"module-items module-card-items\">&&<div id=\"page\">",
+    "数组":"<div class=\"module-card-item module-item\">&&<span>详情</span>",
+    "标题":"alt=\"&&\"",
+    "副标题":"🌸+<div class=\"module-item-note\">&&</div>[替换:更新至第>> #更新至>> #每集>> #]+🌸+<div class=\"module-info-item-content\">&&<span",
+    "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
-    "副标题":"<a class=\"video-serial*>&&</a>[替换:更新至第>> #更新至>> #]+🌸+主演：</span>&&</p>[替换:<span class=\"slash\">/</span>>><br>#]",
-    //"副标题":"href=\"&&\"",
 	
-    "搜索模式":"1",
-    "搜索url":"https://haiwaikan.tv/vodsearch/-------------/?wd={wd}", //https://haiwaikan.tv/vodsearch/-------------/?wd=庆余年
-    //"搜索数组二次截取":"\"list\"*[&&]",
-    "搜索数组":"<i class=\"icon-play\"></i></a>&&<div class=\"video-info-footer\">",
-    "搜索图片":"data-src=\"&&\"",
-    "搜索标题":"alt=\"&&\"", 
-    "搜索副标题":"video-serial*>&&</a>[替换:更新至>> #更至>> #]+🌸+主演：</span><div class=\"video-info-item video-info-actor\">&&<div class=\"video-info-items\">[替换:<span class=\"slash\">/</span>>><br>#]",
-    "搜索链接":"href=\"&&\"", 
-	//https://haiwaikan.tv/voddetail/42987/
-	//立刻播放 https://haiwaikan.tv/vodplay/42987-1-1/
+    "简介":"🌸+集数：</span>&&</div>[替换:更新至第>> #更新至>> #更至第>> #]+备注：</span>&&</div>[替换:更新至第>> #更新至>> #更至第>> #]+🌸+<div class=\"module-info-introduction-content\">&&</div>",
+    "导演":"导演：</span>&&</a>+⚡️+片长：</span><div class=\"module-info-item-content\">&&</div>[替换:更新至第>> #更新至>> #每集>> #]",
+    "主演":"主演：</span>&&</div>[替换:&nbsp;>>#<span class=\"slash\">/</span>>><span></span>#]",
+    "影片类型":"/class*>&&</div>[替换:剧情>>电视剧#<span class=\"slash\">/</span>>>#]",
+    "影片状态":"集数：</span>&&</div>",
+    "影片年代":"/year*>&&</a>",
+    "影片地区":"/area*>&&</a>",
+	
+//搜索页面
+   "搜索url": "/vodsearch.html?wd={wd}",     //https://www.jqqzx.cc/vodsearch.html?wd=庆余年
+   "搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div id=\"page\">",
+   "搜索数组": "<div class=\"module-card-item module-item\">&&<span>详情</span>[替换:更新至第>> #更至第>> #更新至>> #]",
+   "搜索标题": "alt=\"&&\"",
+   "搜索副标题": "module-item-note\">&&</div>[替换:更新至第>>#更至第>>#更新至>>#]+🌸+</div></div><div class=\"module-info-item\"><div class=\"module-info-item-content\">&&</div>",
+   "搜索图片": "data-original=\"&&\"",
+   "搜索链接": "href=\"&&\"",
 
-    "影片类型":"tag-link\"><span class=\"slash\">/</span>&&</a>",
-    "影片年代":"year*>&&</a>",
-    "影片地区":"area*>&&</a>",
-	"影片状态":"集数：</span><div class=\"video-info-item\">&&</div>",
-    "导演":"导演：</span>&&</a>+🌸+集数：</span><div class=\"video-info-item\">&&</div>[替换:更新至>> #更新>> #更至>> #]",
-    "主演":"主演：</span>&&</div>[替换:&nbsp;>>#<span class=\"slash\">/</span>>>#]",
-    "简介":"🌸+集数：</span><div class=\"video-info-item\">&&</div>[替换:更新至>> #更至>> #]+🌸+<p class=\"sqjj_a\" style=\"display: none;\">&&<span",
-
-    //"线路二次截取": "",
-    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #]",
-    "线路标题":"🌸+<span>&&</small>",
-
-
-    //"播放二次截取": "",//all playlist
-    "播放数组":"<div class=\"scroll-content\">&&</div>",//one playlist
-    "播放列表":"<a&&</a>", //one episod <a href="/vodplay/39846-1-1/" title="播放庆余年 第二季1"><span>1</span></a>
-    "播放标题":"<span>&&</span>[不包含:复制]", //one episod
-    "播放链接":"href=\"&&\"", //one episod
-    //"跳转播放链接":"\"url\"*\"&&\"", //one episod
+//播放列表
+    //"线路二次截取": "", M3蓝光>>蓝光m3#自切蓝光>>蓝光wx#蓝光备用>>蓝光bun#不卡有广>>360#无广略卡>>Heimuer#FF有广>>非凡️#KK有广>>快看#BF有广>>暴风#LZ有广>>量子️#YZ有广>>优质#LS有广>>乐视#秒播蓝光>>蓝光nk#自建蓝光>>蓝光wx#
+    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>️⚡️#M3蓝光>>蓝光m3#自切蓝光>>蓝光wx#蓝光备用>>蓝光bun#不卡有广>>360#无广略卡>>Heimuer#FF有广>>非凡️#KK有广>>快看#BF有广>>暴风#LZ有广>>量子️#YZ有广>>优质#LS有广>>乐视#秒播蓝光>>蓝光nk#自建蓝光>>蓝光wx#]",
+    "线路标题":"🌸+<span>&&</small>[排序:Heimuer>蓝光wx>非凡>量子>优质>乐视>专线>索尼>快看>暴风>独家>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>超清>蓝光>备用>本站>稳定>国内]",
+	
+	//"播放二次截取": "",
+    "播放数组":"<div class=\"module-play-list-content&&</div>",
+    "播放标题":"<span>&&</span>",
+    "播放列表":"<a&&</a>",
 
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
-            //https://haiwaikan.tv/vodsearch/-白鹿---------1---/
-    "分类url":"https://haiwaikan.tv/vodsearch/-{cateId}---------{catePg}---/",
-             //https://haiwaikan.tv/actor.php?searchword=张若昀
+            //https://www.jqqzx.cc/vodsearch/actor/张若昀/page/2.html
+    "分类url":"https://www.jqqzx.cc/vodsearch/actor/{cateId}/page/{catePg}.html",
     "分类":"🌸女星$赵丽颖#🌸男星$张若昀#🌸韩星$宋慧乔#⚡️赵丽颖$赵丽颖#张若昀$张若昀#李沁$李沁#张天爱$张天爱#杨幂$杨幂#⚡️肖战$肖战#王一博$王一博#黄晓明$黄晓明#",
-    
+
   "筛选": {
 	  
-"赵丽颖":[
+  "赵丽颖":[
     {"key":"cateId","name":"女星1","value":[ 
     {"n":"全部","v":""},
 	{"n": "古力娜扎", "v": "古力娜扎"},

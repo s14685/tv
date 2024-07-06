@@ -1,38 +1,40 @@
 //一二三四五
-//http://winniec.asuscomm.com/iptv/tb.json
+//https://raw.githubusercontent.com/s14685/tv/main/tb.json
 //http://williamc.ddns.net/iptv/tb.json
+//https://raw.githubusercontent.com/s14685/tv/main/tvbox.json
+//https://raw.liucn.cc/box/libs/jar/HCCX.jar
 
 {"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt;md5;69c44556911acb40c53846bd52873fee","wallpaper":"http://www.饭太硬.top/深色壁纸/api.php","sites":[
-{"key":"drpy_js_豆瓣","name":"🌺豆瓣評分🌺","api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"http://winniec.asuscomm.com/iptv/js/douban.js","type":3},
+{"key":"drpy_js_豆瓣","name":"🌺豆瓣評分🌺","api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/s14685/tv/main/js/douban.js","type":3},
 //{"key":"drpy_js_豆瓣","name":"🌺豆瓣評分🌺","api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js","type":3},
-//{"key":"csp_非凡资源🎯","name":"🎯非凡资源🍏","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/非凡资源.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"api_非凡资源🎯","name":"🎯非凡资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/api非凡.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"api_海外看演员","name":"🎭海外看演员🍏","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/海外看演员.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
+//{"key":"csp_非凡资源🎯","name":"🎯非凡资源🍏","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/非凡资源.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"api_非凡资源🎯","name":"🎯非凡资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/api非凡.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"api_海外看演员","name":"🎭海外看演员🍏","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/海外看演员.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 
 //影视
-{"key":"csp_海外看","name":"🏳️‍🌈海外看🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/海外看.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"csp_孜然影视","name":"🏳️‍🌈孜然影视🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/孜然影视.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"csp_剧圈圈","name":"🏳️‍🌈剧圈圈🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/剧圈圈.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
+{"key":"csp_剧圈圈","name":"🌈剧圈圈🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/剧圈圈.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_孜然影视","name":"🌈孜然影视🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/孜然影视.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_TVB3","name":"🌈TVB云🚩🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext":"https://raw.githubusercontent.com/s14685/tv/main/js/TVB云播.json"},
 
-{"key":"csp_热播之家","name":"🏳️‍🌈热播之家🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/热播之家.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"csp_酷云高清","name":"🏳️‍🌈酷云高清🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/酷云高清.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"csp_神马电影","name":"🏳️‍🌈神马🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/神马电影.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
+{"key":"csp_热播之家","name":"🌈热播之家🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/热播之家.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_酷云高清","name":"🌈酷云高清🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/酷云高清.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_神马电影","name":"🌈神马🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/神马电影.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 
-{"key":"csp_4K影院","name":"🏳️‍🌈4K影院🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/4K影院.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"csp_XBPQ_金曼海外","name":"🏳️‍🌈金曼海外🚩🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/金曼海外.json","jar":"http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"csp_XBPQ_金曼国内","name":"🏳️‍🌈金曼国内🚩🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://winniec.asuscomm.com/iptv/js/金曼国内.json","jar":"http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
+{"key":"csp_4K影院","name":"🌈4K影院🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/4K影院.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_XBPQ_金曼海外","name":"🌈金曼海外🚩🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/金曼海外.json","jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_XBPQ_金曼国内","name":"🌈金曼国内🚩🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/金曼国内.json","jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 
-{"key":"csp_voflix","name":"🏳️‍🌈VOF高清🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/voflix.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"csp_TVB3","name":"🏳️‍🌈TVB云🚩🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar","ext":"http://winniec.asuscomm.com/iptv/js/TVB云播.json"},
-{"key":"csp_华乐影院","name":"🏳️‍🌈华乐影院🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/华乐影院.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"csp_网飞","name":"🏳️‍🌈网飞🍏❄️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/网飞.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
+{"key":"csp_voflix","name":"🌈VOF高清🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/voflix.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_华乐影院","name":"🌈华乐影院🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/华乐影院.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_网飞","name":"🌈网飞🍏❄️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/网飞.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 
-{"key":"api_量子资源🎯","name":"🎯量子资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/api量子.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"api_海外看🎯","name":"🎯海外看🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/api海外看.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"api_乐视资源🎯","name":"🎯乐视资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/api乐视.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"api_飞速资源🎯","name":"🎯飞速资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/api飞速.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"csp_卧龙资源🎯","name":"🎯卧龙资源🍏💡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://winniec.asuscomm.com/iptv/js/api卧龙.json","jar": "http://winniec.asuscomm.com/iptv/js/HCCX.jar"},
-{"key":"drpy_js_360影视","name":"🌸360明星🍏1","api":"http://winniec.asuscomm.com/iptv/js/drpy.min.js","ext":"http://winniec.asuscomm.com/iptv/js/360影视.js","type":3},
+{"key":"csp_海外看","name":"🌈海外看🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/海外看.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"api_量子资源🎯","name":"🎯量子资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/api量子.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"api_海外看🎯","name":"🎯海外看🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/api海外看.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"api_乐视资源🎯","name":"🎯乐视资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/api乐视.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"api_飞速资源🎯","name":"🎯飞速资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/api飞速.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_卧龙资源🎯","name":"🎯卧龙资源🍏💡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/api卧龙.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"drpy_js_360影视","name":"🌸360明星🍏1","api":"https://raw.githubusercontent.com/s14685/tv/main/js/drpy.min.js","ext":"https://raw.githubusercontent.com/s14685/tv/main/js/360影视.js","type":3},
 
 //资源 🍏9 🍎1
 {"key":"zy_资源","name":"🌺🌺资源🌺🌺","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
@@ -75,15 +77,15 @@
 
 //哔哩 🍏9 🍎1
 {"key":"Bili","name":"🌺🌺Bili🌺🌺","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"playerType":2,"filterable":1},
-{"key": "myNovel","name": "🍄Novel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myNovel.json"},
-{"key": "myBio","name": "🍄Biology","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myBio.json"},
-{"key": "myStar","name": "🍄歌星","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myStar.json"},
-{"key": "myEXCEL","name": "🍄Excel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myExcel.json"},
-{"key": "解说","name": "🍄️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/哔哩影视解说.json"},
-{"key": "EXCEL","name": "🍄Excel学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/哔哩Excel教程.json"},
-{"key": "PS","name": "🍄PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "http://winniec.asuscomm.com/iptv/js/bili/哔哩PS.json"},
-{"key": "bili_太极拳","name": "🌅太极拳","type": 3,"api": "csp_Bili","searchable": 1,"changeable": 0,"playerType":2,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "http://winniec.asuscomm.com/iptv/js/bili/bili太极拳.json","type": "太极拳#帕梅拉#广场舞#演唱会","cookie": ""},"jar": "http://winniec.asuscomm.com/iptv/js/custom_spider.jar"},
-{"key": "bili_歌星  ","name": "🌅歌星","type": 3,"api": "csp_Bili","searchable": 1,"changeable": 0,"playerType":2,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "http://winniec.asuscomm.com/iptv/js/bili/myStar.json","type": "博君一肖#","cookie": ""},"jar": "http://winniec.asuscomm.com/iptv/js/custom_spider.jar"},
+{"key": "myNovel","name": "🍄Novel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/myNovel.json"},
+{"key": "myBio","name": "🍄Biology","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/myBio.json"},
+{"key": "myStar","name": "🍄歌星","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/myStar.json"},
+{"key": "myEXCEL","name": "🍄Excel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/myExcel.json"},
+{"key": "解说","name": "🍄️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/哔哩影视解说.json"},
+{"key": "EXCEL","name": "🍄Excel学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/哔哩Excel教程.json"},
+{"key": "PS","name": "🍄PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"playerType":2,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/哔哩PS.json"},
+{"key": "bili_太极拳","name": "🌅太极拳","type": 3,"api": "csp_Bili","searchable": 1,"changeable": 0,"playerType":2,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/bili太极拳.json","type": "太极拳#帕梅拉#广场舞#演唱会","cookie": ""},"jar": "https://raw.githubusercontent.com/s14685/tv/main/js/custom_spider.jar"},
+{"key": "bili_歌星  ","name": "🌅歌星","type": 3,"api": "csp_Bili","searchable": 1,"changeable": 0,"playerType":2,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/myStar.json","type": "博君一肖#","cookie": ""},"jar": "https://raw.githubusercontent.com/s14685/tv/main/js/custom_spider.jar"},
 
 
 //{"key":"meowtv_yqks","name":"💋一起2160","api":"csp_YQKan","changeable":1,"jar":"http://www.xzweb.top/cs/影视接口/main/alib/jar/公告1.jar","quickSearch":1,"searchable":1,"type":3},
@@ -92,13 +94,13 @@
 
 //哔哩 🍏9 🍎1
 {"key":"Bili","name":"🌺🌺Bili🌺🌺","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-{"key": "myNovel","name": "🍄Novel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myNovel.json"},
-{"key": "myBio","name": "🍄Biology","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myBio.json"},
-{"key": "myStar","name": "🍄歌星","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myStar.json"},
-{"key": "myEXCEL","name": "🍄Excel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/myExcel.json"},
-{"key": "解说","name": "🍄️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/哔哩影视解说.json"},
-{"key": "EXCEL","name": "🍄Excel学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/哔哩Excel教程.json"},
-{"key": "PS","name": "🍄PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://winniec.asuscomm.com/iptv/js/bili/哔哩PS.json"},
+{"key": "myNovel","name": "🍄Novel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/myNovel.json"},
+{"key": "myBio","name": "🍄Biology","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/myBio.json"},
+{"key": "myStar","name": "🍄歌星","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/myStar.json"},
+{"key": "myEXCEL","name": "🍄Excel","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/myExcel.json"},
+{"key": "解说","name": "🍄️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/哔哩影视解说.json"},
+{"key": "EXCEL","name": "🍄Excel学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/哔哩Excel教程.json"},
+{"key": "PS","name": "🍄PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/s14685/tv/main/js/bili/哔哩PS.json"},
 
 
 //影视2
@@ -106,7 +108,7 @@
 
 
 //直播
-{"key":"直播转点播1","name":"📺︎电视直播","type":3,"api":"http://www.uuneed.cn/ayxzyj/zz/raw/master/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://winniec.asuscomm.com/iptv/tvlive.txt"},
+{"key":"直播转点播1","name":"📺︎电视直播","type":3,"api":"http://www.uuneed.cn/ayxzyj/zz/raw/master/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/s14685/tv/main/tvlive.txt"},
 {"key":"直播转点播2","name":"📺︎电视直播","type":3,"api":"http://www.uuneed.cn/ayxzyj/zz/raw/master/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb.txt"},
 {"key":"drpy_js_虎牙直播","name":"🐯虎牙直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"🐠斗鱼直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/斗鱼直播.js"},

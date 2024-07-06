@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>盒子软件</title>
+	<link rel='icon' type='image/png' href='./fav.png'>
+<style>
+/* styles.css */
+body {margin:10px;}
+H3	{color:#8a6d3b;background-color:#fcf8e3;border-color:#faebcc;border: 0px solid gray;padding-left: 10px;padding-right: 10px;border-radius: 5px;font-weight: bold;font-size: 1.2em;}
+H2	{color:#3c763d;background-color:#dff0d8;border-color:#d6e9c6;border: 0px solid gray;padding-left: 10px;padding-right: 10px;border-radius: 5px;font-weight: bold;font-size: 1.5em;}
+H1	{color:#31708f;background-color:#d9edf7;border-color:#bce8f1;border: 0px solid gray;padding-left: 10px;padding-right: 10px;border-radius: 5px;font-weight: bold;font-size: 2.0em;}
+.category li{
+            display: inline-block;
+            margin: 10px;
+            padding: 10px;
+            background-color: #fcf8e3;
+            text-align: center; 
+            border: 1px solid #ddd; 
+            border-radius: 10px;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s; 
+           /* #fcf8e3(yellow) #dff0d8(green) #d9edf7(blue) #fcf8e3(red) */
+        }
+
+.category li:hover{
+            outline: 1px solid red; /* Highlight the focused thumbnail */
+            transform: scale(1.05); /* Slightly zoom in */
+            box-shadow: 0 0 8px rgba(0, 0, 0, 0.4); /* Light shadow */
+        }		
+.thumbnail li:focus {
+            outline: 1px solid red; /* Highlight the focused thumbnail */
+            transform: scale(1.05); /* Slightly zoom in */
+            box-shadow: 0 0 8px rgba(0, 0, 0, 0.4); /* Light shadow */
+        }		
+ul {list-style: none; padding: 0px;}
+/*li {padding: 10px;border: 1px solid #ccc;cursor: pointer;transition:  background-color 0.3s, color 0.3s;}*/
+/*li:hover {background-color: #f0f0f0;color: #333;}*/
+/* Add styles for small icons (48px) */
+li::before {content: "☘️";font-size: 24px;margin-right: 10px;}
+/*
+.apk-icon-g1 {url('../images/cloud-done-48.png'); display: inline-block;width: 48px;height: 48px;margin-right: 10px;}
+.apk-icon-g2 {url('../images/download-from-the-cloud-48.png'); display: inline-block;width: 48px;height: 48px;margin-right: 10px;}
+.apk-icon-g3 {url('../images/internet-download-manager-48.png'); display: inline-block;width: 48px;height: 48px;margin-right: 10px;}
+*/
+
+}
+</style>
+</head>
+<body>
+    <h1>🌍TVBox URL🌍</h1>
+
+
+    <div>
+        <label for="favUrl">🌐URL:</label>
+        <input type="text" size="50" id="fav" value="http://williamc.tplinkdns.com/iptv/fav.json" >
+        <button onclick="copyToClipboard('fav')">💾Copy</button>
+    </div>
+    <div>
+        <label for="tbUrl">🌐URL:</label>
+        <input type="text" size="50" id="tb" value="http://williamc.tplinkdns.com/iptv/tb.json" >
+        <button onclick="copyToClipboard('tb')">💾Copy</button>
+    </div>
+    <div>
+        <label for="favUrl">🌐URL:</label>
+        <input type="text" size="50" id="dcok" value="http://williamc.tplinkdns.com/iptv/dcok.json" >
+        <button onclick="copyToClipboard('dcok')">💾Copy</button>
+    </div>
+    <div>
+        <label for="tbUrl">🌐URL:</label>
+        <input type="text" size="50" id="dcall" value="http://williamc.tplinkdns.com/iptv/dcall.json" >
+        <button onclick="copyToClipboard('dcall')">💾Copy</button>
+    </div>
+
+    <div>
+        <label for="favUrl">🌐URL:</label>
+        <input type="text" size="50" id="favgh" value="https://raw.githubusercontent.com/s14685/tv/main/favgh.json" >
+        <button onclick="copyToClipboard('favgh')">💾Copy</button>
+    </div>
+    <div>
+        <label for="tbUrl">🌐URL:</label>
+        <input type="text" size="50" id="tbgh" value="https://raw.githubusercontent.com/s14685/tv/main/tbgh.json" >
+        <button onclick="copyToClipboard('tbgh')">💾Copy</button>
+    </div>
+    <div>
+        <label for="favUrl">🌐URL:</label>
+        <input type="text" size="50" id="dcokgh" value="https://raw.githubusercontent.com/s14685/tv/main/dcok.json" >
+        <button onclick="copyToClipboard('dcokgh')">💾Copy</button>
+    </div>
+    <div>
+        <label for="tbUrl">🌐URL:</label>
+        <input type="text" size="50" id="dcallgh" value="https://raw.githubusercontent.com/s14685/tv/main/dcall.json" >
+        <button onclick="copyToClipboard('dcallgh')">💾Copy</button>
+    </div>
+     <div>
+        <label for="tbUrl">🌐URL:</label>
+        <input type="text" size="50" id="dcallgh" value="https://raw.githubusercontent.com/s14685/tv/main/tvbox.json" >
+        <button onclick="copyToClipboard('dcallgh')">💾Copy</button>
+    </div>
+	<div>
+        <label for="tbUrl">🌐URL:</label>
+        <input type="text" size="50" id="dcallgh" value="https://rawcdn.githack.com/s14685/tv/main/fav.json" >
+        <button onclick="copyToClipboard('dcallgh')">💾Copy</button>
+    </div>	
+	
+	<div>
+        <label for="tokenali">🌐ALI:</label>
+        <input type="text" size="50" id="tokenali" value="545d29c46c4e47f9b7c914671a503a2f" >
+        <button onclick="copyToClipboard('tokenali')">💾Copy</button>
+    </div>
+
+
+</div>
+    <h1>🌍盒子软件🌍</h1>
+
+    <div class="category" id="g1-category">
+        <h2>🚀TVBox 多仓</h2>
+        <ul id="g1-list">
+            <!-- Populate this list dynamically with APK links -->
+            <!-- Add more APKs for G1 -->
+        </ul>
+    </div>
+    <div class="category" id="g2-category">
+        <h2>🚀TVBox 单仓</h2>
+        <ul id="g2-list">
+            <!-- Populate this list dynamically with APK links -->
+            <!-- Add more APKs for G2 -->
+        </ul>
+    </div>
+    <div class="category" id="g3-category">
+        <h2>🚀盒子软件</h2>
+        <ul id="g3-list">
+            <!-- Populate this list dynamically with APK links -->
+            <!-- Add more APKs for G3 -->
+        </ul>
+    </div>
+
+
+    <!-- Add your JavaScript code here -->
+    <script>
+// script.js
+document.addEventListener('DOMContentLoaded', () => {
+    const g1List = document.getElementById('g1-list');
+    const g2List = document.getElementById('g2-list');
+    const g3List = document.getElementById('g3-list');
+
+    // Example APKs
+    const g1Apks = [
+        { name: '🌈影视仓 v5.0.32.1', url: './apk/影视仓_5.0.32.1.apk' },
+        { name: '🌈TAKA多仓_Jade', url: './apk/taka多仓_Jade.apk' },
+
+        { name: '🚀全网影视(内置)v5.0.28', url: './apk/全网影视_5.0.28.1.apk' },
+        { name: '🚀影视仓(内置) v5.0.25', url: './apk/影视仓内置版_5.0.25.apk' },
+        { name: '🍏银河影仓(内置) v5.0.25', url: './apk/银河影仓_5.0.25（内置）.apk' },
+        { name: '🍏欧歌影视(内置) v5.0.25', url: './apk/欧歌影视_5.0.25内置多仓.apk' },
+        { name: '🍒₸VPlayer(魔改) v5.0.26.1', url: './apk/灰色₸VPlayer_5.0.26.1.apk' },
+        { name: '🍁星辰仓(内置) v5.0.25', url: './apk/星辰仓内置V5025版_5.0.25.apk' },
+        { name: '🍁CatBox(内置) v20240519', url: './apk/CatBox_v20240519_0744.apk' },
+        { name: '🌈影视仓 v5.0.31', url: './apk/影视仓_5.0.31.apk' },
+        { name: '🌈大众通用_TV影视仓 v5.0.30', url: './apk/大众通用_TV影视仓_5.0.30_1.apk' },
+        { name: '💒', url: './apk/Android.apk' },
+        { name: '💒', url: './apk/Android.apk' },
+		
+        // Add more APKs for G1 🔴🟠🟡🟢🔵🟣 💯🚀🎯 🟥🟩🟫🟫🟧👑🌷🌞🩹💊
+     
+    ];
+
+    const g2Apks = [
+        { name: '🌈OK影视 v2.4.1', url: './apk/OK影视电视版_2.4.1.apk' },
+        { name: '🌈TAKA v20240624', url: './apk/taka64_20240624-0052.apk' },
+        { name: '🚀Player v5.0.28', url: './apk/Player_5.0.28.1_内置.apk' },
+        { name: '🍎小苹果 v1.1.2破解版', url: './apk/小苹果影视1.1.2破解版.apk' },
+        { name: '🎥泥视频 v2.4.1', url: './apk/nivodtv241.apk' },
+        { name: '🎥星视界 v3.0.9', url: './apk/histar_release_v3.0.9_04300716_official.apk' },
+        { name: '🎦KTV v30.2.2 永久免费', url: './apk/KTV_30.2.2_永久免费.apk' },
+        { name: '📺MY-TV v1.6.2', url: './apk/my-tv-v1.6.2.apk' },
+        { name: '🔞Setting.App v8.11', url: './apk/Setting.App.8.11.apk' },
+        { name: '🌈OK影视 v2.3.7', url: './apk/OK影视电视版-2.3.7（支持安卓4）.apk' },
+        { name: '🌈TAKA v20240604', url: './apk/taka版_20240604-2211.apk' },
+        { name: '💒', url: './apk/Android.apk' },
+        { name: '💒', url: './apk/Android.apk' },
+
+        // Add more APKs for G2 🍍🍎🍓🍇🍓🍉🍒🍑🥭🍋🫐🥑🥝
+    ];
+
+    const g3Apks = [
+        { name: '🏠当贝市场 v5.0.2', url: 'https://m.dangbei.com/' },
+        { name: '🏠沙发管家', url: 'https://app.shafa.com/' },
+        { name: '🏠美家市场', url: 'https://www.mjapk.com/mjapp/lists_81.html' },
+        { name: '👑Emotn UI', url: 'https://app.emotn.com/ui/' },
+        { name: '👑当贝桌面', url: 'https://www.dangbei.com/zhuomian/' },
+        { name: '🗂️CS_filenamager v3.1.6', url: './apk/CS_filenamager_3.1.6.apk' },
+        { name: '🌐AirScreen', url: 'https://play.google.com/store/apps/details?id=com.ionitech.airscreen' },
+        { name: '🎯盒子软件', url: 'http://www.wmdz.com/tvbox1.html' },
+        { name: '🚀盒子软件', url: 'https://qiqi2020.lanzoue.com/b09svqv1c' },
+        { name: '💒源码助手', url: './apk/源码助手-2020-02-09.apk' },
+        { name: '💒', url: './apk/Android.apk' },
+        { name: '💒', url: './apk/Android.apk' },
+        { name: '💒', url: './apk/Android.apk' },
+
+        // Add more APKs for G3 💖💗🥰💞❤️💙💜🩵🩶🤍🖤🤎💛🧡💚
+    ];
+
+    // Populate lists
+    g1Apks.forEach(apk => createApkListItem(apk, g1List));
+    g2Apks.forEach(apk => createApkListItem(apk, g2List));
+    g3Apks.forEach(apk => createApkListItem(apk, g3List));
+});
+
+function createApkListItem(apk, list) {
+    const li = document.createElement('li');
+    li.textContent = apk.name;
+    li.addEventListener('click', () => downloadApk(apk.url));
+    list.appendChild(li);
+}
+
+function downloadApk(url) {
+    // Trigger APK download (you can use window.location.href or other methods)
+    // window.location.href = url;
+	window.open(url, "_blank");
+}
+    
+function copyToClipboard(inputId) {
+	const input = document.getElementById(inputId);
+	input.select();
+	document.execCommand("copy");
+	alert("URL copied to clipboard!");
+}
+    
+    </script>
+</body>
+</html>

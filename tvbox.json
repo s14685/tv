@@ -9,10 +9,15 @@
 //{"key":"drpy_js_豆瓣","name":"🌺豆瓣評分🌺","api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js","type":3},
 //{"key":"csp_非凡资源🎯","name":"🎯非凡资源🍏","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/非凡资源.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"api_非凡资源🎯","name":"🎯非凡资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/api非凡.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
-{"key":"api_海外看演员","name":"🎭海外看演员🍏","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/海外看演员.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_黑猫演员","name":"🎭黑猫演员🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://raw.githubusercontent.com/s14685/tv/main/js/黑猫影视演员.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 
 //影视
-{"key":"csp_剧圈圈","name":"🌈剧圈圈🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/剧圈圈.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+
+{"key":"csp_剧圈圈","name":"🌈剧圈圈🌿9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://raw.githubusercontent.com/s14685/tv/main/js/剧圈圈.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_華人影视","name":"🌈華人影视🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://raw.githubusercontent.com/s14685/tv/main/js/華人影视.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+{"key":"csp_華人影视演员","name":"🎭華人演员🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://raw.githubusercontent.com/s14685/tv/main/js/華人影视演员.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
+
+{"key":"api_黑木耳🎯","name":"🎯黑木耳资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://raw.githubusercontent.com/s14685/tv/main/js/api黑木耳.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"csp_孜然影视","name":"🌈孜然影视🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://raw.githubusercontent.com/s14685/tv/main/js/孜然影视.json","jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar"},
 {"key":"csp_TVB3","name":"🌈TVB云🚩🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext":"https://raw.githubusercontent.com/s14685/tv/main/js/TVB云播.json"},
 

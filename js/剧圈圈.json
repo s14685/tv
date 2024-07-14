@@ -28,13 +28,14 @@
     "影片地区":"/area*>&&</a>",
 	
 //搜索页面
-   "搜索url": "/vodsearch.html?wd={wd}",     //https://www.jqqzx.cc/vodsearch.html?wd=庆余年
-   "搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
-   "搜索数组": "<div class=\"module-card-item module-item\">&&<span>详情</span>[替换:更新至第>> #更至第>> #更新至>> #]",
-   "搜索标题": "alt=\"&&\"",
-   "搜索副标题": "module-item-note\">&&</div>[替换:更新至第>>#更至第>>#更新至>>#]+🌸+</div></div><div class=\"module-info-item\"><div class=\"module-info-item-content\">&&</div>",
-   "搜索图片": "data-original=\"&&\"",
-   "搜索链接": "href=\"&&\"",
+   //"搜索url": "https://www.jqqzx.cc/vodsearch.html?wd={wd}",     //https://www.jqqzx.cc/vodsearch.html?wd=庆余年
+   //"搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
+   //"搜索数组": "<div class=\"module-card-item module-item\">&&<span>详情</span>[替换:更新至第>> #更至第>> #更新至>> #]",
+   //"搜索图片": "data-original=\"&&\"",
+   //"搜索链接": "href=\"&&\"",
+   //"搜索标题": "alt=\"&&\"",
+   //"搜索副标题": "module-item-note\">&&</div>[替换:更新至第>>#更至第>>#更新至>>#]+🌸+</div></div><div class=\"module-info-item\"><div class=\"module-info-item-content\">&&</div>",
+
 
 //播放列表
     //"线路二次截取": "", M3蓝光>>蓝光m3#自切蓝光>>蓝光wx#蓝光备用>>蓝光bun#不卡有广>>360#无广略卡>>Heimuer#FF有广>>非凡️#KK有广>>快看#BF有广>>暴风#LZ有广>>量子️#YZ有广>>优质#LS有广>>乐视#秒播蓝光>>蓝光nk#自建蓝光>>蓝光wx#
@@ -77,8 +78,7 @@
     {"n":"其他","v":"其他"}
     ]
     },
-    {
-    "key":"area","name":"地区","value":[
+    {"key":"area","name":"地区","value":[
     {"n":"全部地区","v":""},
     {"n":"大陆","v":"大陆"},
     {"n":"内地","v":"内地"},

@@ -95,535 +95,273 @@ v10.iqiyioss.com
 芒果
 腾讯
 优酷
-~[排序:量子>非凡>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>快看>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
+~[排序:量子>非凡>快云>天空>优质>海外看>高清>乐速>爱坤>乐视>闪电>索尼>快看>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
 
-~[蓝光专享1>>SEVEN#极速线路1>>非凡#极速线路3>>新浪#极速线路4>>索尼#超清线路1>>乐视#超清线路2>>快看#超清线路3>>快云#备用高清2>>红牛#极速线路2>>暴风#蓝光专享2>>腾讯#蓝光专享5>>芒果#备用高清3>>淘片#]
-//
-
-// <a href="/vodshow/13-----------.html" title="国产剧">国产剧</a>
-// <a href="/vodshow/14-----------.html" title="香港剧">香港剧</a>
-// <a href="/vodshow/15-----------.html" title="欧美剧">欧美剧</a>
-// <a href="/vodshow/16-----------.html" title="日本剧">日本剧</a>
-// <a href="/vodshow/23-----------.html" title="海外剧">海外剧</a>
-// <a href="/vodshow/24-----------.html" title="台湾剧">台湾剧</a>
-// <a href="/vodshow/25-----------.html" title="韩国剧">韩国剧</a>
-// <a href="/vodshow/26-----------.html" title="泰国剧">泰国剧</a>
-
-// <a href="/vodshow/6-----------.html" title="动作片">动作片</a>
-// <a href="/vodshow/7-----------.html" title="喜剧片">喜剧片</a>
-// <a href="/vodshow/8-----------.html" title="爱情片">爱情片</a>
-// <a href="/vodshow/9-----------.html" title="科幻片">科幻片</a>
-// <a href="/vodshow/10-----------.html" title="恐怖片">恐怖片</a>
-// <a href="/vodshow/11-----------.html" title="战争片">战争片</a>
-// <a href="/vodshow/12-----------.html" title="剧情片">剧情片</a>
-// <a href="/vodshow/34-----------.html" title="动画片">动画片</a>
-// <a href="/vodshow/20-----------.html" title="歌舞片">歌舞片</a>
-// <a href="/vodshow/21-----------.html" title="历史片">历史片</a>
-// <a href="/vodshow/22-----------.html" title="谍战片">谍战片</a>
-	
-//
-    // {"key":"cateId","name":"类型","value":[
-    // {"n":"全部类型","v":"juji"},
-    // {"n":"国产剧","v":"guochanju"},
-    // {"n":"日韩剧","v":"rihanju"},
-    // {"n":"港台剧","v":"gangtaiju"},
-    // {"n":"欧美剧","v":"oumeiju"},
-    // {"n":"泰国剧","v":"taiguoju"},
-    // {"n":"欧美剧","v":"oumeiju"}
-    // ]
-    // },
-
+//国内线路H>>HX#2M线路>>2M#SN线路>>索尼#YZ线路>>优质#内地IP播放L>>量子#内地IP播放1>>非凡#备用线路B>>暴风#ZD线路>>最大#LS线路>>乐视#TK线路>>天空#海外线路1>>海外看#临时线路N>>红牛#FS线路>>飞速#XL线路>>新浪#QH线路>>奇虎#
 //
 
 {
-	// "type_id": 1,"type_name": "电影"}, {
-	// "type_id": 6,"type_name": "动作片"}, {
-	// "type_id": 7,"type_name": "喜剧片"}, {
-	// "type_id": 8,"type_name": "爱情片"}, {
-	// "type_id": 9,"type_name": "科幻片"}, {
-	// "type_id": 10,"type_name": "恐怖片"}, {
-	// "type_id": 11,"type_name": "剧情片"}, {
-	// "type_id": 12,"type_name": "战争片"}, {
-	// "type_id": 62,"type_name": "4K电影"}, {
-	// "type_id": 63,"type_name": "有声动漫"}, {
-	// "type_id": 64,"type_name": "女频恋爱"}, {
-	// "type_id": 65,"type_name": "反转爽剧"}, {
-	// "type_id": 66,"type_name": "古装仙侠"}, {
-	// "type_id": 67,"type_name": "年代穿越"}, {
-	// "type_id": 68,"type_name": "脑洞悬疑"}, {
-	// "type_id": 69,"type_name": "现代都市"}, {
-	// "type_id": 70,"type_name": "邵氏电影"		
+  "code": 1,
+  "msg": "数据列表",
+  "page": 1,
+  "pagecount": 706,
+  "limit": "20",
+  "total": 14106,
+  "list": [
+    {
+      "vod_id": 8780,
+      "vod_name": "抖包袱大会2024","type_id": 34,"type_name": "大陆综艺",
+      "vod_en": "doubaofudahui2024",
+      "vod_time": "2024-07-11 16:05:13",
+      "vod_remarks": "更新至20240711期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 8808,
+      "vod_name": "说唱梦工厂","type_id": 34,"type_name": "大陆综艺",
+      "vod_en": "shuochangmenggongchang",
+      "vod_time": "2024-07-11 16:04:52",
+      "vod_remarks": "更新至20240711期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 8814,
+      "vod_name": "喜欢你我也是第五季","type_id": 34,"type_name": "大陆综艺",
+      "vod_en": "xihuanniwoyeshidiwuji",
+      "vod_time": "2024-07-11 16:04:24",
+      "vod_remarks": "更新至20240711期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 9202,
+      "vod_name": "我在横店打篮球","type_id": 34,"type_name": "大陆综艺",
+      "vod_en": "wozaihengdiandalanqiu",
+      "vod_time": "2024-07-11 16:03:59",
+      "vod_remarks": "更新至05期下",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 12319,
+      "vod_name": "芥子时光","type_id": 26,"type_name": "国产剧",
+      "vod_en": "jiezishiguang",
+      "vod_time": "2024-07-11 16:03:31",
+      "vod_remarks": "更新至11集",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 8829,
+      "vod_name": "综艺大热门","type_id": 35,"type_name": "港台综艺",
+      "vod_en": "zongyidaremen",
+      "vod_time": "2024-07-11 15:26:19",
+      "vod_remarks": "更新至20240710期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 14219,
+      "vod_name": "自然学院林","type_id": 34,"type_name": "大陆综艺",
+      "vod_en": "ziranxueyuanlin",
+      "vod_time": "2024-07-11 15:25:52",
+      "vod_remarks": "更新至04期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 10171,
+      "vod_name": "娱乐百分百","type_id": 35,"type_name": "港台综艺",
+      "vod_en": "yulebaifenbai",
+      "vod_time": "2024-07-11 15:21:44",
+      "vod_remarks": "更新至20240710期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 8821,
+      "vod_name": "型男大主厨","type_id": 35,"type_name": "港台综艺",
+      "vod_en": "xingnandazhuchu",
+      "vod_time": "2024-07-11 15:21:21",
+      "vod_remarks": "更新至20240710期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 8817,
+      "vod_name": "小明星大跟班","type_id": 35,"type_name": "港台综艺",
+      "vod_en": "xiaomingxingdagenban",
+      "vod_time": "2024-07-11 15:20:04",
+      "vod_remarks": "更新至20240710期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 9194,
+      "vod_name": "现在请开播","type_id": 34,"type_name": "大陆综艺",
+      "vod_en": "xianzaiqingkaibo",
+      "vod_time": "2024-07-11 15:18:31",
+      "vod_remarks": "更新至20240710期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 8811,
+      "vod_name": "挑战吧大神","type_id": 35,"type_name": "港台综艺",
+      "vod_en": "tiaozhanbadashen",
+      "vod_time": "2024-07-11 15:17:44",
+      "vod_remarks": "更新至20240710期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 14218,
+      "vod_name": "田间的少年第二季","type_id": 34,"type_name": "大陆综艺",
+      "vod_en": "tianjiandeshaoniandierji",
+      "vod_time": "2024-07-11 15:17:14",
+      "vod_remarks": "更新至20240711期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 8802,
+      "vod_name": "食尚玩家","type_id": 35,"type_name": "港台综艺",
+      "vod_en": "shishangwanjia",
+      "vod_time": "2024-07-11 15:16:08",
+      "vod_remarks": "更新至20240710期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 8800,
+      "vod_name": "全民星攻略","type_id": 35,"type_name": "港台综艺",
+      "vod_en": "quanminxinggonglue",
+      "vod_time": "2024-07-11 15:15:46",
+      "vod_remarks": "更新至20240710期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 8797,
+      "vod_name": "女人我最大","type_id": 35,"type_name": "港台综艺",
+      "vod_en": "nvrenwozuida",
+      "vod_time": "2024-07-11 15:15:24",
+      "vod_remarks": "更新至20240710期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 9229,
+      "vod_name": "你好星期六","type_id": 34,"type_name": "大陆综艺",
+      "vod_en": "nihaoxingqiliu",
+      "vod_time": "2024-07-11 15:14:05",
+      "vod_remarks": "更新至20240711期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 8795,
+      "vod_name": "魔方新世界","type_id": 34,"type_name": "大陆综艺",
+      "vod_en": "mofangxinshijie",
+      "vod_time": "2024-07-11 15:13:45",
+      "vod_remarks": "更新至20240711期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 9308,
+      "vod_name": "马栏花花便利店第二季","type_id": 34,"type_name": "大陆综艺",
+      "vod_en": "malanhuahuabianlidiandierji",
+      "vod_time": "2024-07-11 15:13:21",
+      "vod_remarks": "更新至20240711期",
+      "vod_play_from": "modum3u8"},
+    {
+      "vod_id": 8792,
+      "vod_name": "旅行任意门","type_id": 34,"type_name": "大陆综艺",
+      "vod_en": "lvxingrenyimen",
+      "vod_time": "2024-07-11 15:13:00",
+      "vod_remarks": "更新至20240711期",
+      "vod_play_from": "modum3u8"
+    }
+  ],
+  "class": [
+    // {"type_id": 1,"type_pid": 0,"type_name": "国产动漫"},
+    // {"type_id": 2,"type_pid": 0,"type_name": "日韩动漫"},
+    // {"type_id": 3,"type_pid": 0,"type_name": "欧美动漫"},
+    // {"type_id": 4,"type_pid": 0,"type_name": "港台动漫"},
+    // {"type_id": 5,"type_pid": 0,"type_name": "动漫电影"},
+    // {"type_id": 6,"type_pid": 0,"type_name": "里番动漫"},
 	
-	// "type_id": 2,"type_name": "电视剧"}, {
-	// "type_id": 13,"type_name": "国产剧"}, {
-	// "type_id": 14,"type_name": "欧美剧"}, {
-	// "type_id": 15,"type_name": "韩剧"}, {
-	// "type_id": 16,"type_name": "日剧"}, {
-	// "type_id": 17,"type_name": "港剧"}, {
-	// "type_id": 18,"type_name": "台剧"}, {
-	// "type_id": 19,"type_name": "泰剧"}, {
-	// "type_id": 20,"type_name": "纪录片"}, {
-	// "type_id": 23,"type_name": "海外剧"}, {	
+    // {"type_id": 7,"type_pid": 0,"type_name": "电影"},
+    // {"type_id": 10,"type_pid": 7,"type_name": "动作片"},
+    // {"type_id": 11,"type_pid": 7,"type_name": "喜剧片"},
+    // {"type_id": 12,"type_pid": 7,"type_name": "爱情片"},
+    // {"type_id": 13,"type_pid": 7,"type_name": "科幻片"},
+    // {"type_id": 14,"type_pid": 7,"type_name": "恐怖片"},
+    // {"type_id": 15,"type_pid": 7,"type_name": "剧情片"},
+    // {"type_id": 16,"type_pid": 7,"type_name": "战争片"},
+    // {"type_id": 17,"type_pid": 7,"type_name": "惊悚片"},
+    // {"type_id": 18,"type_pid": 7,"type_name": "家庭片"},
+    // {"type_id": 19,"type_pid": 7,"type_name": "古装片"},
+    // {"type_id": 20,"type_pid": 7,"type_name": "历史片"},
+    // {"type_id": 21,"type_pid": 7,"type_name": "悬疑片"},
+    // {"type_id": 22,"type_pid": 7,"type_name": "犯罪片"},
+    // {"type_id": 23,"type_pid": 7,"type_name": "灾难片"},
+    // {"type_id": 24,"type_pid": 7,"type_name": "记录片"},
 	
-	// "type_id": 3,"type_name": "综艺"}, {
-	// "type_id": 25,"type_name": "大陆综艺"}, {
-	// "type_id": 26,"type_name": "日韩综艺"}, {
-	// "type_id": 27,"type_name": "港台综艺"}, {
-	// "type_id": 28,"type_name": "欧美综艺"}, {	
+    // {"type_id": 25,"type_pid": 7,"type_name": "短片"},	
 	
-	// "type_id": 4,"type_name": "动漫"}, {
-	// "type_id": 29,"type_name": "国产动漫"}, {
-	// "type_id": 30,"type_name": "日韩动漫"}, {
-	// "type_id": 31,"type_name": "欧美动漫"}, {
-	// "type_id": 39,"type_name": "动画片"}, {
-	// "type_id": 44,"type_name": "港台动漫"}, {
-	// "type_id": 45,"type_name": "海外动漫"}, {	
+    // {"type_id": 8,"type_pid": 0,"type_name": "连续剧"},
+    // {"type_id": 26,"type_pid": 8,"type_name": "国产剧"},
+    // {"type_id": 27,"type_pid": 8,"type_name": "香港剧"},
+    // {"type_id": 28,"type_pid": 8,"type_name": "韩国剧"},
+    // {"type_id": 29,"type_pid": 8,"type_name": "欧美剧"},
+    // {"type_id": 30,"type_pid": 8,"type_name": "台湾剧"},
+    // {"type_id": 31,"type_pid": 8,"type_name": "日本剧"},
+    // {"type_id": 32,"type_pid": 8,"type_name": "海外剧"},
+    // {"type_id": 33,"type_pid": 8,"type_name": "泰国剧"},	
 	
-	// "type_id": 47,"type_name": "演唱会"}, {
-	// "type_id": 48,"type_name": "体育赛事"}, {
-	// "type_id": 49,"type_name": "篮球"}, {
-	// "type_id": 50,"type_name": "足球"}, {
-	// "type_id": 51,"type_name": "预告片"}, {
-	// "type_id": 52,"type_name": "斯诺克"}, {
-	// "type_id": 53,"type_name": "影视解说"}, {
-	// "type_id": 54,"type_name": "爽文短剧"}, {
+    // {"type_id": 9,"type_pid": 0,"type_name": "综艺"},
+    // {"type_id": 34,"type_pid": 9,"type_name": "大陆综艺"},
+    // {"type_id": 35,"type_pid": 9,"type_name": "港台综艺"},
+    // {"type_id": 36,"type_pid": 9,"type_name": "日韩综艺"},
+    // {"type_id": 37,"type_pid": 9,"type_name": "欧美综艺"},	
 	
-	// "type_id": 55,"type_name": "伦理"}, {
-	// "type_id": 56,"type_name": "港台三级"}, {
-	// "type_id": 57,"type_name": "韩国伦理"}, {
-	// "type_id": 58,"type_name": "西方伦理"}, {
-	// "type_id": 59,"type_name": "日本伦理"}, {
-	// "type_id": 60,"type_name": "两性课堂"}, {
-	// "type_id": 61,"type_name": "写真热舞"}, {
-	
-
+    // {"type_id": 38,"type_pid": 8,"type_name": "短剧"}
+  ]
 }
 
-	// "播放二次截取": "<!-- 播放模块 -->&&<!-- end 播放模块 -->",//all playlist
-	// "播放数组":"<!-- 播放地址 -->&&<!-- end 播放地址 -->", //one playlist
-    // "播放列表":"<a href=\"javascript:;\" class=\"copy_text\">&&</a>", //one episod
-    // "播放标题":"<!-- 播放集数 -->&&<!-- end 播放集数 -->", //one episod
-	//"播放链接":"<!-- 播放集数地址 -->&&<!-- end 播放集数地址 -->",//one episod
-//
-<a href="/voddetail/161751.html" title="请和这样的我恋爱吧" class="module-poster-item module-item">
-	<div class="module-item-cover">
-		<div class="module-item-note">全40集</div>
-		<div class="module-item-douban">豆瓣:9.0分</div>
-		<div class="module-item-pic">
-			<img class="lazy lazyload" data-original="https://img.lzzyimg.com/upload/vod/20240503-1/20255e809857d3e3d5cc84e98f4898a8.jpg" 
-			alt="请和这样的我恋爱吧" referrerpolicy="no-referrer" src="https://img.lzzyimg.com/upload/vod/20240503-1/20255e809857d3e3d5cc84e98f4898a8.jpg" onerror="javascript:this.src='/'" style="">
-			</div>
-			<i class="icon-play"></i>
-		</div>
-		<div class="module-poster-item-info">
-			<div class="module-poster-item-title">请和这样的我恋爱吧</div>
-		</div>
-	</a>
-//
+"class":[
+// {"type_id":1,"type_pid":0,"type_name":"电影"}
+// ,{"type_id":6,"type_pid":1,"type_name":"剧情片"}
+// ,{"type_id":7,"type_pid":1,"type_name":"动作片"}
+// ,{"type_id":8,"type_pid":1,"type_name":"冒险片"}
+// ,{"type_id":9,"type_pid":1,"type_name":"同性片"}
+// ,{"type_id":10,"type_pid":1,"type_name":"喜剧片"}
+// ,{"type_id":11,"type_pid":1,"type_name":"奇幻片"}
+// ,{"type_id":12,"type_pid":1,"type_name":"恐怖片"}
+// ,{"type_id":20,"type_pid":1,"type_name":"悬疑片"}
+// ,{"type_id":21,"type_pid":1,"type_name":"惊悚片"}
+// ,{"type_id":22,"type_pid":1,"type_name":"灾难片"}
+// ,{"type_id":23,"type_pid":1,"type_name":"爱情片"}
+// ,{"type_id":24,"type_pid":1,"type_name":"犯罪片"}
+// ,{"type_id":25,"type_pid":1,"type_name":"科幻片"}
+// ,{"type_id":26,"type_pid":1,"type_name":"动画电影"}
+// ,{"type_id":33,"type_pid":1,"type_name":"歌舞片"}
+// ,{"type_id":34,"type_pid":1,"type_name":"战争片"}
+// ,{"type_id":35,"type_pid":1,"type_name":"经典片"}
+// ,{"type_id":36,"type_pid":1,"type_name":"网络电影"}
+// ,{"type_id":37,"type_pid":1,"type_name":"其它片"}
 
-<a href="/voddetail/162329.html" title="南玉卿心" class="module-poster-item module-item">
-	<div class="module-item-cover">
-		<div class="module-item-note">更新至06集</div>
-		<div class="module-item-douban">豆瓣:9.0分</div>
-		<div class="module-item-pic">
-			<img class="lazy lazyload" data-original="https://img.lzzyimg.com/upload/vod/20240520-1/bda47559fad0f6f91fb1e8f24010e36c.jpg" 
-			alt="南玉卿心" referrerpolicy="no-referrer" src="https://img.lzzyimg.com/upload/vod/20240520-1/bda47559fad0f6f91fb1e8f24010e36c.jpg" onerror="javascript:this.src='/'" style="">
-			</div>
-			<i class="icon-play"></i>
-		</div>
-		<div class="module-poster-item-info">
-			<div class="module-poster-item-title">南玉卿心</div>
-		</div>
-	</a>
-//
-<div class="module-items module-card-items">
-	<div class="module-card-item module-item">
-		<div class="module-card-item-class">剧集</div>
-		<a href="/detail/151317/" class="module-card-item-poster">
-			<div class="module-item-cover">
-				<div class="module-item-note">更新至第09集</div>
-				<div class="module-item-pic">
-					<img class="lazy lazyload" data-original="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc002002kqssyu1715223183563/0?max_age=7776000" 
-					alt="庆余年第二季" referrerpolicy="no-referrer" src="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc002002kqssyu1715223183563/0?max_age=7776000" onerror="javascript:this.src='/mxtheme/images/errorpic.png'" style="">
-					</div>
-				</div>
-			</a>
-			<div class="module-card-item-info">
-				<div class="module-card-item-title">
-					<a href="/detail/151317/">
-						<strong>庆余年第二季</strong>
-					</a>
-				</div>
-				<div class="module-info-item">
-					<div class="module-info-item-content">2024
-						<span class="slash">/</span>大陆
-						<span class="slash">/</span>国产剧,国产
-					</div>
-				</div>
-				<div class="module-info-item">
-					<div class="module-info-item-content">张若昀 , 李沁 , 陈道明 , 吴刚 , 郭麒麟 , 田雨 , 李小冉 , 宋轶 , 辛芷蕾 , 高曙光 , 李强 , 于洋 , 刘端端 , 张昊唯 , 佟梦实 , 毛晓彤 , 王楚然 , 王晓晨 , 俞飞鸿 , 金晨 , 高露 , 隋俊波 , 毕彦君 , 付辛博 , 余皑磊 , 王天辰 , 吴幸键 , 宣言 , 冯兵 , 郭子凡 , 左凌峰 , 张维伊 , 刘同 , 宁理 , 归亚蕾 , 王庆祥 , 王同辉 , 沈晓海 , 冯恩鹤 , 秦焰 , 刘宇桥 , 王成阳 , 姚安濂 , 徐志胜 , 王建国</div>
-				</div>
-			</div>
-			<div class="module-card-item-footer">
-				<a href="/play/151317-1-1/" class="play-btn icon-btn">
-					<i class="icon-play"></i>
-					<span>播放</span>
-				</a>
-				<a href="/detail/151317/" class="play-btn-o">
-					<span>详情</span>
-				</a>
-			</div>
-		</div>
-	</div>
-//
-<a href="/detail/146534/" title="城中之城" class="module-poster-item module-item">
-	<div class="module-item-cover">
-		<div class="module-item-note">40集全</div>
-		<div class="module-item-douban">豆瓣:4.0分</div>
-		<div class="module-item-pic">
-			<img class="lazy lazyload" data-original="https://img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/95/crop/xy/ai/t/0/?appid=122&amp;url=http://pic8.iqiyipic.com/image/20240409/c4/bb/a_100543443_m_601_m9_260_360.jpg" 
-			alt="城中之城" referrerpolicy="no-referrer" src="https://img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/q/95/crop/xy/ai/t/0/?appid=122&amp;url=http://pic8.iqiyipic.com/image/20240409/c4/bb/a_100543443_m_601_m9_260_360.jpg" onerror="javascript:this.src='/mxtheme/images/errorpic.png'" style="">
-			</div>
-			<i class="icon-play"></i>
-		</div>
-		<div class="module-poster-item-info">
-			<div class="module-poster-item-title">城中之城</div></div></a>
-//
+// ,{"type_id":2,"type_pid":0,"type_name":"电视剧"}
+// ,{"type_id":13,"type_pid":2,"type_name":"国产剧"}
+// ,{"type_id":14,"type_pid":2,"type_name":"港剧"}
+// ,{"type_id":15,"type_pid":2,"type_name":"韩剧"}
+// ,{"type_id":16,"type_pid":2,"type_name":"日剧"}
+// ,{"type_id":28,"type_pid":2,"type_name":"泰剧"}
+// ,{"type_id":29,"type_pid":2,"type_name":"台剧"}
+// ,{"type_id":30,"type_pid":2,"type_name":"欧美剧"}
+// ,{"type_id":31,"type_pid":2,"type_name":"新马剧"}
+// ,{"type_id":32,"type_pid":2,"type_name":"其他剧"}
 
-<div class="module-search-item">
-	<div class="video-cover">
-		<div class="module-item-cover">
-			<div class="module-item-pic">
-				<a href="/vodplay/114069-1-1.html" title="立刻播放庆余年第二季">
-					<i class="icon-play"></i>
-				</a>
-				<img class="lazy lazyload" data-src="https://www.imgikzy.com/upload/vod/20240511-3/391a62b631a67d3543e67005cdcfc18f.jpg" 
-				src="https://www.imgikzy.com/upload/vod/20240511-3/391a62b631a67d3543e67005cdcfc18f.jpg" alt="庆余年第二季">
-					<div class="loading"></div>
-				</div>
-			</div>
-		</div>
-		<div class="video-info">
-			<div class="video-info-header">
-				<a class="video-serial" href="/voddetail-114069.html" title="庆余年第二季">更新至09集</a>
-				<h3>
-					<a href="/voddetail-114069.html" title="庆余年第二季">庆余年第二季</a>
-				</h3>
-				<div class="video-info-aux">
-					<a href="/vodtype/dsj.html" title="电视剧" class="tag-link">
-						<span class="video-tag-icon">
-							<i class="icon-cate-ds"></i>
-                      电视剧
-						</span>
-					</a>
-					<div class="tag-link">
-						<a href="/vodsearch/year/2024.html" target="_blank">2024</a>&nbsp;
-					</div>
-					<div class="tag-link">
-						<a href="/vodsearch/area/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86.html" target="_blank">中国大陆</a>&nbsp;
-					</div>
-				</div>
-			</div>
-			<div class="video-info-main">
-				<div class="video-info-items">
-					<span class="video-info-itemtitle">导演：</span>
-					<div class="video-info-item video-info-actor">
-						<span class="slash">/</span>
-						<a href="/vodsearch/director/%E5%AD%99%E7%9A%93.html" target="_blank">孙皓</a>
-						<span class="slash">/</span>
-					</div>
-				</div>
-				<div class="video-info-items">
-					<span class="video-info-itemtitle">主演：</span><div class="video-info-item video-info-actor">
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%BC%A0%E8%8B%A5%E6%98%80.html" target="_blank">张若昀</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E6%9D%8E%E6%B2%81.html" target="_blank">李沁</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E9%99%88%E9%81%93%E6%98%8E.html" target="_blank">陈道明</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%90%B4%E5%88%9A.html" target="_blank">吴刚</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E7%94%B0%E9%9B%A8.html" target="_blank">田雨</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E6%9D%8E%E5%B0%8F%E5%86%89.html" target="_blank">李小冉</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E4%BF%9E%E9%A3%9E%E9%B8%BF.html" target="_blank">俞飞鸿</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E8%A2%81%E6%B3%89.html" target="_blank">袁泉</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E6%AF%9B%E6%99%93%E5%BD%A4.html" target="_blank">毛晓彤</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E9%83%AD%E9%BA%92%E9%BA%9F.html" target="_blank">郭麒麟</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%AE%8B%E8%BD%B6.html" target="_blank">宋轶</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E8%BE%9B%E8%8A%B7%E8%95%BE.html" target="_blank">辛芷蕾</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%AE%81%E7%90%86.html" target="_blank">宁理</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%88%98%E7%AB%AF%E7%AB%AF.html" target="_blank">刘端端</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%BC%A0%E6%98%8A%E5%94%AF.html" target="_blank">张昊唯</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E4%BB%98%E8%BE%9B%E5%8D%9A.html" target="_blank">付辛博</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E9%AB%98%E6%9B%99%E5%85%89.html" target="_blank">高曙光</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E8%B5%B5%E6%9F%AF.html" target="_blank">赵柯</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E4%BA%8E%E6%B4%8B.html" target="_blank">于洋</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E6%9D%8E%E5%BC%BA.html" target="_blank">李强</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%88%98%E6%A1%A6.html" target="_blank">刘桦</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E4%BD%9F%E6%A2%A6%E5%AE%9E.html" target="_blank">佟梦实</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E9%83%AD%E5%AD%90%E5%87%A1.html" target="_blank">郭子凡</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E9%87%91%E6%99%A8.html" target="_blank">金晨</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E7%8E%8B%E6%A5%9A%E7%84%B6.html" target="_blank">王楚然</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E9%AB%98%E9%9C%B2.html" target="_blank">高露</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E7%8E%8B%E6%99%93%E6%99%A8.html" target="_blank">王晓晨</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E9%9A%8B%E4%BF%8A%E6%B3%A2.html" target="_blank">隋俊波</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%BD%92%E4%BA%9A%E8%95%BE.html" target="_blank">归亚蕾</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E4%BD%99%E7%9A%91%E7%A3%8A.html" target="_blank">余皑磊</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E6%AF%95%E5%BD%A6%E5%90%9B.html" target="_blank">毕彦君</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E7%BD%97%E4%BA%8C%E7%BE%8A.html" target="_blank">罗二羊</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%90%B4%E5%B9%B8%E9%94%AE.html" target="_blank">吴幸键</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%AE%A3%E8%A8%80.html" target="_blank">宣言</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E7%8E%8B%E5%BA%86%E7%A5%A5.html" target="_blank">王庆祥</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%BE%90%E5%BF%97%E8%83%9C.html" target="_blank">徐志胜</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%B4%94%E5%BF%97%E5%88%9A.html" target="_blank">崔志刚</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%82%85%E8%BF%A6.html" target="_blank">傅迦</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%A7%9A%E5%AE%89%E6%BF%82.html" target="_blank">姚安濂</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E7%A7%A6%E7%84%B0.html" target="_blank">秦焰</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E6%B2%88%E6%99%93%E6%B5%B7.html" target="_blank">沈晓海</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E7%8E%8B%E5%90%8C%E8%BE%89.html" target="_blank">王同辉</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%86%AF%E5%85%B5.html" target="_blank">冯兵</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%B8%B8%E9%93%96.html" target="_blank">常铖</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E7%8E%8B%E5%BB%BA%E5%9B%BD.html" target="_blank">王建国</a>
-						<span class="slash">/</span>
-						<a href="/vodsearch/actor/%E5%88%98%E5%AE%87.html" target="_blank">刘宇</a>
-						<span class="slash">/</span>
-					</div>
-				</div>
-				<div class="video-info-items">
-					<span class="video-info-itemtitle">剧情：</span>
-					<div class="video-info-item">范闲率领使团回归途中，二皇子威胁他，范闲拒绝向其俯首称臣，二人的矛盾激发。范闲面对抱月楼迷局和春闱危机，皆是二皇子设下的陷阱。范闲与林婉儿大婚后接手内库，发现负债累累，决定自力救库。他成功售卖“库债”筹集了大笔资金，解决了内库空虚问题。庆帝遭遇刺杀，范闲出手相救却导致武功全废。面临危机，他不得不以残疾之躯挑战庞大势力，夺回内库。</div>
-				</div>
-			</div>
-			<div class="video-info-footer">
-				<a href="/vodplay/114069-1-1.html" class="btn-important btn-base" title="立刻播放庆余年第二季">
-					<i class="icon-play"></i>
-					<strong>立即播放</strong>
-				</a>
-			</div>
-		</div>
-	</div>
+// ,{"type_id":3,"type_pid":0,"type_name":"动漫"}
+// ,{"type_id":57,"type_pid":3,"type_name":"欧美动漫"}
+// ,{"type_id":58,"type_pid":3,"type_name":"日本动漫"}
+// ,{"type_id":59,"type_pid":3,"type_name":"韩国动漫"}
+// ,{"type_id":60,"type_pid":3,"type_name":"国产动漫"}
+// ,{"type_id":61,"type_pid":3,"type_name":"港台动漫"}
+// ,{"type_id":62,"type_pid":3,"type_name":"新马泰动漫"}
+// ,{"type_id":63,"type_pid":3,"type_name":"其它动漫"}
 
-//
+// ,{"type_id":4,"type_pid":0,"type_name":"综艺"}
+// ,{"type_id":38,"type_pid":4,"type_name":"国产综艺"}
+// ,{"type_id":39,"type_pid":4,"type_name":"港台综艺"}
+// ,{"type_id":40,"type_pid":4,"type_name":"韩国综艺"}
+// ,{"type_id":41,"type_pid":4,"type_name":"日本综艺"}
+// ,{"type_id":42,"type_pid":4,"type_name":"欧美综艺"}
+// ,{"type_id":43,"type_pid":4,"type_name":"新马泰综艺"}
+// ,{"type_id":44,"type_pid":4,"type_name":"其他综艺"}
 
-<div class="module-card-item module-item">
-	<div class="module-card-item-class">电视剧</div>
-	<a href="/index.php/vod/detail/id/179218.html" class="module-card-item-poster">
-		<div class="module-item-cover">
-			<div class="module-item-note">更新至第08集</div>
-			<div class="module-item-pic">
-				<img class="lazy lazyload" data-original="/img.php?url=https://gimg3.baidu.com/gimg/app=2028&amp;amp;amp;src=img.py1080p.com//2019/02/2decd7a4607185-360x528.jpg" 
-				alt="庆余年第二季" referrerpolicy="no-referrer" src="/mxtheme/images/load.gif" onerror="javascript:this.src='/mxtheme/images/errorpic.png'">
-				</div>
-			</div>
-		</a>
-		<div class="module-card-item-info">
-			<div class="module-card-item-title">
-				<a href="/index.php/vod/detail/id/179218.html">
-					<strong>庆余年第二季</strong>
-				</a>
-			</div>
-			<div class="module-info-item">
-				<div class="module-info-item-content">2024 
-					<span class="slash">/</span>中国大陆 
-					<span class="slash">/</span> 剧情,古装,国产
-				</div></div><div class="module-info-item"><div class="module-info-item-content">张若昀,李沁,陈道明,吴刚,</div>
-			</div>
-		</div>
-		<div class="module-card-item-footer">
-			<a href="/index.php/vod/play/id/179218/sid/1/nid/1.html" class="play-btn icon-btn">
-				<i class="icon-play"></i>
-				<span>播放</span>
-			</a>
-			<a href="/index.php/vod/detail/id/179218.html" class="play-btn-o">
-				<span>详情</span>
-			</a>
-		</div>
-	</div>
-
-//
-<div class="module-card-item module-item">
-	<div class="module-card-item-class">电视剧</div>
-	<a href="/voddetail/258078.html" class="module-card-item-poster">
-		<div class="module-item-cover">
-			<div class="module-item-note">更新至08集</div>
-			<div class="module-item-pic">
-				<img class="lazy lazyload" data-original="https://snzypic.com/upload/vod/20240516-1/2f0c75834240b683c497cbc2183d30f0.jpg" alt="庆余年第二季" referrerpolicy="no-referrer" src="https://snzypic.com/upload/vod/20240516-1/2f0c75834240b683c497cbc2183d30f0.jpg" onerror="javascript:this.src='/mxtheme/images/errorpic.png'" style="">
-				</div>
-			</div>
-		</a>
-		<div class="module-card-item-info">
-			<div class="module-card-item-title">
-				<a href="/voddetail/258078.html">
-					<strong>庆余年第二季</strong>
-				</a>
-			</div>
-			<div class="module-info-item">
-				<div class="module-info-item-content">2024
-					<span class="slash">/</span>中国大陆
-					<span class="slash">/</span>剧情,古装,国产,情古装,连续,情,电视
-				</div>
-			</div>
-			<div class="module-info-item">
-				<div class="module-info-item-content">张若昀,李沁,陈道明,吴刚,郭麒麟,田雨,李小冉,宋轶,辛芷蕾,高曙光,李强,于洋,刘端端,张昊唯,佟梦实,毛晓彤,王楚然,王晓晨,俞飞鸿,金晨,高露,隋俊波,毕彦君,付辛博,余皑磊,王天辰,吴幸键,宣言,冯兵,郭子凡,左凌峰,张维伊,刘同,宁理,归亚蕾,王庆祥,王同辉,沈晓海,冯恩鹤,秦焰,刘宇桥,王成阳,姚安濂,徐志胜,王建国,杨彤,张弛,李珞安</div>
-			</div>
-		</div>
-		<div class="module-card-item-footer">
-			<a href="/vodplay/258078-8-1.html" class="play-btn icon-btn">
-				<i class="icon-play"></i>
-				<span>播放</span>
-			</a>
-			<a href="/voddetail/258078.html" class="play-btn-o">
-				<span>详情</span>
-			</a>
-		</div>
-	</div>
-//
-<div class="module-card-item module-item">
-	<div class="module-card-item-class">电视剧</div>
-	<a href="/video/184570/" class="module-card-item-poster">
-		<div class="module-item-cover">
-			<div class="module-item-note">更新至08集</div>
-			<div class="module-item-pic">
-				<img referrerpolicy="no-referrer" class="lazyloaded" data-src="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc002002kqssyu1715223183563/450" src="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc002002kqssyu1715223183563/450" alt="庆余年 第二季">
-				</div>
-			</div>
-		</a>
-		<div class="module-card-item-info">
-			<div class="module-card-item-title">
-				<a href="/video/184570/">
-					<strong>庆余年 第二季</strong>
-				</a>
-			</div>
-			<div class="module-info-item">
-				<div class="module-info-item-content">2024
-					<span class="slash">/</span>中国大陆
-					<span class="slash">/</span>
-				</div>
-			</div>
-			<div class="module-info-item">
-				<div class="module-info-item-content">孙皓
-					<span class="slash"></span>张若昀
-					<span class="slash"></span>李沁
-					<span class="slash"></span>陈道明
-					<span class="slash"></span>吴刚
-					<span class="slash"></span>郭麒麟
-					<span class="slash"></span>田雨
-					<span class="slash"></span>李小冉
-					<span class="slash"></span>宋轶
-					<span class="slash"></span>辛芷蕾
-					<span class="slash"></span>高曙光
-					<span class="slash"></span>李强
-					<span class="slash"></span>于洋
-					<span class="slash"></span>刘端端
-					<span class="slash"></span>张昊唯
-					<span class="slash"></span>佟梦实
-					<span class="slash"></span>毛晓彤
-					<span class="slash"></span>王楚然
-					<span class="slash"></span>王晓晨
-					<span class="slash"></span>俞飞鸿
-					<span class="slash"></span>金晨
-					<span class="slash"></span>高露
-					<span class="slash"></span>隋俊波
-					<span class="slash"></span>毕彦君
-					<span class="slash"></span>付辛博
-					<span class="slash"></span>余皑磊
-					<span class="slash"></span>王天辰
-					<span class="slash"></span>吴幸键
-					<span class="slash"></span>宣言
-					<span class="slash"></span>冯兵
-					<span class="slash"></span>郭子凡
-					<span class="slash"></span>左凌峰
-					<span class="slash"></span>张维伊
-					<span class="slash"></span>刘同
-					<span class="slash"></span>宁理
-					<span class="slash"></span>归亚蕾
-					<span class="slash"></span>王庆祥
-					<span class="slash"></span>王同辉
-					<span class="slash"></span>沈晓海
-					<span class="slash"></span>冯恩鹤
-					<span class="slash"></span>秦焰
-					<span class="slash"></span>刘宇桥
-					<span class="slash"></span>王成阳
-					<span class="slash"></span>姚安濂
-					<span class="slash"></span>徐志胜
-					<span class="slash"></span>王建国
-					<span class="slash"></span>杨彤
-					<span class="slash"></span>张弛
-					<span class="slash"></span>李珞安
-					<span class="slash"></span>
-				</div>
-			</div>
-		</div>
-		<div class="module-card-item-footer">
-			<a href="/play/184570-1-1/" class="play-btn icon-btn">
-				<i class="icon-play"></i>
-				<span>播放</span>
-			</a>
-			<a href="/video/184570/" class="play-btn-o">
-				<span>详情</span>
-			</a>
-		</div>
-	</div>
-	//
-
-
-
-
-
-
-
-
-
-
-
-//
-
-
-
-
-
-
+// ,{"type_id":27,"type_pid":0,"type_name":"短剧"}
+// ,{"type_id":45,"type_pid":27,"type_name":"古装短剧"}
+// ,{"type_id":46,"type_pid":27,"type_name":"虐恋短剧"}
+// ,{"type_id":47,"type_pid":27,"type_name":"逆袭短剧"}
+// ,{"type_id":48,"type_pid":27,"type_name":"悬疑短剧"}
+// ,{"type_id":49,"type_pid":27,"type_name":"神豪短剧"}
+// ,{"type_id":50,"type_pid":27,"type_name":"重生短剧"}
+// ,{"type_id":51,"type_pid":27,"type_name":"复仇短剧"}
+// ,{"type_id":52,"type_pid":27,"type_name":"穿越短剧"}
+// ,{"type_id":53,"type_pid":27,"type_name":"甜宠短剧"}
+// ,{"type_id":54,"type_pid":27,"type_name":"强者短剧"}
+// ,{"type_id":55,"type_pid":27,"type_name":"萌宝短剧"}
+// ,{"type_id":56,"type_pid":27,"type_name":"其它短剧"}
+// ,{"type_id":64,"type_pid":27,"type_name":"合集短剧"}]}
 
 
 

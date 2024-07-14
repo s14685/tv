@@ -5,7 +5,7 @@
 {
     "作者":"荷城茶秀",
     "站名":"影渣渣影视", 
-    "主页url":"https://www.yingzhazha.com/",
+    "主页url":"https://www.yingzhazha.com",
     "简介":"集数：🌸+集数：</span><div class=\"module-info-item-content\">&&</div>+🌸+module-info-introduction\">&&</span>+🌸",
     "导演":"导演：</span>&&</a>+🌸+集数：</span><div class=\"module-info-item-content\">&&</div>",
     "主演":"主演：&&</span></div></div>",
@@ -16,18 +16,18 @@
 //分类页面
     "数组":"<a&&/div></div></a>",
     "标题":"alt=\"&&\"",
-    "副标题":"module-item-note\">&&</div>+ 🌸+module-item-douban\">豆瓣:&&</div>",
+    "副标题":"module-item-note\">&&</div>[替换:更新至第>> #连载中 连载到>> #更到>> #]+🌸+module-item-douban\">豆瓣:&&</div>",
     "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
 
 //搜索页面
-  "搜索url": "/vodsearch/-------------.html?wd={wd}",     //https://www.yingzhazha.com/vodsearch/-------------.html?wd=庆余年
-  "搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
-  "搜索数组": "<div class=\"module-card-item module-item\">&&<span>详情</span>",
-  "搜索副标题": "<div class=\"module-item-note\">&&</div>[替换:更新至>> #连载中>> #连载到>> #]",
-  "搜索标题": "alt=\"&&\"",
-  "搜索图片": "data-original=\"&&\"",
-  "搜索链接": "href=\"&&\"",
+  //"搜索url": "https://www.yingzhazha.com/vodsearch/-------------.html?wd={wd}",     //https://www.yingzhazha.com/vodsearch/-------------.html?wd=庆余年
+  //"搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
+  //"搜索数组": "<div class=\"module-card-item module-item\">&&播放",
+  //"搜索标题":"alt=\"&&\"",
+  //"搜索副标题":"data-original=\"&&\"", //"<div class=\"module-item-note\">&&</div>[替换:更新至>> #连载中>> #连载到>> #]",
+  //"搜索图片": "data-original=\"&&\"",
+  //"搜索链接":"href=\"&&\"",
 
 //播放列表
 //[排序:量子>非凡>快云>天空>海外>高清>乐视>閃電>优质>索尼>極速>飛速>闪电>无尽>红牛>极速>独家>专线>八戒>櫻花>超清]",

@@ -7,7 +7,7 @@
   "主演": "主演：&&<i></i></li>",
   "影片类型": "类型：&&</li>[替换:</a><i>/</i>>><br>#]",  "影片状态":"状态：</em>&&</span>",  "影片年代":"年份：</em>&&</li>",  "影片地区":"地区：</em>&&</li>",    //搜索页面
   //"搜索模式": "1",
-  //"搜索url": "/vod/search/?wd={wd}&submit=;post;wd={wd};", //https://www.ecmys.com/vod/search/?wd=庆余年第二季&submit=  //"搜索数组二次截取":"<div class=\"hl-item-wrap clearfix\">&&<script type=\"text/javascript\">",
+  //"搜索url": "https://www.ecmys.com/vod/search/?wd={wd}&submit=;post;wd={wd};", // https://www.ecmys.com/vod/search/?wd=庆余年第二季&submit=  //"搜索数组二次截取":"<div class=\"hl-item-wrap clearfix\">&&<script type=\"text/javascript\">",
   //"搜索数组": "<div class=\"hl-item-div\">&&查看详情[替换:CDATA>> #]",
   //"搜索标题": "title=\"&&\"",
   //"搜索副标题": "hl-lc-1 remarks\">&&</span>",

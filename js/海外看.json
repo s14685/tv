@@ -25,7 +25,6 @@
 
     "搜索模式":"1",
     "搜索url":"https://haiwaikan.tv/vodsearch/-------------/?wd={wd}", //https://haiwaikan.tv/vodsearch/-------------/?wd=庆余年
-    //"搜索数组二次截取":"\"list\"*[&&]",
     "搜索数组":"<i class=\"icon-play\"></i></a>&&<div class=\"video-info-footer\">",
     "搜索图片":"data-src=\"&&\"",
     "搜索标题":"alt=\"&&\"", 

@@ -37,7 +37,7 @@
     //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor vod_duration
     
 	//"搜索模式":"1",
-    "搜索url":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list&wd={wd}", //https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&wd=庆余年第二季
+    "搜索url":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&wd={wd}", //https://www.feisuzyapi.com/api.php/provide/vod/?ac=detail&wd=庆余年第二季
     "搜索数组二次截取":"\"list\"*[&&]",
     "搜索数组":"{&&}",
     "搜索图片":"vod_pic\"*\"&&\"",

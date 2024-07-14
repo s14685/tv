@@ -1,7 +1,16 @@
-//网飞/奈飞
+//网飞/奈飞 https://wangfei.tv https://naifei.io https://shidai.tv
+//最新地址影视狗网飞TVWangFei.TVWangFei.ioWangFei.live奈飞中文Naifei.ioNaifei.artNaifei.liveNaifei.org时代TVshidai.TVshidai.ioshidai.la万佳影视Wjys.ccWjys1.cc哈哈影视
+//网飞系列 https://wangfei.tv https://wangfei.in https://wangfei.io https://wangfei.live https://wangfei.de https://wangfei.eu
+//奈飞系列 https://naifei.io https://naifei.art https://naifei.org https://naifei.live 
+//时代系列 https://shidai.tv https://shidai.io https://shidai.la https://ygzw.xyz https://mtdy.xyz https://hxys.xyz https://wdys.xyz https://wjys.cc https://hdys.org https://dny123.cc https://ihaha.xyz https://yingshi.dog
+//官方域名 https://Naifei.org https://Wangfei.tv
+
 //https://www.wangfei.tv/vodshow/area/中国/by/hits/class/爱情/id/guochanju/lang/普通话/year/2024.html
 //https://www.wangfei.tv/vodshow/by/hits/id/guochanju/year/2024.html
 //https://www.wangfei.tv/vodsearch.html?wd=庆余年
+//https://www.wangfei.tv/vodsearch/actor/许凯/page/2.html
+
+
 {
     "作者":"荷城茶秀",
     "站名":"网飞", //模板: 'mxone5',
@@ -18,7 +27,7 @@
     "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
 
-    "简介":"🌸+｜<div class=\"module-info-item-content\">&&</div></div>[替换:更新至>> #更至>> #]+🌸+<div class=\"module-info-introduction-content show-desc\" style=\"line-height: 20px;\"><p>&&</p>",
+    "简介":"🌸+<div class=\"module-info-item-content\">&&</div></div>[替换:更新至>> #更至>> #]+🌸+<div class=\"module-info-introduction-content show-desc\" style=\"line-height: 20px;\"><p>&&</p>",
     "导演":"导演：</span>&&</a>+⚡️+进度：</span><div class=\"module-info-item-content\">&&</div>",
     "主演":"主演：</span>&&</div>",
     "影片类型":"<div class=\"module-info-tag\">&&立即播放[替换:<span class=\"slash\">/</span>>><br>#]",
@@ -30,12 +39,12 @@
 	//进度：</span><div class="module-info-item-content">共24集｜10分钟</div>｜<div class="module-info-item-content">更新至12集</div>
 
 //搜索页面 
-   "搜索url": "/vodsearch.html?wd={wd}",     //https://www.naifei.io/vodsearch.html?wd=庆余年
+   "搜索url": "https://www.wangfei.tv/vodsearch.html?wd={wd}",     //https://www.wangfei.tv/vodsearch.html?wd=庆余年
    "搜索数组二次截取":"<div class=\"module-items\">&&<div class=\"fixedGroup\">",
    "搜索数组": "<div class=\"module-search-item\">&&播放",
    "搜索标题": "alt=\"&&\"",
-   "搜索副标题": "<a class=\"video-serial*>&&</sa>", 
-   "搜索图片": "data-original=\"&&\"",
+   "搜索副标题": "🌸+<div class=\"module-item-note\">&&</div>",
+   "搜索图片": "data-src=\"&&\"",
    "搜索链接": "href=\"&&\"",
 
 //播放列表

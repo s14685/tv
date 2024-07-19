@@ -45,19 +45,62 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
     {"n":"中国","v":"中国"},
     {"n":"大陆","v":"大陆"},
     {"n":"内地","v":"内地"},
-~[排序:量子>非凡>快云>天空>优质>海外看>高清>乐速>爱坤>乐视>闪电>索尼>快看>卧龙>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果>百度>淘片]",
+~[排序:黑木耳>量子>非凡>华为吧>快云>天空>优质>海外看>高清>乐视>乐速>爱坤>闪电>索尼>快看>卧龙>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果>百度>淘片]",
 ~https://soupian.pro/search?key=庆余年
 ~https://xn--p3tv7h.com/ https://影搜.com
+
+
+//七味 - 七味网
+//https://www.qwavi.com/ms/3----粤语-------.html
+//https://www.qwavi.com/ms/2-大陆----------.html
+
+//飞兔视频
+//https://www.feitu.tv/filter/13/year/2024/
+//https://www.feitu.tv/search/-1/actor/许凯/
+//[替换:线路9(高速,屏蔽欧美IP)>>无尽#线路2(超清,海外专线)>>海外看#线路1(高速)>>优质#线路3(超清,中国专线)>>量子#线路4(高速)>>爱坤#]
+
+//楚门影视 华为吧
+//https://www.chumenys.com/vodshow/16-----------2024.html
+//https://www.chumenys.com/vodsearch/-许凯------------.html
+
+//稀饭影视
+//https://www.xifanys.com/yingpianshow/lianxuju-----------2024.html
+//https://www.xifanys.com/yingpiansearch/-许凯---------1---.html
+
+//多瑙影院
+//https://www.dnvods.com/index.php/vod/show/id/13/year/2024.html
+//https://www.dnvods.com/index.php/vod/search/actor/许凯/page/1.html
+//[替换:高清专线>>黑木耳#线路一>>乐视#线路二>>飞速#线路三>>非凡#
+
+//CN影院
+//https://cnys.tv/vodshow-2-area-大陆-class-国产-lang-国语-year-2024.html
+//[替换:全球节点\\【高清有广\\】>>乐视#海外专线\\【维护\\】>>海外看#中国节点>>量子#
+
+//海兔影院
+//https://www.haituu.tv/vodshow/2-----------2024.html
+//https://www.haituu.tv/vodsearch/-许凯---------1---.html
+//[替换:ME线路>>黑木耳#HW线路>>华为吧#YZ线路>>优质#FF线路>>非凡#]
+
+//小宝影院
+//https://xiaoxintv.com/index.php/vod/show/id/41/year/2024.html
+//[替换:线路1>>黑木耳#线路2>>卧龙#线路3>>华为吧#]
+//https://xiaoxintv.com/index.php/vod/search/actor/许凯/page/1.html
 
 //https://www.hdvod.cc/vod/filter/drama_chinese-内地--古装-国语-------2024/
 //https://www.hdvod.cc/vod/search/-许凯---------1---/
 
+//黑木耳 https://heimuer.tv/
+//https://json.heimuer.xyz/api.php/provide/vod/?ac=list
+//https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd=妖精的尾巴
+
+//黑猫演员
 //https://heimaotv.vip/vod/show/id/50.html
 //https://www.heimaotv.vip/vod/search/actor/许凯/page/1.html
 
 //https://6ttz.com/index.php/vod/show/id/13.html
 
-
+//优视频
+//https://www.uvod.tv/fil.html?parent_category_id=101
 //https://www.uvod.tv/fil.html?parent_category_id=101
 
 //https://huaweiba.live/index.php/vod/type/id/72.html
@@ -72,15 +115,12 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //https://www.yueyuwu.cc/tvb/2024/
 //http://www.tvb151.com/vodlist/13.html
 
-
-
 //粤语站
 //https://www.yueyz.com/show/13-----------.html
 
 //爱粤语
 //http://www.yueyu2.com/show/2-----------.html
 //http://www.yueyu2.com/show/22-----------.html
-
 
 //剧集搜
 //https://www.kktvn.com/vshow/7-----------.html
@@ -93,12 +133,10 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //https://www.akanhd.com/voddetail/102365/
 //
 
-
 //楚门影视 模板:'首图',
 //https://www.chumenys.com/vodshow/16--hits---------2024.html
 //https://www.chumenys.com/voddetail/35652.html
 //https://www.chumenys.com/vodsearch/-------------.html?wd=%E5%BA%86%E4%BD%99%E5%B9%B4&submit=
-
 
 //快看影视
 //https://www.kuaikanys.net/s/guochanju/year/2024.html
@@ -139,7 +177,6 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //https://www.icio.cc/voddetail/20648.html
 //https://www.icio.cc/vodsearch/-------------.html?wd=庆余年
 
-
 ~[排序:量子>非凡>快云>天空>优质>海外看>高清>乐速>爱坤>乐视>闪电>索尼>快看>卧龙>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果>百度>淘片]",
 
 //华乐影院
@@ -178,7 +215,6 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //https://sk100.tv/voddetail/87720.html
 //https://sk100.tv/vodsearch/-------------.html?wd=庆余年
 //[替换:专享一>>极速#专享二>>豪华#纯享>>Premiuer#备用一>>乐视#备用二>>索尼#海外路线>>#]
-
 
 //4k影院
 //https://4k4k.live/vodshow/13--hits---------2024.html
@@ -1773,15 +1809,8 @@ https://haiwaikan.com/
 
 
 
-
-
 //
 //
-
-
-
-
-
 
 
 

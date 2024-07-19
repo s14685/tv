@@ -1,11 +1,11 @@
-//http://winniec.asuscomm.com/iptv/js/MyVod.html
-//http://winniec.asuscomm.com/iptv/js/国产动漫/
+//http://williamc.tplinkdns.com/iptv/js/MyVod.html
+//http://williamc.tplinkdns.com/iptv/js/国产动漫/
 //
 
 {
     "作者":"XBPQ参数详细说明",
     "站名":"MyVod", 
-    "主页url":"http://winniec.asuscomm.com/",
+    "主页url":"http://williamc.tplinkdns.com/",
     "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
     "强制解析":"0",
     "图片代理":"0",
@@ -48,7 +48,7 @@
 	//"播放链接":"href=\"&&\"",
 	
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
-    "分类url":"http://winniec.asuscomm.com/iptv/js/MyVod.html?id={cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}",
+    "分类url":"http://williamc.tplinkdns.com/iptv/js/MyVod.html?id={cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}",
     "分类":"国产动漫$国产动漫#",
     
     "筛选":{

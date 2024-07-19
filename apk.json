@@ -1,30 +1,30 @@
-////http://winniec.asuscomm.com/iptv/apk.json
+////http://williamc.tplinkdns.com/iptv/apk.json
 [
   {
     "name": "📱盒子软件",
     "list": [
       {
         "name": "📱影视仓(多仓)",
-        "url": "http://winniec.asuscomm.com/apk/apk/影视仓_5.0.24.apk",
-        "icon": "http://winniec.asuscomm.com/images/tv16.png",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.24.apk",
+        "icon": "http://williamc.tplinkdns.com/images/tv16.png",
         "version": "v5.0.24"
       },
       {
         "name": "📱CatBox(多仓)",
-        "url": "http://winniec.asuscomm.com/apk/apk/CatBox多仓240129.apk",
-        "icon": "http://winniec.asuscomm.com/images/tv24.png",
+        "url": "http://williamc.tplinkdns.com/apk/apk/CatBox多仓240129.apk",
+        "icon": "http://williamc.tplinkdns.com/images/tv24.png",
         "version": "v240129"
       },
       {
         "name": "📱全网影视内置(多仓)",
-        "url": "http://winniec.asuscomm.com/apk/apk/全网影视5024内置.apk",
-        "icon": "http://winniec.asuscomm.com/images/tv32.png",
+        "url": "http://williamc.tplinkdns.com/apk/apk/全网影视5024内置.apk",
+        "icon": "http://williamc.tplinkdns.com/images/tv32.png",
         "version": "v5.0.24"
       },
       {
         "name": "📱Taka240222(单仓)",
-        "url": "http://winniec.asuscomm.com/apk/apk/Taka240222.apk",
-        "icon": "http://winniec.asuscomm.com/images/tv64.png",
+        "url": "http://williamc.tplinkdns.com/apk/apk/Taka240222.apk",
+        "icon": "http://williamc.tplinkdns.com/images/tv64.png",
         "version": "v240222"
       }
     ]
@@ -34,32 +34,32 @@
     "list": [
       {
         "name": "陈奕迅",
-        "url": "http://winniec.asuscomm.com/apk/apk/KTV_30.2.2_永久免费.apk",
-        "icon": "http://winniec.asuscomm.com/images/tv64.png",
+        "url": "http://williamc.tplinkdns.com/apk/apk/KTV_30.2.2_永久免费.apk",
+        "icon": "http://williamc.tplinkdns.com/images/tv64.png",
         "version": "v30.2.2"
       },      
 	  {
         "name": "📱KTV电视版",
-        "url": "http://winniec.asuscomm.com/apk/apk/KTV_30.2.2_永久免费.apk",
-        "icon": "http://winniec.asuscomm.com/images/tv64.png",
+        "url": "http://williamc.tplinkdns.com/apk/apk/KTV_30.2.2_永久免费.apk",
+        "icon": "http://williamc.tplinkdns.com/images/tv64.png",
         "version": "v30.2.2"
       },
       {
         "name": "📱mytv电视直播",
-        "url": "http://winniec.asuscomm.com/apk/apk/my-tv-v1.6.2.apk",
-        "icon": "http://winniec.asuscomm.com/images/tv64.png",
+        "url": "http://williamc.tplinkdns.com/apk/apk/my-tv-v1.6.2.apk",
+        "icon": "http://williamc.tplinkdns.com/images/tv64.png",
         "version": "v1.6.2"
       },
       {
         "name": "📱泥视频",
-        "url": "http://winniec.asuscomm.com/apk/apk/nivodtv_泥视频.apk",
-        "icon": "http://winniec.asuscomm.com/images/tv64.png",
+        "url": "http://williamc.tplinkdns.com/apk/apk/nivodtv_泥视频.apk",
+        "icon": "http://williamc.tplinkdns.com/images/tv64.png",
         "version": "v2.2.0"
       },
       {
         "name": "📱星视界",
-        "url": "http://winniec.asuscomm.com/apk/apk/histar_v3.0.4_星视界.apk",
-        "icon": "http://winniec.asuscomm.com/images/tv64.png",
+        "url": "http://williamc.tplinkdns.com/apk/apk/histar_v3.0.4_星视界.apk",
+        "icon": "http://williamc.tplinkdns.com/images/tv64.png",
         "version": "v3.0.4"
       }
     ]

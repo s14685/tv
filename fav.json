@@ -12,11 +12,11 @@
 //https://raw.githubusercontent.com/s14685/tv/main/js/HCCX.jar
 //"spider": "https://raw.liucn.cc/box/fty.jar;md5;8b8d1018ca0b29c22cf681e2db55d38f",
 //"线路数组":"data-dropdown-value=&&</div>[不包含:夸克#][替换:</span><small>>>️⚡️ #线路1>>豪华#线路2>>量子#线路3>>优质#线路4>>索尼#线路5>>乐视#线路6>>非凡#线路7>>优酷]", "请求头":"手机","免嗅": "0",
-//"线路标题":"🌸+<span>&&</small>[排序:量子>非凡>天空>卧龙>优质>高清>爱坤>海外>乐视>闪电>索尼>无尽>红牛>极速>独家>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>暴风>超清>蓝光>备用>本站>稳定>国内>速播>金鹰]",
+//"线路标题":"🌸+<span>&&</small>[排序:黑木耳>量子>非凡>华为吧>天空>卧龙>优质>高清>爱坤>海外>乐视>闪电>索尼>无尽>红牛>极速>独家>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>暴风>超清>蓝光>备用>本站>稳定>国内>速播>金鹰]",
 //[替换:v>>?ep=<序号>.mp4#][不包含:1#2#]\\$ \\# \\& \\* \\[ \\]
 		
-{"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt;md5;69c44556911acb40c53846bd52873fee","wallpaper":"http://www.饭太硬.top/深色壁纸/api.php",
-"subtitle": {"color": "#FFFFFF", "size": "48"},"sites":[
+{"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt;md5;69c44556911acb40c53846bd52873fee","wallpaper":"",
+"sites":[
 
 {"key":"drpy_js_豆瓣","name":"🌺豆瓣評分🌺","type":3,"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"http://williamc.tplinkdns.com/iptv/js/douban.js"},
 //{"key":"dr_搜狗","name":"🌺搜狗🌺","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"http://williamc.tplinkdns.com/iptv/js/sogou.js"},
@@ -27,32 +27,47 @@
 {"key":"csp_黑猫演员","name":"🎭黑猫演员🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/黑猫影视演员.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 
 {"key":"csp_剧圈圈","name":"🌈剧圈圈🌿9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/剧圈圈.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{"key":"csp_華人影视","name":"🌈華人影视🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://williamc.tplinkdns.com/iptv/js/華人影视.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{"key":"csp_華人影视演员","name":"🎭華人演员🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://williamc.tplinkdns.com/iptv/js/華人影视演员.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-
-
 {"key":"api_黑木耳🎯","name":"🎯黑木耳资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api黑木耳.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"api_非凡资源🎯","name":"🎯非凡资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api非凡.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+
+{"key":"csp_海兔影院","name":"🌈海兔影院🍏️4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/海兔影院.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"csp_海兔演员","name":"🎭海兔演员🍏4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/海兔演员.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"api_飞速资源🎯","name":"🎯飞速资源🌿2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api飞速.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+
+{"key":"csp_小宝影院","name":"🌈小宝影院🍏️4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/小宝影院.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"csp_小宝演员","name":"🎭小宝演员🍏4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/小宝演员.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"api_卧龙资源🎯","name":"🎯卧龙资源🍏💡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api卧龙.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+
+{"key":"csp_多瑙影院","name":"🌈多瑙影院🍏️4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/多瑙影院.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"csp_多瑙演员","name":"🎭多瑙演员🍏4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/多瑙演员.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"api_天空资源🎯","name":"🎯天空资源🍏2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api天空.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 
-{"key":"api_卧龙资源🎯","name":"🎯卧龙资源🍏💡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api卧龙.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{"key":"api_飞速资源🎯","name":"🎯飞速资源🌿2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api飞速.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{"key":"api_乐视资源🎯","name":"🎯乐视资源🍏💡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api乐视.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{"key":"api_华为资源🎯","name":"🎯华为资源🍏💡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api华为吧.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"csp_華人影视","name":"🌈華人影视🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://williamc.tplinkdns.com/iptv/js/華人影视.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"csp_華人影视演员","name":"🎭華人演员🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://williamc.tplinkdns.com/iptv/js/華人影视演员.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"api_量子资源🎯","name":"🎯量子资源🍏💡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api量子.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+
+
+{"key":"csp_稀饭影视","name":"🌈稀饭影视🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/稀饭影视.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"csp_纽约影院","name":"🌈纽约影院💡2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/纽约影院.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"api_优质资源🎯","name":"🎯优质资源🍏💡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api优质.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 
-{"key":"csp_纽约影院","name":"🌈纽约影院💡2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/纽约影院.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"csp_TVB云","name":"🌈TVB云🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/TVB云播.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"csp_TVB云播演员","name":"🎭TVB演员🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/TVB云播演员.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"api_华为资源🎯","name":"🎯华为资源🍏💡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api华为吧.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+
 {"key":"csp_影渣渣","name":"🌈影渣渣🍏❄️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/影渣渣.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"csp_影渣渣明星","name":"🎭影渣演员🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/影渣渣明星.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"api_乐视资源🎯","name":"🎯乐视资源🍏💡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api乐视.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+
 {"key":"csp_酷云高清","name":"🌈酷云高清🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/酷云高清.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+//{"key":"csp_酷云明星","name":"🎭️酷云演员🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/酷云明星.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"csp_楚门影视","name":"🌈楚门影视🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/楚门影视.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+
+{"key":"csp_真不卡","name":"🌈真不卡🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/真不卡.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
+{"key":"csp_真不卡明星","name":"🎭真不卡演员🍏4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/真不卡明星.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"csp_首播站","name":"🌈首播站🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/首播站.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 
 ////
-{"key":"csp_TVB云播演员","name":"🎭TVB演员🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/TVB云播演员.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-//{"key":"csp_酷云明星","name":"🎭️酷云演员🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/酷云明星.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{"key":"csp_影渣渣明星","name":"🎭影渣演员🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/影渣渣明星.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{"key":"csp_真不卡明星","name":"🎭真不卡演员🍏4","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/真不卡明星.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 
 {"key":"csp_网飞","name":"🌈网飞🍏❄️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/网飞.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"csp_时代","name":"🌈时代🍏❄️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/时代.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
@@ -98,7 +113,6 @@
 {"key":"csp_米爱影视","name":"🌈米爱影视🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/米爱影视.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"csp_新视觉3","name":"🌈新视觉影院🍏3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/新视觉影院.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"csp_348影视","name":"🌈348影视🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/348影视.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{"key":"csp_真不卡","name":"🌈真不卡🍏9","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/真不卡.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"csp_西屋影视","name":"🌈西屋🍏5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/西屋影视.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"csp_看看屋","name":"🌈看看屋🍏8","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/看看屋.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 {"key":"csp_泥巴海内","name":"🌈泥巴海内🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/泥巴海内.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
@@ -118,7 +132,6 @@
 //{"key":"js_360影视","name":"🎭360演员🍏1","api":"http://williamc.tplinkdns.com/iptv/js/drpy.min.js","playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/360影视.js","type":3},
 //{"key":"csp_量子演员","name":"🎭量子演员🍏","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/量子演员.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 //slow{"key":"csp_小鴨777tv","name":"🚀小鴨TV🚩🍏❄️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://williamc.tplinkdns.com/iptv/js/小鴨777tv.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-//{"key":"csp_海兔影院","name":"🚀海兔🚩🍏❄️","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://williamc.tplinkdns.com/iptv/js/海兔影院.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
 
 ////
 {"key":"js_好趣网","name":"🌎好趣网🍏","type":3,"api":"http://williamc.tplinkdns.com/iptv/js/drpy3.min.js","ext":"http://williamc.tplinkdns.com/iptv/js/好趣网.js","jar": "http://williamc.tplinkdns.com/iptv/js/f.jar"},

@@ -1,4 +1,4 @@
-//http://winniec.asuscomm.com/iptv/sh.json
+//http://williamc.tplinkdns.com/iptv/sh.json
 //http://williamc.ddns.net/iptv/sh.json
 {
   "storeHouse": [
@@ -78,15 +78,15 @@
     },
     {
       "sourceName": "16Master",
-      "sourceUrl": "http://winniec.asuscomm.com/iptv/dcmaster.json"
+      "sourceUrl": "http://williamc.tplinkdns.com/iptv/dcmaster.json"
     },
     {
       "sourceName": "17DC300",
-      "sourceUrl": "http://winniec.asuscomm.com/iptv/dc300.json"
+      "sourceUrl": "http://williamc.tplinkdns.com/iptv/dc300.json"
     },
     {
       "sourceName": "18DC",
-      "sourceUrl": "http://winniec.asuscomm.com/iptv/dc.json"
+      "sourceUrl": "http://williamc.tplinkdns.com/iptv/dc.json"
     },
     {
       "sourceName": "🌹🌹➊天天白嫖仓🌹🌹",

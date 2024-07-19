@@ -1,5 +1,5 @@
 //一二三四五 🌿🍃✨️🌅🎯🌺⚡️🏳️‍🌈🌈🎭🧩 0：系統；1：IJK；2：EXO
-//http://winniec.asuscomm.com/iptv/fav.json
+//http://williamc.tplinkdns.com/iptv/fav.json
 //http://williamc.ddns.net/iptv/fav.json
 //http://winniec.ddns.net/iptv/favnet.json
 //https://raw.githubusercontent.com/s14685/tv/main/favgh.json
@@ -373,7 +373,7 @@
 //直播
 {"key":"直播","name":"🌺🌺直播🌺🌺","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"直播转点播","name":"📺︎电视直播","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://williamc.ddns.net/iptv/js/zb.json"},
-{"key":"直播转点播1","name":"📺︎电视直播1","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://winniec.asuscomm.com/iptv/tvlive.txt"},
+{"key":"直播转点播1","name":"📺︎电视直播1","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://williamc.tplinkdns.com/iptv/tvlive.txt"},
 {"key":"直播转点播2","name":"📺︎电视直播2","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb.txt"},
 {"key":"drpy_js_虎牙直播","name":"📺︎虎牙直播","type":3,"api":"http://williamc.ddns.net/iptv/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://williamc.ddns.net/iptv/js/虎牙直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"📺︎斗鱼直播","type":3,"api":"http://williamc.ddns.net/iptv/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://williamc.ddns.net/iptv/js/斗鱼直播.js"},

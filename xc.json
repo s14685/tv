@@ -15,7 +15,7 @@
 {"key":"❤91麻豆","name":"❤91麻豆资源","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"❤探探资源","name":"❤探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"❤色猫资源","name":"❤色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"直播转点播1","name":"📺︎电视┃直播1","type":3,"api":"http://www.uuneed.cn/ayxzyj/zz/raw/master/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://winniec.asuscomm.com/iptv/tvlive.txt"},
+{"key":"直播转点播1","name":"📺︎电视┃直播1","type":3,"api":"http://www.uuneed.cn/ayxzyj/zz/raw/master/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://williamc.tplinkdns.com/iptv/tvlive.txt"},
 {"key":"直播转点播2","name":"📺︎电视┃直播2","type":3,"api":"http://www.uuneed.cn/ayxzyj/zz/raw/master/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.uuneed.cn/ayxzyj/zz/raw/master/zb.txt"},
 {"key":"世界杯","name":"世界杯","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
 {"key":"csp_DouDou","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},

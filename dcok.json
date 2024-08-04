@@ -17,9 +17,12 @@
 //{"name":"🐯自定tbnet","url":"http://winniec.ddns.net/iptv/tbnet.json"},
 //{"name":"🐯自定net","url":"http://williamc.ddns.net/iptv/net.json"},
 {"name":"🐯自定fty","url":"http://williamc.tplinkdns.com/iptv/fty.json"},
+{"name":"🐯自定m","url":"http://williamc.tplinkdns.com/iptv/m.json"},
 
 // ✅多多线路
-{"name": "🚀多多┃饭太硬线路" ,"url":"http://饭太硬.top/tv"},                      
+
+{"name": "🐹狸云影视资源" ,"url":"https://www.lysvc.cc/tvbox/TVshare.json"},
+{"name": "🚀多多┃饭太硬线路" ,"url":"http://饭太硬.top/tv"},
 {"name": "🚀多多┃肥猫线路" ,"url":"http://肥猫.live"},  
 {"name": "🚀多多┃OK线路" ,"url":"https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt"},  
 {"name": "🚀多多┃PG线路" ,"url":"http://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json"},

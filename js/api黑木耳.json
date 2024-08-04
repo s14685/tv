@@ -1,6 +1,16 @@
 //黑木耳 https://heimuer.tv/
 //https://json.heimuer.xyz/api.php/provide/vod/?ac=list
 //https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd=妖精的尾巴
+//☆ 即将停用的采集接口1：
+//https://json.heimuer.tv/api.php/provide/vod/?ac=list
+//☆ 即将停用的采集接口2：
+//https://xml.heimuer.tv/api.php/provide/vod/at/xml/?ac=list
+//☆ 最新通用采集json接口：
+//https://json.heimuer.xyz/api.php/provide/vod/?ac=list
+//☆ 最新通用采集xml接口：
+//https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list
+//☆ M3U8专用解析接口：
+//https://player.heimuer.tv/index.html?url=
 
  {
     "主页url":"https://json.heimuer.xyz",
@@ -21,7 +31,7 @@
     //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor
     
 	"搜索模式":"1",
-    "搜索url":"https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd={wd}", //https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd=庆余年第二季
+    "搜索url":"https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd={wd}", //https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd=庆余年
     "搜索数组二次截取":"\"list\"*[&&]",
     "搜索数组":"{&&}",
     "搜索图片":"vod_pic\"*\"&&\"",
@@ -50,7 +60,7 @@
     "播放标题":"&&",
 	"播放链接":"&&",
     
-    "分类":"国产剧$13#韩剧$15#国产动漫$60#电影$6#电视剧$13#综艺$38#动漫$60#短剧$64#",
+    "分类":"国产动漫$60#国产剧$13#韩剧$15#电影$6#电视剧$13#综艺$38#动漫$60#短剧$64#",
     "分类url":"https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20",
     
 	"筛选":{

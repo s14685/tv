@@ -23,7 +23,6 @@ https://www.yingzhazha.com/actorshow/-------%E5%A5%B3-.html
 // 例如: https://slapibf.com/api.php/provide/vod/?ac=detail&ids=123,567 获取ID为123和567的数据信息
 // https://slapibf.com/api.php/provide/vod/?ac=detail&h=24 获取24小时内更新数据信息
 
-
 ~[排序:量子>非凡>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>快看>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
 
 ~[极速线路1>>非凡#极速线路2>>索尼#极速线路3>>暴风#极速线路4>>快看#超清线路1>>乐视#超清线路2>>新浪#备用线路1>>红牛#备用线路2>>无尽#蓝光专享1>>SEVEN#蓝光专享2>>腾讯#蓝光专享3>>优酷#蓝光专享4>>奇艺#蓝光专享5>>芒果#大米蓝光>>大米DD#]
@@ -89,16 +88,18 @@ U酷uk>ukzy.ukubf4.com
 鱼乐>y2.ylbf1.com
 v10.iqiyioss.com
 
-
 ~[替换:超高畫質>>海外看#1080P雲>>快看#高畫質>>索尼#快速線路>>百度#高清雲>>乐视#加速線路>>卧龙#量子線路>>量子#最大雲>>最大#快雲>>快雲#光速雲>>光速#暴風線路>>暴風#蜂速雲>>金鹰#高速雲>>虎牙#飛雲>>优质#速播雲>>速播#閃電雲>>閃電#極速線路>>极速#櫻花雲>>櫻花#飛速雲2>>飞速#飛速雲>>飞速#天空線路>>天空#八戒線路>>八戒#華速雲>>豪华#快車雲>>快車#]
 奇艺>v10.iqiyioss.com
 芒果
 腾讯
 优酷
-~[排序:量子>非凡>快云>天空>优质>海外看>高清>乐速>爱坤>乐视>闪电>索尼>快看>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
+~[排序:黑木耳>量子>非凡>快云>天空>优质>海外看>高清>乐速>爱坤>乐视>闪电>索尼>快看>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
 
 //国内线路H>>HX#2M线路>>2M#SN线路>>索尼#YZ线路>>优质#内地IP播放L>>量子#内地IP播放1>>非凡#备用线路B>>暴风#ZD线路>>最大#LS线路>>乐视#TK线路>>天空#海外线路1>>海外看#临时线路N>>红牛#FS线路>>飞速#XL线路>>新浪#QH线路>>奇虎#
 //
+
+//MD线路>>Modu#线路2Y>>YY#内地线路B>>暴风#SN线路>>索尼#内地线路Y>>优质#内地线路F>>非凡#FS线路>>飞速#TK线路>>天空#内地线路G>>光速#JY线路>>金鹰#ZD线路>>最大#N线路>>红牛#内地线路IK>>爱坤#内地线路L>>量子#HM线路>>黑木耳#内地线路K>>快看#
+//MD线路8 线路2Y8 内地线路B8 SN线路8 SN线路4 内地线路Y8 内地线路F8 FS线路8 TK线路8 内地线路G8 JY线路8 HM线路8 N线路8 ZD线路8 内地线路L8 内地线路K8 内地线路IK8
 
 {
   "code": 1,
@@ -363,36 +364,276 @@ v10.iqiyioss.com
 // ,{"type_id":56,"type_pid":27,"type_name":"其它短剧"}
 // ,{"type_id":64,"type_pid":27,"type_name":"合集短剧"}]}
 
+<div class="module-item">
+	<div class="module-item-cover">
+		<div class="module-item-pic">
+			<a href="/voddetail/316975.html" title="孤战迷城" >
+				<i class="icon-play"></i>
+			</a>
+			<img class="lazy lazyloaded" data-src="https://img.ffzy888.com/upload/vod/20240629-1/48d0e2f41a64b3435a1f95e5cf7e472b.jpg" src="/template/mxone/mxstatic/image/loading.gif" onerror="javascript:this.src='/template/mxone/mxstatic/image/err-bg.png'" alt="孤战迷城">
+				<div class="loading"></div>
+			</div>
+			<div class="module-item-caption">
+				<span>2024</span>
+				<span class="video-class">国产剧</span>
+				<span>中国大陆</span>
+			</div>
+			<div class="module-item-ru">
+				<span class="vip">独家推荐</span>
+			</div>
+			<div class="module-item-content">
+				<div class="module-item-style video-name">
+					<a href="/voddetail/316975.html" title="孤战迷城">孤战迷城</a>
+				</div>
+				<div class="module-item-style video-tag">
+					<a href="/vodsearch/-%E9%BB%84%E6%99%AF%E7%91%9C------------.html" target="_blank">黄景瑜</a>&nbsp;
+					<a href="/vodsearch/-%E8%BE%9B%E8%8A%B7%E8%95%BE------------.html" target="_blank">辛芷蕾</a>&nbsp;
+					<a href="/vodsearch/-%E9%A9%AC%E6%80%9D%E8%B6%85------------.html" target="_blank">马思超</a>&nbsp;
+					<a href="/vodsearch/-%E9%A9%AC%E6%9C%88------------.html" target="_blank">马月</a>&nbsp;
+					<a href="/vodsearch/-%E7%BD%97%E7%A7%8B%E9%9F%B5------------.html" target="_blank">罗秋韵</a>&nbsp;
+					<a href="/vodsearch/-%E8%91%A3%E7%92%87------------.html" target="_blank">董璇</a>&nbsp;
+					<a href="/vodsearch/-%E9%83%AD%E7%A7%8B%E6%88%90------------.html" target="_blank">郭秋成</a>&nbsp;
+					<a href="/vodsearch/-%E5%BC%A0%E6%99%9E%E4%B8%B4------------.html" target="_blank">张晞临</a>&nbsp;
+					<a href="/vodsearch/-%E5%BC%A0%E5%AD%90%E5%81%A5------------.html" target="_blank">张子健</a>&nbsp;
+					<a href="/vodsearch/-%E7%AB%A0%E7%94%B3------------.html" target="_blank">章申</a>&nbsp;
+					<a href="/vodsearch/-%E8%B5%B5%E8%BE%BE------------.html" target="_blank">赵达</a>&nbsp;
+					<a href="/vodsearch/-%E8%82%96%E9%A1%BA%E5%B0%A7------------.html" target="_blank">肖顺尧</a>&nbsp;
+					<a href="/vodsearch/-%E9%B2%81%E7%85%A7%E5%8D%8E------------.html" target="_blank">鲁照华</a>&nbsp;
+				</div>
+				<div class="module-item-style video-text">抗战胜利前夕，潜伏在军统的中共地下党员欧孝安（黄景瑜 饰）从日军生化毒气研究所监狱中成功越狱，途中受重伤昏迷，被中国远征军发现并救走。苏醒后的欧孝安发现自己丧失了在监狱近四年的记忆。欧孝安以四年前记忆</div>
+			</div>
+		</div>
+		<div class="module-item-titlebox">
+			<a href="/voddetail/316975.html" class="module-item-title" title="孤战迷城">孤战迷城</a>
+		</div>
+		<div class="module-item-text">更新至第22集</div>
+	</div>
+	<div class="module-item">
+		<div class="module-item-cover">
+			<div class="module-item-pic">
+				<a href="/voddetail/317835.html" title="第二次初见" >
+					<i class="icon-play"></i>
+				</a>
+				<img class="lazy lazyloaded" data-src="https://img.ffzy888.com/upload/vod/20240706-1/622ed3f31ba4b84ad1877a0fb9a57cca.jpg" src="/template/mxone/mxstatic/image/loading.gif" onerror="javascript:this.src='/template/mxone/mxstatic/image/err-bg.png'" alt="第二次初见">
+					<div class="loading"></div>
+				</div>
+				<div class="module-item-caption">
+					<span>2024</span>
+					<span class="video-class">国产剧</span>
+					<span>中国大陆</span>
+				</div>
+				<div class="module-item-content">
+					<div class="module-item-style video-name">
+						<a href="/voddetail/317835.html" title="第二次初见">第二次初见</a>
+					</div>
+					<div class="module-item-style video-tag">
+						<a href="/vodsearch/-%E5%AE%8B%E4%BC%8A%E4%BA%BA------------.html" target="_blank">宋伊人</a>&nbsp;
+						<a href="/vodsearch/-%E9%83%AD%E4%BF%8A%E8%BE%B0------------.html" target="_blank">郭俊辰</a>&nbsp;
+						<a href="/vodsearch/-%E6%9D%8E%E4%B9%9D%E9%9C%96------------.html" target="_blank">李九霖</a>&nbsp;
+						<a href="/vodsearch/-%E5%A7%9C%E6%A2%93%E6%96%B0------------.html" target="_blank">姜梓新</a>&nbsp;
+						<a href="/vodsearch/-%E4%B9%94%E9%AA%8F%E8%BE%BE------------.html" target="_blank">乔骏达</a>&nbsp;
+						<a href="/vodsearch/-%E9%A9%AC%E5%90%AF%E8%B6%8A------------.html" target="_blank">马启越</a>&nbsp;
+						<a href="/vodsearch/-%E6%96%87%E8%8B%A1%E5%B8%86------------.html" target="_blank">文苡帆</a>&nbsp;
+					</div>
+					<div class="module-item-style video-text">改编自影照在晋江文学城网站的连载小说《午门囧事》，讲述了铁饼运动员齐春娇经历职业生涯终断、初恋告白失败、与母亲产生隔阂等一系列崩溃事件后，意外头部受伤竟成为了古代千金顾清乔，与此同时暗恋对象段玉和他的</div>
+				</div>
+			</div>
+			<div class="module-item-titlebox">
+				<a href="/voddetail/317835.html" class="module-item-title" title="第二次初见">第二次初见</a>
+			</div>
+			<div class="module-item-text">更新至第22集</div>
+		</div>
+
+---
+
+<div class="module-search-item">
+	<div class="video-cover">
+		<div class="module-item-cover">
+			<div class="module-item-pic">
+				<a href="/voddetail/317226.html" title="立刻播放你比星光美丽">
+					<i class="icon-play"></i>
+				</a>
+				<img class="lazy lazyload" data-src="https://hw8.live/upload/vod/20240704-1/6048482543ecfbdcadc11735fb6fff15.webp" src="/template/mxone/mxstatic/image/loading.gif" onerror="javascript:this.src='/template/mxone/mxstatic/image/err-bg.png'" alt="你比星光美丽">
+					<div class="loading"></div>
+				</div>
+			</div>
+		</div>
+		<div class="video-info">
+			<div class="video-info-header">
+				<a class="video-serial" href="/voddetail/317226.html" title="你比星光美丽">更新至22</a>
+				<h3>
+					<a href="/voddetail/317226.html" title="你比星光美丽">你比星光美丽</a>
+				</h3>
+				<div class="video-info-aux">
+					<a href="/vodtype/2.html" title="连续剧" class="tag-link">
+						<span class="video-tag-icon">
+							<i class="icon-cate-ds"></i>连续剧
+						</span>
+					</a>
+					<div class="tag-link">
+						<a href="/vodsearch/-------------2024.html" target="_blank">2024</a>&nbsp;
+					</div>
+					<div class="tag-link">
+						<a href="/vodsearch/--%E5%A4%A7%E9%99%86-----------.html" target="_blank">大陆</a>&nbsp;
+					</div>
+				</div>
+			</div>
+			<div class="video-info-main">
+				<div class="video-info-items">
+					<span class="video-info-itemtitle">导演：</span>
+					<div class="video-info-item video-info-actor">
+						<span class="slash">/</span>
+						<a href="/vodsearch/-----%E9%99%88%E7%95%85--------.html" target="_blank">陈畅</a>
+						<span class="slash">/</span>
+					</div>
+				</div>
+				<div class="video-info-items">
+					<span class="video-info-itemtitle">主演：</span>
+					<div class="video-info-item video-info-actor">
+						<span class="slash">/</span>
+						<a href="/vodsearch/-%E8%B0%AD%E6%9D%BE%E9%9F%B5------------.html" target="_blank">谭松韵</a>
+						<span class="slash">/</span>
+						<a href="/vodsearch/-%E8%AE%B8%E5%87%AF------------.html" target="_blank">许凯</a>
+						<span class="slash">/</span>
+						<a href="/vodsearch/-%E4%BD%95%E7%91%9E%E8%B4%A4------------.html" target="_blank">何瑞贤</a>
+						<span class="slash">/</span>
+						<a href="/vodsearch/-%E9%AB%98%E5%AF%92------------.html" target="_blank">高寒</a>
+						<span class="slash">/</span>
+						<a href="/vodsearch/-%E5%91%A8%E5%A4%A7%E4%B8%BA------------.html" target="_blank">周大为</a>
+						<span class="slash">/</span>
+						<a href="/vodsearch/-%E7%8E%8B%E4%BC%8A%E6%BE%9C------------.html" target="_blank">王伊澜</a>
+						<span class="slash">/</span>
+						<a href="/vodsearch/-%E5%90%B4%E6%96%BD%E4%B9%90------------.html" target="_blank">吴施乐</a>
+						<span class="slash">/</span>
+						<a href="/vodsearch/-%E5%94%90%E6%8C%AF%E8%B6%85------------.html" target="_blank">唐振超</a>
+						<span class="slash">/</span>
+						<a href="/vodsearch/-%E7%BD%97%E6%B3%BD%E6%A5%B7------------.html" target="_blank">罗泽楷</a>
+						<span class="slash">/</span>
+						<a href="/vodsearch/-%E5%B4%94%E6%81%A9%E6%85%88------------.html" target="_blank">崔恩慈</a>
+						<span class="slash">/</span>
+						<a href="/vodsearch/-%E9%AB%98%E6%9B%BC%E5%B0%94------------.html" target="_blank">高曼尔</a>
+						<span class="slash">/</span>
+					</div>
+				</div>
+				<div class="video-info-items">
+					<span class="video-info-itemtitle">剧情：</span>
+					<div class="video-info-item">　　北漂⼥孩纪星毕业后一直重复压抑的职场⽣活最终辞职创业。创业之初，理想与现实的巨⼤落差犹如⼀记闷棍，砸得纪星头昏眼花，但她从未想过放弃，最终成功拉到投资⼈韩廷⼊伙，二⼈能否联⼿共攀中国AI医疗的新⾼</div>
+				</div>
+			</div>
+			<div class="video-info-footer">
+				<a href="/voddetail/317226.html" class="btn-important btn-base" title="立刻播放你比星光美丽">
+					<i class="icon-play"></i>
+					<strong>影片详情</strong>
+				</a>
+			</div>
+		</div>
+	</div>
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
+<div class="myui-content__detail">
+	<a class="btn btn-default dropdown-hover pull-right visible-lg" href="javascript:;">
+		<div class="dropdown-box bottom fadeInDown clearfix" style="display: block;">
+			<div class="item text-center" style="padding: 15px 10px;">
+				<div class="qrcode-box" style="background-color: #ffffff;">
+					<img class="icon" src="/template/mytheme/statics/image/20211024/102f40572.ico" width="25" height="25" />
+					<span id="qrcode" data-link="0" data-dark="#000000" data-light="#ffffff"></span>
+				</div>
+				<p class="margin-0">扫一扫用手机观看</p>
+			</div>
+		</div>
+		<i class="fa fa-mobile" style="font-size: 24px; vertical-align: -4px;"></i>手机观看
+	</a>
+	<h1 class="title">你比星光美丽</h1>
+	<div id="rating" class="score" data-mid="1" data-id="98399" data-score="4" style="display:none;">
+		<span class="left text-muted">评分：</span>
+		<ul class="rating">
+			<li title="很差" val="1">
+				<i class="fa fa-star"></i>
+			</li>
+			<li title="较差" val="2">
+				<i class="fa fa-star"></i>
+			</li>
+			<li title="还行" val="3">
+				<i class="fa fa-star"></i>
+			</li>
+			<li title="推荐" val="4">
+				<i class="fa fa-star"></i>
+			</li>
+			<li title="力荐" val="5">
+				<i class="fa fa-star-o"></i>
+			</li>
+		</ul>
+		<span class="branch">7.0</span>
+		<span class="text-muted" id="ratewords">推荐</span>
+	</div>
+	<p class="data">
+		<span class="text-muted">分类：</span>
+		<a href="/index.php/vod/show/id/41.html">国产剧</a>
+		<span class="split-line"></span>
+		<span class="text-muted hidden-xs">地区：</span>
+		<a href="/index.php/vod/show/area/%E5%A4%A7%E9%99%86/id/41.html">大陆</a>
+		<span class="split-line"></span>
+		<span class="text-muted hidden-xs">年份：</span>
+		<a href="/index.php/vod/show/id/41/year/2024.html">2024</a>
+	</p>
+	<p class="data hidden-sm">
+		<span class="text-muted">更新：</span>
+		<span class="text-red">更新至【22】 / 2024-07-15</span>
+	</p>
+	<p class="data">
+		<span class="text-muted">主演：</span>
+		<a href="/index.php/vod/search/actor/%E8%B0%AD%E6%9D%BE%E9%9F%B5.html" target="_blank">谭松韵</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E5%B4%94%E6%81%A9%E6%85%88.html" target="_blank">崔恩慈</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E5%91%A8%E5%A4%A7%E4%B8%BA.html" target="_blank">周大为</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E4%BD%95%E7%91%9E%E8%B4%A4.html" target="_blank">何瑞贤</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E8%AE%B8%E5%87%AF.html" target="_blank">许凯</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E9%AB%98%E5%AF%92.html" target="_blank">高寒</a>&nbsp;
+		<a href="/index.php/vod/search/actor/%E5%90%B4%E6%96%BD%E4%B9%90.html" target="_blank">吴施乐</a>&nbsp;
+	</p>
+	<p class="data">
+		<span class="text-muted">导演：</span>
+		<a href="/index.php/vod/search/director/%E9%99%88%E7%95%85.html" target="_blank">陈畅</a>&nbsp;
+	</p>
+	<p class="data hidden-xs">
+		<span class="text-muted">简介：</span>北漂⼥孩纪星毕业后一直重复压抑的职场⽣活最终辞职创业。创业之初，理想与现实的巨⼤...
+		<a href="#desc">详情
+			<i class="fa fa-angle-right"></i>
+		</a>
+	</p>
+</div>
+<div class="myui-content__operate">
+	<a class="btn btn-warm" href="/index.php/vod/play/id/98399/sid/2/nid/1.html">
+		<i class="fa fa-play"></i>立即播放
+	</a>
+	<a class="btn btn-danger" href="javascript:;" onclick="Myui.User.Login();">
+		<i class="fa fa-star"></i>收藏
+	</a>
+</div>undefined</div>undefined</div>undefined</div>undefined<div class="myui-panel myui-panel-bg clearfix" id="desc">undefined<div class="myui-panel-box clearfix">undefined<div class="myui-panel_hd">
+<div class="myui-panel__head active bottom-line clearfix">
+	<h3 class="title">剧情简介</h3>
+</div>undefined</div>undefined<div class="myui-panel_bd">
+<div class="col-pd text-collapse content">
+	<span class="sketch content">北漂⼥孩纪星毕业后一直重复压抑的职场⽣活最终辞职创业。创业之初，理想与现实的巨⼤落差犹如⼀记闷棍，砸得纪星头昏眼花，但她从未想过放弃，最终成功拉到投资⼈韩廷⼊伙，二⼈能否联⼿共攀中国 AI 医疗的新⾼</span>
+	<span class="data" style="display: none;">
+		<p>北漂⼥孩纪星毕业后一直重复压抑的职场⽣活最终辞职创业。创业之初，理想与现实的巨⼤落差犹如⼀记闷棍，砸得纪星头昏眼花，但她从未想过放弃，最终成功拉到投资⼈韩廷⼊伙，二⼈能否联⼿共攀中国 AI 医疗的新⾼...</p>
+	</span>
+	<a class="details" href="javascript:;">详情
+		<i class="fa fa-angle-down"></i>
+	</a>
+</div>undefined</div>undefined</div>undefined</div>undefined<div class="myui-panel myui-panel-bg clearfix">undefined<div class="myui-panel-box clearfix">undefined<div class="myui-panel_hd">
+<div class="myui-panel__head active bottom-line clearfix">
+	<a class="more sort-button pull-right" href="javascript:;">
+		<i class="fa fa-sort-amount-asc"></i>排序
+	</a>
+	<h3 class="title">播放地址</h3>
 
 
 
 
 
 //
-
-
-
-
-
-
-
-
-
-
 
 
 

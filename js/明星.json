@@ -1,4 +1,5 @@
 [
+
 	{
         "name": "⚡国产动漫",
         "url": "http://williamc.tplinkdns.com/iptv/js/国产动漫.txt&&&http://williamc.tplinkdns.com/images/国产动漫.png"
@@ -7,6 +8,11 @@
         "name": "⚡陆剧24",
         "url": "http://williamc.tplinkdns.com/iptv/js/电视剧2024.txt&&&http://williamc.tplinkdns.com/images/电视剧2024.png"
     },
+	{
+        "name": "⚡综艺节目",
+        "url": "http://williamc.tplinkdns.com/iptv/js/综艺节目.txt&&&http://williamc.tplinkdns.com/images/电视剧2024.png"
+    },	
+	
 	{
         "name": "⚡周1",
         "url": "http://williamc.tplinkdns.com/iptv/js/周1.txt&&&http://williamc.tplinkdns.com/images/国产动漫.png"

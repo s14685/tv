@@ -1,0 +1,57 @@
+香港直播,#genre#
+
+
+民視第一台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/4gtv-4gtv003-avc1_2000000=3-mp4a_125000=6.m3u8?token=p3EldfwHoguPthYlJmG7SQ&expires=1722715880&token1=Swtgk0X61fvCP5QxO1qkyQ&expires1=1722715880
+民視台灣台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv001/4gtv-live-mid/4gtv-4gtv001-avc1_2000000=3-mp4a_132000=6.m3u8?token=pB9OXShKOq48UHCcA9kPIA&expires=1722716050&token1=jcApaPpevmnf9_A0nY3YAw&expires1=1722716050
+民視,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-avc1_800000=4-mp4a_129000_zho=10.m3u8?token=nk-F2750MKRrZILYOtof8w&expires=1722716107&token1=mq5GJeQ7ZEB2tT54Fah1kg&expires1=1722716107
+民視綜藝台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv004/4gtv-live-mid/4gtv-4gtv004-avc1_2000000=3-mp4a_117000=8.m3u8?token=HMnVBrhAUbakmSHMUIJ8uA&expires=1722716211&token1=3Ij5kmLZ0uKsQVNUSVmrIA&expires1=1722716211
+民視旅遊台,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv07/4gtv-live-mid/litv-ftv07-avc1_2000000=3-mp4a_134000_zho=7.m3u8?token=N1F-MeIYsD9rO8fqVUPMwg&expires=1722716336&token1=udIxzr3LjKlOczHK-YjjFg&expires1=1722716336
+精選動漫台,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live024/4gtv-live-mid/720.m3u8?token=NrgUohm7UFEhP9ts0Q2XyA&expires=1722716784&token1=AMivUwcrJDqGdtYMcN-yiw&expires1=1722716784
+
+
+
+CCTV5,https://mlivewbndcnchw.v.cdn20.com/mlivewbnd/mlive44_2/index.m3u8
+CCTV5+,https://ldcctvwbcdcnchw.v.cdn20.com/ldcctvwbcd/live/ccdrmldcctv5plus_1/index.m3u8?b=200-2100
+CCTV13,https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?b=200-2100
+CCTV16,https://ldcctvwbcdkshw.v.kcdnvip.com/ldcctvwbcd/live/ccdrmldcctv16_1/index.m3u8?b=200-2100
+HOY奧運01,https://ch1-live-stream.hoy.tv/ch1/live.m3u8
+HOY奧運02,https://ch2-live-stream.hoy.tv/ch2/live.m3u8
+HOY奧運03,https://ch3-live-stream.hoy.tv/ch3/live.m3u8
+HOY奧運04,https://ch4-live-stream.hoy.tv/ch4/live.m3u8
+HOY奧運76,https://ch76-live-stream.hoy.tv/ch76/index-fhd.m3u8
+HOY奧運77,https://ch77-live-stream.hoy.tv/ch77/index-fhd.m3u8
+HOY奧運77,https://ch78-live-stream.hoy.tv/ch78/index-fhd.m3u8
+TVB,https://cdn.nlivetv.com/live/tvb_jade.m3u8?token=r-TC5O2OpZ8jzv17MFcWMA&expires=1722538517
+無綫新聞台(83台),https://cdn.nlivetv.com/live/tvb_news.m3u8?token=HxLWcH80pf8aYwbUp7u-Yg&expires=1722538726
+無綫財經(85台),https://cdn.nlivetv.com/live/tvb_j2.m3u8?token=uULH_BMCqRYd-7tJ3dw5Hw&expires=1722538743
+TVB明珠台,https://cdn.nlivetv.com/live/tvb_pearl.m3u8?token=ADScJoxqILmjRpcNKVNp3A&expires=1722538566
+TVB Plus,https://cdn.nlivetv.com/live/tvb_j2.m3u8?token=aOWOJBBu5BNSKWdCYAtwxg&expires=1722538699
+ViuTV,https://cdn.nlivetv.com/live/viu.m3u8?token=zTpZ67vDuomuKT3QrR1Sbw&expires=1722538594
+HOY 76台,https://cdn.nlivetv.com/live/hoy76.m3u8?token=6LKwbG1e358IU--EfifPhQ&expires=1722538674
+HOY 77台,https://cdn.nlivetv.com/live/hoy77.m3u8?token=iNfXKioShL_lUrrgkbSGUw&expires=1722538659
+HOY 78台,https://cdn.nlivetv.com/live/hoy78.m3u8?token=-rvMvkud9bpdSvmsyw26oQ&expires=1722538725
+耀才財經台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+香港電台RTHK 31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-p.m3u8?sd=10&rebase=on
+香港電台RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+香港電台RTHK 34,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+鳳凰衛視中文台,https://cdn.nlivetv.com/live/phoenix_chinese.m3u8?token=1q3XZuDcUyIGrmMNWoMJ0A&expires=1722538826
+鳳凰衛視資訊台,https://cdn.nlivetv.com/live/phoenix_infonews.m3u8?token=_4xwrSJJOpcx8-5avgJacA&expires=1722538845
+鳳凰衛視香港台,https://pull-l3-cny.douyincdn.com/third/YesLiveTV-77870d7d-e9cc-4009-9e57-cb5387ab8555.m3u8?by=yeslivetv_com
+Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+澳視澳門台,https://tdm.yeslivetv.com/ch1/ch1.live/playlist.m3u8
+澳門體育台,https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+澳亞衛視,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+好事903電台,https://yeslivetv.com/tvphp/m3u/903.m3u8
+好事935電台,https://yeslivetv.com/tvphp/m3u/935.m3u8
+港都983電台,https://yeslivetv.com/tvphp/m3u/983.m3u8
+
+
+
+
+
+
+
+
+
+
+

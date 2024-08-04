@@ -1,0 +1,54 @@
+[
+	{
+        "name": "⚡GenAI",
+        "url": "http://williamc.tplinkdns.com/iptv/js/GenAI.txt&&&http://williamc.tplinkdns.com/images/HKUMed.png"
+    }, 
+	{
+        "name": "⚡Clinical Skill",
+        "url": "http://williamc.tplinkdns.com/iptv/js/M27_Clinical_Skill.txt&&&http://williamc.tplinkdns.com/images/MBBS.png"
+    }, 	
+	{
+        "name": "⚡M27_4S1_WCS",
+        "url": "http://williamc.tplinkdns.com/iptv/js/M27_4S1_WCS.txt&&&http://williamc.tplinkdns.com/images/MBBS.png"
+    },  
+	{
+        "name": "⚡M27_4S1_CFB",
+        "url": "http://williamc.tplinkdns.com/iptv/js/M27_4S1_CFB.txt&&&http://williamc.tplinkdns.com/images/MBBS.png"
+    },  
+	
+	{
+        "name": "⚡M27_1S1_IASM",
+        "url": "http://williamc.tplinkdns.com/iptv/js/M27_1S1_IASM.txt&&&http://williamc.tplinkdns.com/images/MBBS.png"
+    },  
+	{
+        "name": "⚡M27_1S2_CPRS",
+        "url": "http://williamc.tplinkdns.com/iptv/js/M27_1S2_CPRS.txt&&&http://williamc.tplinkdns.com/images/MBBS.png"
+    },  
+	{
+        "name": "⚡M27_2S1_GIS",
+        "url": "http://williamc.tplinkdns.com/iptv/js/M27_2S1_GIS.txt&&&http://williamc.tplinkdns.com/images/MBBS.png"
+    }, 	
+	{
+        "name": "⚡M27_2S1_MSS",
+        "url": "http://williamc.tplinkdns.com/iptv/js/M27_2S1_MSS.txt&&&http://williamc.tplinkdns.com/images/MBBS.png"
+    },  
+	{
+        "name": "⚡M27_2S2_ERS",
+        "url": "http://williamc.tplinkdns.com/iptv/js/M27_2S2_ERS.txt&&&http://williamc.tplinkdns.com/images/MBBS.png"
+    },
+	{
+        "name": "⚡M27_2S2_HIS",
+        "url": "http://williamc.tplinkdns.com/iptv/js/M27_2S2_HIS.txt&&&http://williamc.tplinkdns.com/images/MBBS.png"
+    },  
+	{
+        "name": "⚡M27_2S2_HNNS",
+        "url": "http://williamc.tplinkdns.com/iptv/js/M27_2S2_HNNS.txt&&&http://williamc.tplinkdns.com/images/MBBS.png"
+    },  
+	
+  
+
+    {
+        "name": "⚡Live",
+        "url": "http://williamc.tplinkdns.com/iptv/live.m3u8&&&http://williamc.tplinkdns.com/images/电视剧.png"
+    }
+]

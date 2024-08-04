@@ -1,11 +1,14 @@
-//https://55flix.com //https://5app.cc //https://55flix.com //https://55vid.shop //https://5setp.vip //https://5scen.club //https://5sene.site //https://wu5fi.com
-//https://fivezn.com https://fivemov.com https://w5srn.com https://55drm.com
-//https://fivezn.com/vodshow/2--hits---------2024.html
+//https://55app.shop
+//240804 https://55wum.com https://pic5z.com https://5muvi.net https://5flik.vip
+//240701 https://55flix.com //https://5app.cc //https://55flix.com //https://55vid.shop //https://5setp.vip //https://5scen.club //https://5sene.site //https://wu5fi.com
+
+//https://55wum.com/vodshow/2--hits---------2024.html
+
 {
     "作者":"荷城茶秀",
     "站名":"555电影", 
 	"请求头":"手机","免嗅":"1",
-    "主页url":"https://fivezn.com/",
+    "主页url":"https://55wum.com/",
 
     "简介":"集数：&&</div>+🌸+module-info-introduction\">&&</p>[替换:每集>> #更新至>> #更至>> #&nbsp;>> #]",
     "导演":"导演：&&</div>+🌸+片长：</span>&&</div>[替换:每集>> #更新至>> #分钟分钟>>分钟#&nbsp;>> #]",
@@ -24,7 +27,7 @@
     "链接":"href=\"&&\"",
 
 //搜索页面
-   "搜索url": "/vodsearch/{wd}-------------.html",     //https://55vid.shop/vodsearch/斗破-------------.html
+   "搜索url": "/vodsearch/{wd}-------------.html",     //https://55wum.com/vodsearch/斗破-------------.html
    "搜索数组": "module-card-item-class\">&&</a>",
    "搜索标题": "alt=\"&&\"",
    "搜索副标题": "note\">&&</div>",
@@ -46,8 +49,8 @@
     "播放列表":"<a&&</a>",
 
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
-    "分类url":"https://fivezn.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-    //"分类url":"https://5setp.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html[firstPage=http://www.7xdy.com/{cateId}/index.html]",
+    "分类url":"https://55wum.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    //"分类url":"https://55wum.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html[firstPage=http://www.7xdy.com/{cateId}/index.html]",
     "分类":"国产剧$13#日韩剧$44#电影$1#电视剧$2#综艺$3#动漫$4#福利$124",
     
     "筛选":{

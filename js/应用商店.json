@@ -3,6 +3,78 @@
     "name": "应用",
     "list": []
   },
+   { "name": "推薦",
+    "list": [
+      {
+        "name": "🌈影视仓_5.0.36.1",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.36.1.apk",
+        "icon": "http://liucn.cc/box/img/dc01.jpg",
+        "version": "通用版"
+      },
+      {
+        "name": "🌈Taka 20240709",
+        "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20240709-2109.apk",
+        "icon": "http://liucn.cc/box/img/takagen99.png",
+        "version": "内置版"
+      },
+      {
+        "name": "🌈OK影视 v2.4.5",
+        "url": "http://williamc.tplinkdns.com/apk/apk/OK影视电视版_2.4.5.apk",
+        "icon": "http://liucn.cc/box/img/img_1.png",
+        "version": "通用版"
+      }	  
+    ]
+  },
+  { "name": "Taka原版",
+    "list": [
+      {
+        "name": "🌈Taka 20240709",
+        "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20240709-2109.apk",
+        "icon": "http://liucn.cc/box/img/takagen99.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🌈Taka 20240709",
+        "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20240709-2109.apk",
+        "icon": "http://liucn.cc/box/img/takagen99.png",
+        "version": "内置版"
+      }
+    ]
+  },
+  { "name": "影视多仓版",
+    "list": [
+      {
+        "name": "🌈影视仓_5.0.36.1",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.36.1.apk",
+        "icon": "http://liucn.cc/box/img/dc01.jpg",
+        "version": "通用版"
+      },
+      {
+        "name": "🌈影视仓_5.0.36.1",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.36.1.apk",
+        "icon": "http://liucn.cc/box/img/dc01.jpg",
+        "version": "内置版"
+      }
+    ]
+  },
+  
+  { "name": "OK影视版",
+    "list": [
+      {
+        "name": "🌈OK影视 v2.4.5",
+        "url": "http://williamc.tplinkdns.com/apk/apk/OK影视电视版_2.4.5.apk",
+        "icon": "http://liucn.cc/box/img/img_1.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🌈OK影视 v2.4.5",
+        "url": "http://williamc.tplinkdns.com/apk/apk/OK影视电视版_2.4.5.apk",
+        "icon": "http://liucn.cc/box/img/img_1.png",
+        "version": "内置版"
+      }
+    ]
+  },
+  
   {
     "name": "应用商店",
     "list": [
@@ -32,14 +104,6 @@
         "version": "TV版5.0.24_内置接口"
       },
 
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
       {
         "name": "影视仓_2024.01.21",
         "url": "https://i-560.wwentua.com:446/02091000159178725bb/2024/01/21/3728e896fc7e245c8f0a70ee40327657.apk?st=LH05jVPXj-HFQcA_W5PRiA&e=1707448217&b=B7ALtlDhUL0C8F6OBbEFulGXDQ4BNQQsBWYKKQA1U2NVWAnvCbxV5wOyUbgK_bwblVopdiVAOA_bAE0Q6GUbFS7Qf7C_b1Q3lDwArJehwX2BS9RZQ0hAWs_c&fi=159178725&pid=106-84-214-112&up=2&mp=0&co=0",

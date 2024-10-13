@@ -21,8 +21,8 @@
     //"标题":"vod_name\"*\"&&\"+🌸+\"vod_id\":&&,",
 	//     https://www.huyaapi.com/index.php/vod/detail/id/55940.html?ac=detail
     "链接":"https://www.huyaapi.com/index.php/vod/detail/id/+\"vod_id\":&&,+.html?ac=detail",
-    //"副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_score\":\"&&\"",
-    "副标题":"vod_remarks\":\"&&\"+🌸+vod_actor\":\"&&\"",
+    "副标题":"vod_remarks\":\"&&\"+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_actor\":\"&&\"",
+    //"副标题":"vod_remarks\":\"&&\"+🌸+vod_actor\":\"&&\"",
     
 	"搜索模式":"1",
 	//https://www.huyaapi.com/index.php/vod/search.html?wd=少年巴比伦

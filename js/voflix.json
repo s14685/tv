@@ -1,11 +1,11 @@
-//voflix
-//https://www.voflix.vip/show/13--hits---------.html
-//https://www.voflix.fun/vodsearch/-许凯---------2---.html
+//voflix www.voflix.vip voflix.fun voflix.me
+//https://www.voflix.fun/vodshow/13-----------.html
+//https://voflix.fun/vodsearch/-许凯---------2---.html
 //庆余年
 {
     "作者":"荷城茶秀",
     "站名":"voflix-HD", 
-    "主页url":"https://www.voflix.vip/",
+    "主页url":"https://voflix.fun/",
 
 //分类页面
     "数组":"<a&&/div></div></a>",
@@ -23,7 +23,7 @@
     "影片地区":"--------.html\">&&</a>",
 
 //搜索页面
-   "搜索url": "/search/-------------.html?wd={wd}",    //https://www.voflix.vip/search/-------------.html?wd=庆余年
+   "搜索url": "/search/-------------.html?wd={wd}",    //https://voflix.fun/search/-------------.html?wd=庆余年
    "搜索数组": "module-card-item-class\">&&</a>",
    "搜索标题": "alt=\"&&\"",
    "搜索副标题": "🌸+note\">&&</div>",
@@ -31,7 +31,7 @@
    "搜索链接": "href=\"&&\"",
 
 //播放列表
-    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #量子\\[微广\\]>>量子#非凡\\[微广\\]>>非凡#索尼\\[无广\\]>>索尼#]",
+    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #量子\\[微广\\]>>量子#非凡\\[微广\\]>>非凡#索尼\\[无广\\]>>索尼#非凡\\[微广\\]>>非凡#量子\\[微广}>>量子#]",
     "线路标题":"🌸+<span>&&</small>[排序:非凡>量子>索尼>快云>独家>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>极速>高清>超清>蓝光]",
 	
     "播放数组":"<div class=\"module-play-list-content&&</div>",
@@ -39,8 +39,8 @@
     "播放列表":"<a&&</a>",
 
     //分类{cateId}，地区{area}，时间排序{by}，剧情类型{class}，语言{lang}，页面{catePg}，年份{year}
-    "分类url":"https://voflix.vip//show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak",
-    //https://www.voflix.me/show/1-中国大陆-time-喜剧-----1---2023.html
+    "分类url":"https://voflix.vip//vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak",
+            //https://voflix.fun/vodshow/13-----------.html 
 
     "分类":"国产剧$13#日韩剧$15#电视剧$2#电影$1#综艺$3#动漫$4#纪录片$21#",
 

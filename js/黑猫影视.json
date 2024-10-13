@@ -1,5 +1,5 @@
 //黑猫影视
-//https://heimaotv.vip/vod/show/id/50.html
+//https://heimaotv.vip/vodshow-50.html
 //https://www.heimaotv.vip/vod/search/actor/许凯/page/1.html
 
 {
@@ -49,8 +49,8 @@
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
 
     //"分类url":"https://heimaotv.vip/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
-    "分类url":"https://heimaotv.vip/vod/show/id/{cateId}.html",
-            //https://heimaotv.vip/vod/show/id/50.html
+    "分类url":"https://heimaotv.vip/vodshow-{cateId}.html",
+            //https://heimaotv.vip/vodshow-50.html
     "分类":"国产剧$50#韩剧$51#国漫$61#电影$31#电视剧$49#动漫$59#综艺$66#抖音短剧$117#纪录片$79#体育$81#电视直播$85#",
 
     "筛选":{

@@ -4,27 +4,61 @@
 ~[排序:量子>非凡>快云>天空>优质>高清>爱坤>海外>乐速>闪电>暴风>索尼]
 ~[替换:v>>?ep=<序号>.mp4#][不包含:1#2#]\\$ \\# \\& \\* \\[ \\]
 ~[替换:每集>> #更新至>> #更新>> #更至>> #<span class=\"slash\">/</span>>><span></span>#]
-量子lz>v.cdnlz2.com								非凡ff>svipsvip.ffzy.online5.com
-快云ky>vip.kuaiyun4-cdn.com						海外看hwk>m3u.haiwaikan.com
-天空tk>v10.dious.cc								乐视ls>leshiyuncdn.36s.top
-卧龙wl>cdn.wlcdn99.com							飞速fs>s10.fsvod1.com 
-优质yz>hdzy.play-cdn23.com yzzy.play-cdn21.com	优质yz>1080zyk.com
-爱坤ik>ikcdn01.ikzybf.com 						快看kk>vip.kuaikan-cdn4.com
-暴风bf>s5.bfengbf.com							豪华hh>play.hhuus.com
-闪电sd>v10.fentvoss.com ok v10.youkuoss.com ok	快播kb>
-索尼sn>v11.sunpalaceshotel.com v10.qqtvoss.com	百度bd>vod6.bdzybf7.com
-光速gs>v.gsuus.com								樱花yh>sod12.xmyysw.com
-八戒bj>c3.monidai.com							速播sb>vod.subokk.com
-U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
-红牛hn>hnzy.bfvvs.com 							新浪xl>bf.xluuss.com
-快车kc>vod2.pptvoss.com							极速js>v.jisubf.com
-金鹰jy>hd.ijycnd.com								虎牙hy>1080p.huyall.com
-最大zd>v4.mstopq.com								奇虎qh>cdn1.qihubf.com
-49>vip4.49zyvideoplayurl.com					淘片tp>sd8.taopianplay1.com
-鱼乐yl>y2.ylbf1.com								CK>www.ldxmcloud.com
-魔都>play.modujx10.com							
-奇艺qy>v10.iqiyioss.com							芒果mg
-腾讯tx											优酷yk
+
+黑木耳hmr>m3u8.hmrvideo.com						https://m3u8.hmrvideo.com/play/1dff79555bef4798873e9fa2412e0351.m3u8
+华为吧hw>m3u.nikanba.live						https://m3u.nikanba.live/share/f8bd508d6c6d915e919b100af67c9607.m3u8
+量子lz>v.cdnlz2.com								https://v.cdnlz3.com/20240731/25190_26bff581/index.m3u8
+非凡ff>svipsvip.ffzy.online5.com					https://svipsvip.ffzyread1.com/20240731/29987_3efb2e68/index.m3u8 https://vip.ffzy-video.com/20240927/3090_748d6b6e/index.m3u8
+快云ky>vip.kuaiyun4-cdn.com						
+海外看hwk>m3u.haiwaikan.com						
+天空tk>v10.dious.cc								https://v11.dious.cc/20240927/XdJdAa9G/index.m3u8
+乐视ls>leshiyuncdn.36s.top						
+卧龙wl>cdn.wlcdn99.com							https://cdn.wlcdn99.com:777/88dd28b8/index.m3u8 https://cdn.wlcdn99.com:777/d2e00b01/index.m3u8
+飞速fs>s10.fsvod1.com 							https://s10.fsvod1.com/20240806/D7rosFcH/index.m3u8
+飞刀fs>s10.fsvod1.com							https://s10.fsvod1.com/20240806/D7rosFcH/index.m3u8
+优质yz>hdzy.play-cdn23.com yzzy.play-cdn.com		https://svip.high22-playback.com/20240731/5753_da3fc6a8/index.m3u8 https://svip.high24-playback.com/20240927/6092_957e3197/index.m3u8
+优质yz>1080zyk.com								https://yzzy.play-cdn2.com/share/a5a61717dddc3501cfdf7a4e22d7dbaa
+720高清>vod.lyhuicheng.com						https://vod.lyhuicheng.com/20240807/fkKz1Ial/index.m3u8
+OK>												https://v8.bxgbnet.com/sdv8/202408/06/4mHudRQy9014/video/index.m3u8
+爱坤ik>ikcdn01.ikzybf.com 						https://bfikuncdn.com/20240731/xy4YSC7a/index.m3u8  https://ikcdn01.ikzybf.com/20221010/J85OQ5z2/index.m3u8
+快看kk>vip.kuaikan-cdn4.com						https://vip.kuaikan-play2.com/20240720/ASXKq7Gk/index.m3u8
+暴风bf>s5.bfengbf.com							https://c1.rrcdnbf3.com/video/wuzhuzhihua/第01集/index.m3u8 
+豪华hh>play.hhuus.com							https://play.hhuus.com/play/oeEjMxWa/index.m3u8
+闪电sd>v10.fentvoss.com ok v10.youkuoss.com ok	https://v8.fentvoss.com/sdv8/202408/06/4mHudRQy9014/video/index.m3u8 
+快播kb>											
+索尼sn>v11.sunpalaceshotel.com v10.qqtvoss.com	https://v8.qrssv.com/202408/06/4mHudRQy9014/video/index.m3u8
+光速gs>v.gsuus.com								https://v.gsuus.com/play/9aAVG19b/index.m3u8 https://v.gsuus.com/play/9b6Z9pQb/index.m3u8
+樱花yh>sod12.xmyysw.com							https://vod12.wgslsw.com/20240813/V1DkttYWcR74/index.m3u8 
+八戒bj>c3.monidai.com							https://c2.monidai.com/20220814/Jt1LCWsO/index.m3u8 https://v1.hdslb.pro/20240614/arfJgcQg/index.m3u8
+速播sb>vod.subokk.com							https://play.subokk.com/play/6dBWJ6Qe/index.m3u8 
+无尽wj>v8.kuaioss.com top.letvoss.com			https://v7.tlkqc.com/wjv7/202407/31/j3c1M8cJbB79/video/index.m3u8 https://v5.tlkqc.com/wjv5/202409/27/T5f08Y2ryi77/video/index.m3u8
+红牛hn>hnzy.bfvvs.com 							https://hn.bfvvs.com/play/vbmJymEd/index.m3u8
+牛牛nn>											https://v8.xingchongwang.com/yyv8/202408/06/4mHudRQy9014/video/index.m3u8
+新浪xl>bf.xluuss.com								https://bf.xluuss.com https://play.xluuss.com/play/xboLyoAd/index.m3u8
+快车kc>vod2.pptvoss.com							https://v12.longhengtea.com https://v8.longshengtea.com/yyv8/202409/27/ufjepWW7TE14/video/index.m3u8
+极速js>v.jisubf.com								https://v.jisubf.com https://vv.jisuzyv.com/play/5eV6QD9e/index.m3u8
+极映jy>hd.ijycnd.com								https://hd.ijycnd.com/play/mepM2pXa/index.m3u8
+金鹰jy>hd.ijycnd.com								https://hd.ijycnd.com
+虎牙hy>1080p.huyall.com							https://1080p.huyall.com/play/DbDgL86a/index.m3u8 
+最大zd>v4.mstopq.com								https://v9.daayee.com/yyv9/202407/31/Hini0auNjZ18/video/index.m3u8
+奇虎qh>cdn1.qihubf.com							
+49>vip4.49zyvideoplayurl.com					
+淘片tp>sd8.taopianplay1.com						https://sd1.taopianplay1.com:43333/c56b1bc09da3/HD/2022-08-24/30/8621947e5b7a/e0e28231b898/playlist.m3u8
+鱼乐yl>y2.ylbf1.com								
+CK>www.ldxmcloud.com							
+魔都md>play.modujx10.com							https://play.modujx13.com/20240731/u1g2FekN/index.m3u8 https://play.modujx10.com/20240229/4HZBxyXt/index.m3u8
+百度bd>vod6.bdzybf7.com							https://vod6.bdzybf11.com/20240813/HJ0N6ASY/index.m3u8 https://jx.jxbdzyw.com/m3u8
+U酷uk>ukzy.ukubf4.com 							https://ukzy.ukubf4.com/20240927/iUiy9dv0/index.m3u8
+优酷yk>ukzy.ukubf4.com							https://ukzy.ukubf4.com/20240927/iUiy9dv0/index.m3u8
+奇艺qy>v10.iqiyioss.com							https://122.228.8.29:4433/Cache/qiyi/eea4e816160609a0b74b8fedcbbb74ed.m3u8
+芒果mg											https://pcvideoaliyun.titan.mgtv.com/
+腾讯tx											https://apd-vlive.apdcdn.tc.qq.com/defaultts.tc.qq.com/
+360zy											https://vod.lyhuicheng.com/20240731/KNvvJfc7/index.m3u8 https://vod.lyhuicheng.com/20240731/KNvvJfc7/index.m3u8
+yy												https://yayazy10.com/index.php/vod/play/id/85383/sid/1/nid/1.html
+
+
+
+//爱奇艺-VIP解析>>奇艺#IK影视>>爱坤#火花云>>豪华#少年HD>>索尼#华卫HD>>华为吧#虎牙HD>>虎牙#速播资源>>速播#极速HD>>极速#暴风SD>>暴风#快传云>>快车#菲菲云>>非凡#高清资源库>>优质#蔚蓝云>>卧龙#红牛云>>红牛#光速云>>光速#樱花云>>#迅浪云>>新浪#极映云>>极映#量子云>>量子#无极云播>>无尽#闪电云>>闪电#天空云>>天空#U咖云>>优酷#萌动次元>>魔都#TP云>>淘片#BJ资源>>八戒#
 
 	tab_order:['TK线路','LZ线路**','SD线路','SN线路','iK线路','GQ线路','SO线路','FM线路','LS线路','FS线路','BF线路','KK线路','WL线路','UK线路','WJ线路','BD线路','HN线路'],//线路顺序,按里面的顺序优先，没写的依次排后面
 	tab_rename:{'FF线路':'🌸非凡','LZ线路':'🌸量子','SN线路':'🌸索尼','bfzym3u8':'暴风','1080zyk':'优质','kuaikan':'快看','lzm3u8':'量子','ffm3u8':'非凡','snm3u8':'索尼','qhm3u8':'奇虎','haiwaikan':'海外看',
@@ -39,15 +73,121 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 'bjm3u8': '八戒','snm3u8': '索尼','wolong': '卧龙','xlm3u8': '新浪','yhm3u8': '樱花','tkm3u8': '天空','jsm3u8': '极速','wjm3u8': '无尽',
 'sdm3u8': '闪电','kcm3u8': '快车','jinyingm3u8': '金鹰','fsm3u8': '飞速','tpm3u8': '淘片','lem3u8': '鱼乐','dbm3u8': '百度','tomm3u8': '番茄',
 'ukm3u8': '优酷','ikm3u8': '爱坤','hnzym3u8': '红牛资源','hnm3u8': '红牛','68zy_m3u8': '68','kdm3u8': '酷点','bdxm3u8': '北斗星','qhm3u8': '奇虎',
-'hhm3u8': '豪华','kbm3u8': '快播' LG 蓝光 无尽 wj
+'hhm3u8': '豪华','kbm3u8': '快播' LG 蓝光 无尽 wj 丫丫 yy,
 */
     {"n":"中国大陆","v":"中国大陆"},
     {"n":"中国","v":"中国"},
     {"n":"大陆","v":"大陆"},
     {"n":"内地","v":"内地"},
-~[排序:黑木耳>量子>非凡>华为吧>快云>天空>优质>海外看>高清>乐视>乐速>爱坤>闪电>索尼>快看>卧龙>无尽>红牛>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果>百度>淘片]",
+~[排序:黑木耳>非凡>闪电>天空>无尽>暴风>快看>量子>华为吧>索尼>快云>优质>豪华>乐视>飞速>爱坤>卧龙>快车>红牛>极速>高清>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
 ~https://soupian.pro/search?key=庆余年
 ~https://xn--p3tv7h.com/ https://影搜.com
+
+//爱看影视
+//https://www.akys.us/vodshow/2-----------/
+//自营超清.0>>#自营超清>>#备用HW+>>#备用HR+>>#备用MD+>>#备用BY+>>#
+//https://www.3ayy.com/vodshow/2-中国大陆----------2024.html
+
+//琪琪影院
+//https://qiqiyyz.com/vod/13/year/2024.html
+//https://www.lxys.cc/vodshow/guochanju-----------.html
+
+//飞飞影视
+//https://www.ffys.fun/vodsearch/actor/任嘉伦/page/2.html
+//https://www.ffys.fun/vodsearch.html?wd=流水迢迢
+//https://www.ffys.fun/vodshow/area/中国大陆/id/34/year/2024.html
+//蓝光①>>XT#ZL>>ZL#手机线路>>WX#HME>>黑木耳#FF>>非凡#KK>>快看#BF>>暴风#LZ>>量子#YZ>>优质#
+
+//毒蛇电影
+//https://m.tianbaoglz.com/vodshow/13-----------.html
+//云播资源>>无尽#
+//https://www.dushe.cc/vodshow/2-大陆----------2024/
+//FF线路>>#SN线路>>#KC线路>>#ZD线路>>#LZ线路>>#YZ线路>>#BF线路>>#SD线路>>#KK线路>>#IK线路>>#HN线路>>#JS线路>>#HH线路>>#XL线路>>#HY线路>>#JY线路>>#SB线路>>#TK线路>>#WJ线路>>#DB线路>>#YH线路>>#WL线路>>#GS线路>>#
+
+
+//农民影院
+//https://sdawkj.com/vodshow/13-----------2024.html
+//https://sdawkj.com/vodsearch/-------------.html?wd=舍不得星星&submit=
+//https://sdawkj.com/vodsearch/-张新成---------2---.html
+//云播资源>>无尽#
+
+
+//https://www.flixflop.com/explore/151438147794763777?page=1&area=151458081811726351&genre=151458084445749274&year=2025&language=151458081165803529
+//https://www.flixflop.com/streams/362572828089778477/detail
+//线路1>>黑木耳#大陆>>量子#
+
+//剧爷爷
+//https://www.juyeye.cc/vodshow/2-----------2024.html
+//FF有广92 LZ有广92 BF有广92 YZ有广92 WJ有广92 XL有广92 SD有广92 DB有广89 FS有广
+
+//华人电影院
+//https://www.vodzhy.top/index.php/vod/show/id/13/year/2024.html
+//https://www.vodzhy.top/index.php/vod/search/actor/任嘉伦/page/1.html
+//线路X>>新浪#中国线路>>暴风#线路S>>闪电#线路H>>豪华#线路W>>无尽#线路G>>光速#线路N>>红牛#线路F>>非凡#线路K>>快看#
+
+//华人影院
+//https://hrys.tv/vod/list.html?area_id=38&cate_id=22&lang_id=28&type_id=2&year_id=2
+//https://hrys.tv/vod/detail.html?cate_id=22&id=132600&type_id=2
+//全球线路①>>黑木耳#全球线路②>>优质#全球线路④>>索尼#
+
+//CN影院
+//https://cnys.tv/vodshow-2-area-大陆-class-国产-lang-国语-year-2024.html
+//https://cnys.tv/vodsearch-actor-李兰迪-page-2.html
+//黑木耳
+
+
+//Gimy剧迷
+//https://gimy.ai/cat/13-----------2024.html
+//高清線路 ᴴᴰ>>kemi#藍光線路 ᴴᴰ>>seven#量子雲>>量子#豪華雲>>豪华#順暢雲>>索尼#速播雲>>速播#無盡雲>>无尽#天空雲>>天空#歐克雲>>OK#極速雲>>极速#暴風雲>>暴风#光速雲>>光速#
+//https://gimy.com.tr/vodshow/13-----------2024.html
+//WYun>>无尽#NYun>>量子#SYun>>闪电#TYun>>天空#Uyun>>优酷#XYun>>优质#KYun>>快看#OYun>>卧龙#
+//https://gimy.at/vodshow/13-----------2024.html
+//WYun>>无尽#NYun>>量子#SYun>>闪电#TYun>>天空#Uyun>>优酷#XYun>>优质#KYun>>快看#OYun>>卧龙#
+//https://gimy.tv/genre/13--2024-.html
+//量子线路>>量子#顺畅线路>>无尽#火箭线路>>优酷#火箭线路>>光速#闪电线路>>闪电#快车线路>>快车#风暴线路>>风暴#天空线路>>天空#雷电线路>>八戒#
+//https://gimytw.cc/drama/?country=cn&year=2024&order_by=-aired&page=1
+//線路1l>>#線路2j>>#線路3f>>#線路4h>>#線路5g>>#線路6t>>#線路7w>>#線路8s>>#
+//https://www.jagcys.com/vodshow/guochanju.html
+
+
+//老地方影院
+//https://www.ldftv.cc/phb/gcj/year/2024.html
+//https://www.ldftv.cc/chazhao.html?wd=非凡医者
+//https://www.ldftv.cc/chazhao/actor/张晚意/page/1.html
+
+
+//老地方影院
+//HME>>黑木耳#HW8>>华为吧#KK>>快看#SN>>索尼#SB>>速播#
+//https://www.laodifang.tv/vodshow/2-大陆----------.html
+
+
+//https://www.haoyuntv.com/vodshow/2-----------.html
+//https://jumi.tv/show/13/year/2024.html
+
+//九月资源站
+//https://jiuyuezy.com/api.php/provide/vod/?ac=list
+//https://jiuyuezy.com/api.php/provide/vod/?ac=detail&wd=庆余年
+
+//小猫咪
+//http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list
+//http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=detail&wd=庆余年
+
+//喵派对资源
+//https://gf.lelg.lol/api.php/provide/vod/?ac=list
+//https://gf.lelg.lol/api.php/provide/vod/?ac=detail&wd=庆余年
+
+//白嫖电影
+//HMEZ>>黑木耳#YYZYA>>丫丫#IKZ>>#FFZY>>#kaai>>#LZZ>>#JYZ>>#KCZ>>#XLZ>>#WL>>#UK>>#FS>>#SDB19WUJ>>#HNZX>>#JSZ>>#BDY>>#TP>>#八戒在线>>#GSZ>>#BFBF>>#SBZX>>#HW>>#360>>#HHZX>>#SNM>>#KYZ>># 海外看资源4
+//https://dy.gduan.com/index.php/vod/show/area/中国大陆/id/2/year/2024.html
+
+
+//七七影院 索尼影音量子影音非凡影音无尽影音
+//https://www.lr7.cc/index.php/vod/show/area/2024/id/13.html
+
+
+//小鸟影视
+//索尼影音非凡影音量子影音
+//https://www.73l.cc/index.php/vod/show/id/13/year/2024.html
 
 
 //神马影院
@@ -238,7 +378,7 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //电视剧2 国产剧13港台剧14日韩剧15欧美剧16泰剧33新马剧35其他剧>>#网络短剧61
 //综艺3 欧美综艺37日本综艺38韩国综艺39国产综艺40新马泰综艺41港台综艺42其他综艺43
 //动漫4 欧美动漫44日本动漫45韩国动漫46国产动漫47新马泰动漫48港台动漫49其他动漫50
-//纪录片21
+//纪录片>>#
 //伦理片60
 
 //纽约影院 模板:'短视2'
@@ -303,7 +443,7 @@ U酷uk>ukzy.ukubf4.com 							无尽wj>v8.kuaioss.com top.letvoss.com
 //蓝光岛 https://languangdao2.com/show-dianshiju-----------.html
 //电影天堂 https://www.dyttlg1.com/vodshow-dianshiju-----------2024.html
 //观影台 https://guanyingtai1.com/pianku-dianshiju--hits---------2024/
-//桃子影视 https://www.taozi007.com/show/21-----------.html
+//桃子影视 https://www.taozi007.com/show/>>#-----------.html
 //悠云影视 https://yoyys1.com/vodshow/2--hits---------2024.html
 //88影视 https://www.88tvs.cn/vodshow/juji--hits---------.html
 //追影猫 https://zhuiyingmao5.com/vodshow/2--hits---------2024.html
@@ -390,7 +530,7 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 //海兔影院~https://www.haituu.tv/vodtype/2.html www.haituu.tv www.haitu.vip www.haitu.xyz
 //东方影院~https://www.oyangjian.com/vodshow/guochanju--hits---------2024/
 //熊猫影院 https://xmvod520.com/index.php/vod/show/by/hits/id/70/year/2024.html [QH>>奇虎#SN>>索尼#LS>>#KK>>快看#海外>>海外#BD>>百度#JS>>极速#KC>>快车#KY>>快云#WJ>>无尽#FF>>非凡#]
-//爱坤TV https://ikun.tv/index.php/vod/show/by/hits/id/21/year/2024.html 国内>>量子LZ#手机1>>量子#海外线路>>海外#爱坤TV>>爱坤#手机2/yh>>樱花#
+//爱坤TV https://ikun.tv/index.php/vod/show/by/hits/id/>>#/year/2024.html 国内>>量子LZ#手机1>>量子#海外线路>>海外#爱坤TV>>爱坤#手机2/yh>>樱花#
 //好看电影 https://www.hkdyapp.com/vodshow/2-大陆-hits---------2024.html
 //美益达影视 https://www.myd02.com/vodshow/2--hits-国产--------2024.html [非凡资源>>#腾讯视频>>#芒果TV>>#量子资源>>#索尼资源>>#豪华资源>>#无尽资源>>#光速资源>>#红牛资源>>#新浪资源>>#速播资源>>#暴风资源>>#快车资源>>#]
 //春华影院 https://www.chuavod.com/index.php/vod/show/by/hits/id/13/year/2024.html
@@ -401,7 +541,7 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 //https://www.haituw.com/dianshiju/dalu-2024-Shot
 //[替换:优质线路>>优质#量子线路>>量子#非凡线路>>非凡#金鹰线路>>金鹰#天空线路>>天空#飞速线路>>飞速#光速线路>>光速#淘片线路>>淘片#U酷线路>>U酷#ikun线路>>爱坤#无尽线路>>无尽#百度线路>>百度#]//~https://www.jsard.com/vodshow/dsj.html https://www.jsard.com/vodshow/guochanju/by/hits/year/2024.html
 //~https://www.imtlink.com/vodshow/dsj-%E5%86%85%E5%9C%B0-hits---------.html
-//~https://www.dianying666.cc/vodshow/21-----------.html
+//~https://www.dianying666.cc/vodshow/>>#-----------.html
 //~https://www.wukamao.com/vodshow/13-----------.html
 //~https://www.weimovies.com/vodshow/guochanju--hits---------2024/
 //~打工人影院 https://dagongren1.com/show-dianshiju--hits---------2024.html [非凡资源>>#量子资源>>#高清资源>>#天空资源>>#无尽资源>>#油库资源>>#闪电资源>>#红牛资源>>#新浪资源>>#]
@@ -418,7 +558,7 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 //~https://www.libvio.pw/type/2.html
 //~爱情影院 https://loveqtv.com/index.php/vod/show/area/内地/by/hits/class/古装/id/13/lang/国语/year/2024.html
 //~电影牛 www.dianyingnn.com/vodshow/guochanju-内地-hits---------2023.html
-//~https://www.voflix.vip/detail/173820.html 量子[微广]18 非凡[微广]21 索尼[无广]21
+//~https://www.voflix.vip/detail/173820.html 量子[微广]18 非凡[微广]>># 索尼[无广]>>#
 //~北川追剧 https://www.bczhuiju.com/voddetail/667525/ 站长专线22 努比亚41 森林在线37 没用在线39 索尼在线39 LZ在线39 非凡在线39 备用线路39 芒果在线23 腾讯在线23
 //~二次萌影视 https://www.ecmys.com/vod/detail/id/73778/ 高清源>>量子#蓝光源>>索尼#速播源>>乐视#海外源>>海外#腾讯源>>腾讯#爱奇艺源>>奇艺#高清源·备>>非凡#蓝光源·备>>快看#速播源·备>>暴风#
 //~新视觉影院6080 https://www.80yy3.com/vplay/157983-8-1.html 蓝光专享1>>#夸克4K>>#蓝光专享2>>SEVEN#高清线路②>>量子#超清线路①>>乐视#高清线路③>>非凡#高清线路④>>1080P#高清线路⑤>>索尼
@@ -435,7 +575,7 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
     {"key": "csp_XYQ电影牛","name": "🍖┃电影牛┃影院","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext": "https://raw.liucn.cc/box/libs/xyq/电影牛.json"},
 
 <source src="https://leshiyuncdn.36s.top/20240402/Wf2lxO1A/index.m3u8" type="application/x-mpegURL" label="線路1">
-<source src="https://m3u.haiwaikan.com/xm3u8/d98758d78c5853f71ec9a0da415660c378cabe25e779502a486f49fac1f3b3df9921f11e97d0da21.m3u8" type="application/x-mpegURL" label="線路2">
+<source src="https://m3u.haiwaikan.com/xm3u8/d98758d78c5853f71ec9a0da415660c378cabe25e779502a486f49fac1f3b3df99>>#f11e97d0da>>#.m3u8" type="application/x-mpegURL" label="線路2">
 <source src="https://v10.qqtvoss.com/202404/02/51eMrRB4dR3/video/index.m3u8" type="application/x-mpegURL" label="線路3">
 <source src="https://vip.kuaikan-cdn4.com/20240402/6Lx9kNSm/index.m3u8" type="application/x-mpegURL" label="線路4">
 <source src="https://vod6.bdzybf7.com/20240402/GesOa1Y1/index.m3u8" type="application/x-mpegURL" label="線路5">
@@ -454,7 +594,7 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 <source src="https://play.hhuus.com/play/Xe0kwNGd/index.m3u8" type="application/x-mpegURL" label="線路18">
 <video id="my-player_html5_api" class="vjs-tech" muted="muted" preload="true" tabindex="-1" role="application" autoplay="" src="blob:https://tvbox.im/ec0c0db2-ec2d-4efc-ba41-8653904f579e">
 <source src="https://v10.qqtvoss.com/202403/18/yTym8877Qe3/video/index.m3u8" type="application/x-mpegURL" label="線路1">
-<source src="https://m3u.haiwaikan.com/xm3u8/a7ba5c149a6ec000dd12b7234420293cb327667c3d444190c655982ddc677d8a9921f11e97d0da21.m3u8" type="application/x-mpegURL" label="線路2">
+<source src="https://m3u.haiwaikan.com/xm3u8/a7ba5c149a6ec000dd12b7234420293cb327667c3d444190c655982ddc677d8a99>>#f11e97d0da>>#.m3u8" type="application/x-mpegURL" label="線路2">
 <source src="https://v10.qqtvoss.com/202403/18/yTym8877Qe3/video/index.m3u8" type="application/x-mpegURL" label="線路3">
 <source src="https://vip.kuaikan-cdn4.com/20240318/SWQD5Pbz/index.m3u8" type="application/x-mpegURL" label="線路4">
 <source src="https://vod6.bdzybf7.com/20240318/73HYKWxM/index.m3u8" type="application/x-mpegURL" label="線路5">
@@ -467,13 +607,13 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 <source src="https://s5.bfengbf.com/video/yufengxing/第01集/index.m3u8" type="application/x-mpegURL" label="線路12">
 <source src="https://hd.ijycnd.com/play/Pe9wAE8b/index.m3u8" type="application/x-mpegURL" label="線路13">
 <source src="https://1080p.huyall.com/play/Pe9wAE8b/index.m3u8" type="application/x-mpegURL" label="線路14">
-<source src="https://yzzy.play-cdn21.com/20240318/12057_911ef604/index.m3u8" type="application/x-mpegURL" label="線路15">
+<source src="https://yzzy.play-cdn>>#.com/20240318/12057_911ef604/index.m3u8" type="application/x-mpegURL" label="線路15">
 <source src="https://v11.fentvoss.com/sdv11/202403/18/yTym8877Qe3/video/index.m3u8" type="application/x-mpegURL" label="線路16">
 <source src="https://vod.subokk.com:44300/play/yb8vzD2e/index.m3u8" type="application/x-mpegURL" label="線路17">
 <source src="https://top.letvoss.com/202403/18/0Msunq26cn3/video/index.m3u8" type="application/x-mpegURL" label="線路18">
 <source src="https://sod12.xmyysw.com/20240319/0Msunq26cn3/index.m3u8" type="application/x-mpegURL" label="線路19">
 <source src="https://s10.fsvod1.com/20240329/DWeUYFbN/index.m3u8" type="application/x-mpegURL" label="線路20">
-<source src="https://v10.dious.cc/20240329/lr8dbbBx/index.m3u8" type="application/x-mpegURL" label="線路21">
+<source src="https://v10.dious.cc/20240329/lr8dbbBx/index.m3u8" type="application/x-mpegURL" label="線路>>#">
 <source src="https://svipsvip.ffzy-online5.com/20240318/25047_e3038fff/index.m3u8" type="application/x-mpegURL" label="線路22">
 <source src="https://c3.monidai.com/20240318/LnoGs8SU/index.m3u8" type="application/x-mpegURL" label="線路23">
 <source src="https://play.hhuus.com/play/Xe0korVd/index.m3u8" type="application/x-mpegURL" label="線路24">
@@ -489,7 +629,7 @@ https://www.haituw.com/search/赵丽颖-Rperformer-Tdianshiju
 全部语言
 国语 英语 粤语 闽南语 韩语 日语 其它
 全部时间
-2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002
+2024 2023 2022 20>># 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002
 字母查找
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 0-9
 时间排序 人气排序 评分排序
@@ -678,7 +818,7 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 "https://nycvod.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$28#电视剧$24#综艺$31#动漫$26"免嗅":"1"}},
  
 !!C:\inetpub\wwwroot\iptv\fav.json (6 hits)
-"https://have8.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com","导演":"导演：&&</div>","影片类型":"<div class=\"module-info-tag\">&&立即播放","搜索url":"https://have8.net/type/id-.html?wd={wd}","搜索模式":"1","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","线路标题":"\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]","请求头":"Referer$https://have8.net/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9","playerType":"1"type":3},	
+"https://have8.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com","导演":"导演：&&</div>","影片类型":"<div class=\"module-info-tag\">&&立即播放","搜索url":"https://have8.net/type/id-.html?wd={wd}","搜索模式":"1","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","线路标题":"\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]","请求头":"Referer$https://have8.net/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b544>>#c1552f9","playerType":"1"type":3},	
 "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"}}
 "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","副标题":"v_note\"&&</div","嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","数组":"\"v_img\"&&/div>","数组二次截取":"class=\"v_list\">&&</ul>","标题":"title=\"&&\"","跳转播放链接":"<iframe*src=\"&&\""},"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","playerType":"2"quickSearch":1,"searchable":1,"type":3},
 "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1"搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
@@ -686,7 +826,7 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a"分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
   
 !!C:\inetpub\wwwroot\iptv\favnet.json (6 hits)
-"https://have8.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com","导演":"导演：&&</div>","影片类型":"<div class=\"module-info-tag\">&&立即播放","搜索url":"https://have8.net/type/id-.html?wd={wd}","搜索模式":"1","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","线路标题":"\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]","请求头":"Referer$https://have8.net/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9","playerType":"1"type":3},	
+"https://have8.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com","导演":"导演：&&</div>","影片类型":"<div class=\"module-info-tag\">&&立即播放","搜索url":"https://have8.net/type/id-.html?wd={wd}","搜索模式":"1","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","线路标题":"\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]","请求头":"Referer$https://have8.net/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b544>>#c1552f9","playerType":"1"type":3},	
 "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"}}
 "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","副标题":"v_note\"&&</div","嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","数组":"\"v_img\"&&/div>","数组二次截取":"class=\"v_list\">&&</ul>","标题":"title=\"&&\"","跳转播放链接":"<iframe*src=\"&&\""},"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","playerType":"2"quickSearch":1,"searchable":1,"type":3},
 "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1"搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
@@ -695,11 +835,11 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
   
 !!C:\inetpub\wwwroot\iptv\fty.json (2 hits)
 "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",  "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}}
-"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",  "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}}
+"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",  "分类": "短剧$20#电视剧$>>##电影$22#动漫$23#综艺$24"}}
   
 !!C:\inetpub\wwwroot\iptv\fty2.json (2 hits)
 "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}}
-"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}}
+"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类": "短剧$20#电视剧$>>##电影$22#动漫$23#综艺$24"}}
   
 !!C:\inetpub\wwwroot\iptv\js\348影视.json (1 hit)
 "https://348z.com/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak
@@ -936,7 +1076,7 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
   
 !!C:\inetpub\wwwroot\iptv\net.json (6 hits)
-"https://have8.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com","导演":"导演：&&</div>","影片类型":"<div class=\"module-info-tag\">&&立即播放","搜索url":"https://have8.net/type/id-.html?wd={wd}","搜索模式":"1","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","线路标题":"\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]","请求头":"Referer$https://have8.net/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9","playerType":"1"type":3},	
+"https://have8.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com","导演":"导演：&&</div>","影片类型":"<div class=\"module-info-tag\">&&立即播放","搜索url":"https://have8.net/type/id-.html?wd={wd}","搜索模式":"1","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","线路标题":"\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]","请求头":"Referer$https://have8.net/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b544>>#c1552f9","playerType":"1"type":3},	
 "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"}}
 "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","副标题":"v_note\"&&</div","嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","数组":"\"v_img\"&&/div>","数组二次截取":"class=\"v_list\">&&</ul>","标题":"title=\"&&\"","跳转播放链接":"<iframe*src=\"&&\""},"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","playerType":"2"quickSearch":1,"searchable":1,"type":3},
 "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1"搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
@@ -948,17 +1088,17 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
   
 !!C:\inetpub\wwwroot\iptv\sc\⚽短剧大全 (1).json (3 hits)
 "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html"
-"https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html"分类":"短剧$20#电影$22#电视剧$21#动漫$23#综艺$24"}},
+"https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html"分类":"短剧$20#电影$22#电视剧$>>##动漫$23#综艺$24"}},
 "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html"
   
 !!C:\inetpub\wwwroot\iptv\sc\⚽短剧大全.json (3 hits)
 "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html"
-"https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html"分类":"短剧$20#电影$22#电视剧$21#动漫$23#综艺$24"}},
+"https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html"分类":"短剧$20#电影$22#电视剧$>>##动漫$23#综艺$24"}},
 "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html"
   
 !!C:\inetpub\wwwroot\iptv\sc\⛄ABC无敌.json (5 hits)
 "https://shdy2.com/list/{cateId}-{catePg}.html;;r1dau0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1"三次跳转播放链接":"\"url\"*\"&&\""}},
-"http://172.247.44.75:8083/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0"分类":"短剧$41#电影$1#电视剧$2#动漫$4"}},
+"http://172.247.44.75:8083/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=>>#;;u0"分类":"短剧$41#电影$1#电视剧$2#动漫$4"}},
 "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺","分类值":"hot&new&1&2&3&4","嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/","搜索模式":"1","搜索url":"https://search.ymck.me/index.php?q={wd}","搜索数组":"<b>&&</b>[包含:Freeok]","搜索副标题":"Freeok","线路数组":"data-dropdown-value=&&</div>[不包含:夸克]","线路标题":"<span>&&</small>","搜索标题":"class='movie_name'>&&</a>","搜索链接":"href='&&'","搜索图片":"http://xhww.fun:63/ss.jpg","导演":"导演：&&</div>","主演":"主演：&&</div>"简介":"<p>&&</p>"}},
 "http://www.sharenice.net/{cateId}?page={catePg}","二次截取":"class=\"item-box\">&&</ul>","数组":"<li&&</li>","图片":"data-original=\"&&\"","标题":"title=\"&&\""链接":"href=\"&&\""}},
 "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1"搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
@@ -992,7 +1132,7 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
   
 !!C:\inetpub\wwwroot\iptv\sc\小刘CN.json (2 hits)
 "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",  "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}}
-"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",  "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}}
+"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",  "分类": "短剧$20#电视剧$>>##电影$22#动漫$23#综艺$24"}}
   
 !!C:\inetpub\wwwroot\iptv\sc\快乐分享.json (7 hits)
 "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
@@ -1007,7 +1147,7 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0
 "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html
 "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}
-"https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0
+"https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=>>#;;u0
 "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
 "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html
 "https://www.cupfox1.cc/show/{cateId}/area/{area}/page/{catePg}/year/{year}.html
@@ -1056,7 +1196,7 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html"
 "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html"
 "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", "分类":"电影$1#电视剧$2#动漫$3#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14","筛选":"1"}}, {"key":"西瓜影院","name":"🍉西瓜影院","type":3,"api":"csp_XBPQ"searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"
-"https://www.uccomic.com/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}/","分类":"电影&电视剧&综艺&动漫&电影解说","分类值":"20&21&22&23&48"}}, {"key":"好趣网","name":"📺电视好趣网","type":3,"api":"http://lgz.1.hk3.345123.xyz/json/drpy2.min.js", "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1695480277809/Yoursmile.jar", "ext":"http://lgz.1.hk3.345123.xyz/json/好趣网.js"}, {"key":"csp_觅知","name":"🌰觅知影视","type":3,"api":"csp_XBPQ"searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"魔剑+
+"https://www.uccomic.com/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}/","分类":"电影&电视剧&综艺&动漫&电影解说","分类值":"20&>>#&22&23&48"}}, {"key":"好趣网","name":"📺电视好趣网","type":3,"api":"http://lgz.1.hk3.345123.xyz/json/drpy2.min.js", "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1695480277809/Yoursmile.jar", "ext":"http://lgz.1.hk3.345123.xyz/json/好趣网.js"}, {"key":"csp_觅知","name":"🌰觅知影视","type":3,"api":"csp_XBPQ"searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"魔剑+
 "https://huale.tv/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3#TV直播$6"}}, {"key":"700K","name":"7️⃣700看"type":3, ...
 "https://huale.tv/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3#TV直播$6"}}, {"key":"700K","name":"7️⃣700看"type":3, ...
 "https://www.tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#B站$50#纪录片$5#体育$56","筛选":"1","免嗅":"1"}}, {"key":"笑笑影视","name":"🤣笑笑影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/xiaoxiao.json"}, {"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"}, {"key":"csp_lgz_feifei","name":"🤣开心坊","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{ \"免嗅\":\"1\", \"演员\":\"主演：&&\", \"简介\":\"class=\\\"video-info-item video-info-content vod_content\\\"&&\", \"副标题\":\"class=\\\"module-item-text\\\">&&\", \"数组\":\"class=\\\"module-item-pic&&\", \"线路数组\":\"class=\\\"module-tab-item tab-item&&\", \"线路标题\":\"&&\", \"播放数组\": \"class=\\\"scroll-content&&\", \"分类\":\"电影$dianying#剧集$fenlei2#国产剧$guochanju#综艺$zongyi#动漫$dongman\", \"分类url\":\"https://www.kaixinfang.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html/\"}"}, {"key":"忍者视频","name":"🐢忍着影视","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1, "filterable":0, "jar": "http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b","ext":"http://www.rzys.cc"}, {"key": "大米星球","name": "🍚大米星球","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://lgz.1.hk3.345123.xyz/json/大米星球.json"}, {"key":"sp_saiwei","name":"🚴🏿‍♂️赛维影视","type":1,"searchable":1,"quickSearch":1,"api":"https://lsys.dsmynas.com:3000//api.php/provide/vod/","playUrl":""}, {"key":"lgz_徕米","name":"️🥡徕米影视","type":3,"api":"XBPQ"ext":"免嗅:1,分类:电视剧$diansh ...
@@ -1230,16 +1370,16 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html"
   
 !!C:\inetpub\wwwroot\iptv\sc\💖谷哥大全.json (1 hit)
-"https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0t"
+"https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=>>#;;u0t"
   
 !!C:\inetpub\wwwroot\iptv\sc\💗壹梦影视.json (4 hits)
 "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}}
 "https://www.aitv1.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$dy#连续剧$lianxuju#综艺$zy#动漫$dm#纪录片$jilupian"}}
 "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}}		
-"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html", "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24" } }	
+"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html", "分类": "短剧$20#电视剧$>>##电影$22#动漫$23#综艺$24" } }	
   
 !!C:\inetpub\wwwroot\iptv\sc\💗影视大全.json (4 hits)
-"http://www.214728327.xyz:56708/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html;;阿里"
+"http://www.>>#4728327.xyz:56708/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html;;阿里"
 "https://qzy998-1.ysgq.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
 "https://www.zrys1.top/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
 "http://www.ting38.com/ting/{cateId}-{catePg}.html;;ak"
@@ -1269,7 +1409,7 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html"
 "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html"
 "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", "分类":"电影$1#电视剧$2#动漫$3#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14","筛选":"1"}}, {"key":"西瓜影院","name":"🍉西瓜影院","type":3,"api":"csp_XBPQ"searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"
-"https://www.uccomic.com/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}/","分类":"电影&电视剧&综艺&动漫&电影解说","分类值":"20&21&22&23&48"}}, {"key":"好趣网","name":"📺电视好趣网","type":3,"api":"http://lgz.1.hk3.345123.xyz/json/drpy2.min.js", "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1695480277809/Yoursmile.jar", "ext":"http://lgz.1.hk3.345123.xyz/json/好趣网.js"}, {"key":"csp_觅知","name":"🌰觅知影视","type":3,"api":"csp_XBPQ"searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"魔剑+
+"https://www.uccomic.com/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}/","分类":"电影&电视剧&综艺&动漫&电影解说","分类值":"20&>>#&22&23&48"}}, {"key":"好趣网","name":"📺电视好趣网","type":3,"api":"http://lgz.1.hk3.345123.xyz/json/drpy2.min.js", "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1695480277809/Yoursmile.jar", "ext":"http://lgz.1.hk3.345123.xyz/json/好趣网.js"}, {"key":"csp_觅知","name":"🌰觅知影视","type":3,"api":"csp_XBPQ"searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"魔剑+
 "https://huale.tv/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3#TV直播$6"}}, {"key":"700K","name":"7️⃣700看"type":3, ...
 "https://huale.tv/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3#TV直播$6"}}, {"key":"700K","name":"7️⃣700看"type":3, ...
 "https://www.tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#B站$50#纪录片$5#体育$56","筛选":"1","免嗅":"1"}}, {"key":"笑笑影视","name":"🤣笑笑影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/xiaoxiao.json"}, {"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"}, {"key":"csp_lgz_feifei","name":"🤣开心坊","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{ \"免嗅\":\"1\", \"演员\":\"主演：&&\", \"简介\":\"class=\\\"video-info-item video-info-content vod_content\\\"&&\", \"副标题\":\"class=\\\"module-item-text\\\">&&\", \"数组\":\"class=\\\"module-item-pic&&\", \"线路数组\":\"class=\\\"module-tab-item tab-item&&\", \"线路标题\":\"&&\", \"播放数组\": \"class=\\\"scroll-content&&\", \"分类\":\"电影$dianying#剧集$fenlei2#国产剧$guochanju#综艺$zongyi#动漫$dongman\", \"分类url\":\"https://www.kaixinfang.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html/\"}"}, {"key":"忍者视频","name":"🐢忍着影视","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1, "filterable":0, "jar": "http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b","ext":"http://www.rzys.cc"}, {"key": "大米星球","name": "🍚大米星球","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://lgz.1.hk3.345123.xyz/json/大米星球.json"}, {"key":"sp_saiwei","name":"🚴🏿‍♂️赛维影视","type":1,"searchable":1,"quickSearch":1,"api":"https://lsys.dsmynas.com:3000//api.php/provide/vod/","playUrl":""}, {"key":"lgz_徕米","name":"️🥡徕米影视","type":3,"api":"XBPQ"ext":"免嗅:1,分类:电视剧$diansh ...
@@ -1288,7 +1428,7 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}}
 "http://dyxz.tv/list/{cateId}_{catePg}.html","分类": "电影$1#电视剧$2#动漫$3#综艺$4"}}
 "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"}}
-"https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0","分类": "电影$1#电视剧$2#动漫$3#综艺$4"}}
+"https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=>>#;;u0","分类": "电影$1#电视剧$2#动漫$3#综艺$4"}}
   
 !!C:\inetpub\wwwroot\iptv\sc\🚖夜猫子新.json (2 hits)
 "https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val"
@@ -1373,11 +1513,11 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
   
 !!C:\inetpub\wwwroot\iptv\sc.json (2 hits)
 "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",  "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}}
-"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",  "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}}
+"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",  "分类": "短剧$20#电视剧$>>##电影$22#动漫$23#综艺$24"}}
   
 !!C:\inetpub\wwwroot\iptv\storeHouse\urls\01影视仓ys.json (2 hits)
 "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",  "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}}
-"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",  "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}}
+"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",  "分类": "短剧$20#电视剧$>>##电影$22#动漫$23#综艺$24"}}
   
 !!C:\inetpub\wwwroot\iptv\storeHouse\urls\0201svip.json (1 hit)
 "https://qzy998-1.ysgq.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
@@ -1386,7 +1526,7 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0
 "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html
 "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}
-"https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0
+"https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=>>#;;u0
 "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
 "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html
 "https://www.cupfox1.cc/show/{cateId}/area/{area}/page/{catePg}/year/{year}.html
@@ -1418,7 +1558,7 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
   
 !!C:\inetpub\wwwroot\iptv\storeHouse\urls\sc01.json (2 hits)
 "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}}
-"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}}
+"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类": "短剧$20#电视剧$>>##电影$22#动漫$23#综艺$24"}}
   
 !!C:\inetpub\wwwroot\iptv\storeHouse\urls\sc06.json (4 hits)
 "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\"&gt;&amp;&amp;&lt;/ul&gt;","数组":"\"v_img\"&amp;&amp;/div&gt;","标题":"title=\"&amp;&amp;\"","副标题":"v_note\"&amp;&amp;&lt;/div","跳转播放链接":"&lt;iframe*src=\"&amp;&amp;\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&amp;&amp;\"+&amp;t=+var t*\"&amp;&amp;\"+&amp;key=+var key*\"&amp;&amp;\"+&amp;act=0+&amp;play=1"三次跳转播放链接":"\"url\"*\"&amp;&amp;\""}},
@@ -1428,10 +1568,10 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
   
 !!C:\inetpub\wwwroot\iptv\storeHouse\urls\刘备.json (2 hits)
 "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",  "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}}
-"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",  "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}}
+"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",  "分类": "短剧$20#电视剧$>>##电影$22#动漫$23#综艺$24"}}
   
 !!C:\inetpub\wwwroot\iptv\tb.json (6 hits)
-"https://have8.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com","导演":"导演：&&</div>","影片类型":"<div class=\"module-info-tag\">&&立即播放","搜索url":"https://have8.net/type/id-.html?wd={wd}","搜索模式":"1","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","线路标题":"\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]","请求头":"Referer$https://have8.net/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9","playerType":"1"type":3},	
+"https://have8.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com","导演":"导演：&&</div>","影片类型":"<div class=\"module-info-tag\">&&立即播放","搜索url":"https://have8.net/type/id-.html?wd={wd}","搜索模式":"1","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","线路标题":"\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]","请求头":"Referer$https://have8.net/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b544>>#c1552f9","playerType":"1"type":3},	
 "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"}}
 "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","副标题":"v_note\"&&</div","嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","数组":"\"v_img\"&&/div>","数组二次截取":"class=\"v_list\">&&</ul>","标题":"title=\"&&\"","跳转播放链接":"<iframe*src=\"&&\""},"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","playerType":"2"quickSearch":1,"searchable":1,"type":3},
 "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1"搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
@@ -1439,7 +1579,7 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a"分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
   
 !!C:\inetpub\wwwroot\iptv\tbnet.json (6 hits)
-"https://have8.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com","导演":"导演：&&</div>","影片类型":"<div class=\"module-info-tag\">&&立即播放","搜索url":"https://have8.net/type/id-.html?wd={wd}","搜索模式":"1","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","线路标题":"\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]","请求头":"Referer$https://have8.net/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9","playerType":"1"type":3},	
+"https://have8.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4#v3-dy-o.zjcdn.com","导演":"导演：&&</div>","影片类型":"<div class=\"module-info-tag\">&&立即播放","搜索url":"https://have8.net/type/id-.html?wd={wd}","搜索模式":"1","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","线路标题":"\"tab\">&&</a>[不包含:线路1#线路2#线路3#][替换:FY线路>>无广告有4K#KKJ线路>>无告1080P#LZ线路>>广告1#FF线路>>广告2#YZ线路>>广告3]","请求头":"Referer$https://have8.net/#Cookie$filter_robot_cs=301#User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b544>>#c1552f9","playerType":"1"type":3},	
 "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"}}
 "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","副标题":"v_note\"&&</div","嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","数组":"\"v_img\"&&/div>","数组二次截取":"class=\"v_list\">&&</ul>","标题":"title=\"&&\"","跳转播放链接":"<iframe*src=\"&&\""},"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","playerType":"2"quickSearch":1,"searchable":1,"type":3},
 "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1"搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
@@ -1464,7 +1604,7 @@ https://huale.tv/vodshow/2/area/内地/by/hits/class/国产/lang/国语/year/202
 "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}}
 "http://dyxz.tv/list/{cateId}_{catePg}.html","分类": "电影$1#电视剧$2#动漫$3#综艺$4"}}
 "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"}}
-"https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0","分类": "电影$1#电视剧$2#动漫$3#综艺$4"}}
+"https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=>>#;;u0","分类": "电影$1#电视剧$2#动漫$3#综艺$4"}}
 "http://www.guangbomi.com/tv/{cateId}/{catePg}.html[http://www.guangbomi.com/tv/{cateId}/index.html"}} 
 "http://tv.haoqu99.com/{cateId};;z", "数组": "<li class=\"p-item\">&&</li>"}} 
   
@@ -1774,13 +1914,13 @@ ok资源采集站 http://www.haozy.cc （可采集下载）共有资源40300+
 高清资源采集站 http://www.wuxiou.com 共有资源22733+
 步步高资源采集站 http://www.bbkdj.com （站长是个傻逼）
 猫眼资源采集站 http://maoyan123.com/ （合并到高清）
-398资源采集站 https://www.398zy.com/ 共有资源21376+
+398资源采集站 https://www.398zy.com/ 共有资源>>#376+
 c值云采集资源站 http://www.czhiziyuan.com 共有资源14400+
 酷播资源 http://kubozy.net/ （卡的要死）共有资源30000+
 超级资源采集网 http://chaojizy.com/ 共有资源24424+
 秒播影视资源 https://www.mb700.com 共有资源25019+（不建议采集）
 最新资源 http://www.zuixinzy.cc/ （m3u8）共有资源32000+
-搜乐资源网 https://www.solezy.com/ 共有资源21061+
+搜乐资源网 https://www.solezy.com/ 共有资源>>#061+
 
 //
 2024年最新可采集CMS视频资源站网址合集

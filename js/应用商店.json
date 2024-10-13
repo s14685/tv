@@ -6,6 +6,25 @@
    { "name": "推薦",
     "list": [
       {
+        "name": "🌈影视仓_5.0.40.1",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.40.1.apk",
+        "icon": "http://liucn.cc/box/img/dc01.jpg",
+        "version": "通用版"
+      },
+      {
+        "name": "🌈Taka 20240825",
+        "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20240825-1636.apk",
+        "icon": "http://liucn.cc/box/img/takagen99.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🌈OK影视 v2.4.9",
+        "url": "http://williamc.tplinkdns.com/apk/apk/OK影视电视版_2.4.9.apk",
+        "icon": "http://liucn.cc/box/img/img_1.png",
+        "version": "通用版"
+      },	  
+
+      {
         "name": "🌈影视仓_5.0.36.1",
         "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.36.1.apk",
         "icon": "http://liucn.cc/box/img/dc01.jpg",
@@ -15,7 +34,7 @@
         "name": "🌈Taka 20240709",
         "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20240709-2109.apk",
         "icon": "http://liucn.cc/box/img/takagen99.png",
-        "version": "内置版"
+        "version": "通用版"
       },
       {
         "name": "🌈OK影视 v2.4.5",

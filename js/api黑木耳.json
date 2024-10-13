@@ -1,16 +1,20 @@
 //黑木耳 https://heimuer.tv/
 //https://json.heimuer.xyz/api.php/provide/vod/?ac=list
-//https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd=妖精的尾巴
-//☆ 即将停用的采集接口1：
-//https://json.heimuer.tv/api.php/provide/vod/?ac=list
-//☆ 即将停用的采集接口2：
-//https://xml.heimuer.tv/api.php/provide/vod/at/xml/?ac=list
-//☆ 最新通用采集json接口：
-//https://json.heimuer.xyz/api.php/provide/vod/?ac=list
-//☆ 最新通用采集xml接口：
-//https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list
-//☆ M3U8专用解析接口：
-//https://player.heimuer.tv/index.html?url=
+//https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd=与凤行
+//240929
+//☆ json采集接口(国内服务器采集专用)：https://json02.heimuer.xyz/api.php/provide/vod/?ac=list
+//☆ xml采集接口(国内服务器采集专用)：https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list
+//☆ json采集接口(海外服务器采集专用)：https://json.heimuer.xyz/api.php/provide/vod/?ac=list
+//☆ xml采集接口(海外服务器采集专用)：https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list
+//☆ M3U8专用解析接口：https://hoplayer.com/index.html?url=
+//240801
+//☆ 即将停用的采集接口1：//https://json.heimuer.tv/api.php/provide/vod/?ac=list
+//☆ 即将停用的采集接口2：//https://xml.heimuer.tv/api.php/provide/vod/at/xml/?ac=list
+//☆ 最新通用采集json接口：//https://json.heimuer.xyz/api.php/provide/vod/?ac=list
+//☆ 最新通用采集xml接口：//https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list
+//☆ M3U8专用解析接口：//https://player.heimuer.tv/index.html?url=
+
+
 
  {
     "主页url":"https://json.heimuer.xyz",
@@ -39,8 +43,9 @@
     "搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
     "搜索链接":"https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,", //API
     
-//API    
-	"影片类型":"vod_class\"*\"&&\"[替换:剧情>>电视剧#]",
+//API
+    "影片状态":"vod_class\"*\"&&\"[替换:剧情>>电视剧#]",
+    "影片类型":"type_name\"*\"&&\"[替换:剧情>>电视剧#]",
     "影片年代":"vod_year\"*\"&&\"",
     "影片地区":"vod_area\"*\"&&\"",
     "导演":"vod_director\"*\"&&\"+⚡️+vod_remarks\"*\"&&\"[替换:更新至第>> #更新至>> #更至>> #]",
@@ -60,7 +65,7 @@
     "播放标题":"&&",
 	"播放链接":"&&",
     
-    "分类":"国产动漫$60#国产剧$13#韩剧$15#电影$6#电视剧$13#综艺$38#动漫$60#短剧$64#",
+    "分类":"国产动漫$60#国产剧$13#韩剧$15#电影$6#电视剧$13#综艺$38#动漫$60#短剧$45#",
     "分类url":"https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20",
     
 	"筛选":{
@@ -278,9 +283,9 @@
 // ,{"type_id":56,"type_pid":27,"type_name":"其它短剧"}
 // ,{"type_id":64,"type_pid":27,"type_name":"合集短剧"}]}
 
-	"64":[
+	"45":[
         {"key":"cateId","name":"类型","value":[
-        {"n":"短剧","v":"64"},
+        {"n":"短剧","v":""},
         {"n":"古装短剧","v":"45"},
         {"n":"虐恋短剧","v":"46"},
         {"n":"逆袭短剧","v":"47"},

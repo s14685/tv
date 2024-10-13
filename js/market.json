@@ -4,71 +4,84 @@
     "name": "应用",
     "list": []
   },
-  { "name": "推薦",
+  { "name": "🌈推薦",
     "list": [
       {
-        "name": "🌈影视仓_5.0.36.1",
-        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.36.1.apk",
-        "icon": "http://liucn.cc/box/img/dc01.jpg",
+        "name": "🌈影视仓_5.0.43",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.43.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
         "version": "通用版"
       },
       {
-        "name": "🌈Taka 20240709",
-        "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20240709-2109.apk",
-        "icon": "http://liucn.cc/box/img/takagen99.png",
-        "version": "内置版"
+        "name": "🎬Taka 20240914",
+        "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20240914-1409.apk",
+        "icon": "http://williamc.tplinkdns.com/images/Taka.png",
+        "version": "通用版"
       },
       {
-        "name": "🌈OK影视 v2.4.5",
-        "url": "http://williamc.tplinkdns.com/apk/apk/OK影视电视版_2.4.5.apk",
-        "icon": "http://liucn.cc/box/img/img_1.png",
+        "name": "🌍OK影视 v2.5.0",
+        "url": "http://williamc.tplinkdns.com/apk/apk/OK影视电视版_2.5.0.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-green.png",
         "version": "通用版"
-      }	  
+      },
+      {
+        "name": "🍁堡盒 v3.2.7",
+        "url": "http://williamc.tplinkdns.com/apk/apk/堡盒TV版_3.2.7.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      }
+
     ]
   },
-  { "name": "Taka原版",
+  { "name": "🎬Taka原版",
     "list": [
       {
-        "name": "🌈Taka 20240709",
-        "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20240709-2109.apk",
-        "icon": "http://liucn.cc/box/img/takagen99.png",
+        "name": "🎬Taka 20240914",
+        "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20240914-1409.apk",
+        "icon": "http://williamc.tplinkdns.com/images/mbox1.png",
         "version": "通用版"
       },
       {
-        "name": "🌈Taka 多仓版",
+        "name": "🎬Taka 多仓版",
         "url": "http://williamc.tplinkdns.com/apk/apk/taka多仓_Jade_0624.apk",
-        "icon": "http://liucn.cc/box/img/takagen99.png",
+        "icon": "http://williamc.tplinkdns.com/images/mbox2.png",
         "version": "0624"
       }
     ]
   },
-  { "name": "影视多仓版",
+  { "name": "🌈影视多仓版",
     "list": [
       {
-        "name": "🌈影视仓_5.0.36.1",
-        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.36.1.apk",
-        "icon": "http://liucn.cc/box/img/dc01.jpg",
+        "name": "🌈影视仓_5.0.42",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.42.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-orange.png",
         "version": "通用版"
       },
       {
-        "name": "🌈影视仓_5.0.36.1",
-        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.36.1.apk",
-        "icon": "http://liucn.cc/box/img/dc01.jpg",
+        "name": "🌈影视仓_5.0.43",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.43.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-purple.png",
         "version": "内置版"
       }
     ]
   },
   
-  { "name": "OK影视版",
+  { "name": "🍁堡盒🌍OK影视",
     "list": [
       {
-        "name": "🌈OK影视 v2.4.5",
-        "url": "http://williamc.tplinkdns.com/apk/apk/OK影视电视版_2.4.5.apk",
+        "name": "🌍OK影视 v2.5.0",
+        "url": "http://williamc.tplinkdns.com/apk/apk/OK影视电视版_2.5.0.apk",
         "icon": "http://liucn.cc/box/img/img_1.png",
         "version": "通用版"
       },
       {
-        "name": "🌈OK影视 v2.4.5",
+        "name": "🍁堡盒 v3.2.7",
+        "url": "http://williamc.tplinkdns.com/apk/apk/堡盒TV版_3.2.7.apk",
+        "icon": "http://liucn.cc/box/img/dc02.jpg",
+        "version": "通用版"
+      },
+      {
+        "name": "🌍OK影视 v2.4.5",
         "url": "http://williamc.tplinkdns.com/apk/apk/OK影视电视版_2.4.5.apk",
         "icon": "http://liucn.cc/box/img/img_1.png",
         "version": "内置版"
@@ -80,7 +93,7 @@
     "name": "影视TV",
     "list": [
       {
-        "name": "OK電視",
+        "name": "🌍電視",
         "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk",
         "icon": "http://liucn.cc/box/img/img_1.png",
         "version": "Java32"

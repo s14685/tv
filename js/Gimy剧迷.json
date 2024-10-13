@@ -1,7 +1,9 @@
 //Gimy剧迷
+//https://www.jagcys.com/vodshow/guochanju/year/2024.html
 //https://www.jagcys.com/vodshow/guochanju/by/hits/year/2024.html
 //https://www.jagcys.com/voddetail-84621.html
 //https://www.jagcys.com/vodsearch.html?wd=与凤行
+//https://www.jagcys.com/vodsearch/actor/张晚意/page/1.html
 {
     "作者":"荷城茶秀",
     "站名":"Gimy剧迷", 
@@ -16,7 +18,7 @@
     "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
     //"副标题":"href=\"&&\"",
-    "副标题":"module-item-note\">&&</div>",
+    "副标题":"<div class=\"module-item-note*>&&</div>+🌸",
 	
     "简介":"🌸+集数：</span>&&</div>+连载：</span>&&</div>+🌸+module-info-introduction-content\">&&</div>[替换:每集>> #更新至>> #更新>> #更至>> #]",
     "导演":"导演：</span><div class=\"module-info-item-content\">&&</a>+⚡️+片长：</span><div class=\"module-info-item-content\">&&</div>[替换:每集>> #更新至>> #更新>> #更至>> #]",
@@ -39,8 +41,8 @@
 
 //播放列表
     //"线路二次截取": "",
-    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #主线>>索尼#备用线路①>>爱坤#备用线路②>>快看#剧迷主线>>索尼#剧迷备用线路①>>爱坤#剧迷备用线路②>>快看#剧迷索尼>>索尼#剧迷快看>>快看#剧迷爱坤>>爱坤#剧迷快看>>快看#]",
-    "线路标题":"🌸+<span>&&</small>[排序:藍光>華為>非凡>量子>索尼>爱坤>快看>快云>天空>优质>乐视>最大>八戒>飛速>暴风>櫻花>快车>U酷>金鹰>闪电>海外>高清>極速>无尽>红牛>极速>独家>专线>超清>豪华]",
+    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>⚡️ #蓝光高清>>黑木耳#主线>>索尼#备用线路①>>爱坤#备用线路②>>快看#剧迷主线>>索尼#剧迷备用线路①>>爱坤#剧迷备用线路②>>快看#剧迷索尼>>索尼#剧迷快看>>快看#剧迷爱坤>>爱坤#剧迷快看>>快看#]",
+    "线路标题":"🌸+<span>&&</small>[排序:黑木耳>非凡>快看>量子>华为吧>索尼>快云>天空>优质>豪华>乐视>飞速>爱坤>闪电>卧龙>快车>无尽>红牛>极速>高清>暴风>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
     
     //"播放二次截取": "",
 	//"播放数组":"id=\"glist&&<em",

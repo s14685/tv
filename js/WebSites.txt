@@ -5,6 +5,24 @@
 ~[替换:v>>?ep=<序号>.mp4#][不包含:1#2#]\\$ \\# \\& \\* \\[ \\]
 ~[替换:每集>> #更新至>> #更新>> #更至>> #<span class=\"slash\">/</span>>><span></span>#]
 
+//一二三四五 🌿🍃✨️🌅🎯🌺⚡️🌈🌈🎭🧩 0：系統；1：IJK；2：EXO
+//http://williamc.tplinkdns.com/iptv/fav.json
+//http://williamc.ddns.net/iptv/fav.json
+//http://winniec.ddns.net/iptv/favnet.json
+//https://raw.githubusercontent.com/s14685/tv/main/favgh.json
+//https://raw.githubusercontent.com/s14685/tv/main/tbvgh.json
+
+//http://williamc.tplinkdns.com/iptv/js/ -> https://raw.githubusercontent.com/s14685/tv/main/js/
+//http://williamc.tplinkdns.com/iptv/js/HCCX.jar -> https://raw.liucn.cc/box/libs/jar/HCCX.jar
+
+//https://raw.liucn.cc/box/libs/jar/HCCX.jar
+//https://raw.githubusercontent.com/s14685/tv/main/js/HCCX.jar
+//"spider": "https://raw.liucn.cc/box/fty.jar;md5;8b8d1018ca0b29c22cf681e2db55d38f",
+//"线路数组":"data-dropdown-value=&&</div>[不包含:夸克#][替换:</span><small>>>️⚡️ #线路1>>豪华#线路2>>量子#线路3>>优质#线路4>>索尼#线路5>>乐视#线路6>>非凡#线路7>>优酷]", "请求头":"手机","免嗅": "0",
+//"线路标题":"🌸+<span>&&</small>[排序:黑木耳>量子>非凡>华为吧>天空>卧龙>优质>高清>爱坤>海外>乐视>闪电>索尼>无尽>红牛>极速>独家>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>暴风>超清>蓝光>备用>本站>稳定>国内>速播>金鹰]",
+//[替换:v>>?ep=<序号>.mp4#][不包含:1#2#]\\$ \\# \\& \\* \\[ \\]
+
+
 黑木耳hmr>m3u8.hmrvideo.com						https://m3u8.hmrvideo.com/play/1dff79555bef4798873e9fa2412e0351.m3u8
 华为吧hw>m3u.nikanba.live						https://m3u.nikanba.live/share/f8bd508d6c6d915e919b100af67c9607.m3u8
 量子lz>v.cdnlz2.com								https://v.cdnlz3.com/20240731/25190_26bff581/index.m3u8
@@ -83,6 +101,31 @@ yy												https://yayazy10.com/index.php/vod/play/id/85383/sid/1/nid/1.html
 ~https://soupian.pro/search?key=庆余年
 ~https://xn--p3tv7h.com/ https://影搜.com
 
+
+
+
+//星辰影视
+//https://www.databiti.com/vodshow/guochanju-----------.html
+//https://www.xingchenys.com/vod/list/1/40/60
+//A线>>黑木耳#B线>>索尼#C线>>闪电#
+
+//香蕉影视
+//https://www.nacarestudio.com/index.php/vod/show/id/13.html
+//线路1>>索尼#线路2>>卧龙#备用线路>>黑木耳#
+
+//MXVOD 明星影院
+//https://mxvod.com/vodshow/guochanju-----------.html
+//推荐全网 ①>>#推荐全网 ②>>#推荐全网 ③>>#全网线路 ④>>#全网线路 ⑤>>#全网线路 ⑥>>#全网线路 ⑦>>#全网线路 ⑧>>#全网线路 ⑨>>#全网线路 ⑩>>#推荐国内 ①>>#国内线路 ②>>#国内线路 ③>>#国内线路 ④>>#国内线路 ⑤>>#国内线路 ⑥>>#国内线路 ⑦27 //天狼影院
+
+//https://www.ianjing.com/vodshow/guochanju-----------/
+//https://www.ianjing.com/vodsearch/-吴谨言------------/
+//蓝光高清>>黑木耳#主线>>索尼#备用线路②>>牛牛#备用线路①>>OK#
+
+//阳光影院
+//https://en.wfsunnycal.com/ygshow/13-----------.html
+//https://en.wfsunnycal.com/ygsearch/-------------.html?wd=锦绣安宁
+//暴风云>>#木耳云>>#华为云>>#索尼云>>#OK云>>#非凡云>>#无尽云>>#鸭鸭云>>#牛牛云>>#最大云>>#闪电云>>#
+
 //爱看影视
 //https://www.akys.us/vodshow/2-----------/
 //自营超清.0>>#自营超清>>#备用HW+>>#备用HR+>>#备用MD+>>#备用BY+>>#
@@ -97,6 +140,9 @@ yy												https://yayazy10.com/index.php/vod/play/id/85383/sid/1/nid/1.html
 //https://www.ffys.fun/vodsearch.html?wd=流水迢迢
 //https://www.ffys.fun/vodshow/area/中国大陆/id/34/year/2024.html
 //蓝光①>>XT#ZL>>ZL#手机线路>>WX#HME>>黑木耳#FF>>非凡#KK>>快看#BF>>暴风#LZ>>量子#YZ>>优质#
+//https://www.feifeitv.com/vod/index.html?cate_id=2&type_id=22
+
+
 
 //毒蛇电影
 //https://m.tianbaoglz.com/vodshow/13-----------.html

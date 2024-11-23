@@ -1,4 +1,6 @@
-//量子资源网.json
+//量子资源网.json https://lziplayer.com/?url=
+//演示网站: http://www.lzizy9.com/index.php/vod/type/id/13.html
+//http://www.lzizy9.com/index.php/vod/show/by/hits/id/13/year/2024.html
 //https://www.cj.lziapi.com/index.php/vod/type/id/13.html
 //https://lzizy.net/
 //https://cj.lziapi.com
@@ -37,15 +39,13 @@
     "副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更至第>> #]+🌸+\"vod_actor\":\"&&\"", 
     //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor
     
-    //"搜索模式":"1",
-    //"搜索url":"https://lzizy9.com/index.php/vod/search.html?wd={wd}",
-    //"搜索数组二次截取":"\"list\"*[&&]",
-    //"搜索数组":"<div class=\"module-item-pic\">&&<div class=\"loading\"></div>",
-    //"搜索图片":"data-src=\"&&\"",
-    //"搜索标题":"alt=\"&&\"+\/id\/&&\/",
-    //"搜索链接":"https://cj.lziapi.com/api.php/provide/vod/at/json/?ac=detail&ids=+\/id\/&&\/", //API
-	//"搜索链接":"https://lzizy9.com/index.php/vod/detail/id/+\/id\/&&\/+.html",
-
+    "搜索模式":"1",
+    "搜索url":"http://cj.lziapi.com/index.php/ajax/suggest.html?mid=1&wd={wd}",
+    "搜索数组二次截取":"\"list\"*[&&]",
+    "搜索数组":"{&&}",
+    "搜索图片":"\"pic\"*\"&&\"",
+    "搜索标题":"\"name\"*\"&&\"",
+    "搜索链接":"http://cj.lziapi.com/index.php/vod/detail/id/+\"id\":&&,+.html",	
     
 //API    
 	"影片类型":"vod_class\"*\"&&\"[替换:剧情>>电视剧#]",

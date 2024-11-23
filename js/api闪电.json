@@ -2,7 +2,7 @@
 //https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list
 //https://xsd.sdzyapi.com/api.php/provide/vod/?ac=detail&wd=小财迷 (Not support)
 //闪电网址： https://shandianzy.com 、shandianzy.net、shandianzy.cc
-
+//http://xsd.sdzyapi.com/index.php/ajax/suggest.html?mid=1&wd=庆余年第二季
  {
     "主页url":"https://xsd.sdzyapi.com",
     "站名":"🌸闪电资源",
@@ -21,14 +21,13 @@
     "副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新第>> #更至>> #]+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_actor\":\"&&\"", 
     //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor
     
-    //"搜索模式":"1",
-    //"搜索url":"https://xsd.sdzyapi.com/api.php/provide/vod/?ac=detail&wd={wd}", //https://shandianzy.com/index.php/vod/search.html?wd=流水迢迢&submit=search
-    //"搜索数组二次截取":"\"list\"*[&&]",
-    //"搜索数组":"{&&}",
-    //"搜索图片":"vod_pic\"*\"&&\"",
-    //"搜索标题":"vod_name\"*\"&&\"",
-    //"搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_duration\":\"&&\"", 
-    //"搜索链接":"https://xsd.sdzyapi.com/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,", //API
+    "搜索模式":"1",
+    "搜索url":"http://xsd.sdzyapi.com/index.php/ajax/suggest.html?mid=1&wd={wd}",
+    "搜索数组二次截取":"\"list\"*[&&]",
+    "搜索数组":"{&&}",
+    "搜索图片":"\"pic\"*\"&&\"",
+    "搜索标题":"\"name\"*\"&&\"",
+    "搜索链接":"https://xsd.sdzyapi.com/api.php/provide/vod/?ac=detail&ids=+\"id\":&&,+.html",	
     
 //API    
 	"影片类型":"vod_class\"*\"&&\"[替换:剧情>>电视剧#]",

@@ -1,21 +1,37 @@
 PolyU_AIDA,#genre#
-
-W01-AI and Education.mp4,http://127.0.0.1:23456/smb/192.168.0.100%2Fpolyu%2FAIDA%2FW01-AI%20and%20Education.mp4
-W02-GenAI Chatbots.mp4,http://127.0.0.1:23456/smb/192.168.0.100%2Fpolyu%2FAIDA%2FW02-GenAI%20Chatbots.mp4
-W03-Canva and Elevenlabs.mp4,http://127.0.0.1:23456/smb/192.168.0.100%2Fpolyu%2FAIDA%2FW03-Canva%20and%20Elevenlabs.mp4
-W06-Machine learning.mp4,http://127.0.0.1:23456/smb/192.168.0.100%2Fpolyu%2FAIDA%2FW06-Machine%20learning.mp4
-W07-Deep learning.mp4,http://127.0.0.1:23456/smb/192.168.0.100%2Fpolyu%2FAIDA%2FW07-Deep%20learning.mp4
-W08-GenAI.mp4,http://127.0.0.1:23456/smb/192.168.0.100%2Fpolyu%2FAIDA%2FW08-GenAI.mp4
+http://127.0.0.1:25407/SMB/0/polyu/AIDA/W05-Extension-Innovation-Methodology1.mp4
+W01-AI-and-Education.mp4,http://127.0.0.1:25407/SMB/0/polyu/AIDA/W01-AI-and-Education.mp4
+W02-GenAI-Chatbots.mp4,http://127.0.0.1:25407/SMB/0/polyu/AIDA/W02-GenAI-Chatbots.mp4
+W03-Canva-and-Elevenlabs.mp4,http://127.0.0.1:25407/SMB/0/polyu/AIDA/W03-Canva-and-Elevenlabs.mp4
+W05-Extension-Innovation-Methodology1.mp4,http://127.0.0.1:25407/SMB/0/polyu/AIDA/W05-Extension-Innovation-Methodology1.mp4
+W05-Extension-Innovation-Methodology2.mp4,http://127.0.0.1:25407/SMB/0/polyu/AIDA/W05-Extension-Innovation-Methodology2.mp4
+W06-Machine-learning.mp4,http://127.0.0.1:25407/SMB/0/polyu/AIDA/W06-Machine-learning.mp4
+W07-Deep-learning.mp4,http://127.0.0.1:25407/SMB/0/polyu/AIDA/W07-Deep-learning.mp4
+W08-GenAI.mp4,http://127.0.0.1:25407/SMB/0/polyu/AIDA/W08-GenAI.mp4
+W09-AI-Robotics1.mp4,http://127.0.0.1:25407/SMB/0/polyu/AIDA/W09-AI-Robotics1.mp4
+W09-AI-Robotics2.mp4,http://127.0.0.1:25407/SMB/0/polyu/AIDA/W09-AI-Robotics2.mp4
 
 AI_Workshop,#genre#
-01.Integrating-GenAI-in-your-University-Life1.mp4,http://127.0.0.1:23456/smb/192.168.0.100%2Fpolyu%2FAI-Workshop%2F01.Integrating-GenAI-in-your-University-Life1.mp4
-01.Integrating-GenAI-in-your-University-Life2.mp4,http://127.0.0.1:23456/smb/192.168.0.100%2Fpolyu%2FAI-Workshop%2F01.Integrating-GenAI-in-your-University-Life2.mp4
-02.Transforming-Ideas-into-Images-with-GenAI.mp4,http://127.0.0.1:23456/smb/192.168.0.100/polyu/AI-Workshop/02.Transforming-Ideas-into-Images-with-GenAI.mp4
-03.Adv-prompting-techniques-for-GenAI-Tools.mp4,http://127.0.0.1:23456/smb/192.168.0.100/polyu/AI-Workshop/03.Adv-prompting-techniques-for-GenAI-Tools.mp4
-04.Beginner-Guide-for-Generative-AI-Tools-chs.mp4,http://127.0.0.1:23456/smb/192.168.0.100/polyu/AI-Workshop/04.Beginner-Guide-for-Generative-AI-Tools-chs.mp4
-04.Beginner-Guide-for-Generative-AI-Tools-can.mp4,http://127.0.0.1:23456/smb/192.168.0.100/polyu/AI-Workshop/04.Beginner-Guide-for-Generative-AI-Tools-can.mp4
-05.Beginner-JavaScript-with-AI-Assistant.mp4,http://127.0.0.1:23456/smb/192.168.0.100/polyu/AI-Workshop/05.Beginner-JavaScript-with-AI-Assistant.mp4
-06.Prepare-a-professional-presentation-using-Canva-and-AI-tools.mp4,http://127.0.0.1:23456/smb/192.168.0.100/polyu/AI-Workshop/06.Prepare-a-professional-presentation-using-Canva-and-AI-tools.mp4
-07.Exploration-of-AI-Community-Platform-Hugging-Face.mp4,http://127.0.0.1:23456/smb/192.168.0.100/polyu/AI-Workshop/07.Exploration-of-AI-Community-Platform-Hugging-Face.mp4
-08.NLP-Sentiment-Analysis-with-Hugging-Face-Transformers.mp4,http://127.0.0.1:23456/smb/192.168.0.100/polyu/AI-Workshop/08.NLP-Sentiment-Analysis-with-Hugging-Face-Transformers.mp4
+01.Integrating-GenAI-in-your-University-Life1.mp4,http://127.0.0.1:25407/SMB/0/polyu/AI-Workshop/01.Integrating-GenAI-in-your-University-Life1.mp4
+01.Integrating-GenAI-in-your-University-Life2.mp4,http://127.0.0.1:25407/SMB/0/polyu/AI-Workshop/01.Integrating-GenAI-in-your-University-Life2.mp4
+02.Transforming-Ideas-into-Images-with-GenAI.mp4,http://127.0.0.1:25407/SMB/0/polyu/AI-Workshop/02.Transforming-Ideas-into-Images-with-GenAI.mp4
+03.Adv-prompting-techniques-for-GenAI-Tools.mp4,http://127.0.0.1:25407/SMB/0/polyu/AI-Workshop/03.Adv-prompting-techniques-for-GenAI-Tools.mp4
+04.Beginner-Guide-for-Generative-AI-Tools-chs.mp4,http://127.0.0.1:25407/SMB/0/polyu/AI-Workshop/04.Beginner-Guide-for-Generative-AI-Tools-chs.mp4
+04.Beginner-Guide-for-Generative-AI-Tools-can.mp4,http://127.0.0.1:25407/SMB/0/polyu/AI-Workshop/04.Beginner-Guide-for-Generative-AI-Tools-can.mp4
+05.Beginner-JavaScript-with-AI-Assistant.mp4,http://127.0.0.1:25407/SMB/0/polyu/AI-Workshop/05.Beginner-JavaScript-with-AI-Assistant.mp4
+06.Prepare-a-professional-presentation-using-Canva-and-AI-tools.mp4,http://127.0.0.1:25407/SMB/0/polyu/AI-Workshop/06.Prepare-a-professional-presentation-using-Canva-and-AI-tools.mp4
+07.Exploration-of-AI-Community-Platform-Hugging-Face.mp4,http://127.0.0.1:25407/SMB/0/polyu/AI-Workshop/07.Exploration-of-AI-Community-Platform-Hugging-Face.mp4
+08.NLP-Sentiment-Analysis-with-Hugging-Face-Transformers.mp4,http://127.0.0.1:25407/SMB/0/polyu/AI-Workshop/08.NLP-Sentiment-Analysis-with-Hugging-Face-Transformers.mp4
+09.Visionary-Design-Transforming-Ideas-into-Images-with-GenAI.mp4,http://127.0.0.1:25407/SMB/0/polyu/AI-Workshop/09.Visionary-Design-Transforming-Ideas-into-Images-with-GenAI.mp4
+
+
+
+
+
+
+
+
+
+
+
 

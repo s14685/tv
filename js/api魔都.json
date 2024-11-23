@@ -1,8 +1,14 @@
-//魔都 https://www.moduzy.com
+//魔都 https://www.moduzy.com 魔都演示站： www.moduys03.com
 //https://www.moduzy.com/list26/
 //电影 连续剧 综艺 国产动漫 日韩动漫 欧美动漫 港台动漫 动漫 电影 里番动漫 
-////https://www.mdzyapi.com/api.php/provide/vod/?ac=list
+//https://www.mdzyapi.com/api.php/provide/vod/?ac=list
 //https://www.mdzyapi.com/api.php/provide/vod/?ac=detail&wd=度华年
+//魔都资源网 永久地址：www.moduzy.com
+//备用网址：moduzy1.com 至 moduzy10.com
+//M3U8解析接口：https://jiexi.modujx01.com/?url=
+//XML采集接口： https://www.mdzyapi.com/api.php/provide/vod/at/xml/
+//JSON采集接口：https://www.mdzyapi.com/api.php/provide/vod/?ac=list
+
 
  {
     "主页url":"https://www.mdzyapi.com",

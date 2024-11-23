@@ -25,14 +25,13 @@
     "副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_actor\":\"&&\"", 
     //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor
     
-	//"搜索模式":"1",
-    //"搜索url":"https://kuaikan-api.com/api.php/provide/vod/?ac=detail&wd={wd}", //https://kuaikan-api.com/api.php/provide/vod/?ac=detail&wd=庆余年第二季
-    //"搜索数组二次截取":"\"list\"*[&&]",
-    //"搜索数组":"{&&}",
-    //"搜索图片":"vod_pic\"*\"&&\"",
-    //"搜索标题":"vod_name\"*\"&&\"",
-    //"搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_duration\":\"&&\"", 
-    //"搜索链接":"https://kuaikan-api.com/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,", //API
+    "搜索模式":"1",
+    "搜索url":"http://kuaikan-api.com/index.php/ajax/suggest.html?mid=1&wd={wd}",
+    "搜索数组二次截取":"\"list\"*[&&]",
+    "搜索数组":"{&&}",
+    "搜索图片":"\"pic\"*\"&&\"",
+    "搜索标题":"\"name\"*\"&&\"",
+    "搜索链接":"http://kuaikan-api.com/index.php/vod/detail/id/+\"id\":&&,+.html",	
     
 //API    
 	"影片类型":"vod_class\"*\"&&\"[替换:剧情>>电视剧#]",

@@ -1,4 +1,5 @@
-//https://yzzy.tv/ api.1080zyku.com
+//优质资源库 https://yzzy.tv/ api.1080zyku.com
+//演示网站: https://myripon.com/guocanju/
 //采集地址：https://api.1080zyku.com/inc/apijson.php
 //视频列表地址：https://api.1080zyku.com/inc/apijson.php?ac=list
 //视频详情地址：https://api.1080zyku.com/inc/apijson.php?ac=detail
@@ -30,7 +31,7 @@
 
 {
     "主页url":"https://api.1080zyku.com",
-    "站名":"🌸飞速资源",
+    "站名":"🌸优质资源",
     "首页":"电视剧",
     "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
     //first time filter extraction

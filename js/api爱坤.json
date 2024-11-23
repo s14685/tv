@@ -1,7 +1,16 @@
 //爱坤资源 
 //https://ikunzyapi.com/api.php/provide/vod/?ac=list
 //https://ikunzyapi.com/api.php/provide/vod/?ac=detail&wd=小财迷
-//电影 电视剧 动漫 综艺 体育 纪录片 短剧
+//主域名ikunzy.com ikunzy.net ikunzy.org ikunzy.vip 
+//备用域名ikzy1.com（1-9均可访问）
+//✈telegram交流群：https://t.me/ikunzyz 
+//🍎苹果cms接口：https://ikunzyapi.com/api.php/provide/vod 
+//🌏海洋cms接口：https://ikunzyapi.com/api.php/seaxml/vod/at/xml 
+//更多接口👉https://www.ikunzy.com/ikun/help.html 
+//🎦弹幕解析播放器（无广告 篮球boy 娱乐专用）： https://www.ikdmjx.com/?url= 
+//🎇福利赞助专用播放器：https://bofang.ikdmjx.com/?url= 
+//🎉播放器计费系统，采集多家资源站也能获得收益（点击访问）👉www.ikuncjfl.com
+
 
  {
     "主页url":"https://ikunzyapi.com",
@@ -18,7 +27,7 @@
     "链接":"https://ikunzyapi.com/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,", //API
 	     //https://ikunzyapi.com/api.php/provide/vod/at/json/?ac=detail&ids=51855
     //"副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
-    "副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_actor\":\"&&\"", 
+    "副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+⚡️+\"vod_duration\":\"&&\"+🌸+\"vod_actor\":\"&&\"", 
     //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor
     
 	"搜索模式":"1",
@@ -27,14 +36,14 @@
     "搜索数组":"{&&}",
     "搜索图片":"vod_pic\"*\"&&\"",
     "搜索标题":"vod_name\"*\"&&\"",
-    "搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_duration\":\"&&\"", 
+    "搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+⚡️+\"vod_duration\":\"&&\"", 
     "搜索链接":"https://ikunzyapi.com/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,", //API
     
 //API    
 	"影片类型":"vod_class\"*\"&&\"[替换:剧情>>电视剧#]",
     "影片年代":"vod_year\"*\"&&\"",
     "影片地区":"vod_area\"*\"&&\"",
-    "导演":"vod_director\"*\"&&\"+⚡️+vod_remarks\"*\"&&\"[替换:更新至第>> #更新至>> #更至>> #]",
+    "导演":"vod_director\"*\"&&\"+⚡️+vod_remarks\"*\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+⚡️+\"vod_duration\":\"&&\"",
     "主演":"vod_actor\"*\"&&\"",
     "简介":"🌸+vod_remarks\"*\"&&\"[替换:更新至第>> #更新至>> #]+🌸+vod_content\"*\"&&\"",
     //"简介": "vod_play_from\"*\"&&\"+$+$+$+#",

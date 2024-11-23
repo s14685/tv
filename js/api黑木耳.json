@@ -1,7 +1,9 @@
 //黑木耳 https://heimuer.tv/
+
 //https://json.heimuer.xyz/api.php/provide/vod/?ac=list
 //https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd=与凤行
 //240929
+//https://hoplayer.com/index.html?url=
 //☆ json采集接口(国内服务器采集专用)：https://json02.heimuer.xyz/api.php/provide/vod/?ac=list
 //☆ xml采集接口(国内服务器采集专用)：https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list
 //☆ json采集接口(海外服务器采集专用)：https://json.heimuer.xyz/api.php/provide/vod/?ac=list
@@ -13,7 +15,8 @@
 //☆ 最新通用采集json接口：//https://json.heimuer.xyz/api.php/provide/vod/?ac=list
 //☆ 最新通用采集xml接口：//https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list
 //☆ M3U8专用解析接口：//https://player.heimuer.tv/index.html?url=
-
+//https://json.heimuer.xyz/index.php/vod/search/page/1/wd/林一.html
+//https://json.heimuer.xyz/ajax/suggest.html?mid=1&wd=林一
 
 
  {

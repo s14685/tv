@@ -27,13 +27,13 @@
     "影片地区":"地区：&&</span>",
 	
 //搜索页面
-   "搜索url": "https://www.laodifang.tv/vodsearch/-------------.html?wd={wd}",     //https://www.laodifang.tv/vodsearch/-------------.html?wd=庆余年
-   "搜索数组二次截取": "<ul class=\"row\">&&</ul>",
-   "搜索数组": "<li*>&&</li>",
-   "搜索标题": "title=\"&&\"",
-   "搜索副标题": "🌸+<p class=\"item-status text-overflow\">&&</p>[替换:更新至第>> #更新至>> #]", //<p class="item-status text-overflow">更新至46</p>
-   "搜索图片": "data-original=\"&&\"",
-   "搜索链接": "href=\"&&\"",
+//   "搜索url": "https://www.laodifang.tv/vodsearch/-------------.html?wd={wd}",     //https://www.laodifang.tv/vodsearch/-------------.html?wd=庆余年
+//   "搜索数组二次截取": "<ul class=\"row\">&&</ul>",
+//   "搜索数组": "<li*>&&</li>",
+//   "搜索标题": "title=\"&&\"",
+//   "搜索副标题": "🌸+<p class=\"item-status text-overflow\">&&</p>[替换:更新至第>> #更新至>> #]", //<p class="item-status text-overflow">更新至46</p>
+//   "搜索图片": "data-original=\"&&\"",
+//   "搜索链接": "href=\"&&\"",
 
 //播放列表 
     //"线路二次截取": "", 

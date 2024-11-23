@@ -1,4 +1,5 @@
 //360资源站 https://360zy.tv/voddetail/57767.html
+//🎇演示站：https://www.360aikan.com 
 //主域名 ： 360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 
 //备用域名 ：
 //360zy1.com 360zy2.com 360zy3.com 360zy4.com 360zy5.com
@@ -6,7 +7,7 @@
 //🍎苹果cms接口：https://360zy.tv/api.php/provide/vod/?ac=detail&t=13&pg=1&limit=20
 //https://360zy.tv/api.php/provide/vod/?ac=list
 //https://360zy.tv/voddetail/57767.html
-
+//https://www.360aikan.com/index.php/vod/show/id/13.html
 
 
 //https://360zy.com/api.php/provide/vod/?ac=list
@@ -35,14 +36,13 @@
     //"副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
     //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor vod_duration
     
-	"搜索模式":"1",
-    "搜索url":"https://360zy.com/api.php/provide/vod/?ac=list&wd={wd}", //https://360zy.com/api.php/provide/vod/?ac=detail&wd=庆余年第二季
+    "搜索模式":"1",
+    "搜索url":"http://360zy.com/index.php/ajax/suggest.html?mid=1&wd={wd}",
     "搜索数组二次截取":"\"list\"*[&&]",
     "搜索数组":"{&&}",
-    "搜索图片":"vod_pic\"*\"&&\"",
-    "搜索标题":"vod_name\"*\"&&\"",
-    "搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
-    "搜索链接":"https://360zy.com/api.php/provide/vod/at/json/?ac=detail&ids=+\"vod_id\":&&,", //API
+    "搜索图片":"\"pic\"*\"&&\"",
+    "搜索标题":"\"name\"*\"&&\"",
+    "搜索链接":"https://360zy.com/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,", //API
     
 //API    
 	"影片类型":"vod_class\"*\"&&\"[替换:剧情>>电视剧#]",

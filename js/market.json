@@ -26,8 +26,90 @@
       },
       {
         "name": "🍁堡盒 v3.2.8",
-        "url": "http://williamc.tplinkdns.com/apk/apk/堡盒TV版_3.2.8.apk",
+        "url": "http://williamc.tplinkdns.com/apk/apk/堡盒竖屏版_3.2.8.apk",
         "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🍁竖屏版_EasyBox v1.5.1",
+        "url": "http://williamc.tplinkdns.com/apk/apk/竖屏版_EasyBox_1.5.1.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },	  
+      {
+        "name": "🍁俊于Q版 v20241029",
+        "url": "http://williamc.tplinkdns.com/apk/apk/俊于Q版_20241029-0923.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },	  
+      {
+        "name": "🍁影视仓手机版 v2.0.49.1",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓手机版_2.0.49.1.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
+        "version": "通用版"
+      },	  
+	  
+	  
+	  
+	  
+	  
+	  
+      {
+        "name": "⚡️Google Input",
+        "url": "http://williamc.tplinkdns.com/apk/apk/Gboard-tv_release-11002392.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
+        "version": "通用版"
+      },	  
+      {
+        "name": "⚡️Google Play",
+        "url": "http://williamc.tplinkdns.com/apk/apk/Google_Play_services_v213916.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
+        "version": "通用版"
+      },
+      {
+        "name": "⚡️WiFi Speed Test",
+        "url": "http://williamc.tplinkdns.com/apk/apk/SpeedTestWiFiAnalyzer.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
+        "version": "通用版"
+      },
+
+      {
+        "name": "⚡️apkmirror",
+        "url": "http://williamc.tplinkdns.com/apk/apk/apkmirror_helper_prod_17.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
+        "version": "通用版"
+      },
+      {
+        "name": "⚡️apkpure",
+        "url": "http://williamc.tplinkdns.com/apk/apk/apkpure_3202057_1109.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
+        "version": "通用版"
+      },
+      {
+        "name": "⚡️cz-filemanager v5.4.3",
+        "url": "http://williamc.tplinkdns.com/apk/apk/cz-filemanager_5.4.3.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
+        "version": "通用版"
+      },
+      {
+        "name": "⚡️cz-filemanager v3.1.7",
+        "url": "http://williamc.tplinkdns.com/apk/apk/cz-filemanager_3.1.7.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
+        "version": "通用版"
+      },	  
+      {
+        "name": "⚡️Cx File Explorer v2.3.4",
+        "url": "http://williamc.tplinkdns.com/apk/apk/Cx File Explorer_2.3.4.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
+        "version": "通用版"
+      },	  
+	  
+	  
+	  
+	  {
+        "name": "🌈Keep_TV v3.3.0",
+        "url": "http://williamc.tplinkdns.com/apk/apk/Keep_TV_v3.3.0.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
         "version": "通用版"
       }
 

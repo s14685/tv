@@ -6,10 +6,29 @@
   },
   { "name": "🌈推薦",
     "list": [
+
       {
-        "name": "🌈影视仓_5.0.44",
-        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.44.1.apk",
+        "name": "🌈如意_1.0",
+        "url": "http://williamc.tplinkdns.com/apk/apk/如意tv1.0.apk.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-red.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🌈影视仓_5.0.48",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓-5.0.48.2.apk",
         "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🌈影视仓_5.0.46",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.46.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🍁堡盒 v3.3.1.2",
+        "url": "http://williamc.tplinkdns.com/apk/apk/堡盒电视版-V3.3.1.2-32位.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
         "version": "通用版"
       },
       {
@@ -24,13 +43,14 @@
         "icon": "http://williamc.tplinkdns.com/images/TV-green.png",
         "version": "通用版"
       },
+
       {
-        "name": "🍁堡盒 v3.2.8",
-        "url": "http://williamc.tplinkdns.com/apk/apk/堡盒竖屏版_3.2.8.apk",
+        "name": "🍁堡盒 v3.3.1.2 内置",
+        "url": "http://williamc.tplinkdns.com/apk/apk/宝盒_3.3.1.2（内置）.apk",
         "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
-        "version": "通用版"
+        "version": "内置版"
       },
-      {
+	  {
         "name": "🍁竖屏版_EasyBox v1.5.1",
         "url": "http://williamc.tplinkdns.com/apk/apk/竖屏版_EasyBox_1.5.1.apk",
         "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
@@ -140,8 +160,8 @@
         "version": "通用版"
       },
       {
-        "name": "🌈影视仓_5.0.43",
-        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.43.apk",
+        "name": "🌈影视仓_5.0.44",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.44.1.apk",
         "icon": "http://williamc.tplinkdns.com/images/TV-purple.png",
         "version": "内置版"
       }
@@ -157,9 +177,9 @@
         "version": "通用版"
       },
       {
-        "name": "🍁堡盒 v3.2.7",
-        "url": "http://williamc.tplinkdns.com/apk/apk/堡盒TV版_3.2.7.apk",
-        "icon": "http://liucn.cc/box/img/dc02.jpg",
+        "name": "🍁堡盒 v3.2.8",
+        "url": "http://williamc.tplinkdns.com/apk/apk/堡盒竖屏版_3.2.8.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
         "version": "通用版"
       },
       {

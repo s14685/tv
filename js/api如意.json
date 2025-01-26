@@ -1,4 +1,6 @@
-//如意资源 https://www.ryzyw.com/ https://www.rytv.tv/index.php/vod/type/id/13.html https://ryplayer.com?url=
+//如意资源 
+//https://www.ryzyw.com/
+//https://www.rytv.tv/index.php/vod/type/id/13.html https://ryplayer.com?url=
 //如意资源（备用网址): ryzy1.tv 至 ryzy9.tv
 //https://cj.rycjapi.com/api.php/provide/vod/at/json/?ac=detail&wd=永夜星河
 //https://cj.rycjapi.com/api.php/provide/vod/?ac=list
@@ -231,6 +233,19 @@
 
 
 		
+	"4":[
+        {"key":"cateId","name":"类型","value":[
+        {"n":"动漫","v":""},
+        {"n":"国产动漫","v":"29"},
+        {"n":"日本动漫","v":"30"},
+        {"n":"韩国动漫","v":"30"},
+        {"n":"欧美动漫","v":"31"},
+        {"n":"港台动漫","v":"32"},
+        {"n":"新马泰动漫","v":"33"},
+        {"n":"其他动漫","v":"33"}
+        ]
+        }
+        ],
 	"29":[
         {"key":"cateId","name":"类型","value":[
         {"n":"动漫","v":""},
@@ -244,7 +259,6 @@
         ]
         }
         ],
-
 // {"type_id":36,"type_pid":0,"type_name":"体育"},
 // {"type_id":37,"type_pid":36,"type_name":"足球"},
 // {"type_id":38,"type_pid":36,"type_name":"篮球"},

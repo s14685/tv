@@ -1,6 +1,6 @@
 //香蕉影视
 //https://www.nacarestudio.com/index.php/vod/show/id/13.html
-//https://www.39998.tv/index.php/vod/show/id/46.html
+//https://www.39998.tv/index.php/vod/show/id/13.html
 //https://www.jiatom.com/index.php/vod/show/id/13.html
 //https://www.jsfldh.com/index.php/vod/show/id/13.html
 //线路1>>索尼#线路2>>卧龙#备用线路>>黑木耳#
@@ -11,7 +11,7 @@
     "作者":"MrWorkshop",
     "站名":"香蕉影视", //模板:'首图2',
     "主页url":"https://www.39998.tv",
-	"请求头":"cookie$;#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36#Referer$;",
+	"请求头":"cookie$;#User-Agent$Mozilla/5.0 (Linux; Android 11; Pixel C Build/RQ1A.210205.004) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.90 Safari/537.36 GNews/2021022310#Referer$;",
     //"强制解析":"0",
     //"图片代理":"0",
 	
@@ -58,9 +58,8 @@
 
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
 
+	         //https://www.39998.tv/index.php/vod/show/id/13.html
     "分类url":"https://www.39998.tv/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
-	        //https://www.39998.tv/index.php/vod/show/id/46.html
-            //https://www.39998.tv/index.php/vod/show/id/13/page/2/year/2024.html
     "分类":"国产剧$46#韩剧$15#国产动漫$37#电影$1#电视剧$2#动漫$4#综艺$3#午夜剧场$5#",
 
     "筛选":{

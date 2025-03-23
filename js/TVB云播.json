@@ -1,9 +1,9 @@
-//TVB云播-http://www.tvyb03.com 线路延迟：23ms//TVB云播-http://www.tvyb04.com 线路延迟：25ms//TVB云播-http://www.hktv07.com 线路延迟：23ms//全新域名-http://www.tvyun02.com 线路延迟：21ms//备用域名-http://www.hktv07.com 线路延迟：27ms//备用域名-http://www.tvyb07.com 线路延迟：29ms//http://www.tvyun05.com///http://www.tvyun02.com/vod/search/actor/许凯/page/2.html//http://www.tvyun02.com/vod/show/area/内地/by/hits/class/古装/id/13/lang//国语/year/2024.html//http://www.tvyun02.com/vod/search.html?wd=珠帘玉幕&submit=
+//http://www.tvyun02.com/vod/show/by/time/id/13.html//TVB云播-http://www.tvyb03.com 线路延迟：23ms//TVB云播-http://www.tvyb04.com 线路延迟：25ms//TVB云播//www.1980dyy.com//www.hktv07.com//www.tvyb07.com//www.gangjuyun.com//TVB云播-http://www.hktv07.com 线路延迟：23ms//全新域名-http://www.tvyun02.com 线路延迟：21ms//备用域名-http://www.hktv07.com 线路延迟：27ms//备用域名-http://www.tvyb07.com 线路延迟：29ms//http://www.tvyun05.com///http://www.tvyun02.com/vod/search/actor/许凯/page/2.html//http://www.tvyun02.com/vod/show/area/内地/by/hits/class/古装/id/13/lang//国语/year/2024.html//http://www.tvyun02.com/vod/search.html?wd=珠帘玉幕&submit=
 {  //模板:'mxpro',
   "作者": "荷城茶秀",
   "站名": "TVB云播",
-  "主页url": "http://www.tvyun02.com",
-	"请求头":"cookie$;#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36#Referer$;",  "强制解析":"0",  "图片代理":"0",    //分类页面   "二次截取":"<ul class=\"myui-vodlist clearfix\">&&</ul>",//+<li class=\"col-lg-8 col-md-6 col-sm-4 col-xs-3\">  "数组": "myui-vodlist__thumb&&<!-- 列表-->",  "标题": "title=\"&&\"",  "副标题": "pic-tag pic-tag-top\">&&</span>[替换:更新至第>> #更新至>> #更至第>> #]+🌸+主演：&&</p>", //  "图片": "data-original=\"&&\"",  "链接": "href=\"&&\"",  
+  "主页url": "http://www.gangjuyun.com",
+	"请求头":"cookie$;#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36#Referer$;",  "强制解析":"0",  "图片代理":"0",    //分类页面   "二次截取":"<ul class=\"myui-vodlist clearfix\">&&</ul>",//+<li class=\"col-lg-8 col-md-6 col-sm-4 col-xs-3\">  "数组": "myui-vodlist__thumb&&<!-- 列表-->",  "标题": "title=\"&&\"",  //"标题": "cfimg.cnyuncdn.com/upload/vod/&&\"",  "副标题": "pic-tag pic-tag-top\">&&</span>[替换:更新至第>> #更新至>> #更至第>> #]+🌸+主演：&&</p>", //  //"图片": "data-original=\"&&\"",  "图片": "https:\/\/+src=&&\"", //data-original="https://gimg3.baidu.com/gimg/app=2028&amp;src=cfimg.cnyuncdn.com/upload/vod/20250306-16/25036d0331f43aadd1d6a5a74aea9ff8.jpg"  "链接": "href=\"&&\"",  
   "影片类型":"分类：</span>&&</a>",  "影片年代":"年份：</span>&&</a>",  "影片地区":"地区：</span>&&</a>",  "影片状态":"更新：</span>&&\/",  
   "导演": "导演：</span>&&</a>+⚡️评分：+<span class=\"branch\">&&</span>",
   "主演": "主演：</span>&&</p>",
@@ -16,12 +16,12 @@
   "搜索图片": "data-original=\"&&\"",
   "搜索链接": "href=\"&&\"",    //播放列表
   //"线路数组":"</a><h3&&/h3>",
-  "线路数组": "</a><h3&&/h3>[不包含:夸克][替换:如意线路>>如意#量子线路>>量子#非凡线路>>非凡#暴风线路>>暴风#极速专线>>MyTV#国内极速>>SEVEN#奇艺视频>>奇艺#腾讯视频>>腾讯#优酷视频>>优酷#芒果tv>>芒果#B站视频>>B站#亚州专线>>亚州#电信专线>>电信#移动专线>>移动#]",
+  "线路数组": "</a><h3&&/h3>[不包含:夸克][替换:备用线路>>MP484#如意线路>>如意#量子线路>>量子#非凡线路>>非凡#暴风线路>>暴风#极速专线>>MyTV#国内极速>>SEVEN#奇艺视频>>奇艺#腾讯视频>>腾讯#优酷视频>>优酷#芒果tv>>芒果#B站视频>>B站#亚州专线>>亚州#电信专线>>电信#移动专线>>移动#]",
   "线路标题": "🌸+title\">&&<[排序:如意>黑木耳>非凡>快看>量子>华为吧>索尼>快云>天空>优质>豪华>乐视>飞速>爱坤>闪电>卧龙>快车>无尽>红牛>极速>高清>暴风>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",  //"线路二次截取":"data-dropdown-value=\"&&\"",   
   "播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>",
   "播放标题": ">&&<",
-  "播放列表": "<a&&/a>",
-  "分类url": "http://www.tvyun02.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+  "播放列表": "<a&&/a>",  
+  "分类url": "http://www.gangjuyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
   "分类": "国产剧$13#日韩剧$15#动漫$4#电视剧$2#电影$1#综艺$3",  
 "筛选": {
 "1": [

@@ -8,24 +8,26 @@
     "作者":"荷城茶秀",
     "站名":"游子视频", 
     "主页url":"https://www.youzisp.tv",
-	"请求头":"cookie$;#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36#Referer$;",
+	"请求头":"cookie$PHPSESSID=q7kvdkftu76jgq69qh13mgta27;#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36#Referer$;",
     "强制解析":"0",
     "图片代理":"0",
 	
 //分类页面
-    "二次截取":"<ul class=\"hl-vod-list clearfix\">&&</ul>",
-    "数组":"<li class=\"hl-list-item hl-col-xs-4*>&&</li>",
+    //"二次截取":"<ul class=\"hl-vod-list clearfix\">&&</ul>",
+    //"数组":"<li class=\"hl-list-item hl-col-xs-4*>&&</li>",
+    "二次截取":"评分排序</a></div>&&<div id=\"page",
+    "数组":"<a&&</a>",
     "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
     "标题":"title=\"&&\"",
-    "副标题":"🌸+<span class=\"hl-lc-1 remarks\">&&</span>[替换:更新至第>> #更新第>> #更新至>> #]+🌸+<div class=\"hl-item-sub hl-text-muted hl-lc-1*>&&</div>",
+    "副标题":"🌸+<div class=\"module-item-note*>&&</div>[替换:更新至>> #更第>> #第>> #]+🌸+豆瓣:&&</div>",
  	
-    "简介":"🌸+状态：&&</span>[替换:更新至第>> #更新第>> #更新至>> #]+🌸+简介：&&</li>",
-    "导演":"️🌸+状态：</em><span class=\"hl-text-conch\">&&</span>[替换:更新至第>> #更新第>> #更新至>> #]",
-    "主演":"⚡️+时长：</em>&&</li>",
-    "影片类型":"类型：&&</li>[替换:剧情>>电视剧#<span class=\"slash\">/</span>>>#]",
-    "影片年代":"年份：&&</li>",
-    "影片地区":"地区：&&</li>",
+    "简介":"🌸+集数：</span>&&</div>[替换:更新至>> #更第>> #第>> #]+🌸+<div class=\"module-info-introduction-content*><p>&&</p>",
+    "导演":"️导演：</span><div class=\"module-info-item-content\">&&</div>[替换:<span class=\"slash\">/</span>>> #]",//+⚡️+集数：</span><div class=\"module-info-item-content\">&&</div>[替换:更新至>> #更新第>> #第>> #]
+    "主演":"主演：</span><div class=\"module-info-item-content\">&&</div>[替换:<span class=\"slash\">/</span>>><br>#]",
+    "影片类型":"<div class=\"module-info-tag*>&&</div></div>[替换:剧情>>电视剧#<span class=\"slash\">/</span>>> #]",
+    "影片年代":"<div class=\"module-info-tag*>&&</div>",
+    "影片地区":"----------.html\">&&</a>",
     //"影片状态":"集数：</span>&&</div>",
 	
 //搜索页面
@@ -33,17 +35,20 @@
    //"搜索手动验证": "1",
    "搜索url": "/vodsearch/-------------.html?wd={wd}&submit=",     //https://www.youzisp.tv/vodsearch/-------------.html?wd=蜀锦人家&submit=
    //"搜索数组二次截取":"<li class=\"hl-list-item hl-col-xs-12*>&&<li>",
-   "搜索数组": "<li class=\"hl-list-item hl-col-xs-12*>&&<li>[替换:更新至第>> #更新第>> #更新至>> #]",
+   //"搜索数组": "<li class=\"hl-list-item hl-col-xs-12*>&&<li>[替换:更新至>> #更新第>> #更新至>> #]",
+   "搜索数组": "<a&&</a>",
    "搜索图片": "data-original=\"&&\"",
    "搜索链接": "href=\"&&\"",
    "搜索标题": "title=\"&&\"",
-   "搜索副标题": "<span class=\"hl-lc-1 remarks\">&&</span>[替换:更新至第>>#更新第>>#更新至>>#]+🌸+<p class=\"hl-item-sub hl-text-muted hl-lc-1 hl-hidden-xs*>&&</p>",
+   "搜索副标题": "🌸+<div class=\"module-item-note*>&&</div>[替换:更新至>> #更第>> #第>> #]",
 
 
 //播放列表
     //"线路二次截取": "", M3蓝光>>蓝光m3#自切蓝光>>蓝光wx#蓝光备用>>蓝光bun#不卡有广>>360#无广略卡>>Heimuer#FF有广>>非凡️#KK有广>>快看#BF有广>>暴风#LZ有广>>量子️#YZ有广>>优质#LS有广>>乐视#秒播蓝光>>蓝光nk#自建蓝光>>蓝光wx#
-    "线路数组":"<a class=\"hl-tabs-btn hl-slide-swiper*>&&</a>[不包含:夸克][替换:</span><small>>>️⚡️#资源二>>红牛#资源四>>如意#资源一>>优质#资源三>>索尼#]",
-    "线路标题":"🌸+&&[排序:如意>黑木耳>非凡>快看>量子>华为吧>索尼>快云>天空>优质>豪华>乐视>飞速>爱坤>闪电>卧龙>快车>无尽>红牛>极速>高清>暴风>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
+    //"线路数组":"<a class=\"hl-tabs-btn hl-slide-swiper*>&&</a>[不包含:夸克][替换:</span><small>>>️⚡️#资源二>>红牛#资源四>>如意#资源一>>优质#资源三>>索尼#]",
+    //"线路标题":"🌸+&&[排序:如意>黑木耳>非凡>快看>量子>华为吧>索尼>快云>天空>优质>豪华>乐视>飞速>爱坤>闪电>卧龙>快车>无尽>红牛>极速>高清>暴风>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
+    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>️⚡️#资源五>>华为吧#资源二>>红牛#资源四>>如意#资源一>>优质#资源三>>索尼#]",
+    "线路标题":"🌸+<span>&&</small>[排序:如意>黑木耳>非凡>快看>量子>华为吧>索尼>快云>天空>优质>豪华>乐视>飞速>爱坤>闪电>卧龙>快车>无尽>红牛>极速>高清>暴风>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
 	
 	//"播放二次截取": "",
     //"播放数组":"<div class=\"module-play-list-content&&</div>",

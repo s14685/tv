@@ -1,5 +1,6 @@
 //如意影视
-//http://r5y.top/vodshow/13-----------2025/
+//http://r5y.top/vod/show/id/2/
+//http://r5y.top/vodshow/13-----------2024/
 //http://rh5y.top/vodsearch/-------------/?wd=大奉打更人
 //线路①>>暴风#线路③>>华为吧#线路④>>OK#线路⑧>>如意#
 //国产剧 13 港台剧 14 日韩剧 15 欧美剧 16
@@ -52,7 +53,8 @@
 
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
             //http://r5y.top/vodshow/13-----------2025/
-    "分类url":"https://r5y.top/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
+			//http://r5y.top/vod/show/id/2/
+    "分类url":"https://r5y.top/vod/show/id/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
 	"分类":"国产剧$13#韩剧$15#电视剧$2#电影$1#动漫$4#综艺$3#",	
 
     //"分类url":"https://r5y.top/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",

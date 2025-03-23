@@ -1,5 +1,6 @@
 //黑木耳 https://heimuer.tv/
 
+//https://json.heimuer.tv/	=> https://json.heimuer.xyz/
 //https://json.heimuer.xyz/api.php/provide/vod/?ac=list
 //https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&wd=与凤行
 //240929
@@ -68,7 +69,7 @@
     "播放标题":"&&",
 	"播放链接":"&&",
     
-    "分类":"国产动漫$60#国产剧$13#韩剧$15#电影$6#电视剧$13#综艺$38#动漫$60#短剧$45#",
+    "分类":"国产剧$13#国产动漫$60#韩剧$15#电影$6#电视剧$13#综艺$38#动漫$60#短剧$45#",
     "分类url":"https://json.heimuer.xyz/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20",
     
 	"筛选":{

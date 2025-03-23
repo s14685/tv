@@ -1,4 +1,4 @@
-!!量子资源站 OK资源采集网 优质资源库 海外 影院 影视 剧迷 追剧 资源库
+!!量子资源站 如意资源采集网 天涯资源库 如意 海外 影院 影视 剧迷 追剧 资源库
 ~[替换:FF线路>>非凡#LZ线路>>量子#GQ线路>>高清#SO线路>>速播#FM线路>>非凡#iK线路>>爱坤#LS线路>>乐视#FS线路>>飞速#SN线路>>索尼#BF线路>>暴风#KK线路>>快看#WL线路>>卧龙#UK线路>>优酷#SD线路>>闪电#WJ线路>>无尽#TK线路>>天空#BD线路>>百度#HN线路>>红牛#TP线路>>淘片]
 ~[排序:量子>非凡>快云>天空>优质>海外>高清>乐速>爱坤>乐视>闪电>索尼>无尽>红牛>极速>极速>高清>暴风>超清>蓝光>备用>速播>腾讯>奇艺>优酷>芒果]",
 ~[排序:量子>非凡>快云>天空>优质>高清>爱坤>海外>乐速>闪电>暴风>索尼]
@@ -75,8 +75,12 @@ U酷uk>ukzy.ukubf4.com 							https://ukzy.ukubf4.com/20240927/iUiy9dv0/index.m3
 yy												https://yayazy10.com/index.php/vod/play/id/85383/sid/1/nid/1.html
 mytv											https://pl2.qcheng.cc/Cache/mytv/7dbe266060b45794f455e270fe167581.m3u8?token=d3b64486f454862437377776e497a42755c6560325365524e6a44486675454d645673444f273643665078794
 ppvod											https://ppvod02.q19jcg.com/splitOut/20250109/591630/V2025010914211967825591630/index.m3u8?auth_key=1736788571-39d04efd7e8240c4a16a1d392c7781ab-0-5849673d2e7500316cd9a456697b5a99
-如意 >cdn.ryplay11.com							https://cdn.ryplay11.com/20241228/104971_96db027a/index.m3u8
-
+如意 ry>cdn.ryplay11.com							https://cdn.ryplay11.com/20241228/104971_96db027a/index.m3u8
+豆瓣>vodcnd02.ktprods.com						https://vodcnd02.ktprods.com/20241211/CMvk1jg2/index.m3u8
+魔爪>mzm3u8.vip									https://mzm3u8.vip/20250209/v3GGX6tV/index.m3u8
+B>												https://onvideo-safety.ssscdn.com/ksc2/
+CK>												https://shandong2.bulkcdn.top/videos/202502/07/67a59b5aadab947f4569796b/b7g790/index.m3u8
+天涯>
 
 //爱奇艺-VIP解析>>奇艺#IK影视>>爱坤#火花云>>豪华#少年HD>>索尼#华卫HD>>华为吧#虎牙HD>>虎牙#速播资源>>速播#极速HD>>极速#暴风SD>>暴风#快传云>>快车#菲菲云>>非凡#高清资源库>>优质#蔚蓝云>>卧龙#红牛云>>红牛#光速云>>光速#樱花云>>#迅浪云>>新浪#极映云>>极映#量子云>>量子#无极云播>>无尽#闪电云>>闪电#天空云>>天空#U咖云>>优酷#萌动次元>>魔都#TP云>>淘片#BJ资源>>八戒#
 
@@ -99,13 +103,79 @@ ppvod											https://ppvod02.q19jcg.com/splitOut/20250109/591630/V20250109142
     {"n":"中国","v":"中国"},
     {"n":"大陆","v":"大陆"},
     {"n":"内地","v":"内地"},
-~[排序:如意>黑木耳>非凡>闪电>天空>无尽>暴风>快看>量子>华为吧>索尼>魔都>快云>优质>豪华>乐视>飞速>爱坤>卧龙>快车>红牛>极速>高清>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
+~[排序:如意>天涯>黑木耳>魔爪>非凡>闪电>天空>无尽>暴风>快看>量子>华为吧>索尼>魔都>快云>优质>豪华>乐视>飞速>爱坤>卧龙>快车>红牛>极速>高清>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
 ~https://soupian.pro/search?key=庆余年
 ~https://xn--p3tv7h.com/ https://影搜.com
 <meta property="og:type" content="article">
 <div class="topic"></div><br>
-</br><div class="title">$1</div><hr>
+<hr><div class="title">$1</div><hr>
 
+//奈菲影视
+
+//http://172.247.189.146:8001/
+//麦田影院
+//https://www.mtyy1.com/vodshow/1-中国大陆----------.html
+
+
+//耐看点播 PHPSESSID=52hg60v3hbjhaj59iqrdf7r6eo;
+//https://www.nkdvd.com/vodshow/id/34.html
+//自建.CK>>CK#自建.B>>B#RY>>如意#TY>>天涯#YZ>>优质#FF>>非凡#HME>>黑木耳#360>>360#BF>>暴风#LZ>>量子#
+
+
+//https://nkvlog.com/show/13-----------.html
+//https://emog.com.cn/search.php?searchtype=5&tid=13
+//https://youtai-af.cn/vodshow/13-----------.html
+
+
+//https://www.jagcys.com/vodshow/guochanju.html
+//https://www.jagcys.com/vodsearch.html?wd=柳舟记
+//蓝光极速>>如意#蓝光高清>>黑木耳#剧迷主线>>索尼#剧迷备用线路①>>爱坤#剧迷备用线路②>>快看#
+
+//星空影院
+//https://www.yikaocq.com/vodshow/guochanju.html
+//https://www.yikaocq.com/vodsearch.html?wd=一念关山
+//https://www.yikaocq.com/vodsearch/actor/刘诗诗.html
+//蓝光极速>>如意#蓝光高清>>黑木耳#备用线路②>>快看#线路②>>快看#备用线路①>>爱坤#线路①>>爱坤#主要线路>>索尼#主线>>索尼#
+
+//https://u.duboku.io/vodshow/13-----------.html
+
+//魔爪 https://mzzy.me/
+//https://mozhuazy.com/api.php/provide/vod/?ac=list
+
+//https://gayapi.com/api.php/provide/vod/at/json
+
+
+// 豆瓣资源
+// 官网地址：dbzy.com、dbzy.tv、doubanzy.net 、doubanzy.cc 、doubanziyuan.com 、doubanziyuan.net
+// P2P商业加速解析：https://www.dbjiexi.com:966/jx/?url=
+// 加速解析（备用）：https://dbjiexi.com:966/jx/?url=
+// 豆瓣资源josn接口：https://caiji.dbzy.tv/api.php/provide/vod/at/josn/
+// 豆瓣资源m3u8 josn接口:  https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/
+// 豆瓣资源m3u8 xml接口:  https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/xml/
+// 豆瓣资源m3u8 xml备用接口：https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/xml/
+
+/*
+// https://www.pokemon-zone.com/cards/
+// ?pack_keys=
+// dialga$AN003_0010_00_000#palkia$AN003_0020_00_000#charizard$AN001_0020_00_000#mewtwo$AN001_0010_00_000#pikachu$AN001_0030_00_000#mew$AN002_0010_00_000#
+// &types=Water,Colorless,Grass,Fire,Lightning,Psychic,Fighting,Darkness,Fairy,Dragon,Metal
+// &series=PROMO-A,A1,A2,A1a
+// &rarities=C,U,R,RR,AR,SR,IM,UR
+// &evolution_stage=Basic,One,Two
+// &sort=pokedex_number|name|hp
+// &sort_dir=desc|asc
+
+*/
+// https://www.pokemon-zone.com/sets/a2/packs/dialga-pack/
+// https://www.pokemon-zone.com/sets/a2/packs/palkia-pack/
+// https://www.pokemon-zone.com/sets/a1a/packs/mew-pack/
+// https://www.pokemon-zone.com/sets/a1/packs/charizard-pack/
+// https://www.pokemon-zone.com/sets/a1/packs/mewtwo-pack/
+// https://www.pokemon-zone.com/sets/a1/packs/pikachu-pack/
+// https://www.pokemon-zone.com/sets/promo-a/packs/promo-pack-a-series-vol-1/
+// https://www.pokemon-zone.com/sets/promo-a/packs/promo-pack-a-series-vol-2/
+// https://www.pokemon-zone.com/sets/promo-a/packs/promo-pack-a-series-vol-3/
+// https://www.pokemon-zone.com/sets/promo-a/packs/promo-pack-a-series-vol-4/
 
 
 
@@ -118,11 +188,11 @@ ppvod											https://ppvod02.q19jcg.com/splitOut/20250109/591630/V20250109142
 
 //星辰影院
 //https://www.xingchenys.com/vod/list/1/40/60
-//A线>>#B线>>#C线>>#D线>>#
+//A线>>黑木耳#B线>>#C线>>#D线>>#
 
 //星空影院
 //https://www.jgz518.com/xkshow/13-----------.html
-//
+// A线>>#B线>>索尼#C线>>闪电#
 
 //VIP影院
 //https://vipfree.cc/tv.html
@@ -137,7 +207,9 @@ ppvod											https://ppvod02.q19jcg.com/splitOut/20250109/591630/V20250109142
 //
 
 //GoFilm
-//https://m.mubai.link/filmClassifySearch?Category=13&Pid=2&Sort=update_stamp&current=1
+//https://m.mubai.link/filmClassifySearch?Category=13
+&Pid=2
+&Sort=update_stamp&current=1
 //HD(LZ)>>#HD(OK)>>#HD(FF)>>#HD(BF)>>#HD(HM)>>#
 
 //哈哩哈哩

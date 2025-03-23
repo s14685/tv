@@ -1,62 +1,62 @@
-//小宝影院
-//https://xiaoxintv.com/index.php/vod/show/id/41/year/2024.html
-//[替换:线路1>>黑木耳#线路2>>卧龙#线路3>>华为吧#]
-//https://xiaoxintv.com/index.php/vod/search/actor/许凯/page/1.html
-
+//八度影院
+//https://www.jssxsw.com/vodshow/guochanju-----------/
+//https://www.jssxsw.com/vodsearch/-------------/?wd=大奉打更人
+//https://www.jssxsw.com/vodsearch/-徐若晗---------1---/
+//蓝光高清>>黑木耳#主线>>索尼#备用线路②>>OK#备用线路①>>牛牛#
 
 {
     "作者":"荷城茶秀",
-    "站名":"小宝演员", 
-    "主页url":"https://xiaoxintv.com",
-    "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "站名":"八度演员", 
+    "主页url":"https://www.jssxsw.com",
+	"请求头":"cookie$;#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36#Referer$;",
     "强制解析":"0",
     "图片代理":"0",
 	
 //分类页面
-    "二次截取":"<ul class=\"myui-vodlist__media clearfix\" id=\"searchList\">&&</ul>", 
-    "数组":"<li class=\"clearfix\">&&</li>",//[替换:更新至>> #更新>> #更至>> #&nbsp;>> #<span class=\"slash\">/</span>>> #]",
-    "标题":"title=\"&&\"",
+    "二次截取":"<div class=\"module-items*>&&<div class=\"fixedGroup",
+    "数组":"<div class=\"module-card-item module-item&&详情",
+    "标题":"alt=\"&&\"",
+    "副标题":"module-item-note\">&&</div>[替换:更新至第>> #更新至>> #每集>> #]+🌸+<div class=\"module-info-item-content*>&&</div>",
     "图片":"data-original=\"&&\"",
     "链接":"href=\"&&\"",
-    "副标题":"<span class=\"pic-text text-right\">&&</span>[替换:更新至>> #更至>> #]+🌸+主演：</span>&&</p>[替换:</a>&nbsp;>><br>#]",
-//<span class="pic-text text-right">更新至【22】</span>
-	
-    "简介":"🌸+更新：</span>&&\/[替换:更新至第>> #更新至>> #更至>> #]+🌸+<span class=\"sketch content\">&&</span>",
-    "导演":"导演：</span>&&</p>[替换:&nbsp;>> #]+⚡️+更新：</span>&&\/[替换:更新至第>> #更新至>> #更至>> #]",
-    "主演":"主演：</span>&&</p>[替换:&nbsp;>> #]",
-	"影片类型":"分类：</span>&&</a>[替换:剧情>>电视剧#&nbsp;>><br>#]", 
-    //"影片状态":"状态：</span>&&</div>", 
-	"影片年代":"年份：</span>&&</a>",
-    "影片地区":"地区：</span>&&</a>", 
-
+ 	
+    "简介":"🌸+集数：</span>&&</div>[替换:更新至第>> #更新第>> #更新至>> #]+🌸+<div class=\"module-info-introduction-content\">&&</div>",
+    "导演":"导演：</span>&&</a>+⚡️+集数：</span>&&</div>[替换:更新至第>> #更新第>> #更新至>> #]",
+    "主演":"主演：</span>&&</div>[替换:&nbsp;>>#<span class=\"slash\">/</span>>><br>#]",
+    "影片类型":"<div class=\"module-info-tag-link\">&&</div></div>[替换:剧情>>电视剧#<span class=\"slash\">/</span>>>#]",
+    "影片年代":"-----------20*>&&</a>",
+    "影片地区":"----------\/\">&&</a>",
+    //"影片状态":"集数：</span>&&</div>",
 	
 //搜索页面
-   //"搜索url": "/vodsearch/-------------.html?wd={wd}", //https://xiaoxintv.com/vodsearch/-------------.html?wd=庆余年
-   //"搜索数组二次截取":"<div class=\"row-right\">&&<div class=\"top-back hoa\">",
-   //"搜索数组": "<a&&</a>",
-   //"搜索标题": "alt=\"&&\"",
-   //"搜索副标题": "🌸+<span class=\"public-list-prb hide ft2\">&&</span>[替换:更新至>> #更新>> #更至>> #]",
-   //"搜索图片": "data-src=\"&&\"",
-   //"搜索链接": "href=\"&&\"",
+   //0：不启用，1：启用
+   //"搜索手动验证": "1",
+   "搜索url": "/vodsearch/-------------/?wd={wd}",     //https://www.jssxsw.com/vodsearch/-------------/?wd=大奉打更人
+   "搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
+   "搜索数组": "<div class=\"module-card-item module-item\">&&<span>详情</span>[替换:更新至第>> #更新第>> #更新至>> #]",
+   "搜索图片": "data-original=\"&&\"",
+   "搜索链接": "href=\"&&\"",
+   "搜索标题": "alt=\"&&\"",
+   "搜索副标题": "module-item-note\">&&</div>[替换:更新至第>>#更新第>>#更新至>>#]+🌸+</div></div><div class=\"module-info-item\"><div class=\"module-info-item-content\">&&</div>",
 
 
-    "线路数组":"data-toggle=\"tab\">&&</a>[不包含:夸克][替换:小宝影院>>黑木耳#线路1>>黑木耳#线路2>>卧龙#线路3>>华为吧#备用线路>>华为吧#备用线路>>华为吧#]",
-    "线路标题":"🌸+&&[排序:黑木耳>非凡>卧龙>华为吧>量子>优质>乐视>专线>索尼>快看>暴风>独家>爱奇艺>蓝光>奇艺>优酷>搜狐>推荐>极速>高清>超清>蓝光>备用>本站>稳定>国内]",
-
-    //"播放二次截取": "",//all playlist
-	//"播放数组":"<div class=\"module-blocklist&&</div>",//one playlist
-    //"播放标题":"<span>&&</span>", //one episod
-    //"播放列表":"<a&&</a>", //one episod
-	//"播放链接":"href=\"&&\"", //one episod
+//播放列表
+    //"线路二次截取": "", 
+    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>️⚡️#蓝光极速>>如意#蓝光高清>>黑木耳#主线>>索尼#备用线路②>>OK#备用线路①>>牛牛#]",
+    "线路标题":"🌸+<span>&&</small>[排序:如意>黑木耳>非凡>快看>量子>华为吧>索尼>快云>天空>优质>豪华>乐视>飞速>爱坤>闪电>卧龙>快车>无尽>红牛>极速>高清>暴风>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
+	
+	//"播放二次截取": "",
+    //"播放数组":"<div class=\"module-play-list-content&&</div>",
+    //"播放标题":"<span>&&</span>",
+    //"播放列表":"<a&&</a>",
 
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
+            //https://www.jssxsw.com/vodshow/guochanju-----------/
+    "分类url":"https://www.jssxsw.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
+	"分类":"国产剧$guochanju#韩剧$hanju#国产动漫$guochandongman#电视剧$dsj#电影$dianying#动漫$dongman#综艺$zongyi#纪录片$jilupian",
 
-    //"分类url":"https://xiaoxintv.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
-            //https://xiaoxintv.com/index.php/vod/show/id/41/year/2024.html
-    //"分类":"国产剧$41#韩剧$45#国产动漫$51#电影$7#电视剧$41#综艺$57#动漫$5#纪录片$21#",
-
-//https://xiaoxintv.com/index.php/vod/search/actor/许凯/page/1.html
-  "分类url":"https://xiaoxintv.com/index.php/vod/search/actor/{cateId}/page/{catePg}.html",
+             //https://www.jssxsw.com/vodsearch/-徐若晗---------1---/
+	"分类url":"https://www.jssxsw.com/vodsearch/-{cateId}---------{catePg}---/",
     "分类":"🌸收藏$赵露思#🌸女星$徐若晗#🌸男星$张若昀#🌸韩星$宋慧乔#⚡️赵丽颖$赵丽颖#杨幂$杨幂#⚡️许凯$许凯#张若昀$张若昀#",
 
   "筛选": {

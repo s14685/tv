@@ -1,14 +1,18 @@
-//剧圈圈在线 https://www.jqqzx.cc/ https://www.jqqzx.me
+
+//剧圈圈在线 
+//https://www.jqqzx.me/vodshow/id/guochanju.html
+//https://www.jqqzx.one https://www.jqqzx.me
 //https://www.jqqzx.one OK
 //https://www.jqqzx.top
-//https://www.jqqzx.cc/vodshow/by/hits/id/guochanju/year/2024.html
-//https://www.jqqzx.cc/vodsearch.html?wd=庆余年
-//https://www.jqqzx.cc/vodsearch/actor/%E5%BC%A0%E8%8B%A5%E6%98%80.html
+
+//https://www.jqqzx.one/vodsearch.html?wd=庆余年
+//https://www.jqqzx.one/vodsearch/actor/%E5%BC%A0%E8%8B%A5%E6%98%80.html
 /**
 https://www.jqqzx.me
+https://www.jqqzx.one
+
 https://www.jqqzx.cc
 https://www.jqqzx.top
-https://www.jqqzx.one
 https://www.jqqzx.com
 
 **/
@@ -16,9 +20,9 @@ https://www.jqqzx.com
 {
     "作者":"荷城茶秀",
     "站名":"剧圈圈在线", 
-    "主页url":"https://www.jqqzx.cc",
-    //"请求头":"手机", PHPSESSID=n5k8h219247h61hc2o1h902grj;
-	"请求头":"cookie$PHPSESSID=g60q5qs2qbo166blk955kp3173;#User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36#Referer$https://www.jqqzx.cc/type/guochanju.html",
+    "主页url":"https://www.jqqzx.me",
+    //"请求头":"手机", PHPSESSID=n5k8h219247h61hc2o1h902grj; b-user-id=c08a5c23-7c40-7bb3-d292-fd1b20335ee6; 
+	"请求头":"cookie$PHPSESSID=ogq5j52b0rsr7e3jnq0li7koq7;#User-Agent$Mozilla/5.0 (Linux; Android 11; Pixel C Build/RQ1A.210205.004) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.90 Safari/537.36 GNews/2021022310#Referer$https://www.jqqzx.me",
     "强制解析":"0",
     "图片代理":"0",
 	
@@ -41,7 +45,7 @@ https://www.jqqzx.com
 //搜索页面
    //0：不启用，1：启用
    //"搜索手动验证": "1",
-   //"搜索url": "https://www.jqqzx.cc/vodsearch.html?wd={wd}",     //https://www.jqqzx.cc/vodsearch.html?wd=庆余年
+   //"搜索url": "/vodsearch.html?wd={wd}",     //https://www.jqqzx.me/vodsearch.html?wd=庆余年
    //"搜索数组二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
    //"搜索数组": "<div class=\"module-card-item module-item\">&&<span>详情</span>[替换:更新至第>> #更至第>> #更新至>> #]",
    //"搜索图片": "data-original=\"&&\"",
@@ -53,8 +57,8 @@ https://www.jqqzx.com
 //播放列表
     //极速蓝光>>EC#M3蓝光>>M#蓝光①>>NK#B线路>>BBA#KM蓝光>>KM#RY>>如意#YZ有广>>优质#FF有广>>非凡#无广略卡>>黑木耳#BF有广>>暴风#LZ有广>>量子#
     //"线路二次截取": "", M3蓝光>>蓝光m3#自切蓝光>>蓝光wx#蓝光备用>>蓝光bun#不卡有广>>360#无广略卡>>Heimuer#FF有广>>非凡️#KK有广>>快看#BF有广>>暴风#LZ有广>>量子️#YZ有广>>优质#LS有广>>乐视#秒播蓝光>>蓝光nk#自建蓝光>>蓝光wx#
-    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>️⚡️#极速蓝光>>EC#M3蓝光>>M#蓝光①>>NK#B线路>>BBA#KM蓝光>>KM#RY>>如意#自切蓝光>>蓝光wx#蓝光备用>>蓝光bun#不卡有广>>360#无广略卡>>黑木耳#FF有广>>非凡️#KK有广>>快看#BF有广>>暴风#LZ有广>>量子️#YZ有广>>优质#LS有广>>乐视#秒播蓝光>>蓝光nk#自建蓝光>>蓝光wx#]",
-    "线路标题":"🌸+<span>&&</small>[排序:如意>黑木耳>非凡>快看>量子>华为吧>索尼>快云>天空>优质>豪华>乐视>飞速>爱坤>闪电>卧龙>快车>无尽>红牛>极速>高清>暴风>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
+    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克][替换:</span><small>>>️⚡️#TY>>天涯#极速蓝光>>EC#M3蓝光>>M#蓝光①>>NK#B线路>>BBA#KM蓝光>>KM#RY>>如意#自切蓝光>>蓝光wx#蓝光备用>>蓝光bun#不卡有广>>360#无广略卡>>黑木耳#FF有广>>非凡️#KK有广>>快看#BF有广>>暴风#LZ有广>>量子️#YZ有广>>优质#LS有广>>乐视#秒播蓝光>>蓝光nk#自建蓝光>>蓝光wx#]",
+    "线路标题":"🌸+<span>&&</small>[排序:天涯>如意>黑木耳>非凡>快看>量子>华为吧>索尼>快云>天空>优质>豪华>乐视>飞速>爱坤>闪电>卧龙>快车>无尽>红牛>极速>高清>暴风>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>]",
 	
 	//"播放二次截取": "",
     "播放数组":"<div class=\"module-play-list-content&&</div>",
@@ -62,12 +66,10 @@ https://www.jqqzx.com
     "播放列表":"<a&&</a>",
 
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
-//https://www.jqqzx.cc/vodshow/area/中国大陆/by/hits/class/Netflix/id/guochanju/year/2024.html
-    
-	//"分类url":"https://www.jqqzx.cc/type/{cateId}/year/{year}.html",
-	//"分类":"国产剧$guochanju#日韩剧$rihanju#动漫$dongman#电视剧$juji#电影$dianying#综艺$zongyi#纪录片$jilupian",
+//https://www.jqqzx.me/vodshow/area/中国大陆/by/hits/class/Netflix/id/guochanju/year/2024.html
 
-    "分类url":"https://jqqzx.cc/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+            //https://www.jqqzx.me/vodshow/id/guochanju.html
+    "分类url":"https://www.jqqzx.me/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
     "分类":"国产剧$guochanju#日韩剧$rihanju#动漫$dongman#电视剧$juji#电影$dianying#综艺$zongyi#纪录片$jilupian",
 	
     

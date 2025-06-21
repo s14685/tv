@@ -1,52 +1,58 @@
-//如意资源 
-//https://www.ryzyw.com/
-//https://www.rytv.tv/index.php/vod/type/id/13.html https://ryplayer.com?url=
-//如意资源（备用网址): ryzy1.tv 至 ryzy9.tv
-//https://cj.rycjapi.com/api.php/provide/vod/at/json/?ac=detail&wd=永夜星河
-//https://cj.rycjapi.com/api.php/provide/vod/?ac=list
-//https://cj.rycjapi.com/api.php/provide/vod/?ac=detail&wd=永夜星河
-//综合资源：https://cj.rycjapi.com/api.php/provide/vod/at/xml/
-//如意云资源：https://cj.rycjapi.com/api.php/provide/vod/from/ruyi/at/xml/
-//如意m3u8资源： https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/
-//以下是，明星还有资讯采集json接口！
-//文章列表地址：https://cj.rycjapi.com/api.php/provide/art/
-//演员列表地址：https://cj.rycjapi.com/api.php/provide/actor/?wd=林一
+//黑猫影视
+//https://heimaotv.vip/vodshow-50.html
+//https://www.heimaotv.vip/vod/search/actor/许凯/page/1.html
+//    "list": [
+//        {
+//            "vod_actor": "",
+//            "vod_blurb": "黑猫TV（heimaotv.vip）：海外华人的首选影视网站，高清无广 拖点不卡。",
+//            "vod_class": "国产",
+//            "vod_douban_score": "0.0",
+//            "vod_en": "qingshanshiguxiang",
+//            "vod_id": 438153,
+//            "vod_level": 0,
+//            "vod_name": "青山是故乡",
+//            "vod_pic": "https://tu.modututu.com/upload/vod/20250331-1/38869573b5a6810961c06ebef2b0dc2f.jpg",
+//            "vod_pic_thumb": "",
+//            "vod_remarks": "更新至21集",
+//            "vod_score": "6.0",
+//            "vod_serial": "0",
+//            "vod_sub": "",
+//            "vod_tag": "青山是故乡,返乡,该剧,青山,讲述,故乡,之路"
+//        },
 
 
-
-{
-    "主页url":"https://cj.rycjapi.com",
-    "站名":"🌸如意资源",
+ {
+    "主页url":"https://heimaotv.vip",
+    "站名":"🌸黑猫影视",
     "首页":"电视剧",
-    "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+	"请求头":"cookie$PHPSESSID=jedm8bnm49oimnh0kecb76ghag;#User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1#Referer$https://heimaotv.vip",
     //first time filter extraction
 	"二次截取":"\"list\"*[&&]",
 	//second time filter extraction
-    "数组":"{&&\"vod_content\"",
+    "数组":"{&&\"vod_tag\"",
     "图片":"vod_pic\"*\"&&\"",
     "标题":"vod_name\"*\"&&\"",
-    //"标题":"vod_name\"*\"&&\"+🌸+vod_id\":&&,",
-    "链接":"https://cj.rycjapi.com/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,", //API
-	     //https://cj.rycjapi.com/api.php/provide/vod/at/json/?ac=detail&ids=51855
+         //https://heimaotv.vip/voddetail-438153.html
+    "链接":"https://heimaotv.vip/voddetail-+\"vod_id\":&&,", 
+    //"副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
     "副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
-    //"副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_actor\":\"&&\"", 
-    //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor
+
     
 	"搜索模式":"1",
-    "搜索url":"https://cj.rycjapi.com/api.php/provide/vod/?ac=detail&wd={wd}", //https://cj.rycjapi.com/api.php/provide/vod/?ac=detail&wd=庆余年
+    "搜索url":"https://heimaotv.vip/api.php/provide/vod/?ac=detail&wd={wd}", //https://heimaotv.vip/api.php/provide/vod/?ac=detail&wd=庆余年
     "搜索数组二次截取":"\"list\"*[&&]",
     "搜索数组":"{&&}",
     "搜索图片":"vod_pic\"*\"&&\"",
     "搜索标题":"vod_name\"*\"&&\"",
-    "搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
-    "搜索链接":"https://cj.rycjapi.com/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,", //API
+    "搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+⚡️+\"vod_duration\":\"&&\"[替换:分钟>> #]+🌸+\"vod_actor\":\"&&\"", 
+    "搜索链接":"https://heimaotv.vip/api.php/provide/vod/?ac=detail&ids=+\"vod_id\":&&,", //API
     
 //API
     "影片状态":"vod_class\"*\"&&\"[替换:剧情>>电视剧#]",
     "影片类型":"type_name\"*\"&&\"[替换:剧情>>电视剧#]",
     "影片年代":"vod_year\"*\"&&\"",
     "影片地区":"vod_area\"*\"&&\"",
-    "导演":"vod_director\"*\"&&\"+⚡️+vod_remarks\"*\"&&\"[替换:更新至第>> #更新至>> #更至>> #]",
+    "导演":"vod_director\"*\"&&\"+⚡️+vod_remarks\"*\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+⚡️+\"vod_duration\":\"&&\"",//[替换:分钟>> #]
     "主演":"vod_actor\"*\"&&\"",
     "简介":"🌸+vod_remarks\"*\"&&\"[替换:更新至第>> #更新至>> #]+🌸+vod_content\"*\"&&\"",
     //"简介": "vod_play_from\"*\"&&\"+$+$+$+#",
@@ -63,8 +69,8 @@
     "播放标题":"&&",
 	"播放链接":"&&",
     
-    "分类":"国产剧$13#国产动漫$29#韩剧$15#电影$6#电视剧$13#综艺$25#动漫$29#伦理片$34#短剧$46#体育$37#",
-    "分类url":"https://cj.rycjapi.com/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20",
+    "分类":"国产剧$50#国产动漫$29#韩剧$15#电影$6#电视剧$13#综艺$25#动漫$29#伦理片$34#短剧$46#体育$37#",
+    "分类url":"https://heimaotv.vip/index.php/api/vod/?type={cateId}&pg={catePg}&limit=20&key=9d8be8145dbd8cd66b4e410449bb38fe",
     
 	"筛选":{
     "00":[{"key":"cateId","name":"类型","value":[

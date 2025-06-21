@@ -7,43 +7,113 @@
   { "name": "🌈推薦",
     "list": [
 
-
       {
-        "name": "🌈影视仓_6.0.6",
-        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_6.0.6.apk",
-        "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
-        "version": "通用版"
-      },
-      {
-        "name": "🌈影视仓_5.0.42",
+        "name": "🌈影视仓_5.0.42(OK)",
         "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.42.apk",
         "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
         "version": "通用版"
       },
+	  
+	  
       {
-        "name": "🍁堡盒 v3.3.1.2",
-        "url": "http://williamc.tplinkdns.com/apk/apk/堡盒电视版-V3.3.1.2-32位.apk",
-        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "name": "🌈影视仓电视 v6.1.3",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓电视版-6.1.3-exo161.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
         "version": "通用版"
       },
+		  
       {
+        "name": "🎯影视仓手机v3.1.9",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓手机版-3.1.9-exo161.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
+        "version": "通用版"
+      },
+	  
+
+      {
+        "name": "🎯影视仓手机v3.1.8",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓手机版3.1.8.1-exo161.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
+        "version": "通用版"
+      },
+	  
+
+
+
+	  {
+        "name": "🎬Taka64_20250508",
+        "url": "http://williamc.tplinkdns.com/apk/apk/Taka64_20250508.apk",
+        "icon": "http://williamc.tplinkdns.com/images/Taka.png",
+        "version": "通用版"
+      },
+	  {
+        "name": "🎬Taka32_20250508",
+        "url": "http://williamc.tplinkdns.com/apk/apk/Taka32_20250508.apk",
+        "icon": "http://williamc.tplinkdns.com/images/Taka.png",
+        "version": "通用版"
+      },
+	  {
         "name": "🎬Taka64_20250320",
         "url": "http://williamc.tplinkdns.com/apk/apk/taka版64位_20250320-1549.apk",
         "icon": "http://williamc.tplinkdns.com/images/Taka.png",
         "version": "通用版"
       },
       {
+        "name": "🎬Taka_20250325海信",
+        "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20250325-0046（海信）-64位.apk",
+        "icon": "http://williamc.tplinkdns.com/images/Taka.png",
+        "version": "通用版"
+      },
+
+      {
         "name": "🎬Taka_20250320",
         "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20250320-1549.apk",
         "icon": "http://williamc.tplinkdns.com/images/Taka.png",
         "version": "通用版"
       },
+
       {
-        "name": "🌈影视仓手机v3.0.7",
-        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓手机版_3.0.7.1.apk",
+        "name": "🍁堡盒电视 v3.3.1.2",
+        "url": "http://williamc.tplinkdns.com/apk/apk/堡盒电视版-V3.3.1.2-32位.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },
+	  
+      {
+        "name": "🍁堡盒手机 v3.3.1.2",
+        "url": "http://williamc.tplinkdns.com/apk/apk/宝盒_3.3.1.2手机.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },
+	  
+      {
+        "name": "🍎宝盒3.96电视版",
+        "url": "http://williamc.tplinkdns.com/apk/apk/宝盒3.96电视版.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },
+	  
+      {
+        "name": "🍎宝盒3.96手机版",
+        "url": "http://williamc.tplinkdns.com/apk/apk/宝盒3.96手机版.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },
+	  
+      {
+        "name": "🌈影视仓手机v3.1.4",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓手机版3.1.4.apk",
         "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
         "version": "通用版"
       },
+      {
+        "name": "🌈OurTV v3.9.5",
+        "url": "http://williamc.tplinkdns.com/apk/apk/OurTV_3.9.5_android_tv.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
+        "version": "通用版"
+      },
+	 
+	  
       {
         "name": "🌍MS Edge v134",
         "url": "http://williamc.tplinkdns.com/apk/apk/microsoft-edge-134.apk",
@@ -59,8 +129,14 @@
 	  
 
       {
+        "name": "🌈电视家TV+ v5.0",
+        "url": "http://williamc.tplinkdns.com/apk/apk/电视家TV5.0.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-red.png",
+        "version": "通用版"
+      },
+      {
         "name": "🌈如意_1.0",
-        "url": "http://williamc.tplinkdns.com/apk/apk/如意tv1.0.apk.apk",
+        "url": "http://williamc.tplinkdns.com/apk/apk/如意tv1.0.apk",
         "icon": "http://williamc.tplinkdns.com/images/TV-red.png",
         "version": "通用版"
       },
@@ -123,6 +199,12 @@
         "version": "通用版"
       },
       {
+        "name": "⚡️MX-Player-Pro-v1.93",
+        "url": "http://williamc.tplinkdns.com/apk/apk/MX-Player-Pro-v1.93.3-32位.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
+        "version": "通用版"
+      },
+      {
         "name": "⚡️cz-filemanager v5.4.3",
         "url": "http://williamc.tplinkdns.com/apk/apk/cz-filemanager_5.4.3.apk",
         "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
@@ -140,8 +222,25 @@
         "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
         "version": "通用版"
       },	  
-	  
-	  
+	  {
+        "name": "⚡️ES文件浏览器-4.4.1",
+        "url": "http://williamc.tplinkdns.com/apk/apk/EES文件浏览器-4.4.1.12（黑鹰）.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
+        "version": "通用版"
+      },	 	  
+	  {
+        "name": "⚡️ES文件浏览器-4.4.2",
+        "url": "http://williamc.tplinkdns.com/apk/apk/ES文件浏览器_4.4.2.22_Vip.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
+        "version": "通用版"
+      },	  
+	   
+	  {
+        "name": "🌈智享K歌 v2.16.58",
+        "url": "http://williamc.tplinkdns.com/apk/apk/智享K歌_2.16.58.2411111420_vip.apk",
+        "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
+        "version": "通用版"
+      },
 	  
 	  {
         "name": "🌈Keep_TV v3.3.0",
@@ -154,6 +253,19 @@
   },
   { "name": "🎬Taka原版",
     "list": [
+
+	  {
+        "name": "🎬Taka64_20250320",
+        "url": "http://williamc.tplinkdns.com/apk/apk/taka版64位_20250320-1549.apk",
+        "icon": "http://williamc.tplinkdns.com/images/Taka.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🎬Taka_20250320",
+        "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20250320-1549.apk",
+        "icon": "http://williamc.tplinkdns.com/images/Taka.png",
+        "version": "通用版"
+      },
       {
         "name": "🎬Taka 20240914",
         "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20240914-1409.apk",
@@ -171,8 +283,20 @@
   { "name": "🌈影视多仓版",
     "list": [
       {
+        "name": "🌈影视仓手机v3.0.8",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓手机版_3.0.8.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
+        "version": "通用版"
+      },
+      {
         "name": "🌈影视仓_6.0.6",
         "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_6.0.6.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🌈影视仓_5.0.30",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓_5.0.30.apk",
         "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
         "version": "通用版"
       },
@@ -207,6 +331,12 @@
         "version": "内置版"
       },
       {
+        "name": "🌍俊于Q版 v250323",
+        "url": "http://williamc.tplinkdns.com/apk/apk/俊于Q版_20250323-0935.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "内置版"
+      },
+      {
         "name": "🌍OK影视 v2.5.0",
         "url": "http://williamc.tplinkdns.com/apk/apk/OK影视电视版_2.5.0.apk",
         "icon": "http://liucn.cc/box/img/img_1.png",
@@ -216,162 +346,13 @@
   },
   
   {
-    "name": "影视TV",
+    "name": "🌈影视仓手机",
     "list": [
       {
-        "name": "🌍電視",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk",
-        "icon": "http://liucn.cc/box/img/img_1.png",
-        "version": "Java32"
-      },
-      {
-        "name": "OK手機",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-armeabi_v7a.apk",
-        "icon": "http://liucn.cc/box/img/img_1.png",
-        "version": "Java32"
-      },
-      {
-        "name": "Fongmi電視",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-python-arm64_v8a.apk",
-        "icon": "http://liucn.cc/box/img/img_1.png",
-        "version": "Py64"
-      },
-      {
-        "name": "Fongmi手機",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-python-arm64_v8a.apk",
-        "icon": "http://liucn.cc/box/img/img_1.png",
-        "version": "Py64"
-      },
-      {
-        "name": "Fongmi電視",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/leanback-java-armeabi_v7a.apk",
-        "icon": "http://liucn.cc/box/img/img_1.png",
-        "version": "Java32"
-      },
-      {
-        "name": "Fongmi手機",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-java-armeabi_v7a.apk",
-        "icon": "http://liucn.cc/box/img/img_1.png",
-        "version": "Java32"
-      }
-    ]
-  },
-
-
-  {
-    "name": "正式版",
-    "list": [
-      {
-        "name": "電視-java",
-        "url": "https://fm.caioa.link/main/apk/release/leanback-java-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "v7a"
-      },
-      {
-        "name": "電視-java",
-        "url": "https://fm.caioa.link/main/apk/release/leanback-java-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "v8a"
-      },
-      {
-        "name": "電視-py",
-        "url": "https://fm.caioa.link/main/apk/release/leanback-python-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "v7a"
-      },
-      {
-        "name": "電視-py",
-        "url": "https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "v8a"
-      },
-      {
-        "name": "手機-java",
-        "url": "https://fm.caioa.link/main/apk/release/mobile-java-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-        "version": "v7a"
-      },
-      {
-        "name": "手機-java",
-        "url": "https://fm.caioa.link/main/apk/release/mobile-java-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-        "version": "v8a"
-      },
-      {
-        "name": "手機-py",
-        "url": "https://fm.caioa.link/main/apk/release/mobile-python-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-        "version": "v7a"
-      },
-      {
-        "name": "手機-py",
-        "url": "https://fm.caioa.link/main/apk/release/mobile-python-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-        "version": "v8a"
-      }
-    ]
-  },
-  {
-    "name": "內測版",
-    "list": [
-      {
-        "name": "電視-java",
-        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "v7a"
-      },
-      {
-        "name": "電視-java",
-        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "v8a"
-      },
-      {
-        "name": "電視-py",
-        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "v7a"
-      },
-      {
-        "name": "電視-py",
-        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "v8a"
-      },
-      {
-        "name": "手機-java",
-        "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-        "version": "v7a"
-      },
-      {
-        "name": "手機-java",
-        "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-        "version": "v8a"
-      },
-      {
-        "name": "手機-py",
-        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-        "version": "v7a"
-      },
-      {
-        "name": "手機-py",
-        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
-        "version": "v8a"
-      }
-    ]
-  },
-  {
-    "name": "4.x版",
-    "list": [
-      {
-        "name": "電視",
-        "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
-        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
-        "version": "v7a"
+        "name": "🌈影视仓手机v3.0.8",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓手机版_3.0.8.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
+        "version": "通用版"
       }
     ]
   }

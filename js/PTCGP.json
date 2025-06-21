@@ -69,7 +69,7 @@
 //    "分类url":"https://www.pokemon-zone.com/cards/?sort_dir=desc&pack_keys={cateId}&types={class}&rarities={area}&evolution_stage={lang}&sort={by}&series={year}",//&sort_dir={catePg}
 //    "分类":"Dialga$AN003_0010_00_000#Palkia$AN003_0020_00_000#Mewtwo$AN001_0010_00_000#Charizard$AN001_0020_00_000#Pikachu$AN001_0030_00_000#Mew$AN002_0010_00_000#ALL$AN003_0010_00_000,AN003_0020_00_000,AN001_0010_00_000,AN001_0020_00_000,AN001_0030_00_000,AN002_0010_00_000#",
     "分类url":"https://www.pokemon-zone.com/cards/?sort_dir=desc&series={cateId}&types={class}&rarities={area}&evolution_stage={lang}&sort={by}&pack_keys={year}",//&sort_dir={catePg}
-    "分类":"Shining Revelry$A2b#Triumphant$A2a#Space-Time$A2#Mythical$A1a#Genetic Apex$A1#PROMO-A$PROMO-A#",
+    "分类":"Eevee Grove$A3b#Extradimensional Crisis$A3a#Celestial Guardians$A3#Shining Revelry$A2b#Triumphant$A2a#Space-Time$A2#Mythical$A1a#Genetic Apex$A1#PROMO-A$PROMO-A#",
 
 
 // https://www.pokemon-zone.com/cards/
@@ -85,6 +85,250 @@
     
   "筛选":{
 
+//Eevee Grove (A3b)
+  "A3b":[
+// &series=PROMO-A,A1,A2,A1a,A2a,A2b,A3,A3a,A3b
+    {"key":"cateId","name":"剧情","value":[ 
+    {"n":"Series","v":"##"},
+    {"n":"PROMO-A","v":"PROMO-A"},
+	{"n":"Genetic Apex","v":"A1"},
+    {"n":"Space-Time","v":"A2"},
+    {"n":"Mythical","v":"A1a"},
+    {"n":"Triumphant","v":"A2a"},
+    {"n":"Shining Revelry","v":"A2b"},
+    {"n":"Celestial Guardians","v":"A3"},
+    {"n":"Extradimensional Crisis","v":"A3a"},
+    {"n":"Eevee Grove","v":"A3b"},
+    {"n":"其它","v":""}
+    ]
+    },
+
+    {"key":"year","name":"年份","value":[
+    {"n":"Packs","v":""},
+    {"n":"Celestial","v":"AN006_0010_00_000"},
+    //{"n":"dialga","v":"AN003_0010_00_000"},
+    //{"n":"palkia","v":"AN003_0020_00_000"},
+    //{"n":"charizard","v":"AN001_0020_00_000"},
+    //{"n":"mewtwo","v":"AN001_0010_00_000"},
+    //{"n":"pikachu","v":"AN001_0030_00_000"},
+    //{"n":"mew","v":"AN002_0010_00_000"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &types=Water,Colorless,Grass,Fire,Lightning,Psychic,Fighting,Darkness,Fairy,Dragon,Metal
+    {"key":"class","name":"类型","value":[
+    {"n":"Type","v":""},
+    {"n":"Water","v":"Water"},
+    {"n":"Fire","v":"Fire"},
+    {"n":"Grass","v":"Grass"},
+    {"n":"Lightning","v":"Lightning"},
+    {"n":"Psychic","v":"Psychic"},
+    {"n":"Fighting","v":"Fighting"},
+    {"n":"Darkness","v":"Darkness"},
+    {"n":"Fairy","v":"Fairy"},
+    {"n":"Dragon","v":"Dragon"},
+    {"n":"Colorless","v":"Colorless"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &rarities=C,U,R,RR,AR,SR,IM,UR
+    {"key":"area","name":"地区","value":[
+    {"n":"Rarity","v":""},
+    {"n":"♦️","v":"C"},
+    {"n":"♦️♦️","v":"U"},
+    {"n":"♦️♦️♦️","v":"R"},
+    {"n":"♦️♦️♦️♦️","v":"RR"},
+    {"n":"⭐","v":"AR"},
+    {"n":"⭐⭐","v":"SR"},
+    {"n":"⭐⭐⭐","v":"IM"},
+    {"n":"👑","v":"UR"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &evolution_stage=Basic,One,Two
+	{"key": "lang","name": "语言","value": [
+	{ "n": "Stage", "v": "" },
+	{ "n": "Basic", "v": "One" },
+	{ "n": "One", "v": "英语" },
+	{ "n": "Two", "v": "Two" },
+	{ "n": "其它", "v": "" }
+	]
+	},
+
+// &sort=pokedex_number|name|hp
+    {
+    "key":"by","name":"排序","value":[
+    {"n":"Sort","v":""},
+    {"n":"pokedex_number","v":"pokedex_number"},
+    {"n":"name","v":"name"},
+    {"n":"hp","v":"hp"}
+    ]
+    }
+    ],
+	
+//Extradimensional Crisis (A3a)
+  "A3a":[
+// &series=PROMO-A,A1,A2,A1a,A2a,A2b,A3,A3a,A3b
+    {"key":"cateId","name":"剧情","value":[ 
+    {"n":"Series","v":"##"},
+    {"n":"PROMO-A","v":"PROMO-A"},
+	{"n":"Genetic Apex","v":"A1"},
+    {"n":"Space-Time","v":"A2"},
+    {"n":"Mythical","v":"A1a"},
+    {"n":"Triumphant","v":"A2a"},
+    {"n":"Shining Revelry","v":"A2b"},
+    {"n":"Celestial Guardians","v":"A3"},
+    {"n":"Extradimensional Crisis","v":"A3a"},
+	{"n":"Eevee Grove","v":"A3b"},
+    {"n":"其它","v":""}
+    ]
+    },
+
+    {"key":"year","name":"年份","value":[
+    {"n":"Packs","v":""},
+    {"n":"Celestial","v":"AN006_0010_00_000"},
+    //{"n":"dialga","v":"AN003_0010_00_000"},
+    //{"n":"palkia","v":"AN003_0020_00_000"},
+    //{"n":"charizard","v":"AN001_0020_00_000"},
+    //{"n":"mewtwo","v":"AN001_0010_00_000"},
+    //{"n":"pikachu","v":"AN001_0030_00_000"},
+    //{"n":"mew","v":"AN002_0010_00_000"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &types=Water,Colorless,Grass,Fire,Lightning,Psychic,Fighting,Darkness,Fairy,Dragon,Metal
+    {"key":"class","name":"类型","value":[
+    {"n":"Type","v":""},
+    {"n":"Water","v":"Water"},
+    {"n":"Fire","v":"Fire"},
+    {"n":"Grass","v":"Grass"},
+    {"n":"Lightning","v":"Lightning"},
+    {"n":"Psychic","v":"Psychic"},
+    {"n":"Fighting","v":"Fighting"},
+    {"n":"Darkness","v":"Darkness"},
+    {"n":"Fairy","v":"Fairy"},
+    {"n":"Dragon","v":"Dragon"},
+    {"n":"Colorless","v":"Colorless"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &rarities=C,U,R,RR,AR,SR,IM,UR
+    {"key":"area","name":"地区","value":[
+    {"n":"Rarity","v":""},
+    {"n":"♦️","v":"C"},
+    {"n":"♦️♦️","v":"U"},
+    {"n":"♦️♦️♦️","v":"R"},
+    {"n":"♦️♦️♦️♦️","v":"RR"},
+    {"n":"⭐","v":"AR"},
+    {"n":"⭐⭐","v":"SR"},
+    {"n":"⭐⭐⭐","v":"IM"},
+    {"n":"👑","v":"UR"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &evolution_stage=Basic,One,Two
+	{"key": "lang","name": "语言","value": [
+	{ "n": "Stage", "v": "" },
+	{ "n": "Basic", "v": "One" },
+	{ "n": "One", "v": "英语" },
+	{ "n": "Two", "v": "Two" },
+	{ "n": "其它", "v": "" }
+	]
+	},
+
+// &sort=pokedex_number|name|hp
+    {
+    "key":"by","name":"排序","value":[
+    {"n":"Sort","v":""},
+    {"n":"pokedex_number","v":"pokedex_number"},
+    {"n":"name","v":"name"},
+    {"n":"hp","v":"hp"}
+    ]
+    }
+    ],
+	
+//Celestial Guardians (A3)
+  "A3":[
+// &series=PROMO-A,A1,A2,A1a
+    {"key":"cateId","name":"剧情","value":[ 
+    {"n":"Series","v":"##"},
+    {"n":"PROMO-A","v":"PROMO-A"},
+	{"n":"Genetic Apex","v":"A1"},
+    {"n":"Space-Time","v":"A2"},
+    {"n":"Mythical","v":"A1a"},
+    {"n":"Triumphant","v":"A2a"},
+    {"n":"Shining Revelry","v":"A2b"},
+    {"n":"Celestial Guardians","v":"A3"},
+	{"n":"Extradimensional Crisis","v":"A3a"},
+	{"n":"Eevee Grove","v":"A3b"},
+	
+    {"n":"其它","v":""}
+    ]
+    },
+
+    {"key":"year","name":"年份","value":[
+    {"n":"Packs","v":""},
+    {"n":"Celestial","v":"AN006_0010_00_000"},
+    //{"n":"dialga","v":"AN003_0010_00_000"},
+    //{"n":"palkia","v":"AN003_0020_00_000"},
+    //{"n":"charizard","v":"AN001_0020_00_000"},
+    //{"n":"mewtwo","v":"AN001_0010_00_000"},
+    //{"n":"pikachu","v":"AN001_0030_00_000"},
+    //{"n":"mew","v":"AN002_0010_00_000"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &types=Water,Colorless,Grass,Fire,Lightning,Psychic,Fighting,Darkness,Fairy,Dragon,Metal
+    {"key":"class","name":"类型","value":[
+    {"n":"Type","v":""},
+    {"n":"Water","v":"Water"},
+    {"n":"Fire","v":"Fire"},
+    {"n":"Grass","v":"Grass"},
+    {"n":"Lightning","v":"Lightning"},
+    {"n":"Psychic","v":"Psychic"},
+    {"n":"Fighting","v":"Fighting"},
+    {"n":"Darkness","v":"Darkness"},
+    {"n":"Fairy","v":"Fairy"},
+    {"n":"Dragon","v":"Dragon"},
+    {"n":"Colorless","v":"Colorless"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &rarities=C,U,R,RR,AR,SR,IM,UR
+    {"key":"area","name":"地区","value":[
+    {"n":"Rarity","v":""},
+    {"n":"♦️","v":"C"},
+    {"n":"♦️♦️","v":"U"},
+    {"n":"♦️♦️♦️","v":"R"},
+    {"n":"♦️♦️♦️♦️","v":"RR"},
+    {"n":"⭐","v":"AR"},
+    {"n":"⭐⭐","v":"SR"},
+    {"n":"⭐⭐⭐","v":"IM"},
+    {"n":"👑","v":"UR"},
+    {"n":"其他","v":""}
+    ]
+    },
+// &evolution_stage=Basic,One,Two
+	{"key": "lang","name": "语言","value": [
+	{ "n": "Stage", "v": "" },
+	{ "n": "Basic", "v": "One" },
+	{ "n": "One", "v": "英语" },
+	{ "n": "Two", "v": "Two" },
+	{ "n": "其它", "v": "" }
+	]
+	},
+
+// &sort=pokedex_number|name|hp
+    {
+    "key":"by","name":"排序","value":[
+    {"n":"Sort","v":""},
+    {"n":"pokedex_number","v":"pokedex_number"},
+    {"n":"name","v":"name"},
+    {"n":"hp","v":"hp"}
+    ]
+    }
+    ],
+
   "A2b":[
 // &series=PROMO-A,A1,A2,A1a
     {"key":"cateId","name":"剧情","value":[ 
@@ -95,6 +339,10 @@
     {"n":"Mythical","v":"A1a"},
     {"n":"Triumphant","v":"A2a"},
     {"n":"Shining Revelry","v":"A2b"},
+	{"n":"Celestial Guardians","v":"A3"},
+	{"n":"Extradimensional Crisis","v":"A3a"},
+	{"n":"Eevee Grove","v":"A3b"},
+	
     {"n":"其它","v":""}
     ]
     },
@@ -171,6 +419,10 @@
     {"n":"Mythical","v":"A1a"},
     {"n":"Triumphant","v":"A2a"},
 	{"n":"Shining Revelry","v":"A2b"},
+	{"n":"Celestial Guardians","v":"A3"},
+	{"n":"Extradimensional Crisis","v":"A3a"},
+	{"n":"Eevee Grove","v":"A3b"},
+	
     {"n":"其它","v":""}
     ]
     },
@@ -245,6 +497,11 @@
     {"n":"Space-Time","v":"A2"},
     {"n":"Mythical","v":"A1a"},
     {"n":"Triumphant","v":"A2a"},
+	{"n":"Shining Revelry","v":"A2b"},
+	{"n":"Celestial Guardians","v":"A3"},
+	{"n":"Extradimensional Crisis","v":"A3a"},
+	{"n":"Eevee Grove","v":"A3b"},
+	
     {"n":"其它","v":""}
     ]
     },
@@ -319,6 +576,11 @@
     {"n":"Space-Time","v":"A2"},
     {"n":"Mythical","v":"A1a"},
     {"n":"Triumphant","v":"A2a"},
+	{"n":"Shining Revelry","v":"A2b"},
+	{"n":"Celestial Guardians","v":"A3"},
+	{"n":"Extradimensional Crisis","v":"A3a"},
+	{"n":"Eevee Grove","v":"A3b"},
+	
     {"n":"其它","v":""}
     ]
     },
@@ -393,6 +655,11 @@
     {"n":"Space-Time","v":"A2"},
     {"n":"Mythical","v":"A1a"},
     {"n":"Triumphant","v":"A2a"},
+	{"n":"Shining Revelry","v":"A2b"},
+	{"n":"Celestial Guardians","v":"A3"},
+	{"n":"Extradimensional Crisis","v":"A3a"},
+	{"n":"Eevee Grove","v":"A3b"},
+	
     {"n":"其它","v":""}
     ]
     },
@@ -467,6 +734,11 @@
     {"n":"Space-Time","v":"A2"},
     {"n":"Mythical","v":"A1a"},
     {"n":"Triumphant","v":"A2a"},
+	{"n":"Shining Revelry","v":"A2b"},
+	{"n":"Celestial Guardians","v":"A3"},
+	{"n":"Extradimensional Crisis","v":"A3a"},
+	{"n":"Eevee Grove","v":"A3b"},
+	
     {"n":"其它","v":""}
     ]
     },
@@ -545,6 +817,11 @@
     {"n":"Space-Time","v":"A2"},
     {"n":"Mythical","v":"A1a"},
     {"n":"Triumphant","v":"A2a"},
+	{"n":"Shining Revelry","v":"A2b"},
+	{"n":"Celestial Guardians","v":"A3"},
+	{"n":"Extradimensional Crisis","v":"A3a"},
+	{"n":"Eevee Grove","v":"A3b"},
+	
     {"n":"其它","v":""}
     ]
     },
@@ -621,6 +898,11 @@
     {"n":"Space-Time","v":"A2"},
     {"n":"Mythical","v":"A1a"},
     {"n":"Triumphant","v":"A2a"},
+	{"n":"Shining Revelry","v":"A2b"},
+	{"n":"Celestial Guardians","v":"A3"},
+	{"n":"Extradimensional Crisis","v":"A3a"},
+	{"n":"Eevee Grove","v":"A3b"},
+	
     {"n":"其它","v":""}
     ]
     },

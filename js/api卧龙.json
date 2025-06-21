@@ -3,6 +3,8 @@
 //https://wolongzy.cc/index.php/vod/detail/id/71528.html
 //https://wolongzy.cc/api.php/provide/vod/?ac=detail&t=12&wd=少年巴比伦
 
+
+//https://collect.wolongzy.cc/api.php/provide/vod/
 //https://collect.wolongzy.cc/api.php/provide/vod/?ac=list
 //https://collect.wolongzy.cc/api.php/provide/vod/?ac=detail&wd=庆余年
 //https://collect.wolongzy.cc/api.php/provide/vod/?ac=detail&t=12&pg=1
@@ -56,7 +58,7 @@
     "播放标题":"&&",
 	"播放链接":"&&",
     
-    "分类":"国产剧$12#韩国剧$14#国产动漫$25#电影$5#电视剧$12#综艺$32#动漫$25#伦理片$49#记录片$22#",
+    "分类":"电影解说$38#国产剧$12#韩国剧$14#国产动漫$25#电影$5#电视剧$12#综艺$32#动漫$25#伦理片$49#记录片$22#",
     "分类url":"https://wolongzy.cc/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20",
     
 	"筛选":{
@@ -188,6 +190,22 @@
         ]
         }
         ],
+		
+	"38":[
+        {"key":"cateId","name":"类型","value":[
+        {"n":"剧集","v":"12"},
+		{"n":"电影解说","v":"38"},
+        {"n":"国产剧","v":"12"},
+        {"n":"韩国剧","v":"14"},
+        {"n":"港台剧","v":"13"},
+        {"n":"欧美剧","v":"15"},
+        {"n":"台湾剧","v":"16"},
+        {"n":"日本剧","v":"17"},
+        {"n":"海外剧","v":"18"},
+        {"n":"泰国剧","v":"33"}
+        ]
+        }
+        ],		
 // "type_id": 3,      "type_name": "综艺片"    },    {
 // "type_id": 30,      "type_name": "港台综艺"    },    {
 // "type_id": 31,      "type_name": "韩国综艺"    },    {

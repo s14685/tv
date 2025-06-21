@@ -1,4 +1,5 @@
 //可可影视
+// https://www.kkys01.com https://www.kkys02.com https://www.kkys03.com
 //https://www.keke1.app/show/2--中国大陆--2024-3-1.html
 //https://www.keke13.app/show/2--中国大陆--2024-3-1.html
 //https://www.keke14.app/show/2--中国大陆--2024-3-1.html
@@ -6,18 +7,21 @@
 {
     "作者":"荷城茶秀",
     "站名":"可可影视", 
-    "主页url":"https://www.keke1.app",
-    //"请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "主页url":"https://www.kkys01.com",
+	"请求头":"cookie$;#User-Agent$Mozilla/5.0 (Linux; Android 11; Pixel C Build/RQ1A.201205.008) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Safari/537.36#Referer$;",
 	//"请求头":"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
 	"强制解析":"0",
     "图片代理":"0",
 //分类页面
     "二次截取":"<div class=\"module-box-inner\">&&<!-- <div class=\"section-footer fs-margin-top\">a</div> -->",
-    "数组":"<div class=\"module-item\">&&<div class=\"v-item-footer\">",
-    "标题":"title=\"&&\"",
-    //"副标题":"data-original=\"&&\"",
+    "数组":"<div class=\"module-item\">&&<style>",
+    "标题":"可可影视-kekys.com</div>&&</div>",
+    //"标题":"data-original=\"/vod1/vod&&\"",
     "副标题":"v-item-bottom\">&&</span>+🌸+<span>豆瓣:&&分</span>",
-    "图片":"https://61.147.93.252:15002+data-original=\"&&\"", //"src=\"&&\"",
+     //https://vres1.ipvav.cn/vod1/vod/cover/20250318/19/16/26/a892433af9ba4eb8fae4dd1b522c52d1.jpg
+	 //https://vres1.ipvav.cn/vod1/vod/upload/20241228/19/51/55/1dfea9f85e6f3b9aea46ebe353af97a2.webp
+	 //data-original="/vod1/vod/upload/20241228/19/51/55/1dfea9f85e6f3b9aea46ebe353af97a2.webp"  
+    "图片":"https:\/\/vres1.ipvav.cn\/vod1\/vod+data-original=\"/vod1/vod&&\"",
     "链接":"href=\"&&\"",
 
 //播放页面
@@ -29,7 +33,7 @@
 
 
 //搜索页面
-   "搜索url": "https://www.keke1.app/search?os=pc&k={wd}",     //https://www.keke1.app/search?os=pc&k=斗破
+   "搜索url": "https://www.kkys01.com/search?os=pc&k={wd}",     //https://www.kkys01.com/search?os=pc&k=斗破
    "搜索数组": "module-card-item-class\">&&</a>",
    "搜索标题": "alt=\"&&\"",
    "搜索副标题": "note\">&&</div>",
@@ -38,15 +42,17 @@
 
 //播放列表 //$ # & * [ ]
     //"线路数组":"<div class=\"source-box\">&&</div></div>[不包含:夸克][排序:快云>量子>非凡>索尼>独家>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>极速>高清>超清>蓝光]",
-    "线路数组":"class=\"source-item\">&&</a>[不包含:夸克][替换:FF线路>>非凡#LZ线路>>量子#HN线路>>红牛#XL线路>>新浪#超清-备用>>备用]",
-    "线路标题":"🌸+source-item-label\">&&</span>+⚡️+source-item-num\">&&</i>[排序:超清>非凡>量子>快云>索尼>独家>红牛>新浪>备用>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>极速>高清>蓝光]",
+    "线路数组":"class=\"source-item\">&&</a>[不包含:夸克][替换:FF线路>>非凡#LZ线路>>量子#HN线路>>红牛#XL线路>>新浪#超清-备用>>备用#蓝光3>>丫丫#蓝光9>>极速#蓝光1>>暴风#蓝光7>>豪华#]",
+    "线路标题":"🌸+source-item-label\">&&</span>+⚡️+source-item-num\">&&</i>[排序:丫丫>非凡>量子>快云>索尼>独家>红牛>新浪>备用>专线>乐视>爱奇艺>蓝光>奇艺>优酷>搜狐>极速>高清>超清>蓝光]",
     //"播放数组":"<div class=\"episode-box-main\">&&</div>",
     //"播放标题":"<a&&</a>",
     //"播放列表":"href=\"&&\"",
 
     //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
-    "分类url":"https://www.keke1.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
-    //https://www.keke1.app/show/2--中国大陆--2024-3-1.html
+	
+	         //https://www.kkys01.com/show/2--中国大陆--2025-3-1.html
+    "分类url":"https://www.kkys01.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+
 
     "分类":"电视剧$2#动漫$3#电影$1#综艺$4#短剧$6",
     

@@ -1,13 +1,7 @@
 //量子资源网.json https://lziplayer.com/?url=
 //演示网站: http://www.lzizy9.com/index.php/vod/type/id/13.html
-//http://www.lzizy9.com/index.php/vod/show/by/hits/id/13/year/2024.html
-//https://www.cj.lziapi.com/index.php/vod/type/id/13.html
-//https://lzizy.net/
-//https://cj.lziapi.com
-//https://Lzizy.com
-//https://Lzizy1.com
-//https://Lzizy8.com
 //量子资源（备用网址): Lzizy1.com 至 Lzizy8.com M3U8视频解析：https://lziplayer.com/?url=
+//https://Lzizy1.com 至 https://zizy8.com M3U8视频解析：https://lziplayer.com/?url=
 //https://cj.lziapi.com/index.php/ajax/data?mid=1&wd=春色寄情人
 //https://cj.lziapi.com/index.php/ajax/data?mid=1&tid=2&page=1&limit=20
 //https://lzizy9.com/index.php/ajax/data?mid=1&tid=2&page=1&limit=20
@@ -26,7 +20,7 @@
     "主页url":"https://cj.lziapi.com",
     "站名":"量子资源",
     "首页":"电视剧",
-    "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+    "请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0",
     //first time filter extraction
 	"二次截取":"\"list\"*[&&]",
 	//second time filter extraction
@@ -68,11 +62,11 @@
     "播放标题":"&&",
 	"播放链接":"&&",
  
-    "分类":"国产剧$13#韩国剧$15#国产动漫$29#电影$6#电视剧$13#综艺$25#动漫$29#伦理片$34#短剧$46#",
+    "分类":"电影解说$35#国产剧$13#电影解说$35#韩国剧$15#国产动漫$29#电影$6#电视剧$13#综艺$25#动漫$29#伦理片$34#短剧$46#",
     "分类url":"https://cj.lziapi.com/api.php/provide/vod/at/json/?ac=detail&t={cateId}&pg={catePg}&limit=20",
 
 
-    "筛选":{
+  "筛选":{
   "34":[
     {"key":"cateId","name":"类型","value":[
     {"n":"电影","v":"1"},
@@ -88,6 +82,7 @@
     },
     {"key":"cateId","name":"类型","value":[
     {"n":"剧集","v":"2"},
+    {"n":"电影解说","v":"35"},
     {"n":"国产剧","v":"13"},
     {"n":"港台剧","v":"14"},
     {"n":"韩国剧","v":"15"},
@@ -132,6 +127,7 @@
   "6":[
     {"key":"cateId","name":"类型","value":[
     {"n":"电影","v":"6"},
+    {"n":"电影解说","v":"35"},
     {"n":"动作片","v":"6"},
     {"n":"喜剧片","v":"7"},
     {"n":"爱情片","v":"8"},
@@ -157,6 +153,7 @@
   "2":[
     {"key":"cateId","name":"类型","value":[
     {"n":"剧集","v":"13"},
+    {"n":"电影解说","v":"35"},
     {"n":"国产剧","v":"13"},
     {"n":"韩国剧","v":"15"},
     {"n":"港台剧","v":"14"},
@@ -169,10 +166,28 @@
     ]
     }
     ],
-  
+
+  "35":[
+    {"key":"cateId","name":"类型","value":[
+    {"n":"剧集","v":"13"},
+    {"n":"电影解说","v":"35"},
+    {"n":"国产剧","v":"13"},
+    {"n":"韩国剧","v":"15"},
+    {"n":"港台剧","v":"14"},
+    {"n":"欧美剧","v":"16"},
+    {"n":"台湾剧","v":"21"},
+    {"n":"日本剧","v":"22"},
+    {"n":"海外剧","v":"23"},
+    {"n":"记录片","v":"20"},
+    {"n":"泰国剧","v":"24"}
+    ]
+    }
+    ],
+	
   "13":[
     {"key":"cateId","name":"类型","value":[
     {"n":"剧集","v":"13"},
+    {"n":"电影解说","v":"35"},
     {"n":"国产剧","v":"13"},
     {"n":"韩国剧","v":"15"},
     {"n":"港台剧","v":"14"},

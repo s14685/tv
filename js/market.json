@@ -17,11 +17,24 @@
 	  
       {
         "name": "🌈影视仓电视 v6.1.3",
-        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓电视版-6.1.3-exo161.apk",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓6.1.3-exo161电视.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
+        "version": "通用版"
+      },
+		 	  
+      {
+        "name": "🌈影视仓电视 v6.1.2",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓-v6.1.2电视.apk",
         "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
         "version": "通用版"
       },
 		  
+      {
+        "name": "🎯影视仓手机v3.2.0",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓3.2.0-exo161手机.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
+        "version": "通用版"
+      },		  
       {
         "name": "🎯影视仓手机v3.1.9",
         "url": "http://williamc.tplinkdns.com/apk/apk/影视仓手机版-3.1.9-exo161.apk",
@@ -31,8 +44,8 @@
 	  
 
       {
-        "name": "🎯影视仓手机v3.1.8",
-        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓手机版3.1.8.1-exo161.apk",
+        "name": "🎯星辰仓 v6.1.3",
+        "url": "http://williamc.tplinkdns.com/apk/apk/xc仓_6.1.3-exo-161.apk",
         "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
         "version": "通用版"
       },
@@ -74,7 +87,7 @@
 
       {
         "name": "🍁堡盒电视 v3.3.1.2",
-        "url": "http://williamc.tplinkdns.com/apk/apk/堡盒电视版-V3.3.1.2-32位.apk",
+        "url": "http://williamc.tplinkdns.com/apk/apk/宝盒_3.3.1.2电视.apk",
         "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
         "version": "通用版"
       },
@@ -85,27 +98,11 @@
         "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
         "version": "通用版"
       },
+	  	  
+
 	  
-      {
-        "name": "🍎宝盒3.96电视版",
-        "url": "http://williamc.tplinkdns.com/apk/apk/宝盒3.96电视版.apk",
-        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
-        "version": "通用版"
-      },
 	  
-      {
-        "name": "🍎宝盒3.96手机版",
-        "url": "http://williamc.tplinkdns.com/apk/apk/宝盒3.96手机版.apk",
-        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
-        "version": "通用版"
-      },
-	  
-      {
-        "name": "🌈影视仓手机v3.1.4",
-        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓手机版3.1.4.apk",
-        "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
-        "version": "通用版"
-      },
+
       {
         "name": "🌈OurTV v3.9.5",
         "url": "http://williamc.tplinkdns.com/apk/apk/OurTV_3.9.5_android_tv.apk",

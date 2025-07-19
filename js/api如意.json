@@ -5,12 +5,15 @@
 //https://cj.rycjapi.com/api.php/provide/vod/at/json/?ac=detail&wd=永夜星河
 //https://cj.rycjapi.com/api.php/provide/vod/?ac=list
 //https://cj.rycjapi.com/api.php/provide/vod/?ac=detail&wd=永夜星河
+//https://cj.rytvapi.com/api.php/provide/vod/?ac=detail&wd=永夜星河
+//https://bycj.rytvapi.com/api.php/provide/vod/?ac=detail&wd=永夜星河
+
+//注：主采集域名如果不能使用，请使用备用采集域名： 备用1：cj.rytvapi.com 备用2：bycj.rytvapi.com
+//例如： https://cj.rytvapi.com/api.php/provide/vod/at/xml/
 //综合资源：https://cj.rycjapi.com/api.php/provide/vod/at/xml/
 //如意云资源：https://cj.rycjapi.com/api.php/provide/vod/from/ruyi/at/xml/
 //如意m3u8资源： https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/
-//以下是，明星还有资讯采集json接口！
-//文章列表地址：https://cj.rycjapi.com/api.php/provide/art/
-//演员列表地址：https://cj.rycjapi.com/api.php/provide/actor/?wd=林一
+//json接口地址：https://cj.rycjapi.com/api.php/provide/vod/?ac=list
 
 
 

@@ -14,16 +14,21 @@
         "version": "通用版"
       },
 	  
-	  
       {
-        "name": "🌈影视仓电视 v6.1.3",
-        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓6.1.3-exo161电视.apk",
+        "name": "🌈影视仓电视v6.1.4(141)",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓-6.4.1-exo141.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
+        "version": "通用版"
+      },	  
+      {
+        "name": "🌈影视仓电视v6.1.4(161)",
+        "url": "http://williamc.tplinkdns.com/apk/apk/影视仓-6.1.4.1-exo161.apk",
         "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
         "version": "通用版"
       },
 		 	  
       {
-        "name": "🌈影视仓电视 v6.1.2",
+        "name": "🌈影视仓电视v6.1.2",
         "url": "http://williamc.tplinkdns.com/apk/apk/影视仓-v6.1.2电视.apk",
         "icon": "http://williamc.tplinkdns.com/images/TVBox-orange.png",
         "version": "通用版"
@@ -44,13 +49,41 @@
 	  
 
       {
-        "name": "🎯星辰仓 v6.1.3",
-        "url": "http://williamc.tplinkdns.com/apk/apk/xc仓_6.1.3-exo-161.apk",
+        "name": "🎯多多影音v6.1.4_内置版",
+        "url": "http://williamc.tplinkdns.com/apk/apk/多多影音_6.1.4_内置版.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
+        "version": "通用版"
+      },
+	  
+      {
+        "name": "🎯幸福影视仓v6.1.4_内置版",
+        "url": "http://williamc.tplinkdns.com/apk/apk/幸福年年影视仓_6.1.4_内置版.apk",
         "icon": "http://williamc.tplinkdns.com/images/TVBox-blue.png",
         "version": "通用版"
       },
 	  
 
+
+	  {
+        "name": "🎬Taka_20250706",
+        "url": "http://williamc.tplinkdns.com/apk/apk/Taka_20250706-generic.apk",
+        "icon": "http://williamc.tplinkdns.com/images/Taka.png",
+        "version": "通用版"
+      },
+
+	  {
+        "name": "🎬Taka64_20250706",
+        "url": "http://williamc.tplinkdns.com/apk/apk/Taka_20250706-64.apk",
+        "icon": "http://williamc.tplinkdns.com/images/Taka.png",
+        "version": "通用版"
+      },
+
+	  {
+        "name": "🎬Taka32_20250706",
+        "url": "http://williamc.tplinkdns.com/apk/apk/Taka_20250706-32.apk",
+        "icon": "http://williamc.tplinkdns.com/images/Taka.png",
+        "version": "通用版"
+      },
 
 
 	  {
@@ -65,25 +98,7 @@
         "icon": "http://williamc.tplinkdns.com/images/Taka.png",
         "version": "通用版"
       },
-	  {
-        "name": "🎬Taka64_20250320",
-        "url": "http://williamc.tplinkdns.com/apk/apk/taka版64位_20250320-1549.apk",
-        "icon": "http://williamc.tplinkdns.com/images/Taka.png",
-        "version": "通用版"
-      },
-      {
-        "name": "🎬Taka_20250325海信",
-        "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20250325-0046（海信）-64位.apk",
-        "icon": "http://williamc.tplinkdns.com/images/Taka.png",
-        "version": "通用版"
-      },
 
-      {
-        "name": "🎬Taka_20250320",
-        "url": "http://williamc.tplinkdns.com/apk/apk/taka版_20250320-1549.apk",
-        "icon": "http://williamc.tplinkdns.com/images/Taka.png",
-        "version": "通用版"
-      },
 
       {
         "name": "🍁堡盒电视 v3.3.1.2",
@@ -100,6 +115,48 @@
       },
 	  	  
 
+      {
+        "name": "🍅番茄免费小说 6.5.9",
+        "url": "http://williamc.tplinkdns.com/apk/apk/番茄免费小说-6.5.9.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },	
+      {
+        "name": "🌍快点投屏_v1.6.2.1",
+        "url": "http://williamc.tplinkdns.com/apk/apk/快点投屏_v1.6.2.1.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },	  
+	  
+      {
+        "name": "🌍AirScreen-v2.14.1",
+        "url": "http://williamc.tplinkdns.com/apk/apk/AirScreen-v2.14.1-Mod.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },	  
+	  	  
+      {
+        "name": "🌍AirScreen-v2.14",
+        "url": "http://williamc.tplinkdns.com/apk/apk/AirScreen_2.14.1_541_mod_apkdone.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },	  
+	  
+	  
+      {
+        "name": "🌍AirScreenPro-AirPlay-v8.1",
+        "url": "http://williamc.tplinkdns.com/apk/apk/AirScreenPro-AirPlay-8.1.xapk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },	  
+	  	  
+      {
+        "name": "🌍AirPin-PRO-AirPlay-DLNA-v5.6.1",
+        "url": "http://williamc.tplinkdns.com/apk/apk/AirPin-PRO-AirPlay-DLNA-5.6.1.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },	  
+	  
 	  
 	  
 
@@ -123,6 +180,7 @@
         "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
         "version": "通用版"
       },	  
+  
 	  
 
       {
@@ -190,8 +248,8 @@
         "version": "通用版"
       },
       {
-        "name": "⚡️apkpure",
-        "url": "http://williamc.tplinkdns.com/apk/apk/apkpure_3202057_1109.apk",
+        "name": "⚡️apkpure v3.20",
+        "url": "http://williamc.tplinkdns.com/apk/apk/APKPure_v3.20.49.apk",
         "icon": "http://williamc.tplinkdns.com/images/google-play-192.png",
         "version": "通用版"
       },
@@ -248,6 +306,48 @@
 
     ]
   },
+  
+  { "name": "🎬KTV",
+    "list": [
+
+	  {
+        "name": "🎬蓝音ktv",
+        "url": "http://williamc.tplinkdns.com/apk/apk/蓝音ktv.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🎬隆庭ktv二维码",
+        "url": "http://williamc.tplinkdns.com/apk/apk/隆庭ktv二维码.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🎬随畅ktv",
+        "url": "http://williamc.tplinkdns.com/apk/apk/随畅ktv.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🎬隆庭ktv语音",
+        "url": "http://williamc.tplinkdns.com/apk/apk/隆庭ktv语音.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🎬酷爱ktv",
+        "url": "http://williamc.tplinkdns.com/apk/apk/酷爱ktv.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      },
+      {
+        "name": "🎬金音",
+        "url": "http://williamc.tplinkdns.com/apk/apk/金音.apk",
+        "icon": "http://williamc.tplinkdns.com/images/TV-blue.png",
+        "version": "通用版"
+      }
+    ]
+  },
   { "name": "🎬Taka原版",
     "list": [
 
@@ -277,6 +377,7 @@
       }
     ]
   },
+  
   { "name": "🌈影视多仓版",
     "list": [
       {

@@ -4,6 +4,12 @@
 ~[排序:量子>非凡>快云>天空>优质>高清>爱坤>海外>乐速>闪电>暴风>索尼]
 ~[替换:v>>?ep=<序号>.mp4#][不包含:1#2#]\\$ \\# \\& \\* \\[ \\]
 ~[替换:每集>> #更新至>> #更新>> #更至>> #<span class=\"slash\">/</span>>><span></span>#]
+223.5.5.5
+8.8.8.8
+Primary DNS:
+203.185.0.37
+Secondary DNS:
+203.185.0.36
 
 //一二三四五 🌿🍃✨️🌅🎯🌺⚡️🌈🌈🎭🧩 0：系統；1：IJK；2：EXO
 //http://williamc.tplinkdns.com/iptv/fav.json
@@ -81,7 +87,28 @@ ppvod											https://ppvod02.q19jcg.com/splitOut/20250109/591630/V20250109142
 B>												https://onvideo-safety.ssscdn.com/ksc2/
 CK>												https://shandong2.bulkcdn.top/videos/202502/07/67a59b5aadab947f4569796b/b7g790/index.m3u8
 天涯>
-https://vvip.high26-playback.com/20250421/5012_f0873a91/index.m3u8
+NB蓝光>>NBY#
+https://play.nbyjson.top:889/nby/m3u8/getM3u8?name=jx.91by.top&time=1752665127997&url=NBY-5850d5e3f6356cf8d9801014a1527bd2.m3u8
+AT蓝光>>AT#
+https://oss.atqpacsp.sbs/videos/202507/14/6874fbe0368e2fef250fd652/e256af/index.m3u8?counts=2&timestamp=1752665205874&key=7e42da22eb6c7b1478263d1f99a76b00&a=n
+CK蓝光>>CK#
+https://console.lookbook.top/api/yz_siyou/1752665016RIKIHC2pIQ7MbSTWutz8fK8u.m3u8?YzAyZXZtZlNFRm5mNHhxVkZSOUxMUnJBb09lZ2tMMHQ1VjJQZ1BQUlJ4bHpVRGtvdjAyMTVseDIvQ0JhRU83Z1IxcTVUSU5lanN2bktaTFR1a28wMXBSclFLakhqNGtwY0lIaXJQK0EyZkQ1c2xZTEFyRmdmRUYwb2JNOGtrNkZxWkRsQUVUbFFWUGNDTnhhZFRZd3VYa2pZdXplM1FEeHJSZStBcFBrWnBxWXdURDg0dkVoK2E2NTRQeGN5amJ1VDA1V1RrdUdNTVVycEpyUG1UYWp4cTVTdkZ6NURPakFKeUZQcmZWSXVLbitOTlNyQmg2aFplWGJEQWh2S1hGWFRn@gekai@ae622146884f4d3770c6f9a099bd6cb2@gekai@ZjMwNGxSYlB2ZmNha1hMZDR3M3M0UE1hMlFNMm10ejV2cldxNFhRTFVCUm1vRWc5OE1WaA==@gekai@MDQxNDdBTnNmcS9qc2xPNXJxNHVXSzhRUUZEVURqRFc0WExudm91YklETQ==@gekai@N2I1MWVWcHFoalJxa3QvWjJUR2VibjJLdlRtdzRCc2dyNnByeUpCSEU0a21PTlZ2RVpELzJSZWhSRG13VjhHdklYQ2E3aUdqNDBNaGVpQjhnZw==@gekai@
+BB蓝光>>BB#
+https://v3-fq-tts.fqnovelvod.com/a154391d0ab89c0ed2d99f5fe81bc2d7/6877a418/video/tos/cn/tos-cn-v-ec2668/oQ3WYgBfgfhblfirRESbKIvd20kYVC4jZfRrur/?a=BBA@BBA927
+BF备用>>暴风#
+https://p.b8bf.com/video/yingtaohupo/%E7%AC%AC01%E9%9B%86/index.m3u8
+FF备用>>非凡#
+https://vip.ffzy-plays.com/20250714/43118_e3dabf77/index.m3u8
+ME备用>>黑木耳#
+https://m3u8.hmrvideo.com/play/450bd3a1096745c394133d0c2080bd79.m3u8
+YZ备用>>优质#
+https://cdn.yzzy28-play.com/20250714/7992_e02af582/index.m3u8
+RY备用>>如意#
+https://cdn.ryplay11.com/20250714/181555_239df601/index.m3u8
+LZ备用>>量子#
+https://v.lzcdn25.com/20250714/2666_57c500ca/index.m3u8
+~[排序:如意>天涯>黑木耳>魔爪>非凡>闪电>天空>无尽>暴风>快看>量子>华为吧>索尼>魔都>快云>优质>豪华>乐视>飞速>爱坤>卧龙>快车>红牛>极速>高清>金鹰>最大>速播>光速>腾讯>奇艺>优酷>芒果>百度>淘片>新浪>虎牙>海外看>蓝光>OK>360>]",
+
 
 9极速 https://vv.jisuzyv.com/play/mep46gre/index.m3u8
 1暴风 https://p.bvvvvvvv7f.com/video/yanhuishi/%E7%AC%AC02%E9%9B%86/index.m3u8
@@ -114,8 +141,18 @@ https://vvip.high26-playback.com/20250421/5012_f0873a91/index.m3u8
 ~https://soupian.pro/search?key=庆余年
 ~https://xn--p3tv7h.com/ https://影搜.com
 <meta property="og:type" content="article">
-<div class="topic"></div><br>
+<div class="topic">《吞天記》.風青陽</div><br>
 <hr><div class="title">$1</div><hr>
+
+//爱外剧
+//https://www.aiwaiju.cc/vodshow/id/guochanju.html
+//https://www.aiwaiju.cc/vod/72121.html
+//ZL蓝光>>#M3蓝光>>#AT蓝光>>#CK蓝光>>#BB蓝光>>#BF>>#FF>>#HME>>#RY>>#YZ>>#LZ>>#
+
+//悟空影视
+//https://www.wkvod.cc/vodshow/area/中国大陆/id/juji/year/2025.html
+//https://www.wkvod.cc/play/59-1-1.html
+//ZL蓝光>>#M3蓝光>>#AT蓝光>>#CK蓝光>>#BB蓝光>>#NM超清>>#BF>>#FF>>#HME>>#RY>>#YZ>>#
 
 //金马资源 全新升级，无水印、国内CDN，秒拖秒播，高峰不卡
 //主域名: jmzy.com   备用域名: jmzy1-5.com
